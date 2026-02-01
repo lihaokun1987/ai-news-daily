@@ -1,43 +1,5 @@
 [
   {
-    "title": "OpenClaw 的人工智能助手正在构建自己的社交网络",
-    "url": "https://techcrunch.com/2026/01/30/openclaws-ai-assistants-are-now-building-their-own-social-network/",
-    "content": "这款曾名为 Clawdbot 的病毒式个人 AI 助手再次换壳。在短暂更名为 Moltbot 后，它现在选择了 OpenClaw 作为新名称。",
-    "publish_time": "Fri, 30 Ja",
-    "source": "TechCrunch AI",
-    "score": {
-      "importance": 6,
-      "authority": 8,
-      "spread": 5,
-      "innovation": 5,
-      "timeliness": 6,
-      "total_score": 6.2
-    },
-    "collection_time": "2026-02-01T22:08:43.797201",
-    "fetch_method": "RSS",
-    "original_title": "OpenClaw's AI assistants are now building their own social network",
-    "original_content": "The viral personal AI assistant formerly known as Clawdbot has a new shell — again. After briefly rebranding as Moltbot, it has now picked OpenClaw as its new name."
-  },
-  {
-    "title": "OpenAI 的 Sora 应用程序在出色推出后陷入困境",
-    "url": "https://techcrunch.com/2026/01/29/openais-sora-app-is-struggling-after-its-stellar-launch/",
-    "content": "新数据显示，随着人们对这款 AI 视频社交网络的早期热情消退，该应用的下载量和消费支出都在下降。",
-    "publish_time": "Thu, 29 Ja",
-    "source": "TechCrunch AI",
-    "score": {
-      "importance": 6,
-      "authority": 8,
-      "spread": 5,
-      "innovation": 5,
-      "timeliness": 6,
-      "total_score": 6.2
-    },
-    "collection_time": "2026-02-01T22:08:43.797328",
-    "fetch_method": "RSS",
-    "original_title": "OpenAI's Sora app is struggling after its stellar launch",
-    "original_content": "New data suggests the app is seeing declines in both app downloads and consumer spending, as the early hype about the AI video social network wears off."
-  },
-  {
     "title": "介绍用于高级机器人控制的 NVIDIA Cosmos 策略",
     "url": "https://huggingface.co/blog/nvidia/cosmos-policy-for-robot-control",
     "content": "",
@@ -51,15 +13,53 @@
       "timeliness": 6,
       "total_score": 6.2
     },
-    "collection_time": "2026-02-01T22:08:43.797394",
+    "collection_time": "2026-02-01T22:47:45.740176",
     "fetch_method": "RSS",
     "original_title": "Introducing NVIDIA Cosmos Policy for Advanced Robot Control",
     "original_content": ""
   },
   {
-    "title": "人工智能代理迅速崛起，eBay 禁止非法自动化购物",
+    "title": "OpenClaw 的人工智能助手正在构建自己的社交网络",
+    "url": "https://techcrunch.com/2026/01/30/openclaws-ai-assistants-are-now-building-their-own-social-network/",
+    "content": "病毒式个人人工智能助手（以前称为 Clawdbot）又换了新外壳。在短暂更名为 Moltbot 后，它现在选择 OpenClaw 作为新名称。",
+    "publish_time": "Fri, 30 Ja",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-02-01T22:47:45.740379",
+    "fetch_method": "RSS",
+    "original_title": "OpenClaw’s AI assistants are now building their own social network",
+    "original_content": "The viral personal AI assistant formerly known as Clawdbot has a new shell — again. After briefly rebranding as Moltbot, it has now picked OpenClaw as its new name."
+  },
+  {
+    "title": "OpenAI 的 Sora 应用程序在出色推出后陷入困境",
+    "url": "https://techcrunch.com/2026/01/29/openais-sora-app-is-struggling-after-its-stellar-launch/",
+    "content": "新数据表明，随着人工智能视频社交网络的早期炒作逐渐消退，该应用程序的应用程序下载量和消费者支出都在下降。",
+    "publish_time": "Thu, 29 Ja",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-02-01T22:47:45.740471",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI’s Sora app is struggling after its stellar launch",
+    "original_content": "New data suggests the app is seeing declines in both app downloads and consumer spending, as the early hype about the AI video social network wears off."
+  },
+  {
+    "title": "人工智能代理迅速崛起 eBay 禁止非法自动化购物",
     "url": "https://arstechnica.com/information-technology/2026/01/ebay-bans-illicit-automated-shopping-amid-rapid-rise-of-ai-agents/",
-    "content": "新政策要求"帮我购买"类 AI 工具和聊天机器人在访问平台之前必须获得许可。",
+    "content": "新政策要求“为我购买”人工智能工具和聊天机器人在访问平台之前必须获得许可。",
     "publish_time": "Thu, 22 Ja",
     "source": "Ars Technica",
     "score": {
@@ -70,15 +70,78 @@
       "timeliness": 6,
       "total_score": 5.95
     },
-    "collection_time": "2026-02-01T22:08:43.797811",
+    "collection_time": "2026-02-01T22:47:45.740591",
     "fetch_method": "RSS",
     "original_title": "eBay bans illicit automated shopping amid rapid rise of AI agents",
     "original_content": "New policy requires \"buy for me\" AI tools and chatbots to obtain permission before accessing the platform."
   },
   {
-    "title": "Nvidia 首席执行官反驳有关其公司 1000 亿美元 OpenAI 投资已陷入停滞的报道",
+    "title": "SpaceX 寻求联邦政府批准启动 100 万个太阳能卫星数据中心TechCrunch",
+    "url": "https://www.reddit.com/r/artificial/comments/1qslxkj/spacex_seeks_federal_approval_to_launch_1_million/",
+    "content": "32 条提交者 32 uGloomy_Nebula_5138 链接 32 条评论",
+    "publish_time": "2026-01-31",
+    "source": "Reddit r/artificial",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-02-01T22:48:03.838471",
+    "original_title": "SpaceX seeks federal approval to launch 1 million solar-powered satellite data centers | TechCrunch",
+    "original_content": "32 submitted by 32 uGloomy_Nebula_5138 link 32 comments"
+  },
+  {
+    "title": "我们对自主 OpenClaw 代理进行了现场红队与蓝队测试 [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1qsy793/we_ran_a_live_redteam_vs_blueteam_test_on/",
+    "content": "我们最近在两个基于 OpenClaw 构建的自主人工智能代理之间进行了受控对抗安全测试。一名特工被明确配置为红队攻击者。一名特工担任标准后卫",
+    "publish_time": "2026-01-31",
+    "source": "Reddit r/MachineLearning",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-02-01T22:48:03.838591",
+    "original_title": "We ran a live red-team vs blue-team test on autonomous OpenClaw agents [R]",
+    "original_content": "We recently ran a controlled adversarial security test between two autonomous AI agents built on OpenClaw. One agent was explicitly configured as a red-team attacker. One agent acted as a standard def"
+  },
+  {
+    "title": "DevDay 发布的 AMA",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/",
+    "content": "这是历史上成为建设者的最好时代。在 DevDay 2025 上，我们推出了下一代工具和模型，以帮助开发人员更快地编码、更可靠地构建代理并扩展他们的应用程序",
+    "publish_time": "2026-01-31",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-02-01T22:48:03.838741",
+    "original_title": "AMA on our DevDay Launches",
+    "original_content": "Its the best time in history to be a builder. At DevDay 2025, we introduced the next generation of tools and models to help developers code faster, build agents more reliably, and scale their apps in "
+  },
+  {
+    "title": "Nvidia 首席执行官反驳有关其公司 100B 美元 OpenAI 投资已陷入停滞的报道",
     "url": "https://techcrunch.com/2026/01/31/nvidia-ceo-pushes-back-against-report-that-his-companys-100b-openai-investment-has-stalled/",
-    "content": "NVIDIA 首席执行官黄仁勋表示，最近有关其公司与 OpenAI 之间存在摩擦的报道是"无稽之谈"。",
+    "content": "Nvidia 首席执行官黄仁勋表示，最近有关其公司与 OpenAI 之间摩擦的报道是“无稽之谈”。",
     "publish_time": "Sat, 31 Ja",
     "source": "TechCrunch AI",
     "score": {
@@ -89,15 +152,15 @@
       "timeliness": 6,
       "total_score": 5.85
     },
-    "collection_time": "2026-02-01T22:08:43.797162",
+    "collection_time": "2026-02-01T22:47:45.740351",
     "fetch_method": "RSS",
-    "original_title": "Nvidia CEO pushes back against report that his company's $100B OpenAI investment has stalled",
-    "original_content": "NVIDIA CEO Jensen Huang said that a recent report of friction between his company and OpenAI was "nonsense.""
+    "original_title": "Nvidia CEO pushes back against report that his company’s $100B OpenAI investment has stalled",
+    "original_content": "Nvidia CEO Jensen Huang said that a recent report of friction between his company and OpenAI was “nonsense.”"
   },
   {
-    "title": "据报道，埃隆·马斯克旗下的 SpaceX、特斯拉和 xAI 正在洽谈合并事宜",
+    "title": "据报道，埃隆·马斯克 (Elon Musk) 旗下的 SpaceX、特斯拉和 xAI 正在洽谈合并事宜",
     "url": "https://techcrunch.com/2026/01/29/elon-musk-spacex-tesla-xai-merger-talks-ipo-reuters/",
-    "content": "此次合并将把 Grok 聊天机器人、星链卫星和 SpaceX 火箭整合到一家公司旗下。",
+    "content": "此次合并将把 Grok 聊天机器人、Starlink 卫星和 SpaceX 火箭合并到一家公司旗下。",
     "publish_time": "Thu, 29 Ja",
     "source": "TechCrunch AI",
     "score": {
@@ -108,15 +171,15 @@
       "timeliness": 6,
       "total_score": 5.85
     },
-    "collection_time": "2026-02-01T22:08:43.797251",
+    "collection_time": "2026-02-01T22:47:45.740415",
     "fetch_method": "RSS",
-    "original_title": "Elon Musk's SpaceX, Tesla, and xAI in talks to merge, according to reports",
+    "original_title": "Elon Musk’s SpaceX, Tesla, and xAI in talks to merge, according to reports",
     "original_content": "This merger would bring the Grok chatbot, Starlink satellites, and SpaceX rockets together under one corporation."
   },
   {
     "title": "据报道亚马逊正在洽谈向 OpenAI 投资 500 亿美元",
     "url": "https://techcrunch.com/2026/01/29/amazon-is-reportedly-in-talks-to-invest-50-billion-in-openai/",
-    "content": "如果交易达成，这将意味着亚马逊在 AI 霸主竞赛中同时支持相互竞争的初创公司。",
+    "content": "如果交易得以实现，这将意味着亚马逊将支持其他初创公司争夺人工智能霸主地位。",
     "publish_time": "Thu, 29 Ja",
     "source": "TechCrunch AI",
     "score": {
@@ -127,64 +190,9 @@
       "timeliness": 6,
       "total_score": 5.85
     },
-    "collection_time": "2026-02-01T22:08:43.797266",
+    "collection_time": "2026-02-01T22:47:45.740424",
     "fetch_method": "RSS",
     "original_title": "Amazon is reportedly in talks to invest $50B in OpenAI",
     "original_content": "If a deal materializes, it would mean Amazon is backing competing startups in the race for AI supremacy."
-  },
-  {
-    "title": "尽管存在重大风险，用户仍涌向开源 Moltbot 以获得始终在线的人工智能",
-    "url": "https://arstechnica.com/ai/2026/01/viral-ai-assistant-moltbot-rapidly-gains-popularity-but-poses-security-risks/",
-    "content": "这款开源的"贾维斯"通过 WhatsApp 聊天，但需要访问你的文件和账户。",
-    "publish_time": "Wed, 28 Ja",
-    "source": "Ars Technica",
-    "score": {
-      "importance": 5,
-      "authority": 7,
-      "spread": 5,
-      "innovation": 7,
-      "timeliness": 6,
-      "total_score": 5.8
-    },
-    "collection_time": "2026-02-01T22:08:43.797759",
-    "fetch_method": "RSS",
-    "original_title": "Users flock to open source Moltbot for always-on AI, despite major risks",
-    "original_content": "The open-source \"Jarvis\" chats via WhatsApp but requires access to your files and accounts."
-  },
-  {
-    "title": "新闻中心",
-    "source": "www.anthropic.com",
-    "content": "首次在另一颗星球上进行的 AI 辅助驾驶。Claude 帮助 NASA 的毅力号火星车在火星上行驶了四百米。全球最佳的编程、智能体和计算机使用模型，在幻灯片和电子表格等日常任务上也有显著改进。Claude Opus 4.5 提供前沿性能。",
-    "url": "https://www.anthropic.com/news",
-    "publish_time": "2026-01-31",
-    "score": {
-      "importance": 3,
-      "authority": 9,
-      "spread": 5,
-      "innovation": 7,
-      "timeliness": 8,
-      "total_score": 5.8
-    },
-    "collection_time": "2026-02-01T22:13:43.892306",
-    "original_title": "Newsroom",
-    "original_content": "The first AI-assisted drive on another planet. Claude helped NASA's Perseverance rover travel four hundred meters on Mars. The best model in the world for coding, agents, and computer use, with meaningful improvements to everyday tasks like slides and spreadsheets. Claude Opus 4.5 delivers frontier performance."
-  },
-  {
-    "title": "新闻动态",
-    "source": "deepmind.google",
-    "content": "探索我们最新的 AI 突破、项目和更新。我接受 Google 的条款和条件，并确认我的信息将按照 Google 的隐私政策使用。",
-    "url": "https://deepmind.google/blog/",
-    "publish_time": "2026-01-31",
-    "score": {
-      "importance": 3,
-      "authority": 9,
-      "spread": 5,
-      "innovation": 7,
-      "timeliness": 8,
-      "total_score": 5.8
-    },
-    "collection_time": "2026-02-01T22:13:43.892437",
-    "original_title": "News",
-    "original_content": "Discover our latest AI breakthroughs, projects, and updates. I accept Google's Terms and Conditions and acknowledge that my information will be used in accordance with Google's Privacy Policy."
   }
 ]

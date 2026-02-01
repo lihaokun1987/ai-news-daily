@@ -171,3 +171,45 @@
 [2026-02-01 22:15:36] [INFO] ✅ 任务完成！共处理 50 条新闻
 [2026-02-01 22:15:36] [INFO] 📄 报告路径: /Users/lihaokun/.minimax-agent-cn/projects/4/ai_news/output/ai_news_daily_20260201.md
 [2026-02-01 22:15:36] [INFO] 📊 JSON路径: /Users/lihaokun/.minimax-agent-cn/projects/4/ai_news/output/ai_news_daily_20260201_top10.json
+[2026-02-01 22:47:44] [INFO] 开始收集 2026-01-31 的AI新闻...
+[2026-02-01 22:47:44] [INFO] 🚀 RSS优先抓取策略启动...
+[2026-02-01 22:47:45] [INFO]   ✓ MIT Technology Review: 9 条
+[2026-02-01 22:47:45] [INFO]   ✓ Wired AI: 7 条
+[2026-02-01 22:47:45] [INFO]   ✓ Hugging Face Blog: 15 条
+[2026-02-01 22:47:45] [INFO]   ✓ TechCrunch AI: 14 条
+[2026-02-01 22:47:45] [INFO]   ✓ Ars Technica: 10 条
+[2026-02-01 22:47:45] [INFO]   ✓ Hacker News Front Page: 5 条
+[2026-02-01 22:47:45] [INFO]   ✓ Hacker News Best: 4 条
+[2026-02-01 22:47:45] [INFO]   ✓ The Gradient: 15 条
+[2026-02-01 22:47:45] [INFO] 📰 RSS抓取完成，共获取 79 条新闻
+[2026-02-01 22:47:45] [INFO] 使用Nitter镜像抓取Twitter数据...
+[2026-02-01 22:47:45] [INFO] 正在从Hacker News获取AI相关新闻...
+[2026-02-01 22:47:45] [INFO] 正在从Meta AI Blog获取新闻...
+[2026-02-01 22:47:45] [INFO] 正在从Microsoft Research Blog获取新闻...
+[2026-02-01 22:47:46] [INFO] Meta AI Blog获取 0 条新闻
+[2026-02-01 22:47:46] [INFO] Reddit API不可用，尝试RSS备用方案...
+[2026-02-01 22:47:46] [INFO] 直接抓取结果不足，尝试Bing RSS...
+[2026-02-01 22:47:47] [INFO] 网络搜索获取 13 条新闻
+[2026-02-01 22:47:47] [INFO] Microsoft Research Blog获取 2 条新闻
+[2026-02-01 22:47:47] [INFO] 网站提取获取 7 条有效新闻
+[2026-02-01 22:47:49] [INFO] Reddit获取 19 条帖子
+[2026-02-01 22:47:49] [INFO] Hacker News获取 20 条AI相关新闻
+[2026-02-01 22:47:56] [WARNING] 所有Nitter实例不可用，尝试使用Twitter RSS备用方案
+[2026-02-01 22:47:57] [INFO] RSS备用方案获取 0 条推文
+[2026-02-01 22:47:59] [WARNING] 抓取 新智元 出错: HTTPSConnectionPool(host='www.ailab.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.ailab.cn', port=443) at 0x7f63b8e43750>, 'Connection to www.ailab.cn timed out. (connect timeout=10)'))
+[2026-02-01 22:48:03] [INFO] 中文新闻源获取 5 条新闻
+[2026-02-01 22:48:03] [INFO] 收集完成，共获取 145 条有效新闻
+[2026-02-01 22:48:03] [INFO]   📡 RSS Feeds: 79 条 (优先级最高)
+[2026-02-01 22:48:03] [INFO]   - 网络搜索: 13 条
+[2026-02-01 22:48:03] [INFO]   - 官方博客: 7 条
+[2026-02-01 22:48:03] [INFO]   - Twitter: 0 条
+[2026-02-01 22:48:03] [INFO]   - Reddit: 19 条
+[2026-02-01 22:48:03] [INFO]   - 中文新闻源: 5 条
+[2026-02-01 22:48:03] [INFO]   - Hacker News API: 20 条
+[2026-02-01 22:48:03] [INFO]   - Meta AI Blog: 0 条
+[2026-02-01 22:48:03] [INFO]   - Microsoft Research: 2 条
+[2026-02-01 22:48:29] [INFO] Markdown报告已保存: /home/runner/work/ai-news-daily/ai-news-daily/output/ai_news_daily_20260201.md
+[2026-02-01 22:48:29] [INFO] Top 10 JSON已保存: /home/runner/work/ai-news-daily/ai-news-daily/output/ai_news_daily_20260201_top10.json
+[2026-02-01 22:48:29] [INFO] ✅ 任务完成！共处理 50 条新闻
+[2026-02-01 22:48:29] [INFO] 📄 报告路径: /home/runner/work/ai-news-daily/ai-news-daily/output/ai_news_daily_20260201.md
+[2026-02-01 22:48:29] [INFO] 📊 JSON路径: /home/runner/work/ai-news-daily/ai-news-daily/output/ai_news_daily_20260201_top10.json
