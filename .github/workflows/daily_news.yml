@@ -13,6 +13,10 @@ on:
       - 'scripts/**'
       - '.github/workflows/**'
 
+# 添加写入权限
+permissions:
+  contents: write
+
 jobs:
   collect-and-push:
     runs-on: ubuntu-latest
@@ -26,6 +30,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
           
       # 设置Python环境
       - name: Set up Python
