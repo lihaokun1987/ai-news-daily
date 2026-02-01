@@ -1,0 +1,173 @@
+[2026-02-01 21:16:30] [INFO] 直接抓取结果不足，尝试Bing RSS...
+[2026-02-01 21:16:32] [INFO] 网络搜索获取 7 条新闻
+[2026-02-01 21:16:32] [INFO] 使用Nitter镜像抓取Twitter数据...
+[2026-02-01 21:16:57] [WARNING] 所有Nitter实例不可用，尝试使用Twitter RSS备用方案
+[2026-02-01 21:17:20] [INFO] RSS备用方案获取 0 条推文
+[2026-02-01 21:17:22] [INFO] Reddit获取 0 条帖子
+[2026-02-01 21:17:24] [INFO] 网站提取获取 1 条有效新闻
+[2026-02-01 21:17:24] [INFO] Markdown报告已保存: /Users/lihaokun/.minimax-agent-cn/projects/4/ai_news/output/ai_news_daily_20260201.md
+[2026-02-01 21:17:24] [INFO] Top 10 JSON已保存: /Users/lihaokun/.minimax-agent-cn/projects/4/ai_news/output/ai_news_daily_20260201_top10.json
+[2026-02-01 21:20:10] [INFO] 直接抓取结果不足，尝试Bing RSS...
+[2026-02-01 21:20:11] [INFO] 网络搜索获取 7 条新闻
+[2026-02-01 21:20:11] [INFO] 使用Nitter镜像抓取Twitter数据...
+[2026-02-01 21:20:36] [WARNING] 所有Nitter实例不可用，尝试使用Twitter RSS备用方案
+[2026-02-01 21:20:59] [INFO] RSS备用方案获取 0 条推文
+[2026-02-01 21:21:01] [INFO] Reddit API不可用，尝试RSS备用方案...
+[2026-02-01 21:21:08] [INFO] Reddit获取 19 条帖子
+[2026-02-01 21:21:13] [INFO] 中文新闻源获取 5 条新闻
+[2026-02-01 21:21:15] [INFO] 网站提取获取 1 条有效新闻
+[2026-02-01 21:21:15] [INFO] Markdown报告已保存: /Users/lihaokun/.minimax-agent-cn/projects/4/ai_news/output/ai_news_daily_20260201.md
+[2026-02-01 21:21:15] [INFO] Top 10 JSON已保存: /Users/lihaokun/.minimax-agent-cn/projects/4/ai_news/output/ai_news_daily_20260201_top10.json
+[2026-02-01 21:27:46] [INFO] 直接抓取结果不足，尝试Bing RSS...
+[2026-02-01 21:27:46] [INFO] 网络搜索获取 7 条新闻
+[2026-02-01 21:27:46] [INFO] 使用Nitter镜像抓取Twitter数据...
+[2026-02-01 21:28:12] [WARNING] 所有Nitter实例不可用，尝试使用Twitter RSS备用方案
+[2026-02-01 21:28:35] [INFO] RSS备用方案获取 0 条推文
+[2026-02-01 21:28:36] [INFO] Reddit API不可用，尝试RSS备用方案...
+[2026-02-01 21:28:42] [INFO] Reddit获取 19 条帖子
+[2026-02-01 21:28:45] [INFO] 中文新闻源获取 5 条新闻
+[2026-02-01 21:28:47] [INFO] 网站提取获取 1 条有效新闻
+[2026-02-01 21:28:47] [INFO] Markdown报告已保存: /Users/lihaokun/.minimax-agent-cn/projects/4/ai_news/output/ai_news_daily_20260201.md
+[2026-02-01 21:28:47] [INFO] Top 10 JSON已保存: /Users/lihaokun/.minimax-agent-cn/projects/4/ai_news/output/ai_news_daily_20260201_top10.json
+[2026-02-01 21:29:50] [INFO] 直接抓取结果不足，尝试Bing RSS...
+[2026-02-01 21:29:51] [INFO] 网络搜索获取 7 条新闻
+[2026-02-01 21:29:51] [INFO] 使用Nitter镜像抓取Twitter数据...
+[2026-02-01 21:30:16] [WARNING] 所有Nitter实例不可用，尝试使用Twitter RSS备用方案
+[2026-02-01 21:30:37] [INFO] RSS备用方案获取 0 条推文
+[2026-02-01 21:30:40] [INFO] Reddit API不可用，尝试RSS备用方案...
+[2026-02-01 21:30:49] [INFO] Reddit获取 19 条帖子
+[2026-02-01 21:30:51] [INFO] 中文新闻源获取 5 条新闻
+[2026-02-01 21:30:53] [INFO] 网站提取获取 1 条有效新闻
+[2026-02-01 21:30:54] [INFO] Markdown报告已保存: /Users/lihaokun/.minimax-agent-cn/projects/4/ai_news/output/ai_news_daily_20260201.md
+[2026-02-01 21:30:54] [INFO] Top 10 JSON已保存: /Users/lihaokun/.minimax-agent-cn/projects/4/ai_news/output/ai_news_daily_20260201_top10.json
+[2026-02-01 21:31:39] [INFO] 直接抓取结果不足，尝试Bing RSS...
+[2026-02-01 21:31:40] [INFO] 网络搜索获取 7 条新闻
+[2026-02-01 21:31:40] [INFO] 使用Nitter镜像抓取Twitter数据...
+[2026-02-01 21:32:05] [WARNING] 所有Nitter实例不可用，尝试使用Twitter RSS备用方案
+[2026-02-01 21:32:28] [INFO] RSS备用方案获取 0 条推文
+[2026-02-01 21:32:29] [INFO] Reddit API不可用，尝试RSS备用方案...
+[2026-02-01 21:32:39] [INFO] Reddit获取 19 条帖子
+[2026-02-01 21:33:09] [WARNING] 抓取 量子位 出错: HTTPSConnectionPool(host='www.qbitai.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1103bed50>: Failed to resolve 'www.qbitai.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-02-01 21:33:10] [INFO] 中文新闻源获取 5 条新闻
+[2026-02-01 21:33:13] [INFO] 网站提取获取 1 条有效新闻
+[2026-02-01 21:33:13] [INFO] Markdown报告已保存: /Users/lihaokun/.minimax-agent-cn/projects/4/ai_news/output/ai_news_daily_20260201.md
+[2026-02-01 21:33:13] [INFO] Top 10 JSON已保存: /Users/lihaokun/.minimax-agent-cn/projects/4/ai_news/output/ai_news_daily_20260201_top10.json
+[2026-02-01 21:38:41] [INFO] 直接抓取结果不足，尝试Bing RSS...
+[2026-02-01 21:38:42] [INFO] 网络搜索获取 7 条新闻
+[2026-02-01 21:38:42] [INFO] 使用Nitter镜像抓取Twitter数据...
+[2026-02-01 21:39:07] [WARNING] 所有Nitter实例不可用，尝试使用Twitter RSS备用方案
+[2026-02-01 21:39:29] [INFO] RSS备用方案获取 0 条推文
+[2026-02-01 21:39:31] [INFO] Reddit API不可用，尝试RSS备用方案...
+[2026-02-01 21:39:39] [INFO] Reddit获取 19 条帖子
+[2026-02-01 21:39:41] [INFO] 中文新闻源获取 5 条新闻
+[2026-02-01 21:39:43] [INFO] 网站提取获取 1 条有效新闻
+[2026-02-01 21:40:12] [INFO] Markdown报告已保存: /Users/lihaokun/.minimax-agent-cn/projects/4/ai_news/output/ai_news_daily_20260201.md
+[2026-02-01 21:40:12] [INFO] Top 10 JSON已保存: /Users/lihaokun/.minimax-agent-cn/projects/4/ai_news/output/ai_news_daily_20260201_top10.json
+[2026-02-01 21:45:54] [INFO] 开始收集 2026-01-31 的AI新闻...
+[2026-02-01 21:45:54] [INFO] 使用Nitter镜像抓取Twitter数据...
+[2026-02-01 21:45:54] [INFO] 正在从Microsoft Research Blog获取新闻...
+[2026-02-01 21:45:54] [INFO] 正在从Meta AI Blog获取新闻...
+[2026-02-01 21:45:54] [INFO] 正在从Hacker News获取AI相关新闻...
+[2026-02-01 21:45:56] [INFO] Meta AI Blog获取 0 条新闻
+[2026-02-01 21:45:57] [INFO] 中文新闻源获取 5 条新闻
+[2026-02-01 21:45:57] [INFO] Reddit API不可用，尝试RSS备用方案...
+[2026-02-01 21:45:59] [INFO] Microsoft Research Blog获取 4 条新闻
+[2026-02-01 21:46:02] [INFO] 直接抓取结果不足，尝试Bing RSS...
+[2026-02-01 21:46:03] [INFO] 网络搜索获取 8 条新闻
+[2026-02-01 21:46:06] [INFO] Reddit获取 19 条帖子
+[2026-02-01 21:46:11] [INFO] Hacker News获取 20 条AI相关新闻
+[2026-02-01 21:46:12] [INFO] 网站提取获取 7 条有效新闻
+[2026-02-01 21:46:19] [WARNING] 所有Nitter实例不可用，尝试使用Twitter RSS备用方案
+[2026-02-01 21:46:41] [INFO] RSS备用方案获取 0 条推文
+[2026-02-01 21:46:41] [INFO] 收集完成，共获取 63 条有效新闻
+[2026-02-01 21:46:41] [INFO]   - 网络搜索: 8 条
+[2026-02-01 21:46:41] [INFO]   - 官方博客: 7 条
+[2026-02-01 21:46:41] [INFO]   - Twitter: 0 条
+[2026-02-01 21:46:41] [INFO]   - Reddit: 19 条
+[2026-02-01 21:46:41] [INFO]   - 中文新闻源: 5 条
+[2026-02-01 21:46:41] [INFO]   - Hacker News: 20 条
+[2026-02-01 21:46:41] [INFO]   - Meta AI Blog: 0 条
+[2026-02-01 21:46:41] [INFO]   - Microsoft Research: 4 条
+[2026-02-01 21:47:38] [INFO] Markdown报告已保存: /Users/lihaokun/.minimax-agent-cn/projects/4/ai_news/output/ai_news_daily_20260201.md
+[2026-02-01 21:47:38] [INFO] Top 10 JSON已保存: /Users/lihaokun/.minimax-agent-cn/projects/4/ai_news/output/ai_news_daily_20260201_top10.json
+[2026-02-01 21:47:38] [INFO] ✅ 任务完成！共处理 50 条新闻
+[2026-02-01 21:47:38] [INFO] 📄 报告路径: /Users/lihaokun/.minimax-agent-cn/projects/4/ai_news/output/ai_news_daily_20260201.md
+[2026-02-01 21:47:38] [INFO] 📊 JSON路径: /Users/lihaokun/.minimax-agent-cn/projects/4/ai_news/output/ai_news_daily_20260201_top10.json
+[2026-02-01 21:49:29] [INFO] 开始收集 2026-01-31 的AI新闻...
+[2026-02-01 21:49:29] [INFO] 使用Nitter镜像抓取Twitter数据...
+[2026-02-01 21:49:29] [INFO] 正在从Hacker News获取AI相关新闻...
+[2026-02-01 21:49:29] [INFO] 正在从Meta AI Blog获取新闻...
+[2026-02-01 21:49:29] [INFO] 正在从Microsoft Research Blog获取新闻...
+[2026-02-01 21:49:31] [INFO] Meta AI Blog获取 0 条新闻
+[2026-02-01 21:49:33] [INFO] Reddit API不可用，尝试RSS备用方案...
+[2026-02-01 21:49:33] [INFO] 中文新闻源获取 5 条新闻
+[2026-02-01 21:49:34] [INFO] Microsoft Research Blog获取 2 条新闻
+[2026-02-01 21:49:39] [INFO] 直接抓取结果不足，尝试Bing RSS...
+[2026-02-01 21:49:39] [INFO] 网络搜索获取 8 条新闻
+[2026-02-01 21:49:39] [INFO] Reddit获取 19 条帖子
+[2026-02-01 21:49:44] [INFO] 网站提取获取 7 条有效新闻
+[2026-02-01 21:49:45] [INFO] Hacker News获取 20 条AI相关新闻
+[2026-02-01 21:49:57] [WARNING] 所有Nitter实例不可用，尝试使用Twitter RSS备用方案
+[2026-02-01 21:50:19] [INFO] RSS备用方案获取 0 条推文
+[2026-02-01 21:50:19] [INFO] 收集完成，共获取 61 条有效新闻
+[2026-02-01 21:50:19] [INFO]   - 网络搜索: 8 条
+[2026-02-01 21:50:19] [INFO]   - 官方博客: 7 条
+[2026-02-01 21:50:19] [INFO]   - Twitter: 0 条
+[2026-02-01 21:50:19] [INFO]   - Reddit: 19 条
+[2026-02-01 21:50:19] [INFO]   - 中文新闻源: 5 条
+[2026-02-01 21:50:19] [INFO]   - Hacker News: 20 条
+[2026-02-01 21:50:19] [INFO]   - Meta AI Blog: 0 条
+[2026-02-01 21:50:19] [INFO]   - Microsoft Research: 2 条
+[2026-02-01 21:51:08] [INFO] Markdown报告已保存: /Users/lihaokun/.minimax-agent-cn/projects/4/ai_news/output/ai_news_daily_20260201.md
+[2026-02-01 21:51:08] [INFO] Top 10 JSON已保存: /Users/lihaokun/.minimax-agent-cn/projects/4/ai_news/output/ai_news_daily_20260201_top10.json
+[2026-02-01 21:51:08] [INFO] ✅ 任务完成！共处理 50 条新闻
+[2026-02-01 21:51:08] [INFO] 📄 报告路径: /Users/lihaokun/.minimax-agent-cn/projects/4/ai_news/output/ai_news_daily_20260201.md
+[2026-02-01 21:51:08] [INFO] 📊 JSON路径: /Users/lihaokun/.minimax-agent-cn/projects/4/ai_news/output/ai_news_daily_20260201_top10.json
+[2026-02-01 22:08:38] [INFO] 开始收集 2026-01-31 的AI新闻...
+[2026-02-01 22:08:38] [INFO] 🚀 RSS优先抓取策略启动...
+[2026-02-01 22:08:39] [INFO]   ✓ Wired AI: 7 条
+[2026-02-01 22:08:39] [INFO]   ✓ TechCrunch AI: 14 条
+[2026-02-01 22:08:39] [INFO]   ✓ Hugging Face Blog: 15 条
+[2026-02-01 22:08:39] [INFO]   ✓ Ars Technica: 10 条
+[2026-02-01 22:08:40] [INFO]   ✓ MIT Technology Review: 9 条
+[2026-02-01 22:08:42] [INFO]   ✓ Hacker News Front Page: 6 条
+[2026-02-01 22:08:43] [INFO]   ✓ Hacker News Best: 4 条
+[2026-02-01 22:08:43] [INFO]   ✓ The Gradient: 15 条
+[2026-02-01 22:08:43] [INFO] 📰 RSS抓取完成，共获取 80 条新闻
+[2026-02-01 22:08:43] [INFO] 使用Nitter镜像抓取Twitter数据...
+[2026-02-01 22:08:43] [INFO] 正在从Hacker News获取AI相关新闻...
+[2026-02-01 22:08:43] [INFO] 正在从Microsoft Research Blog获取新闻...
+[2026-02-01 22:08:43] [INFO] 正在从Meta AI Blog获取新闻...
+[2026-02-01 22:08:45] [INFO] Meta AI Blog获取 0 条新闻
+[2026-02-01 22:08:47] [INFO] Microsoft Research Blog获取 2 条新闻
+[2026-02-01 22:08:55] [INFO] Hacker News获取 20 条AI相关新闻
+[2026-02-01 22:08:57] [INFO] 直接抓取结果不足，尝试Bing RSS...
+[2026-02-01 22:08:58] [INFO] 网络搜索获取 9 条新闻
+[2026-02-01 22:08:58] [INFO] 网站提取获取 7 条有效新闻
+[2026-02-01 22:09:09] [WARNING] 所有Nitter实例不可用，尝试使用Twitter RSS备用方案
+[2026-02-01 22:09:13] [WARNING] Reddit r/artificial 抓取出错: HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /r/artificial/hot.json?limit=10 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10e002350>: Failed to resolve 'www.reddit.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-02-01 22:09:13] [WARNING] 抓取 机器之心 出错: HTTPSConnectionPool(host='www.jiqizhixin.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10e003250>: Failed to resolve 'www.jiqizhixin.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-02-01 22:09:15] [INFO] 中文新闻源获取 5 条新闻
+[2026-02-01 22:09:32] [INFO] RSS备用方案获取 0 条推文
+[2026-02-01 22:09:43] [WARNING] Reddit r/MachineLearning 抓取出错: HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /r/MachineLearning/hot.json?limit=10 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10e10e5d0>: Failed to resolve 'www.reddit.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-02-01 22:10:13] [WARNING] Reddit r/ChatGPT 抓取出错: HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /r/ChatGPT/hot.json?limit=10 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10e10e490>: Failed to resolve 'www.reddit.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-02-01 22:10:43] [WARNING] Reddit r/OpenAI 抓取出错: HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /r/OpenAI/hot.json?limit=10 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10e10d590>: Failed to resolve 'www.reddit.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-02-01 22:11:13] [WARNING] Reddit r/LocalLLaMA 抓取出错: HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /r/LocalLLaMA/hot.json?limit=10 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10e10de50>: Failed to resolve 'www.reddit.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-02-01 22:11:43] [WARNING] Reddit r/singularity 抓取出错: HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /r/singularity/hot.json?limit=10 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10e10e850>: Failed to resolve 'www.reddit.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[2026-02-01 22:11:43] [INFO] Reddit API不可用，尝试RSS备用方案...
+[2026-02-01 22:13:43] [INFO] Reddit获取 0 条帖子
+[2026-02-01 22:13:43] [INFO] 收集完成，共获取 123 条有效新闻
+[2026-02-01 22:13:43] [INFO]   📡 RSS Feeds: 80 条 (优先级最高)
+[2026-02-01 22:13:43] [INFO]   - 网络搜索: 9 条
+[2026-02-01 22:13:43] [INFO]   - 官方博客: 7 条
+[2026-02-01 22:13:43] [INFO]   - Twitter: 0 条
+[2026-02-01 22:13:43] [INFO]   - Reddit: 0 条
+[2026-02-01 22:13:43] [INFO]   - 中文新闻源: 5 条
+[2026-02-01 22:13:43] [INFO]   - Hacker News API: 20 条
+[2026-02-01 22:13:43] [INFO]   - Meta AI Blog: 0 条
+[2026-02-01 22:13:43] [INFO]   - Microsoft Research: 2 条
+[2026-02-01 22:15:36] [INFO] Markdown报告已保存: /Users/lihaokun/.minimax-agent-cn/projects/4/ai_news/output/ai_news_daily_20260201.md
+[2026-02-01 22:15:36] [INFO] Top 10 JSON已保存: /Users/lihaokun/.minimax-agent-cn/projects/4/ai_news/output/ai_news_daily_20260201_top10.json
+[2026-02-01 22:15:36] [INFO] ✅ 任务完成！共处理 50 条新闻
+[2026-02-01 22:15:36] [INFO] 📄 报告路径: /Users/lihaokun/.minimax-agent-cn/projects/4/ai_news/output/ai_news_daily_20260201.md
+[2026-02-01 22:15:36] [INFO] 📊 JSON路径: /Users/lihaokun/.minimax-agent-cn/projects/4/ai_news/output/ai_news_daily_20260201_top10.json

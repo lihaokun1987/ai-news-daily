@@ -1,0 +1,100 @@
+name: AI News Daily Collector
+
+on:
+  schedule:
+    # 每天北京时间上午9点执行（UTC时间凌晨1点）
+    - cron: '0 1 * * *'
+  # 手动触发
+  workflow_dispatch:
+  # 推送到main分支时触发（用于测试）
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/**'
+      - '.github/workflows/**'
+
+jobs:
+  collect-and-push:
+    runs-on: ubuntu-latest
+    
+    # 设置超时时间（防止卡住）
+    timeout-minutes: 30
+    
+    steps:
+      # 检出代码
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          
+      # 设置Python环境
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+      
+      # 安装依赖
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      
+      # 收集AI新闻（增强版 - RSS优先策略）
+      - name: Collect AI News
+        run: |
+          echo "🚀 开始收集AI新闻..."
+          python scripts/collect_news.py
+        env:
+          # 可选：配置代理（如果需要）
+          # HTTP_PROXY: ${{ secrets.HTTP_PROXY }}
+          # HTTPS_PROXY: ${{ secrets.HTTPS_PROXY }}
+          TZ: Asia/Shanghai
+      
+      # 推送Top 10到企业微信
+      - name: Push to WeChat
+        if: success()
+        run: |
+          echo "📤 推送新闻到企业微信..."
+          python scripts/push_wechat.py
+        env:
+          WECOM_WEBHOOK_URL: ${{ secrets.WECOM_WEBHOOK_URL }}
+      
+      # 提交生成的新闻文件到仓库
+      - name: Commit and Push Results
+        if: success()
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          
+          # 添加输出文件
+          git add output/ logs/ || true
+          
+          # 检查是否有变更
+          if git diff --staged --quiet; then
+            echo "📭 没有新的内容需要提交"
+          else
+            git commit -m "📰 AI News Daily Update - $(date +'%Y-%m-%d %H:%M:%S')"
+            git push
+            echo "✅ 新闻已提交到仓库"
+          fi
+      
+      # 保存生成的新闻文件作为Artifacts
+      - name: Save artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: ai-news-report-${{ github.run_number }}
+          path: |
+            output/
+            logs/
+          retention-days: 30
+      
+      # 发送执行状态通知（可选）
+      - name: Send Status Notification
+        if: always()
+        run: |
+          if [ "${{ job.status }}" == "success" ]; then
+            echo "✅ AI新闻采集任务执行成功"
+          else
+            echo "❌ AI新闻采集任务执行失败"
+          fi
