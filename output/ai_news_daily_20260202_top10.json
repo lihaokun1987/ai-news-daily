@@ -1,0 +1,200 @@
+[
+  {
+    "title": "印度尼西亚“有条件”取消 Grok 轮胎",
+    "url": "https://techcrunch.com/2026/02/01/indonesia-conditionally-lifts-ban-on-grok/",
+    "content": "继马来西亚和菲律宾之后，印度尼西亚也解除了对 xAI 聊天机器人 Grok 的禁令。",
+    "publish_time": "Sun, 01 Fe",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-02-02T09:31:19.264556",
+    "fetch_method": "RSS",
+    "original_title": "Indonesia ‘conditionally’ lifts ban on Grok",
+    "original_content": "Indonesia has followed Malaysia and the Philippines in lifting a ban on xAI’s chatbot Grok."
+  },
+  {
+    "title": "OpenClaw 的人工智能助手正在构建自己的社交网络",
+    "url": "https://techcrunch.com/2026/01/30/openclaws-ai-assistants-are-now-building-their-own-social-network/",
+    "content": "病毒式个人人工智能助手（以前称为 Clawdbot）又换了新外壳。在短暂更名为 Moltbot 后，它现在选择 OpenClaw 作为新名称。",
+    "publish_time": "Fri, 30 Ja",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-02-02T09:31:19.264622",
+    "fetch_method": "RSS",
+    "original_title": "OpenClaw’s AI assistants are now building their own social network",
+    "original_content": "The viral personal AI assistant formerly known as Clawdbot has a new shell — again. After briefly rebranding as Moltbot, it has now picked OpenClaw as its new name."
+  },
+  {
+    "title": "介绍用于高级机器人控制的 NVIDIA Cosmos 策略",
+    "url": "https://huggingface.co/blog/nvidia/cosmos-policy-for-robot-control",
+    "content": "",
+    "publish_time": "Thu, 29 Ja",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-02-02T09:31:19.264702",
+    "fetch_method": "RSS",
+    "original_title": "Introducing NVIDIA Cosmos Policy for Advanced Robot Control",
+    "original_content": ""
+  },
+  {
+    "title": "Show HN：NanoClaw – “Clawdbot”在 500 行 TS 中与 Apple 容器隔离",
+    "url": "https://github.com/gavrielc/nanoclaw",
+    "content": "",
+    "publish_time": "2026-02-01",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 145,
+      "comments": 44
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=46850205",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 7,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.05
+    },
+    "collection_time": "2026-02-02T09:31:34.187822",
+    "original_title": "Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation",
+    "original_content": ""
+  },
+  {
+    "title": "人工智能代理迅速崛起 eBay 禁止非法自动化购物",
+    "url": "https://arstechnica.com/information-technology/2026/01/ebay-bans-illicit-automated-shopping-amid-rapid-rise-of-ai-agents/",
+    "content": "新政策要求“为我购买”人工智能工具和聊天机器人在访问平台之前必须获得许可。",
+    "publish_time": "Thu, 22 Ja",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-02-02T09:31:19.264505",
+    "fetch_method": "RSS",
+    "original_title": "eBay bans illicit automated shopping amid rapid rise of AI agents",
+    "original_content": "New policy requires \"buy for me\" AI tools and chatbots to obtain permission before accessing the platform."
+  },
+  {
+    "title": "我们对自主 OpenClaw 代理进行了现场红队与蓝队测试 [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1qsy793/we_ran_a_live_redteam_vs_blueteam_test_on/",
+    "content": "我们最近在两个基于 OpenClaw 构建的自主人工智能代理之间进行了受控对抗安全测试。一名特工被明确配置为红队攻击者。一名特工担任标准后卫",
+    "publish_time": "2026-02-01",
+    "source": "Reddit r/MachineLearning",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-02-02T09:31:34.187636",
+    "original_title": "We ran a live red-team vs blue-team test on autonomous OpenClaw agents [R]",
+    "original_content": "We recently ran a controlled adversarial security test between two autonomous AI agents built on OpenClaw. One agent was explicitly configured as a red-team attacker. One agent acted as a standard def"
+  },
+  {
+    "title": "DevDay 发布的 AMA",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/",
+    "content": "这是历史上成为建设者的最好时代。在 DevDay 2025 上，我们推出了下一代工具和模型，以帮助开发人员更快地编码、更可靠地构建代理并扩展他们的应用程序",
+    "publish_time": "2026-02-01",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-02-02T09:31:34.187704",
+    "original_title": "AMA on our DevDay Launches",
+    "original_content": "Its the best time in history to be a builder. At DevDay 2025, we introduced the next generation of tools and models to help developers code faster, build agents more reliably, and scale their apps in "
+  },
+  {
+    "title": "Nvidia 首席执行官反驳有关其公司 100B 美元 OpenAI 投资已陷入停滞的报道",
+    "url": "https://techcrunch.com/2026/01/31/nvidia-ceo-pushes-back-against-report-that-his-companys-100b-openai-investment-has-stalled/",
+    "content": "Nvidia 首席执行官黄仁勋表示，最近有关其公司与 OpenAI 之间摩擦的报道是“无稽之谈”。",
+    "publish_time": "Sat, 31 Ja",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-02-02T09:31:19.264595",
+    "fetch_method": "RSS",
+    "original_title": "Nvidia CEO pushes back against report that his company’s $100B OpenAI investment has stalled",
+    "original_content": "Nvidia CEO Jensen Huang said that a recent report of friction between his company and OpenAI was “nonsense.”"
+  },
+  {
+    "title": "据报道，埃隆·马斯克 (Elon Musk) 旗下的 SpaceX、特斯拉和 xAI 正在洽谈合并事宜",
+    "url": "https://techcrunch.com/2026/01/29/elon-musk-spacex-tesla-xai-merger-talks-ipo-reuters/",
+    "content": "此次合并将把 Grok 聊天机器人、Starlink 卫星和 SpaceX 火箭合并到一家公司旗下。",
+    "publish_time": "Thu, 29 Ja",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-02-02T09:31:19.264657",
+    "fetch_method": "RSS",
+    "original_title": "Elon Musk’s SpaceX, Tesla, and xAI in talks to merge, according to reports",
+    "original_content": "This merger would bring the Grok chatbot, Starlink satellites, and SpaceX rockets together under one corporation."
+  },
+  {
+    "title": "据报道亚马逊正在洽谈向 OpenAI 投资 500 亿美元",
+    "url": "https://techcrunch.com/2026/01/29/amazon-is-reportedly-in-talks-to-invest-50-billion-in-openai/",
+    "content": "如果交易得以实现，这将意味着亚马逊将支持其他初创公司争夺人工智能霸主地位。",
+    "publish_time": "Thu, 29 Ja",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-02-02T09:31:19.264668",
+    "fetch_method": "RSS",
+    "original_title": "Amazon is reportedly in talks to invest $50B in OpenAI",
+    "original_content": "If a deal materializes, it would mean Amazon is backing competing startups in the race for AI supremacy."
+  }
+]
