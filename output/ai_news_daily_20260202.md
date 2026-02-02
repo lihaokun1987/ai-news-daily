@@ -1,12 +1,23 @@
 # AI新闻日报 - 2026-02-01
 
-**采集时间**: 2026-02-02 09:32:51
+**采集时间**: 2026-02-02 11:35:50
 
 **数据来源**: 【RSS优先】TechCrunch、Wired、MIT Technology Review、Ars Technica、Hacker News、arXiv、Hugging Face、The Gradient | Twitter/X、Reddit、OpenAI官方博客、Anthropic官方博客、Google AI官方博客、Meta AI (FAIR) Blog、Microsoft Research Blog、DeepMind、NVIDIA、机器之心、量子位、36氪
 
 ---
 
-### 1. 印度尼西亚“有条件”取消 Grok 轮胎
+### 1. Show HN：NanoClaw – “Clawdbot”在 500 行 TS 中与 Apple 容器隔离
+原文: Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation
+
+- **来源**: Hacker News
+- **发布时间**: 2026-02-01
+- **综合评分**: 6.35/10
+- **评分明细**: 重要性6 | 权威性5 | 传播度8 | 创新性5 | 时效性8
+- **原文链接**: https://github.com/gavrielc/nanoclaw
+
+---
+
+### 2. 印度尼西亚“有条件”取消 Grok 轮胎
 原文: Indonesia ‘conditionally’ lifts ban on Grok
 
 - **来源**: TechCrunch AI
@@ -18,7 +29,7 @@
 
 ---
 
-### 2. OpenClaw 的人工智能助手正在构建自己的社交网络
+### 3. OpenClaw 的人工智能助手正在构建自己的社交网络
 原文: OpenClaw’s AI assistants are now building their own social network
 
 - **来源**: TechCrunch AI
@@ -30,7 +41,7 @@
 
 ---
 
-### 3. 介绍用于高级机器人控制的 NVIDIA Cosmos 策略
+### 4. 介绍用于高级机器人控制的 NVIDIA Cosmos 策略
 原文: Introducing NVIDIA Cosmos Policy for Advanced Robot Control
 
 - **来源**: Hugging Face Blog
@@ -38,17 +49,6 @@
 - **综合评分**: 6.2/10
 - **评分明细**: 重要性6 | 权威性8 | 传播度5 | 创新性5 | 时效性6
 - **原文链接**: https://huggingface.co/blog/nvidia/cosmos-policy-for-robot-control
-
----
-
-### 4. Show HN：NanoClaw – “Clawdbot”在 500 行 TS 中与 Apple 容器隔离
-原文: Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation
-
-- **来源**: Hacker News
-- **发布时间**: 2026-02-01
-- **综合评分**: 6.05/10
-- **评分明细**: 重要性6 | 权威性5 | 传播度7 | 创新性5 | 时效性8
-- **原文链接**: https://github.com/gavrielc/nanoclaw
 
 ---
 
@@ -160,7 +160,17 @@
 
 ---
 
-### 14. 研究
+### 14. 没有人类了：15万Clawdbot论坛发帖自研AI，我们根本插不上话
+
+- **来源**: 36氪AI
+- **发布时间**: 2026-02-01
+- **综合评分**: 5.65/10
+- **评分明细**: 重要性6 | 权威性5 | 传播度5 | 创新性5 | 时效性8
+- **原文链接**: https://36kr.com/p/3662930215887489
+
+---
+
+### 15. 研究
 原文: Research
 
 - **来源**: www.anthropic.com
@@ -172,7 +182,7 @@
 
 ---
 
-### 15. 人工智能
+### 16. 人工智能
 原文: AI
 
 - **来源**: blog.google
@@ -184,7 +194,7 @@
 
 ---
 
-### 16. 来自谷歌的最新研究
+### 17. 来自谷歌的最新研究
 原文: The latest research from Google
 
 - **来源**: ai.googleblog.com
@@ -196,7 +206,7 @@
 
 ---
 
-### 17. 埃隆·马斯克 (Elon Musk) 明确证实了 SpaceX 与 xAI 合并的传闻
+### 18. 埃隆·马斯克 (Elon Musk) 明确证实了 SpaceX 与 xAI 合并的传闻
 原文: Rumored SpaceX-xAI merger gets apparent confirmation from Elon Musk
 
 - **来源**: Reddit r/artificial
@@ -208,7 +218,7 @@
 
 ---
 
-### 18. 市场内部为真实女性的定制人工智能深度假货提供动力
+### 19. 市场内部为真实女性的定制人工智能深度假货提供动力
 原文: Inside the marketplace powering bespoke AI deepfakes of real women
 
 - **来源**: MIT Technology Review
@@ -220,7 +230,7 @@
 
 ---
 
-### 19. 下载：美国移民机构的人工智能视频以及活力主义运动内部
+### 20. 下载：美国移民机构的人工智能视频以及活力主义运动内部
 原文: The Download: US immigration agencies’ AI videos, and inside the Vitalism movement
 
 - **来源**: MIT Technology Review
@@ -232,7 +242,7 @@
 
 ---
 
-### 20. 有时很奇怪的延长寿命的世界如何获得影响力
+### 21. 有时很奇怪的延长寿命的世界如何获得影响力
 原文: How the sometimes-weird world of lifespan extension is gaining influence
 
 - **来源**: MIT Technology Review
@@ -244,7 +254,7 @@
 
 ---
 
-### 21. 人工智能炒作指数：Grok 制作色情片，Claude Code 完成你的工作
+### 22. 人工智能炒作指数：Grok 制作色情片，Claude Code 完成你的工作
 原文: The AI Hype Index: Grok makes porn, and Claude Code nails your job
 
 - **来源**: MIT Technology Review
@@ -256,7 +266,7 @@
 
 ---
 
-### 22. DHS 正在使用 Google 和 Adob​​e AI 制作视频
+### 23. DHS 正在使用 Google 和 Adob​​e AI 制作视频
 原文: DHS is using Google and Adobe AI to make videos
 
 - **来源**: MIT Technology Review
@@ -268,7 +278,7 @@
 
 ---
 
-### 23. 下载：活力主义运动的内部，以及为什么人工智能的“记忆”是一个隐私问题
+### 24. 下载：活力主义运动的内部，以及为什么人工智能的“记忆”是一个隐私问题
 原文: The Download: inside the Vitalism movement, and why AI’s “memory” is a privacy problem
 
 - **来源**: MIT Technology Review
@@ -280,7 +290,7 @@
 
 ---
 
-### 24. 电网如何渡过冬季风暴
+### 25. 电网如何渡过冬季风暴
 原文: How the grid can ride out winter storms
 
 - **来源**: MIT Technology Review
@@ -292,7 +302,7 @@
 
 ---
 
-### 25. 圆桌会议：人工智能公司为何押注下一代核能
+### 26. 圆桌会议：人工智能公司为何押注下一代核能
 原文: Roundtables: Why AI Companies Are Betting on Next-Gen Nuclear
 
 - **来源**: MIT Technology Review
@@ -304,7 +314,7 @@
 
 ---
 
-### 26. 人工智能“记住”你的什么是隐私的下一个前沿领域
+### 27. 人工智能“记住”你的什么是隐私的下一个前沿领域
 原文: What AI “remembers” about you is privacy’s next frontier
 
 - **来源**: MIT Technology Review
@@ -316,7 +326,7 @@
 
 ---
 
-### 27. Yann LeCun 关联的初创公司开辟了通向 AGI 的新道路
+### 28. Yann LeCun 关联的初创公司开辟了通向 AGI 的新道路
 原文: A Yann LeCun–Linked Startup Charts a New Path to AGI
 
 - **来源**: Wired AI
@@ -328,7 +338,7 @@
 
 ---
 
-### 28. Falcon-H1-Arabic 简介：利用混合架构突破阿拉伯语人工智能的界限
+### 29. Falcon-H1-Arabic 简介：利用混合架构突破阿拉伯语人工智能的界限
 原文: Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture
 
 - **来源**: Hugging Face Blog
@@ -339,7 +349,7 @@
 
 ---
 
-### 29. 为什么医学领域的人工智能不仅仅是“公开炒作”
+### 30. 为什么医学领域的人工智能不仅仅是“公开炒作”
 原文: Why AI in medicine is more than just ‘public hype’
 
 - **来源**: AI News
@@ -351,7 +361,17 @@
 
 ---
 
-### 30. 线人称杰弗里·爱泼斯坦有一名“个人黑客”
+### 31. 浙大女博士创业的机器人公司，要IPO了
+
+- **来源**: 36氪AI
+- **发布时间**: 2026-02-01
+- **综合评分**: 5.3/10
+- **评分明细**: 重要性5 | 权威性5 | 传播度5 | 创新性5 | 时效性8
+- **原文链接**: https://36kr.com/p/3665539400115078
+
+---
+
+### 32. 线人称杰弗里·爱泼斯坦有一名“个人黑客”
 原文: Jeffrey Epstein Had a ‘Personal Hacker,’ Informant Claims
 
 - **来源**: Wired AI
@@ -363,7 +383,7 @@
 
 ---
 
-### 31. 我让谷歌的“自动浏览”人工智能代理接管 Chrome。不太合拍
+### 33. 我让谷歌的“自动浏览”人工智能代理接管 Chrome。不太合拍
 原文: I Let Google’s ‘Auto Browse’ AI Agent Take Over Chrome. It Didn’t Quite Click
 
 - **来源**: Wired AI
@@ -375,7 +395,7 @@
 
 ---
 
-### 32. AI 生成的 Anti-ICE 视频正在受到同人文的欢迎
+### 34. AI 生成的 Anti-ICE 视频正在受到同人文的欢迎
 原文: AI-Generated Anti-ICE Videos Are Getting the Fanfic Treatment
 
 - **来源**: Wired AI
@@ -387,7 +407,7 @@
 
 ---
 
-### 33. 一款 AI 玩具向任何拥有 Gmail 帐户的人公开了 50,000 条与孩子的聊天记录
+### 35. 一款 AI 玩具向任何拥有 Gmail 帐户的人公开了 50,000 条与孩子的聊天记录
 原文: An AI Toy Exposed 50,000 Logs of Its Chats With Kids to Anyone With a Gmail Account
 
 - **来源**: Wired AI
@@ -399,7 +419,7 @@
 
 ---
 
-### 34. ICE 正在使用 Palantir 的 AI 工具对提示进行分类
+### 36. ICE 正在使用 Palantir 的 AI 工具对提示进行分类
 原文: ICE Is Using Palantir’s AI Tools to Sort Through Tips
 
 - **来源**: Wired AI
@@ -411,7 +431,7 @@
 
 ---
 
-### 35. Moltbot 正在接管硅谷
+### 37. Moltbot 正在接管硅谷
 原文: Moltbot Is Taking Over Silicon Valley
 
 - **来源**: Wired AI
@@ -423,7 +443,7 @@
 
 ---
 
-### 36. AI裁员还是“AI洗牌”？
+### 38. AI裁员还是“AI洗牌”？
 原文: AI layoffs or ‘AI-washing’?
 
 - **来源**: TechCrunch AI
@@ -435,7 +455,7 @@
 
 ---
 
-### 37. 印度将在 2047 年之前实行零税收，以吸引全球人工智能工作负载
+### 39. 印度将在 2047 年之前实行零税收，以吸引全球人工智能工作负载
 原文: India offers zero taxes through 2047 to lure global AI workloads
 
 - **来源**: TechCrunch AI
@@ -447,7 +467,7 @@
 
 ---
 
-### 38. 再见，企业集团。你好，个人企业集团。
+### 40. 再见，企业集团。你好，个人企业集团。
 原文: Bye-bye corporate conglomerates. Hello personal conglomerates.
 
 - **来源**: TechCrunch AI
@@ -459,7 +479,7 @@
 
 ---
 
-### 39. 物理智能一瞥，这家初创公司正在打造硅谷最热门的机器人大脑
+### 41. 物理智能一瞥，这家初创公司正在打造硅谷最热门的机器人大脑
 原文: A peek inside Physical Intelligence, the startup building Silicon Valley’s buzziest robot brains
 
 - **来源**: TechCrunch AI
@@ -471,7 +491,7 @@
 
 ---
 
-### 40. Anthropic 为 Cowork 带来代理插件
+### 42. Anthropic 为 Cowork 带来代理插件
 原文: Anthropic brings agentic plug-ins to Cowork
 
 - **来源**: TechCrunch AI
@@ -483,7 +503,7 @@
 
 ---
 
-### 41. 伙计们，我认为蒂姆库克不知道如何通过人工智能货币化
+### 43. 伙计们，我认为蒂姆库克不知道如何通过人工智能货币化
 原文: Guys, I don’t think Tim Cook knows how to monetize AI
 
 - **来源**: TechCrunch AI
@@ -495,7 +515,7 @@
 
 ---
 
-### 42. 萨蒂亚·纳德拉 (Satya Nadella) 坚称人们正在大量使用微软的 Copilot AI
+### 44. 萨蒂亚·纳德拉 (Satya Nadella) 坚称人们正在大量使用微软的 Copilot AI
 原文: Satya Nadella insists people are using Microsoft’s Copilot AI a lot
 
 - **来源**: TechCrunch AI
@@ -507,7 +527,7 @@
 
 ---
 
-### 43. 随着人工智能竞赛的升温，苹果收购了以色列初创公司 Q.ai
+### 45. 随着人工智能竞赛的升温，苹果收购了以色列初创公司 Q.ai
 原文: Apple buys Israeli startup Q.ai as the AI race heats up
 
 - **来源**: TechCrunch AI
@@ -519,7 +539,7 @@
 
 ---
 
-### 44. Daggr 简介：以编程方式链接应用程序，进行直观检查
+### 46. Daggr 简介：以编程方式链接应用程序，进行直观检查
 原文: Introducing Daggr: Chain apps programmatically, inspect visually
 
 - **来源**: Hugging Face Blog
@@ -530,7 +550,7 @@
 
 ---
 
-### 45. 我们让 Claude 构建 CUDA 内核并教授开放模型！
+### 47. 我们让 Claude 构建 CUDA 内核并教授开放模型！
 原文: We Got Claude to Build CUDA Kernels and teach open models!
 
 - **来源**: Hugging Face Blog
@@ -541,7 +561,7 @@
 
 ---
 
-### 46. 中国开源人工智能生态系统的架构选择：超越 DeepSeek
+### 48. 中国开源人工智能生态系统的架构选择：超越 DeepSeek
 原文: Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek
 
 - **来源**: Hugging Face Blog
@@ -552,7 +572,7 @@
 
 ---
 
-### 47. Alyah ⭐️：对阿拉伯语法学硕士中的阿联酋方言能力进行稳健评估
+### 49. Alyah ⭐️：对阿拉伯语法学硕士中的阿联酋方言能力进行稳健评估
 原文: Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs
 
 - **来源**: Hugging Face Blog
@@ -563,7 +583,7 @@
 
 ---
 
-### 48. 解锁 GPT-OSS 的代理强化学习训练：实用回顾
+### 50. 解锁 GPT-OSS 的代理强化学习训练：实用回顾
 原文: Unlocking Agentic RL Training for GPT-OSS: A Practical Retrospective
 
 - **来源**: Hugging Face Blog
@@ -571,28 +591,6 @@
 - **综合评分**: 5.15/10
 - **评分明细**: 重要性3 | 权威性8 | 传播度5 | 创新性5 | 时效性6
 - **原文链接**: https://huggingface.co/blog/LinkedIn/gpt-oss-agentic-rl
-
----
-
-### 49. AssetOpsBench：缩小 AI 代理基准与工业现实之间的差距
-原文: AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality
-
-- **来源**: Hugging Face Blog
-- **发布时间**: Wed, 21 Ja
-- **综合评分**: 5.15/10
-- **评分明细**: 重要性3 | 权威性8 | 传播度5 | 创新性5 | 时效性6
-- **原文链接**: https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face
-
----
-
-### 50. “DeepSeek 时刻”一周年
-原文: One Year Since the “DeepSeek Moment”
-
-- **来源**: Hugging Face Blog
-- **发布时间**: Tue, 20 Ja
-- **综合评分**: 5.15/10
-- **评分明细**: 重要性3 | 权威性8 | 传播度5 | 创新性5 | 时效性6
-- **原文链接**: https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment
 
 ---
 

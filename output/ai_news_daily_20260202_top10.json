@@ -1,5 +1,28 @@
 [
   {
+    "title": "Show HN：NanoClaw – “Clawdbot”在 500 行 TS 中与 Apple 容器隔离",
+    "url": "https://github.com/gavrielc/nanoclaw",
+    "content": "",
+    "publish_time": "2026-02-01",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 207,
+      "comments": 60
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=46850205",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.35
+    },
+    "collection_time": "2026-02-02T11:35:13.166784",
+    "original_title": "Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation",
+    "original_content": ""
+  },
+  {
     "title": "印度尼西亚“有条件”取消 Grok 轮胎",
     "url": "https://techcrunch.com/2026/02/01/indonesia-conditionally-lifts-ban-on-grok/",
     "content": "继马来西亚和菲律宾之后，印度尼西亚也解除了对 xAI 聊天机器人 Grok 的禁令。",
@@ -13,7 +36,7 @@
       "timeliness": 6,
       "total_score": 6.2
     },
-    "collection_time": "2026-02-02T09:31:19.264556",
+    "collection_time": "2026-02-02T11:34:57.965891",
     "fetch_method": "RSS",
     "original_title": "Indonesia ‘conditionally’ lifts ban on Grok",
     "original_content": "Indonesia has followed Malaysia and the Philippines in lifting a ban on xAI’s chatbot Grok."
@@ -32,7 +55,7 @@
       "timeliness": 6,
       "total_score": 6.2
     },
-    "collection_time": "2026-02-02T09:31:19.264622",
+    "collection_time": "2026-02-02T11:34:57.965986",
     "fetch_method": "RSS",
     "original_title": "OpenClaw’s AI assistants are now building their own social network",
     "original_content": "The viral personal AI assistant formerly known as Clawdbot has a new shell — again. After briefly rebranding as Moltbot, it has now picked OpenClaw as its new name."
@@ -51,32 +74,9 @@
       "timeliness": 6,
       "total_score": 6.2
     },
-    "collection_time": "2026-02-02T09:31:19.264702",
+    "collection_time": "2026-02-02T11:34:57.966067",
     "fetch_method": "RSS",
     "original_title": "Introducing NVIDIA Cosmos Policy for Advanced Robot Control",
-    "original_content": ""
-  },
-  {
-    "title": "Show HN：NanoClaw – “Clawdbot”在 500 行 TS 中与 Apple 容器隔离",
-    "url": "https://github.com/gavrielc/nanoclaw",
-    "content": "",
-    "publish_time": "2026-02-01",
-    "source": "Hacker News",
-    "engagement": {
-      "likes": 145,
-      "comments": 44
-    },
-    "hn_discussion": "https://news.ycombinator.com/item?id=46850205",
-    "score": {
-      "importance": 6,
-      "authority": 5,
-      "spread": 7,
-      "innovation": 5,
-      "timeliness": 8,
-      "total_score": 6.05
-    },
-    "collection_time": "2026-02-02T09:31:34.187822",
-    "original_title": "Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation",
     "original_content": ""
   },
   {
@@ -93,7 +93,7 @@
       "timeliness": 6,
       "total_score": 5.95
     },
-    "collection_time": "2026-02-02T09:31:19.264505",
+    "collection_time": "2026-02-02T11:34:57.965641",
     "fetch_method": "RSS",
     "original_title": "eBay bans illicit automated shopping amid rapid rise of AI agents",
     "original_content": "New policy requires \"buy for me\" AI tools and chatbots to obtain permission before accessing the platform."
@@ -115,7 +115,7 @@
       "timeliness": 8,
       "total_score": 5.9
     },
-    "collection_time": "2026-02-02T09:31:34.187636",
+    "collection_time": "2026-02-02T11:35:13.166611",
     "original_title": "We ran a live red-team vs blue-team test on autonomous OpenClaw agents [R]",
     "original_content": "We recently ran a controlled adversarial security test between two autonomous AI agents built on OpenClaw. One agent was explicitly configured as a red-team attacker. One agent acted as a standard def"
   },
@@ -136,7 +136,7 @@
       "timeliness": 8,
       "total_score": 5.9
     },
-    "collection_time": "2026-02-02T09:31:34.187704",
+    "collection_time": "2026-02-02T11:35:13.166676",
     "original_title": "AMA on our DevDay Launches",
     "original_content": "Its the best time in history to be a builder. At DevDay 2025, we introduced the next generation of tools and models to help developers code faster, build agents more reliably, and scale their apps in "
   },
@@ -154,7 +154,7 @@
       "timeliness": 6,
       "total_score": 5.85
     },
-    "collection_time": "2026-02-02T09:31:19.264595",
+    "collection_time": "2026-02-02T11:34:57.965957",
     "fetch_method": "RSS",
     "original_title": "Nvidia CEO pushes back against report that his company’s $100B OpenAI investment has stalled",
     "original_content": "Nvidia CEO Jensen Huang said that a recent report of friction between his company and OpenAI was “nonsense.”"
@@ -173,7 +173,7 @@
       "timeliness": 6,
       "total_score": 5.85
     },
-    "collection_time": "2026-02-02T09:31:19.264657",
+    "collection_time": "2026-02-02T11:34:57.966022",
     "fetch_method": "RSS",
     "original_title": "Elon Musk’s SpaceX, Tesla, and xAI in talks to merge, according to reports",
     "original_content": "This merger would bring the Grok chatbot, Starlink satellites, and SpaceX rockets together under one corporation."
@@ -192,7 +192,7 @@
       "timeliness": 6,
       "total_score": 5.85
     },
-    "collection_time": "2026-02-02T09:31:19.264668",
+    "collection_time": "2026-02-02T11:34:57.966033",
     "fetch_method": "RSS",
     "original_title": "Amazon is reportedly in talks to invest $50B in OpenAI",
     "original_content": "If a deal materializes, it would mean Amazon is backing competing startups in the race for AI supremacy."
