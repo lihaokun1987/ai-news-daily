@@ -1,0 +1,192 @@
+[
+  {
+    "title": "人工智能垃圾分类作为循环经济和城市可持续发展的数据驱动决策支持工具",
+    "url": "https://arxiv.org/abs/2601.22418",
+    "content": "arXiv:2601.22418v1 公告类型：新 \n摘要：高效的垃圾分类对于智慧城市的循环经济实践和资源回收至关重要。本文评估了传统机器学习（随机森林、SVM、AdaBoost）和深度学习技术，包括自定义 CNN、",
+    "publish_time": "Mon, 02 Fe",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-02-03T11:28:36.241014",
+    "fetch_method": "RSS",
+    "original_title": "AI-Enabled Waste Classification as a Data-Driven Decision Support Tool for Circular Economy and Urban Sustainability",
+    "original_content": "arXiv:2601.22418v1 Announce Type: new \nAbstract: Efficient waste sorting is crucial for enabling circular-economy practices and resource recovery in smart cities. This paper evaluates both traditional machine-learning (Random Forest, SVM, AdaBoost) and deep-learning techniques including custom CNNs,"
+  },
+  {
+    "title": "用于具有组合动作的强化学习的潜在球形流策略",
+    "url": "https://arxiv.org/abs/2601.22211",
+    "content": "arXiv:2601.22211v1 公告类型：新 \n摘要：具有组合动作空间的强化学习（RL）仍然具有挑战性，因为可行的动作集呈指数级大，并且受到复杂的可行性约束的控制，使得直接策略参数化不切实际。现有方法",
+    "publish_time": "Mon, 02 Fe",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-02-03T11:28:36.241171",
+    "fetch_method": "RSS",
+    "original_title": "Latent Spherical Flow Policy for Reinforcement Learning with Combinatorial Actions",
+    "original_content": "arXiv:2601.22211v1 Announce Type: new \nAbstract: Reinforcement learning (RL) with combinatorial action spaces remains challenging because feasible action sets are exponentially large and governed by complex feasibility constraints, making direct policy parameterization impractical. Existing approach"
+  },
+  {
+    "title": "OpenAI 推出新的 macOS 应用程序用于代理编码",
+    "url": "https://techcrunch.com/2026/02/02/openai-launches-new-macos-app-for-agentic-coding/",
+    "content": "OpenAI 为 Codex 发布了一款新的 macOS 应用程序，集成了自去年 Codex 推出以来流行的许多代理编码实践。",
+    "publish_time": "Mon, 02 Fe",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-02-03T11:28:36.240396",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI launches new macOS app for agentic coding",
+    "original_content": "OpenAI has released a new macOS app for Codex, integrating many of the agentic coding practices that have become popular since Codex launched last year."
+  },
+  {
+    "title": "联盟要求联邦 Grok 禁止未经同意的性内容",
+    "url": "https://techcrunch.com/2026/02/02/coalition-demands-federal-grok-ban-over-nonconsensual-sexual-content/",
+    "content": "在 xAI 聊天机器人生成数千张未经同意的性图像，引发国家安全和儿童安全担忧后，非营利组织敦促美国政府暂停 Grok 在联邦机构的任职资格。",
+    "publish_time": "Mon, 02 Fe",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-02-03T11:28:36.240436",
+    "fetch_method": "RSS",
+    "original_title": "Coalition demands federal Grok ban over nonconsensual sexual content",
+    "original_content": "Nonprofits urge the U.S. government to suspend Grok in federal agencies after the xAI chatbot generated thousands of nonconsensual sexual images, raising national security and child safety concerns."
+  },
+  {
+    "title": "印度尼西亚“有条件”取消 Grok 轮胎",
+    "url": "https://techcrunch.com/2026/02/01/indonesia-conditionally-lifts-ban-on-grok/",
+    "content": "继马来西亚和菲律宾之后，印度尼西亚也解除了对 xAI 聊天机器人 Grok 的禁令。",
+    "publish_time": "Sun, 01 Fe",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-02-03T11:28:36.240519",
+    "fetch_method": "RSS",
+    "original_title": "Indonesia ‘conditionally’ lifts ban on Grok",
+    "original_content": "Indonesia has followed Malaysia and the Philippines in lifting a ban on xAI’s chatbot Grok."
+  },
+  {
+    "title": "介绍用于高级机器人控制的 NVIDIA Cosmos 策略",
+    "url": "https://huggingface.co/blog/nvidia/cosmos-policy-for-robot-control",
+    "content": "",
+    "publish_time": "Thu, 29 Ja",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-02-03T11:28:36.240670",
+    "fetch_method": "RSS",
+    "original_title": "Introducing NVIDIA Cosmos Policy for Advanced Robot Control",
+    "original_content": ""
+  },
+  {
+    "title": "我们对人工智能真相危机的误解",
+    "url": "https://www.technologyreview.com/2026/02/02/1132068/what-weve-been-getting-wrong-about-ais-truth-crisis/",
+    "content": "这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类故事，请在此处注册。怎样才能让你相信我们长期以来一直被警告的真理衰退时代——人工智能内容欺骗我们，塑造我们的信念，即使我们抓住了人工智能内容",
+    "publish_time": "Mon, 02 Fe",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-02-03T11:28:36.240841",
+    "fetch_method": "RSS",
+    "original_title": "What we’ve been getting wrong about AI’s truth crisis",
+    "original_content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. What would it take to convince you that the era of truth decay we were long warned about—where AI content dupes us, shapes our beliefs even when we catch the"
+  },
+  {
+    "title": "揭秘可合并性：预测模型合并成功的可解释属性",
+    "url": "https://arxiv.org/abs/2601.22285",
+    "content": "arXiv:2601.22285v1 公告类型：新 \n摘要：模型合并结合了来自单独微调模型的知识，但成功因素仍然知之甚少。虽然最近的工作将可合并性视为一种内在属性，但我们通过与架构无关的框架展示了它从根本上依赖于",
+    "publish_time": "Mon, 02 Fe",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-02-03T11:28:36.241275",
+    "fetch_method": "RSS",
+    "original_title": "Demystifying Mergeability: Interpretable Properties to Predict Model Merging Success",
+    "original_content": "arXiv:2601.22285v1 Announce Type: new \nAbstract: Model merging combines knowledge from separately fine-tuned models, yet success factors remain poorly understood. While recent work treats mergeability as an intrinsic property, we show with an architecture-agnostic framework that it fundamentally dep"
+  },
+  {
+    "title": "人工智能代理迅速崛起 eBay 禁止非法自动化购物",
+    "url": "https://arstechnica.com/information-technology/2026/01/ebay-bans-illicit-automated-shopping-amid-rapid-rise-of-ai-agents/",
+    "content": "新政策要求“为我购买”人工智能工具和聊天机器人在访问平台之前必须获得许可。",
+    "publish_time": "Thu, 22 Ja",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-02-03T11:28:36.241364",
+    "fetch_method": "RSS",
+    "original_title": "eBay bans illicit automated shopping amid rapid rise of AI agents",
+    "original_content": "New policy requires \"buy for me\" AI tools and chatbots to obtain permission before accessing the platform."
+  },
+  {
+    "title": "禁止天然气中含有铅是有效的。证据就在我们的头发里",
+    "url": "https://attheu.utah.edu/health-medicine/banning-lead-in-gas-worked-the-proof-is-in-our-hair/",
+    "content": "文章网址：https://attheu.utah.edu/health-medicine/banning-lead-in-gas-worked-the-proof-is-in-our-hair/\n评论网址：https://news.ycombinator.com/item?id=46865275\n积分：26\n# 评论: 5",
+    "publish_time": "Tue, 03 Fe",
+    "source": "Hacker News Front Page",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-02-03T11:28:36.241466",
+    "fetch_method": "RSS",
+    "original_title": "Banning lead in gas worked. The proof is in our hair",
+    "original_content": "Article URL: https://attheu.utah.edu/health-medicine/banning-lead-in-gas-worked-the-proof-is-in-our-hair/\nComments URL: https://news.ycombinator.com/item?id=46865275\nPoints: 26\n# Comments: 5"
+  }
+]
