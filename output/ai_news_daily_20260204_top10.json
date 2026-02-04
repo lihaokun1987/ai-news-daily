@@ -1,0 +1,196 @@
+[
+  {
+    "title": "OGD4All：基于大型语言模型的地理空间开放政府数据的无障碍交互框架",
+    "url": "https://arxiv.org/abs/2602.00012",
+    "content": "arXiv:2602.00012v1 公告类型：新 \n摘要：我们提出了 OGD4All，这是一个基于大型语言模型 (LLM) 的透明、可审计和可复制的框架，旨在增强公民与地理空间开放政府数据 (OGD) 的交互。该系统结合了语义数据检索、代理推理",
+    "publish_time": "Tue, 03 Fe",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.65
+    },
+    "collection_time": "2026-02-04T11:25:49.004469",
+    "fetch_method": "RSS",
+    "original_title": "OGD4All: A Framework for Accessible Interaction with Geospatial Open Government Data Based on Large Language Models",
+    "original_content": "arXiv:2602.00012v1 Announce Type: new \nAbstract: We present OGD4All, a transparent, auditable, and reproducible framework based on Large Language Models (LLMs) to enhance citizens' interaction with geospatial Open Government Data (OGD). The system combines semantic data retrieval, agentic reasoning "
+  },
+  {
+    "title": "OpenAI 推出新的 macOS 应用程序用于代理编码",
+    "url": "https://techcrunch.com/2026/02/02/openai-launches-new-macos-app-for-agentic-coding/",
+    "content": "OpenAI 为 Codex 发布了一款新的 macOS 应用程序，集成了自去年 Codex 推出以来流行的许多代理编码实践。",
+    "publish_time": "Mon, 02 Fe",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-02-04T11:25:49.003675",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI launches new macOS app for agentic coding",
+    "original_content": "OpenAI has released a new macOS app for Codex, integrating many of the agentic coding practices that have become popular since Codex launched last year."
+  },
+  {
+    "title": "Fitbit 创始人推出人工智能平台帮助家庭监测健康状况",
+    "url": "https://techcrunch.com/2026/02/03/fitbit-founders-launch-ai-platform-to-help-families-monitor-their-health/",
+    "content": "Luffu 在后台使用人工智能来收集和组织家庭信息、学习日常模式并标记显着变化，以便家庭能够保持一致并解决潜在的福祉问题。",
+    "publish_time": "Tue, 03 Fe",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-02-04T11:25:49.003613",
+    "fetch_method": "RSS",
+    "original_title": "Fitbit founders launch AI platform to help families monitor their health",
+    "original_content": "Luffu uses AI in the background to gather and organize family information, learn day-to-day patterns, and flag notable changes so families can stay aligned and address potential well-being issues."
+  },
+  {
+    "title": "联盟要求联邦 Grok 禁止未经同意的性内容",
+    "url": "https://techcrunch.com/2026/02/02/coalition-demands-federal-grok-ban-over-nonconsensual-sexual-content/",
+    "content": "在 xAI 聊天机器人生成数千张未经同意的性图像，引发国家安全和儿童安全担忧后，非营利组织敦促美国政府暂停 Grok 在联邦机构的任职资格。",
+    "publish_time": "Mon, 02 Fe",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-02-04T11:25:49.003713",
+    "fetch_method": "RSS",
+    "original_title": "Coalition demands federal Grok ban over nonconsensual sexual content",
+    "original_content": "Nonprofits urge the U.S. government to suspend Grok in federal agencies after the xAI chatbot generated thousands of nonconsensual sexual images, raising national security and child safety concerns."
+  },
+  {
+    "title": "介绍用于高级机器人控制的 NVIDIA Cosmos 策略",
+    "url": "https://huggingface.co/blog/nvidia/cosmos-policy-for-robot-control",
+    "content": "",
+    "publish_time": "Thu, 29 Ja",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-02-04T11:25:49.003791",
+    "fetch_method": "RSS",
+    "original_title": "Introducing NVIDIA Cosmos Policy for Advanced Robot Control",
+    "original_content": ""
+  },
+  {
+    "title": "启动 HN：Modelence (YC S25) – 使用 TypeScript / MongoDB 框架的应用程序生成器",
+    "url": "https://news.ycombinator.com/item?id=46872733",
+    "content": "大家好，这里是 Aram 和 Eduard，他们是 Modelence (https://modelence.com) 的联合创始人。在花费数年时间扩展我们之前的初创公司的平台之后，我们构建了一个开源全栈 TypeScript + MongoDB 框架，以停止每次我们解决相同的身份验证/数据库/API/cron 作业实现",
+    "publish_time": "Tue, 03 Fe",
+    "source": "Hacker News Front Page",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.15
+    },
+    "collection_time": "2026-02-04T11:25:49.004792",
+    "fetch_method": "RSS",
+    "original_title": "Launch HN: Modelence (YC S25) – App Builder with TypeScript / MongoDB Framework",
+    "original_content": "Hi all, Aram and Eduard here - co-founders of Modelence (https://modelence.com). After spending years on scaling our previous startup’s platform, we built an open-source full-stack TypeScript + MongoDB framework to stop solving the same auth / database / API / cron job implementations every time we "
+  },
+  {
+    "title": "下载：从老化的矿山中榨取更多金属，以及人工智能的真相危机",
+    "url": "https://www.technologyreview.com/2026/02/03/1132105/the-download-squeezing-more-metal-out-of-aging-mines-and-ais-truth-crisis/",
+    "content": "这是今天版本的《下载》，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。微生物可以提取清洁技术所需的金属在密歇根州上半岛的松树林中，美国唯一活跃的镍矿即将开采",
+    "publish_time": "Tue, 03 Fe",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-02-04T11:25:49.003442",
+    "fetch_method": "RSS",
+    "original_title": "The Download: squeezing more metal out of aging mines, and AI’s truth crisis",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Microbes could extract the metal needed for cleantech In a pine forest on Michigan’s Upper Peninsula, the only active nickel mine in the US is nearing"
+  },
+  {
+    "title": "我们对人工智能真相危机的误解",
+    "url": "https://www.technologyreview.com/2026/02/02/1132068/what-weve-been-getting-wrong-about-ais-truth-crisis/",
+    "content": "这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类故事，请在此处注册。怎样才能让你相信我们长期以来一直被警告的真理衰退时代——人工智能内容欺骗我们，塑造我们的信念，即使我们抓住了人工智能内容",
+    "publish_time": "Mon, 02 Fe",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-02-04T11:25:49.003464",
+    "fetch_method": "RSS",
+    "original_title": "What we’ve been getting wrong about AI’s truth crisis",
+    "original_content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. What would it take to convince you that the era of truth decay we were long warned about—where AI content dupes us, shapes our beliefs even when we catch the"
+  },
+  {
+    "title": "评估域级对窄微调中出现的突发失调的敏感性",
+    "url": "https://arxiv.org/abs/2602.00298",
+    "content": "arXiv:2602.00298v1 公告类型：新 \n摘要：随着语言模型越来越多地用于自主任务，紧急错位给人工智能安全带来风险。在本文中，我们提出了在跨越 11 个不同领域的不安全数据集上进行微调的大型语言模型 (LLM) 群体，评估",
+    "publish_time": "Tue, 03 Fe",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-02-04T11:25:49.004209",
+    "fetch_method": "RSS",
+    "original_title": "Assessing Domain-Level Susceptibility to Emergent Misalignment from Narrow Finetuning",
+    "original_content": "arXiv:2602.00298v1 Announce Type: new \nAbstract: Emergent misalignment poses risks to AI safety as language models are increasingly used for autonomous tasks. In this paper, we present a population of large language models (LLMs) fine-tuned on insecure datasets spanning 11 diverse domains, evaluatin"
+  },
+  {
+    "title": "英国对 Grok 展开新调查，法国 X 办事处遭突击搜查",
+    "url": "https://www.bbc.com/news/articles/ce3ex92557jo",
+    "content": "",
+    "publish_time": "2026-02-03",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 235,
+      "comments": 440
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=46868998",
+    "score": {
+      "importance": 5,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.0
+    },
+    "collection_time": "2026-02-04T11:26:03.638103",
+    "original_title": "X offices raided in France as UK opens fresh investigation into Grok",
+    "original_content": ""
+  }
+]
