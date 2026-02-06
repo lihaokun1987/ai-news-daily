@@ -1,0 +1,200 @@
+[
+  {
+    "title": "InterPReT：交互式政策重组和培训使外行能够进行有效的模仿学习",
+    "url": "https://arxiv.org/abs/2602.04213",
+    "content": "arXiv:2602.04213v1 公告类型：新 \n摘要：通过向专家演示学习，模仿学习在许多任务中取得了成功。然而，大多数现有工作依赖于技术专业人员的大规模演示和对培训过程的密切监控。这些都是有挑战性的",
+    "publish_time": "Fri, 06 Fe",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-02-06T13:02:55.465897",
+    "fetch_method": "RSS",
+    "original_title": "InterPReT: Interactive Policy Restructuring and Training Enable Effective Imitation Learning from Laypersons",
+    "original_content": "arXiv:2602.04213v1 Announce Type: new \nAbstract: Imitation learning has shown success in many tasks by learning from expert demonstrations. However, most existing work relies on large-scale demonstrations from technical professionals and close monitoring of the training process. These are challengin"
+  },
+  {
+    "title": "在 Anthropic 放弃自己的代理编码模型几分钟后，OpenAI 就推出了新的代理编码模型",
+    "url": "https://techcrunch.com/2026/02/05/openai-launches-new-agentic-coding-model-only-minutes-after-anthropic-drops-its-own/",
+    "content": "新模型旨在加速 Codex 的功能，Codex 是 OpenAI 本周早些时候推出的代理编码工具。",
+    "publish_time": "Thu, 05 Fe",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-02-06T13:02:55.465342",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI launches new agentic coding model only minutes after Anthropic drops its own",
+    "original_content": "The new model is built to accelerate the capabilities of Codex, the agentic coding tool OpenAI launched earlier this week."
+  },
+  {
+    "title": "Anthropic 发布 Opus 4.6，新增“代理团队”",
+    "url": "https://techcrunch.com/2026/02/05/anthropic-releases-opus-4-6-with-new-agent-teams/",
+    "content": "Anthropic 模型的最新版本旨在扩大其功能和吸引力，允许更多种类的用途和客户。",
+    "publish_time": "Thu, 05 Fe",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-02-06T13:02:55.465375",
+    "fetch_method": "RSS",
+    "original_title": "Anthropic releases Opus 4.6 with new ‘agent teams’",
+    "original_content": "The newest version of Anthropic's model is designed to broaden its capabilities and appeal, allowing for a greater variety of uses and customers."
+  },
+  {
+    "title": "OpenAI 为企业推出了一种构建和管理人工智能代理的方法",
+    "url": "https://techcrunch.com/2026/02/05/openai-launches-a-way-for-enterprises-to-build-and-manage-ai-agents/",
+    "content": "OpenAI 推出了 Frontier，这是一个新平台，专为企业构建和部署代理而设计，同时将他们视为人类员工。",
+    "publish_time": "Thu, 05 Fe",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-02-06T13:02:55.465364",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI launches a way for enterprises to build and manage AI agents",
+    "original_content": "OpenAI launched Frontier, a new platform designed for enterprises to build and deploy agents while treating them like human employees."
+  },
+  {
+    "title": "下载：从老化的矿山中榨取更多金属，以及人工智能的真相危机",
+    "url": "https://www.technologyreview.com/2026/02/03/1132105/the-download-squeezing-more-metal-out-of-aging-mines-and-ais-truth-crisis/",
+    "content": "这是今天版本的《下载》，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。微生物可以提取清洁技术所需的金属在密歇根州上半岛的松树林中，美国唯一活跃的镍矿即将开采",
+    "publish_time": "Tue, 03 Fe",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-02-06T13:02:55.465535",
+    "fetch_method": "RSS",
+    "original_title": "The Download: squeezing more metal out of aging mines, and AI’s truth crisis",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Microbes could extract the metal needed for cleantech In a pine forest on Michigan’s Upper Peninsula, the only active nickel mine in the US is nearing"
+  },
+  {
+    "title": "我们对人工智能真相危机的误解",
+    "url": "https://www.technologyreview.com/2026/02/02/1132068/what-weve-been-getting-wrong-about-ais-truth-crisis/",
+    "content": "这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类故事，请在此处注册。怎样才能让你相信我们长期以来一直被警告的真理衰退时代——人工智能内容欺骗我们，塑造我们的信念，即使我们抓住了人工智能内容",
+    "publish_time": "Mon, 02 Fe",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-02-06T13:02:55.465547",
+    "fetch_method": "RSS",
+    "original_title": "What we’ve been getting wrong about AI’s truth crisis",
+    "original_content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. What would it take to convince you that the era of truth decay we were long warned about—where AI content dupes us, shapes our beliefs even when we catch the"
+  },
+  {
+    "title": "GPT-5.3-法典",
+    "url": "https://openai.com/index/introducing-gpt-5-3-codex/",
+    "content": "",
+    "publish_time": "2026-02-05",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 1160,
+      "comments": 444
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=46902638",
+    "score": {
+      "importance": 3,
+      "authority": 5,
+      "spread": 10,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-02-06T13:03:10.254625",
+    "original_title": "GPT-5.3-Codex",
+    "original_content": ""
+  },
+  {
+    "title": "ClawHub 中下载最多的技能包含恶意软件",
+    "url": "https://1password.com/blog/from-magic-to-malware-how-openclaws-agent-skills-become-an-attack-surface",
+    "content": "文章网址：https://1password.com/blog/from-magic-to-malware-how-openclaws-agent-skills-become-an-attack-surface\n评论网址：https://news.ycombinator.com/item?id=46898615\n积分：309\n# 评论：140",
+    "publish_time": "Thu, 05 Fe",
+    "source": "Hacker News Best",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-02-06T13:02:55.466350",
+    "fetch_method": "RSS",
+    "original_title": "Top downloaded skill in ClawHub contains malware",
+    "original_content": "Article URL: https://1password.com/blog/from-magic-to-malware-how-openclaws-agent-skills-become-an-attack-surface\nComments URL: https://news.ycombinator.com/item?id=46898615\nPoints: 309\n# Comments: 140"
+  },
+  {
+    "title": "阿里巴巴发布 Qwen3-Coder-Next 与 OpenAI、Anthropic 竞争",
+    "url": "https://www.reddit.com/r/artificial/comments/1qvn7o5/alibaba_releases_qwen3codernext_to_rival_openai/",
+    "content": "32 提交者 32 uapp1310 链接 32 条评论",
+    "publish_time": "2026-02-05",
+    "source": "Reddit r/artificial",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-02-06T13:03:10.254280",
+    "original_title": "Alibaba releases Qwen3-Coder-Next to rival OpenAI, Anthropic",
+    "original_content": "32 submitted by 32 uapp1310 link 32 comments"
+  },
+  {
+    "title": "DevDay 发布的 AMA",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/",
+    "content": "这是历史上成为建设者的最好时代。在 DevDay 2025 上，我们推出了下一代工具和模型，以帮助开发人员更快地编码、更可靠地构建代理并扩展他们的应用程序",
+    "publish_time": "2026-02-05",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-02-06T13:03:10.254488",
+    "original_title": "AMA on our DevDay Launches",
+    "original_content": "Its the best time in history to be a builder. At DevDay 2025, we introduced the next generation of tools and models to help developers code faster, build agents more reliably, and scale their apps in "
+  }
+]
