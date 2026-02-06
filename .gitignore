@@ -50,3 +50,4 @@ config.local.py
 *.tmp
 *.temp
 .cache/
+logs/
