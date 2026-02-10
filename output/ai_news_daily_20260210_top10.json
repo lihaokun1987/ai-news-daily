@@ -1,0 +1,192 @@
+[
+  {
+    "title": "下载：帮助癌症幸存者生育并清理孟加拉国的服装业",
+    "url": "https://www.technologyreview.com/2026/02/06/1132375/the-download-helping-cancer-survivors-to-give-birth-and-cleaning-up-bangladeshs-garment-industry/",
+    "content": "这是今天版本的《下载》，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。一项实验性手术正在帮助癌症幸存者分娩 一项实验性手术正在帮助人们在产后生育",
+    "publish_time": "Fri, 06 Fe",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-02-10T11:45:14.789519",
+    "fetch_method": "RSS",
+    "original_title": "The Download: helping cancer survivors to give birth, and cleaning up Bangladesh’s garment industry",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. An experimental surgery is helping cancer survivors give birth An experimental surgical procedure that’s helping people have babies after they’ve had "
+  },
+  {
+    "title": "大奖：极端参与者策略不匹配强化学习的最优预算拒绝抽样",
+    "url": "https://arxiv.org/abs/2602.06107",
+    "content": "arXiv:2602.06107v1 公告类型：新 \n摘要：大型语言模型 (LLM) 的强化学习 (RL) 仍然昂贵，特别是因为部署成本高昂。将推出生成与策略优化分离（例如，利用更有效的模型进行推出）可以使子",
+    "publish_time": "Mon, 09 Fe",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-02-10T11:45:14.790242",
+    "fetch_method": "RSS",
+    "original_title": "Jackpot: Optimal Budgeted Rejection Sampling for Extreme Actor-Policy Mismatch Reinforcement Learning",
+    "original_content": "arXiv:2602.06107v1 Announce Type: new \nAbstract: Reinforcement learning (RL) for large language models (LLMs) remains expensive, particularly because the rollout is expensive. Decoupling rollout generation from policy optimization (e.g., leveraging a more efficient model to rollout) could enable sub"
+  },
+  {
+    "title": "难度估计策略优化",
+    "url": "https://arxiv.org/abs/2602.06375",
+    "content": "arXiv:2602.06375v1 公告类型：新 \n摘要：以 DeepSeek-R1 为代表的大型推理模型 (LRM) 的最新进展强调了通过组相对策略优化 (GRPO) 扩展推理时间计算的潜力。然而，GRPO 经常受到梯度信号的影响",
+    "publish_time": "Mon, 09 Fe",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-02-10T11:45:14.790306",
+    "fetch_method": "RSS",
+    "original_title": "Difficulty-Estimated Policy Optimization",
+    "original_content": "arXiv:2602.06375v1 Announce Type: new \nAbstract: Recent advancements in Large Reasoning Models (LRMs), exemplified by DeepSeek-R1, have underscored the potential of scaling inference-time compute through Group Relative Policy Optimization (GRPO). However, GRPO frequently suffers from gradient signal"
+  },
+  {
+    "title": "气候适应性住房的城市时空基础模型：扩展扩散变压器以进行灾害风险预测",
+    "url": "https://arxiv.org/abs/2602.06129",
+    "content": "arXiv:2602.06129v1 公告类型：新 \n摘要：气候灾害通过破坏住房、基础设施退化和降低网络可达性，日益扰乱城市交通和应急响应行动。本文提出了 Skjold-DiT，一个扩散变换器框架，",
+    "publish_time": "Mon, 09 Fe",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-02-10T11:45:14.790480",
+    "fetch_method": "RSS",
+    "original_title": "Urban Spatio-Temporal Foundation Models for Climate-Resilient Housing: Scaling Diffusion Transformers for Disaster Risk Prediction",
+    "original_content": "arXiv:2602.06129v1 Announce Type: new \nAbstract: Climate hazards increasingly disrupt urban transportation and emergency-response operations by damaging housing stock, degrading infrastructure, and reducing network accessibility. This paper presents Skjold-DiT, a diffusion-transformer framework that"
+  },
+  {
+    "title": "纽约立法者提议暂停新建数据中心三年",
+    "url": "https://techcrunch.com/2026/02/07/new-york-lawmakers-propose-a-three-year-pause-on-new-data-centers/",
+    "content": "尽管该法案的前景尚不确定，但纽约至少是第六个考虑暂停新数据中心建设的州。",
+    "publish_time": "Sat, 07 Fe",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-02-10T11:45:14.789988",
+    "fetch_method": "RSS",
+    "original_title": "New York lawmakers propose a 3-year pause on new data centers",
+    "original_content": "Although the bill’s prospects are uncertain, New York is at least the sixth state to consider pausing construction of new data centers."
+  },
+  {
+    "title": "也许人工智能代理人毕竟可以成为律师",
+    "url": "https://techcrunch.com/2026/02/06/maybe-ai-agents-can-be-lawyers-after-all/",
+    "content": "本周发布的 Opus 4.6 震撼了代理 AI 排行榜。",
+    "publish_time": "Fri, 06 Fe",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-02-10T11:45:14.790018",
+    "fetch_method": "RSS",
+    "original_title": "Maybe AI agents can be lawyers after all",
+    "original_content": "This week's release of Opus 4.6 shook up the agentic AI leaderboards."
+  },
+  {
+    "title": "通过基于置信度的过滤在扩散模型中出现潜在结构",
+    "url": "https://arxiv.org/abs/2602.06155",
+    "content": "arXiv:2602.06155v1 公告类型：新 \n摘要：扩散模型依赖于初始噪声种子的高维潜在空间，但仍不清楚该空间是否包含足够的结构来预测生成样本的属性（例如它们的类别）。在这项工作中，我们研究",
+    "publish_time": "Mon, 09 Fe",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-02-10T11:45:14.790547",
+    "fetch_method": "RSS",
+    "original_title": "Latent Structure Emergence in Diffusion Models via Confidence-Based Filtering",
+    "original_content": "arXiv:2602.06155v1 Announce Type: new \nAbstract: Diffusion models rely on a high-dimensional latent space of initial noise seeds, yet it remains unclear whether this space contains sufficient structure to predict properties of the generated samples, such as their classes. In this work, we investigat"
+  },
+  {
+    "title": "DevDay 发布的 AMA",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/",
+    "content": "这是历史上成为建设者的最好时代。在 DevDay 2025 上，我们推出了下一代工具和模型，以帮助开发人员更快地编码、更可靠地构建代理并扩展他们的应用程序",
+    "publish_time": "2026-02-09",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-02-10T11:45:29.577083",
+    "original_title": "AMA on our DevDay Launches",
+    "original_content": "Its the best time in history to be a builder. At DevDay 2025, we introduced the next generation of tools and models to help developers code faster, build agents more reliably, and scale their apps in "
+  },
+  {
+    "title": "编辑部",
+    "source": "www.anthropic.com",
+    "content": "我们已经做出选择，克劳德将保持无广告状态。我们解释了为什么广告激励与真正有用的人工智能助手不兼容，以及我们计划如何在不损害用户信任的情况下扩大访问范围。正在升级我们最智能的模型。跨越代理编码、计算机使用、工具使用、搜索和",
+    "url": "https://www.anthropic.com/news",
+    "publish_time": "2026-02-09",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-02-10T11:45:29.576665",
+    "original_title": "Newsroom",
+    "original_content": "Weve made a choice Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust. Were upgrading our smartest model. Across agentic coding, computer use, tool use, search, and"
+  },
+  {
+    "title": "消息",
+    "source": "deepmind.google",
+    "content": "发现我们最新的人工智能突破、项目和更新 我接受 Google 的条款和条件，并确认我的信息将按照 Google 的隐私政策使用。",
+    "url": "https://deepmind.google/blog/",
+    "publish_time": "2026-02-09",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-02-10T11:45:29.576718",
+    "original_title": "News",
+    "original_content": "Discover our latest AI breakthroughs, projects, and updates I accept Google's Terms and Conditions and acknowledge that my information will be used in accordance withGoogle's Privacy Policy."
+  }
+]
