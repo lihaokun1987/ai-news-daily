@@ -1,0 +1,202 @@
+[
+  {
+    "title": "GitHub 前首席执行官推出新的 AI 代理开发者平台",
+    "url": "https://entire.io/blog/hello-entire-world/",
+    "content": "",
+    "publish_time": "2026-02-10",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 378,
+      "comments": 332
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=46961345",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 6.55
+    },
+    "collection_time": "2026-02-11T11:42:48.633971",
+    "original_title": "Ex-GitHub CEO launches a new developer platform for AI agents",
+    "original_content": ""
+  },
+  {
+    "title": "下载：帮助癌症幸存者生育并清理孟加拉国的服装业",
+    "url": "https://www.technologyreview.com/2026/02/06/1132375/the-download-helping-cancer-survivors-to-give-birth-and-cleaning-up-bangladeshs-garment-industry/",
+    "content": "这是今天版本的《下载》，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。一项实验性手术正在帮助癌症幸存者分娩 一项实验性手术正在帮助人们在产后生育",
+    "publish_time": "Fri, 06 Fe",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-02-11T11:42:34.660792",
+    "fetch_method": "RSS",
+    "original_title": "The Download: helping cancer survivors to give birth, and cleaning up Bangladesh’s garment industry",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. An experimental surgery is helping cancer survivors give birth An experimental surgical procedure that’s helping people have babies after they’ve had "
+  },
+  {
+    "title": "用于学习和神经网络的特色再现内核 Banach 空间",
+    "url": "https://arxiv.org/abs/2602.07141",
+    "content": "arXiv:2602.07141v1 公告类型：新 \n摘要：再现核希尔伯特空间为基于核的学习提供了一个基础框架，其中正则化和插值问题通过经典表示定理承认有限维解。然而，许多现代学习模式",
+    "publish_time": "Tue, 10 Fe",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-02-11T11:42:34.661363",
+    "fetch_method": "RSS",
+    "original_title": "Featured Reproducing Kernel Banach Spaces for Learning and Neural Networks",
+    "original_content": "arXiv:2602.07141v1 Announce Type: new \nAbstract: Reproducing kernel Hilbert spaces provide a foundational framework for kernel-based learning, where regularization and interpolation problems admit finite-dimensional solutions through classical representer theorems. Many modern learning models, howev"
+  },
+  {
+    "title": "深度学习中的凸优势 I：损失和学习率的缩放定律",
+    "url": "https://arxiv.org/abs/2602.07145",
+    "content": "arXiv:2602.07145v1 公告类型：新 \n摘要：深度学习具有非凸损失景观，其优化动态难以分析或控制。然而，在不同的任务、模型、优化器、超参数等中，动态性在经验上可以是凸状的。在这项工作中，我们研究了",
+    "publish_time": "Tue, 10 Fe",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-02-11T11:42:34.661385",
+    "fetch_method": "RSS",
+    "original_title": "Convex Dominance in Deep Learning I: A Scaling Law of Loss and Learning Rate",
+    "original_content": "arXiv:2602.07145v1 Announce Type: new \nAbstract: Deep learning has non-convex loss landscape and its optimization dynamics is hard to analyze or control. Nevertheless, the dynamics can be empirically convex-like across various tasks, models, optimizers, hyperparameters, etc. In this work, we examine"
+  },
+  {
+    "title": "OpenAI 放弃其人工智能硬件的“io”品牌",
+    "url": "https://www.wired.com/story/openai-drops-io-branding-hardware-devices/",
+    "content": "法庭提交的一份商标诉讼文件显示，OpenAI 不会在其人工智能硬件设备上使用“io”这个名称，该设备预计要到 2027 年才会发货。",
+    "publish_time": "Tue, 10 Fe",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-02-11T11:42:34.660827",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI Abandons ‘io’ Branding for Its AI Hardware",
+    "original_content": "A court filing in a trademark lawsuit reveals OpenAI won't use the name “io” for its AI hardware device, which isn't expected to ship until 2027."
+  },
+  {
+    "title": "据报道，反对聊天机器人“成人模式”的 OpenAI 政策执行官因歧视指控而被解雇",
+    "url": "https://techcrunch.com/2026/02/10/openai-policy-exec-who-opposed-chatbots-adult-mode-reportedly-fired-on-discrimination-claim/",
+    "content": "这位高管否认了有关她存在歧视的指控。",
+    "publish_time": "Wed, 11 Fe",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-02-11T11:42:34.660903",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI policy exec who opposed chatbot’s “adult mode” reportedly fired on discrimination claim",
+    "original_content": "The executive has denied the allegation that she engaged in discrimination."
+  },
+  {
+    "title": "亚马逊可能会推出一个市场，媒体网站可以将其内容出售给人工智能公司",
+    "url": "https://techcrunch.com/2026/02/10/amazon-may-launch-a-marketplace-where-media-sites-can-sell-their-content-to-ai-companies/",
+    "content": "一份新报告称，这家电子商务巨头正在寻求在媒体出版商和人工智能公司之间创建一条可授权内容的管道。",
+    "publish_time": "Tue, 10 Fe",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-02-11T11:42:34.660928",
+    "fetch_method": "RSS",
+    "original_title": "Amazon may launch a marketplace where media sites can sell their content to AI companies",
+    "original_content": "A new report claims the e-commerce giant is looking to create a pipeline of licensable content between media publishers and AI companies."
+  },
+  {
+    "title": "克灵AI推出3.0模式，开启人人都可以当导演的时代",
+    "url": "https://www.reddit.com/r/artificial/comments/1r0ww09/kling_ai_launches_30_model_ushering_in_an_era/",
+    "content": "32 提交者 32 uboppinmule 链接 32 条评论",
+    "publish_time": "2026-02-10",
+    "source": "Reddit r/artificial",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-02-11T11:42:48.633713",
+    "original_title": "Kling AI Launches 3.0 Model, Ushering in an Era Where Everyone Can Be a Director",
+    "original_content": "32 submitted by 32 uboppinmule link 32 comments"
+  },
+  {
+    "title": "DevDay 发布的 AMA",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/",
+    "content": "这是历史上成为建设者的最好时代。在 DevDay 2025 上，我们推出了下一代工具和模型，以帮助开发人员更快地编码、更可靠地构建代理并扩展他们的应用程序",
+    "publish_time": "2026-02-10",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-02-11T11:42:48.633854",
+    "original_title": "AMA on our DevDay Launches",
+    "original_content": "Its the best time in history to be a builder. At DevDay 2025, we introduced the next generation of tools and models to help developers code faster, build agents more reliably, and scale their apps in "
+  },
+  {
+    "title": "计划于本周发布的“更新的聊天模型”已于今天发布。",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1r1iilr/the_updated_chat_model_planned_for_this_week_that/",
+    "content": "32 提交者 32 umrfabi 链接 32 条评论",
+    "publish_time": "2026-02-10",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-02-11T11:42:48.633876",
+    "original_title": "The ‘updated Chat model’ planned for this week, that released today.",
+    "original_content": "32 submitted by 32 umrfabi link 32 comments"
+  }
+]
