@@ -1,0 +1,204 @@
+[
+  {
+    "title": "OmniSapiens：通过异质性感知相对策略优化进行社会行为处理的基础模型",
+    "url": "https://arxiv.org/abs/2602.10635",
+    "content": "arXiv:2602.10635v1 公告类型：新 \n摘要：为了开发社交智能人工智能，现有方法通常对人类行为维度（例如情感、认知或社交属性）进行孤立建模。尽管有用，但特定于任务的建模通常会增加培训成本并限制基因",
+    "publish_time": "Thu, 12 Fe",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-02-13T11:35:22.843106",
+    "fetch_method": "RSS",
+    "original_title": "OmniSapiens: A Foundation Model for Social Behavior Processing via Heterogeneity-Aware Relative Policy Optimization",
+    "original_content": "arXiv:2602.10635v1 Announce Type: new \nAbstract: To develop socially intelligent AI, existing approaches typically model human behavioral dimensions (e.g., affective, cognitive, or social attributes) in isolation. Although useful, task-specific modeling often increases training costs and limits gene"
+  },
+  {
+    "title": "OpenAI 解散任务调整团队",
+    "url": "https://techcrunch.com/2026/02/11/openai-disbands-mission-alignment-team-which-focused-on-safe-and-trustworthy-ai-development/",
+    "content": "该团队的领导者被任命为 OpenAI 的首席未来学家，而其他团队成员则在整个公司进行了重新分配。",
+    "publish_time": "Wed, 11 Fe",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-02-13T11:35:22.842576",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI disbands mission alignment team",
+    "original_content": "The team's leader has been given a new role as OpenAI's chief futurist, while the other team members have been reassigned throughout the company."
+  },
+  {
+    "title": "Uber Eats 推出人工智能助手，帮助创建杂货车",
+    "url": "https://techcrunch.com/2026/02/11/uber-eats-launches-ai-assistant-to-help-with-grocery-cart-creation/",
+    "content": "Uber Eats 推出了一项新的人工智能功能“购物车助手”，可以根据文本或图像提示自动将商品添加到购物车中。",
+    "publish_time": "Wed, 11 Fe",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-02-13T11:35:22.842600",
+    "fetch_method": "RSS",
+    "original_title": "Uber Eats launches AI assistant to help with grocery cart creation",
+    "original_content": "Uber Eats launched a new AI feature, “Cart Assistant,” that can automatically add items to your cart based on text or image prompts."
+  },
+  {
+    "title": "我很喜欢我的 OpenClaw AI 代理——直到它对我发起攻击",
+    "url": "https://www.wired.com/story/malevolent-ai-agent-openclaw-clawdbot/",
+    "content": "我使用病毒式人工智能助手来订购杂货、分类电子邮件和谈判交易。然后它决定欺骗我。",
+    "publish_time": "Wed, 11 Fe",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-02-13T11:35:22.842710",
+    "fetch_method": "RSS",
+    "original_title": "I Loved My OpenClaw AI Agent—Until It Turned on Me",
+    "original_content": "I used the viral AI helper to order groceries, sort emails, and negotiate deals. Then it decided to scam me."
+  },
+  {
+    "title": "OpenAI 放弃其人工智能硬件的“io”品牌",
+    "url": "https://www.wired.com/story/openai-drops-io-branding-hardware-devices/",
+    "content": "法庭提交的一份商标诉讼文件显示，OpenAI 不会在其人工智能硬件设备上使用“io”这个名称，该设备预计要到 2027 年才会发货。",
+    "publish_time": "Tue, 10 Fe",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-02-13T11:35:22.842747",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI Abandons ‘io’ Branding for Its AI Hardware",
+    "original_content": "A court filing in a trademark lawsuit reveals OpenAI won't use the name “io” for its AI hardware device, which isn't expected to ship until 2027."
+  },
+  {
+    "title": "欧洲主要付款处理机构无法向 Google Workspace 用户发送电子邮件",
+    "url": "https://atha.io/blog/2026-02-12-viva",
+    "content": "",
+    "publish_time": "2026-02-12",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 465,
+      "comments": 312
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=46989217",
+    "score": {
+      "importance": 5,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.0
+    },
+    "collection_time": "2026-02-13T11:35:40.527529",
+    "original_title": "Major European payment processor can't send email to Google Workspace users",
+    "original_content": ""
+  },
+  {
+    "title": "Anthropic 在 G 轮融资中筹集了 30B 美元，投后估值为 380B 美元",
+    "url": "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
+    "content": "",
+    "publish_time": "2026-02-12",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 287,
+      "comments": 295
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=46993345",
+    "score": {
+      "importance": 5,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.0
+    },
+    "collection_time": "2026-02-13T11:35:40.527541",
+    "original_title": "Anthropic raises $30B in Series G funding at $380B post-money valuation",
+    "original_content": ""
+  },
+  {
+    "title": "启动 HN：Omnara (YC S25) – 从任何地方运行 Claude 代码和 Codex",
+    "url": "https://news.ycombinator.com/item?id=46991591",
+    "content": "大家好，这里是来自 Omnara (https://www.omnara.com/) 的 Kartik、Ishaan 和 Christian。我们正在为 Claude Code 和 Codex 构建一个 Web 和移动代理 IDE，让您可以从任何地方运行编码代理并与之交互。 Omnara 允许您在自己的计算机上运行 Claude Code 和 Codex 会话，并展示",
+    "publish_time": "Thu, 12 Fe",
+    "source": "Hacker News Front Page",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-02-13T11:35:22.843796",
+    "fetch_method": "RSS",
+    "original_title": "Launch HN: Omnara (YC S25) – Run Claude Code and Codex from anywhere",
+    "original_content": "Hey y’all, Kartik, Ishaan, and Christian from Omnara (https://www.omnara.com/) here. We’re building a web and mobile agentic IDE for Claude Code and Codex that lets you run and interact with coding agents from anywhere. Omnara lets you run Claude Code and Codex sessions on your own machine, and expo"
+  },
+  {
+    "title": "[D] 我们扫描了 18,000 个暴露的 OpenClaw 实例，发现 15% 的社区技能包含恶意指令",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1r30nzv/d_we_scanned_18000_exposed_openclaw_instances_and/",
+    "content": "我从事安全研究，最近在 OpenClaw 爆发后开始研究自主代理。老实说，我的发现让我措手不及。我知道生态系统正在快速发展 165k GitHub star，60k",
+    "publish_time": "2026-02-12",
+    "source": "Reddit r/MachineLearning",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-02-13T11:35:40.527275",
+    "original_title": "[D] We scanned 18,000 exposed OpenClaw instances and found 15% of community skills contain malicious instructions",
+    "original_content": "I do security research and recently started looking at autonomous agents after OpenClaw blew up. What I found honestly caught me off guard. I knew the ecosystem was growing fast 165k GitHub stars, 60k"
+  },
+  {
+    "title": "DevDay 发布的 AMA",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/",
+    "content": "这是历史上成为建设者的最好时代。在 DevDay 2025 上，我们推出了下一代工具和模型，以帮助开发人员更快地编码、更可靠地构建代理并扩展他们的应用程序",
+    "publish_time": "2026-02-12",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-02-13T11:35:40.527360",
+    "original_title": "AMA on our DevDay Launches",
+    "original_content": "Its the best time in history to be a builder. At DevDay 2025, we introduced the next generation of tools and models to help developers code faster, build agents more reliably, and scale their apps in "
+  }
+]
