@@ -1,0 +1,200 @@
+[
+  {
+    "title": "绘制科学多学科学习中法学硕士微调的经验法则",
+    "url": "https://arxiv.org/abs/2602.11215",
+    "content": "arXiv:2602.11215v1 公告类型：新 \n摘要：虽然大语言模型（LLM）通过在各个科学领域内的微调取得了强大的性能，但它们在多学科背景下的学习动态仍然知之甚少，尽管它有望提高泛化能力。",
+    "publish_time": "Fri, 13 Fe",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-02-14T11:22:14.463183",
+    "fetch_method": "RSS",
+    "original_title": "Charting Empirical Laws for LLM Fine-Tuning in Scientific Multi-Discipline Learning",
+    "original_content": "arXiv:2602.11215v1 Announce Type: new \nAbstract: While large language models (LLMs) have achieved strong performance through fine-tuning within individual scientific domains, their learning dynamics in multi-disciplinary contexts remains poorly understood, despite the promise of improved generalizat"
+  },
+  {
+    "title": "我很喜欢我的 OpenClaw AI 代理——直到它对我发起攻击",
+    "url": "https://www.wired.com/story/malevolent-ai-agent-openclaw-clawdbot/",
+    "content": "我使用病毒式人工智能助手来订购杂货、分类电子邮件和谈判交易。然后它决定欺骗我。",
+    "publish_time": "Wed, 11 Fe",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-02-14T11:22:14.462506",
+    "fetch_method": "RSS",
+    "original_title": "I Loved My OpenClaw AI Agent—Until It Turned on Me",
+    "original_content": "I used the viral AI helper to order groceries, sort emails, and negotiate deals. Then it decided to scam me."
+  },
+  {
+    "title": "TRACER：主体推理中关键事件的轨迹风险聚合",
+    "url": "https://arxiv.org/abs/2602.11409",
+    "content": "arXiv:2602.11409v1 公告类型：新 \n摘要：在现实世界中使用多轮工具与人类交互中估计人工智能代理的不确定性是很困难的，因为失败通常是由稀疏的关键事件（例如循环、不连贯的工具使用或用户代理不协调）触发的，即使在",
+    "publish_time": "Fri, 13 Fe",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-02-14T11:22:14.463529",
+    "fetch_method": "RSS",
+    "original_title": "TRACER: Trajectory Risk Aggregation for Critical Episodes in Agentic Reasoning",
+    "original_content": "arXiv:2602.11409v1 Announce Type: new \nAbstract: Estimating uncertainty for AI agents in real-world multi-turn tool-using interaction with humans is difficult because failures are often triggered by sparse critical episodes (e.g., looping, incoherent tool use, or user-agent miscoordination) even whe"
+  },
+  {
+    "title": "CBP 与 Clearview AI 签署协议，利用人脸识别进行“战术定位”",
+    "url": "https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/",
+    "content": "",
+    "publish_time": "2026-02-13",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 258,
+      "comments": 149
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=47005081",
+    "score": {
+      "importance": 5,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.0
+    },
+    "collection_time": "2026-02-14T11:22:29.183083",
+    "original_title": "CBP signs Clearview AI deal to use face recognition for 'tactical targeting'",
+    "original_content": ""
+  },
+  {
+    "title": "DevDay 发布的 AMA",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/",
+    "content": "这是历史上成为建设者的最好时代。在 DevDay 2025 上，我们推出了下一代工具和模型，以帮助开发人员更快地编码、更可靠地构建代理并扩展他们的应用程序",
+    "publish_time": "2026-02-13",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-02-14T11:22:29.182898",
+    "original_title": "AMA on our DevDay Launches",
+    "original_content": "Its the best time in history to be a builder. At DevDay 2025, we introduced the next generation of tools and models to help developers code faster, build agents more reliably, and scale their apps in "
+  },
+  {
+    "title": "CBP 签署 Clearview AI 协议，利用人脸识别进行“战术定位”",
+    "url": "https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/",
+    "content": "美国边境巡逻情报部门将获得基于从互联网上抓取的数十亿图像构建的人脸识别工具。",
+    "publish_time": "Wed, 11 Fe",
+    "source": "Wired AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-02-14T11:22:14.462521",
+    "fetch_method": "RSS",
+    "original_title": "CBP Signs Clearview AI Deal to Use Face Recognition for ‘Tactical Targeting’",
+    "original_content": "US Border Patrol intelligence units will gain access to a face recognition tool built on billions of images scraped from the internet."
+  },
+  {
+    "title": "Cohere 每年 2.4 亿美元的收入为 IPO 奠定了基础",
+    "url": "https://techcrunch.com/2026/02/13/coheres-240m-year-sets-stage-for-ipo/",
+    "content": "Cohere 的年度经常性收入到 2025 年将超过 2.4 亿美元，突显了企业对人工智能的强劲需求，因为这家加拿大初创公司在 OpenAI 和 Anthropic 的竞争加剧的情况下为潜在的 IPO 做好了准备。",
+    "publish_time": "Fri, 13 Fe",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-02-14T11:22:14.462654",
+    "fetch_method": "RSS",
+    "original_title": "Cohere’s $240M year sets stage for IPO",
+    "original_content": "Cohere surpassed $240 million in annual recurring revenue in 2025, highlighting strong enterprise AI demand as the Canadian startup positions itself for a potential IPO amid intensifying competition from OpenAI and Anthropic."
+  },
+  {
+    "title": "我放弃了 OpenClaw，构建了一个更安全的 AI 代理（Blink 和 Mac Mini）",
+    "url": "https://coder.com/blog/why-i-ditched-openclaw-and-built-a-more-secure-ai-agent-on-blink-mac-mini",
+    "content": "",
+    "publish_time": "2026-02-13",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 51,
+      "comments": 53
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=47004203",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 6,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-02-14T11:22:29.183167",
+    "original_title": "I ditched OpenClaw and built a more secure AI agent (Blink and Mac Mini)",
+    "original_content": ""
+  },
+  {
+    "title": "编辑部",
+    "source": "www.anthropic.com",
+    "content": "正在升级我们最智能的模型。在代理编码、计算机使用、工具使用、搜索和金融领域，Opus 4.6 是一个行业领先的模型，通常遥遥领先。我们已经筹集了 300 亿美元的 G 轮融资，由 GIC 和 Coatue 领投，Anthropic 的投后估值为 3800 亿美元。该投资将赋",
+    "url": "https://www.anthropic.com/news",
+    "publish_time": "2026-02-13",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-02-14T11:22:29.182528",
+    "original_title": "Newsroom",
+    "original_content": "Were upgrading our smartest model. Across agentic coding, computer use, tool use, search, and finance, Opus 4.6 is an industry-leading model, often by wide margin. We have raised 30 billion in Series G funding led by GIC and Coatue, valuing Anthropic at 380 billion post-money. The investment will fu"
+  },
+  {
+    "title": "消息",
+    "source": "deepmind.google",
+    "content": "发现我们最新的人工智能突破、项目和更新 我接受 Google 的条款和条件，并确认我的信息将按照 Google 的隐私政策使用。",
+    "url": "https://deepmind.google/blog/",
+    "publish_time": "2026-02-13",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-02-14T11:22:29.182597",
+    "original_title": "News",
+    "original_content": "Discover our latest AI breakthroughs, projects, and updates I accept Google's Terms and Conditions and acknowledge that my information will be used in accordance withGoogle's Privacy Policy."
+  }
+]
