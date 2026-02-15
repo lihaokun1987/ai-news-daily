@@ -1,0 +1,194 @@
+[
+  {
+    "title": "我很喜欢我的 OpenClaw AI 代理——直到它对我发起攻击",
+    "url": "https://www.wired.com/story/malevolent-ai-agent-openclaw-clawdbot/",
+    "content": "我使用病毒式人工智能助手来订购杂货、分类电子邮件和谈判交易。然后它决定欺骗我。",
+    "publish_time": "Wed, 11 Fe",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-02-15T11:36:12.410566",
+    "fetch_method": "RSS",
+    "original_title": "I Loved My OpenClaw AI Agent—Until It Turned on Me",
+    "original_content": "I used the viral AI helper to order groceries, sort emails, and negotiate deals. Then it decided to scam me."
+  },
+  {
+    "title": "DevDay 发布的 AMA",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/",
+    "content": "这是历史上成为建设者的最好时代。在 DevDay 2025 上，我们推出了下一代工具和模型，以帮助开发人员更快地编码、更可靠地构建代理并扩展他们的应用程序",
+    "publish_time": "2026-02-14",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-02-15T11:36:36.795077",
+    "original_title": "AMA on our DevDay Launches",
+    "original_content": "Its the best time in history to be a builder. At DevDay 2025, we introduced the next generation of tools and models to help developers code faster, build agents more reliably, and scale their apps in "
+  },
+  {
+    "title": "Cohere 每年 2.4 亿美元的收入为 IPO 奠定了基础",
+    "url": "https://techcrunch.com/2026/02/13/coheres-240m-year-sets-stage-for-ipo/",
+    "content": "Cohere 的年度经常性收入到 2025 年将超过 2.4 亿美元，突显了企业对人工智能的强劲需求，因为这家加拿大初创公司在 OpenAI 和 Anthropic 的竞争加剧的情况下为潜在的 IPO 做好了准备。",
+    "publish_time": "Fri, 13 Fe",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-02-15T11:36:12.410413",
+    "fetch_method": "RSS",
+    "original_title": "Cohere’s $240M year sets stage for IPO",
+    "original_content": "Cohere surpassed $240 million in annual recurring revenue in 2025, highlighting strong enterprise AI demand as the Canadian startup positions itself for a potential IPO amid intensifying competition from OpenAI and Anthropic."
+  },
+  {
+    "title": "CBP 签署 Clearview AI 协议，利用人脸识别进行“战术定位”",
+    "url": "https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/",
+    "content": "美国边境巡逻情报部门将获得基于从互联网上抓取的数十亿图像构建的人脸识别工具。",
+    "publish_time": "Wed, 11 Fe",
+    "source": "Wired AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-02-15T11:36:12.410581",
+    "fetch_method": "RSS",
+    "original_title": "CBP Signs Clearview AI Deal to Use Face Recognition for ‘Tactical Targeting’",
+    "original_content": "US Border Patrol intelligence units will gain access to a face recognition tool built on billions of images scraped from the internet."
+  },
+  {
+    "title": "编辑部",
+    "source": "www.anthropic.com",
+    "content": "正在升级我们最智能的模型。在代理编码、计算机使用、工具使用、搜索和金融领域，Opus 4.6 是一个行业领先的模型，通常遥遥领先。我们已经筹集了 300 亿美元的 G 轮融资，由 GIC 和 Coatue 领投，Anthropic 的投后估值为 3800 亿美元。该投资将赋",
+    "url": "https://www.anthropic.com/news",
+    "publish_time": "2026-02-14",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-02-15T11:36:36.794809",
+    "original_title": "Newsroom",
+    "original_content": "Were upgrading our smartest model. Across agentic coding, computer use, tool use, search, and finance, Opus 4.6 is an industry-leading model, often by wide margin. We have raised 30 billion in Series G funding led by GIC and Coatue, valuing Anthropic at 380 billion post-money. The investment will fu"
+  },
+  {
+    "title": "消息",
+    "source": "deepmind.google",
+    "content": "发现我们最新的人工智能突破、项目和更新 我接受 Google 的条款和条件，并确认我的信息将按照 Google 的隐私政策使用。",
+    "url": "https://deepmind.google/blog/",
+    "publish_time": "2026-02-14",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-02-15T11:36:36.794838",
+    "original_title": "News",
+    "original_content": "Discover our latest AI breakthroughs, projects, and updates I accept Google's Terms and Conditions and acknowledge that my information will be used in accordance withGoogle's Privacy Policy."
+  },
+  {
+    "title": "我们迫切需要一项联邦法律，禁止人工智能冒充人类",
+    "url": "https://garymarcus.substack.com/p/we-urgently-need-a-federal-law-forbidding",
+    "content": "",
+    "publish_time": "2026-02-14",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 17,
+      "comments": 9
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=47017295",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.65
+    },
+    "collection_time": "2026-02-15T11:36:36.795215",
+    "original_title": "We urgently need a federal law forbidding AI from impersonating humans",
+    "original_content": ""
+  },
+  {
+    "title": "Nvidia 价值 1000 亿美元的 OpenAI 交易似乎消失了",
+    "url": "https://arstechnica.com/information-technology/2026/02/five-months-later-nvidias-100-billion-openai-investment-plan-has-fizzled-out/",
+    "content": "投资未能兑现后，两家人工智能巨头动摇了市场信心。",
+    "publish_time": "Tue, 03 Fe",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 5,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.6
+    },
+    "collection_time": "2026-02-15T11:36:12.410871",
+    "fetch_method": "RSS",
+    "original_title": "Nvidia's $100 billion OpenAI deal has seemingly vanished",
+    "original_content": "Two AI giants shake market confidence after investment fails to materialize."
+  },
+  {
+    "title": "研究",
+    "source": "www.anthropic.com",
+    "content": "我们的研究团队调查人工智能模型的安全性、内部运作和社会影响，以便人工智能随着其能力的不断增强而产生积极的影响。可解释性团队的使命是发现和理解大型语言模型的内部工作原理，例如",
+    "url": "https://www.anthropic.com/research",
+    "publish_time": "2026-02-14",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.6
+    },
+    "collection_time": "2026-02-15T11:36:36.794817",
+    "original_title": "Research",
+    "original_content": "Our research teams investigate the safety, inner workings, and societal impacts of AI models so that artificial intelligence has a positive impact as it becomes increasingly capable. The mission of the Interpretability team is to discover and understand how large language models work internally, as "
+  },
+  {
+    "title": "人工智能",
+    "source": "blog.google",
+    "content": "我们正在做的工作是让人工智能为每个人提供帮助。我们将揭开 Nano Banana 的起源故事，它是 Google DeepMinds 最受欢迎的模型之一。让我们保持联系。在收件箱中获取来自 Google 的最新新闻。",
+    "url": "https://blog.google/technology/ai/",
+    "publish_time": "2026-02-14",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.6
+    },
+    "collection_time": "2026-02-15T11:36:36.794823",
+    "original_title": "AI",
+    "original_content": "The work we're doing to make AI helpful for everyone. Were peeling back the origin story of Nano Banana, one of Google DeepMinds most popular models. Lets stay in touch. Get the latest news from Google in your inbox."
+  }
+]
