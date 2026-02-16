@@ -1,0 +1,202 @@
+[
+  {
+    "title": "Sam Altman 正式确认 OpenAI 已收购 OpenClaw；彼得·斯坦伯格将领导私人经纪人",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1r5rnbl/sam_altman_officially_confirms_that_openai_has/",
+    "content": "Sam Altman 宣布 Peter Steinberger 将加入 OpenAI，以推动下一代个人代理的发展。作为此举的一部分，OpenClaw 将作为开源项目过渡到基金会",
+    "publish_time": "2026-02-15",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 8,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.6
+    },
+    "collection_time": "2026-02-16T11:35:26.068820",
+    "original_title": "Sam Altman officially confirms that OpenAI has acquired OpenClaw; Peter Steinberger to lead personal agents",
+    "original_content": "Sam Altman has announced that Peter Steinberger is joining OpenAI to drive the next generation of personal agents. As part of the move, OpenClaw will transition to a foundation as an open-source proje"
+  },
+  {
+    "title": "我很喜欢我的 OpenClaw AI 代理——直到它对我发起攻击",
+    "url": "https://www.wired.com/story/malevolent-ai-agent-openclaw-clawdbot/",
+    "content": "我使用病毒式人工智能助手来订购杂货、分类电子邮件和谈判交易。然后它决定欺骗我。",
+    "publish_time": "Wed, 11 Fe",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-02-16T11:35:02.207626",
+    "fetch_method": "RSS",
+    "original_title": "I Loved My OpenClaw AI Agent—Until It Turned on Me",
+    "original_content": "I used the viral AI helper to order groceries, sort emails, and negotiate deals. Then it decided to scam me."
+  },
+  {
+    "title": "OpenClaw 创始人 Peter Steinberger 加入 OpenAI",
+    "url": "https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai/",
+    "content": "OpenAI 表示 OpenClaw 将作为一个开源项目继续存在。",
+    "publish_time": "Sun, 15 Fe",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-02-16T11:35:02.207661",
+    "fetch_method": "RSS",
+    "original_title": "OpenClaw creator Peter Steinberger joins OpenAI",
+    "original_content": "OpenAI said OpenClaw will live on as an open source project."
+  },
+  {
+    "title": "Palantir 从纽约市公立医院获得数百万美元",
+    "url": "https://theintercept.com/2026/02/15/palantir-contract-new-york-city-health-hospitals/",
+    "content": "",
+    "publish_time": "2026-02-15",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 261,
+      "comments": 99
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=47025624",
+    "score": {
+      "importance": 5,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-02-16T11:35:26.068877",
+    "original_title": "Palantir Gets Millions of Dollars from New York City's Public Hospitals",
+    "original_content": ""
+  },
+  {
+    "title": "显示 HN：Klaw.sh – 用于 AI 代理的 Kubernetes",
+    "url": "https://github.com/klawsh/klaw.sh",
+    "content": "大家好，我经营一家生成式 AI 基础设施公司，为 600 多个模型提供统一 API。我们的团队开始为我们的营销和潜在客户开发操作部署 AI 代理：跨多个 X 帐户的内容、参与度、分析。OpenClaw 对于单个代理来说效果很好。但在 6 个账户中的约 14 名客服人员中，问题就出现了",
+    "publish_time": "Sun, 15 Fe",
+    "source": "Hacker News Front Page",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-02-16T11:35:02.208085",
+    "fetch_method": "RSS",
+    "original_title": "Show HN: Klaw.sh – Kubernetes for AI agents",
+    "original_content": "Hi everyone,I run a generative AI infra company, unified API for 600+ models. Our team started deploying AI agents for our marketing and lead gen ops: content, engagement, analytics across multiple X accounts.OpenClaw worked fine for single agents. But at ~14 agents across 6 accounts, the problem sh"
+  },
+  {
+    "title": "DevDay 发布的 AMA",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/",
+    "content": "这是历史上成为建设者的最好时代。在 DevDay 2025 上，我们推出了下一代工具和模型，以帮助开发人员更快地编码、更可靠地构建代理并扩展他们的应用程序",
+    "publish_time": "2026-02-15",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-02-16T11:35:26.068808",
+    "original_title": "AMA on our DevDay Launches",
+    "original_content": "Its the best time in history to be a builder. At DevDay 2025, we introduced the next generation of tools and models to help developers code faster, build agents more reliably, and scale their apps in "
+  },
+  {
+    "title": "Anthropic 两次威胁要因他的项目名称起诉这个人。现在他加入了 OpenAI，Claws 🦞 正在为他们而来 🤣🤣",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1r5vl11/anthropic_threatened_to_sue_the_guy_over_his/",
+    "content": "32 提交者 32 upy-net 链接 32 条评论",
+    "publish_time": "2026-02-15",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-02-16T11:35:26.068836",
+    "original_title": "Anthropic threatened to sue the guy over his project’s name, twice. Now he’s joined OpenAI and Claws 🦞 are coming for them 🤣🤣",
+    "original_content": "32 submitted by 32 upy-net link 32 comments"
+  },
+  {
+    "title": "OpenClaw 即将关闭Claw...OpenAI 高级会谈聘请 OpenClaw 创始人",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1r5ptks/openclaw_is_about_to_be_closedclawopenai_in/",
+    "content": "我希望我们能得到彼得和他的同事。可惜没有被 OpenAI 雇佣而得到报酬。 httpswww.theinformation.comarticlesopenai-advanced-talks-hire-openclaw-Founder-others-connected-agent-project 文章苏",
+    "publish_time": "2026-02-15",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-02-16T11:35:26.068846",
+    "original_title": "OpenClaw is about to be ClosedClaw...OpenAI in Advanced Talks to Hire OpenClaw Founder",
+    "original_content": "I wish we could get Peter and co. paid without being hired by OpenAI, but alas. httpswww.theinformation.comarticlesopenai-advanced-talks-hire-openclaw-founder-others-connected-agent-project Article Su"
+  },
+  {
+    "title": "编辑部",
+    "source": "www.anthropic.com",
+    "content": "正在升级我们最智能的模型。在代理编码、计算机使用、工具使用、搜索和金融领域，Opus 4.6 是一个行业领先的模型，通常遥遥领先。我们已经筹集了 300 亿美元的 G 轮融资，由 GIC 和 Coatue 领投，Anthropic 的投后估值为 3800 亿美元。该投资将赋",
+    "url": "https://www.anthropic.com/news",
+    "publish_time": "2026-02-15",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-02-16T11:35:26.068566",
+    "original_title": "Newsroom",
+    "original_content": "Were upgrading our smartest model. Across agentic coding, computer use, tool use, search, and finance, Opus 4.6 is an industry-leading model, often by wide margin. We have raised 30 billion in Series G funding led by GIC and Coatue, valuing Anthropic at 380 billion post-money. The investment will fu"
+  },
+  {
+    "title": "消息",
+    "source": "deepmind.google",
+    "content": "发现我们最新的人工智能突破、项目和更新 我接受 Google 的条款和条件，并确认我的信息将按照 Google 的隐私政策使用。",
+    "url": "https://deepmind.google/blog/",
+    "publish_time": "2026-02-15",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-02-16T11:35:26.068595",
+    "original_title": "News",
+    "original_content": "Discover our latest AI breakthroughs, projects, and updates I accept Google's Terms and Conditions and acknowledge that my information will be used in accordance withGoogle's Privacy Policy."
+  }
+]
