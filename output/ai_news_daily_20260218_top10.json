@@ -1,0 +1,198 @@
+[
+  {
+    "title": "出于安全担忧，Meta 和其他科技公司限制 OpenClaw 的使用",
+    "url": "https://www.wired.com/story/openclaw-banned-by-tech-companies-as-security-concerns-mount/",
+    "content": "安全专家敦促人们对这种病毒性人工智能工具保持谨慎，该工具以功能强大但也非常难以预测而闻名。",
+    "publish_time": "Tue, 17 Fe",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-02-18T11:32:33.473498",
+    "fetch_method": "RSS",
+    "original_title": "Meta and Other Tech Firms Put Restrictions on Use of OpenClaw Over Security Fears",
+    "original_content": "Security experts have urged people to be cautious with the viral agentic AI tool, known for being highly capable but also wildly unpredictable."
+  },
+  {
+    "title": "Anthropic 发布 Sonnet 4.6",
+    "url": "https://techcrunch.com/2026/02/17/anthropic-releases-sonnet-4-6/",
+    "content": "Anthropic 发布了中型 Sonnet 模型的新版本，与该公司四个月的更新周期保持同步。",
+    "publish_time": "Tue, 17 Fe",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-02-18T11:32:33.473850",
+    "fetch_method": "RSS",
+    "original_title": "Anthropic releases Sonnet 4.6",
+    "original_content": "Anthropic has released a new version of its midsized Sonnet model, keeping pace with the company's four-month update cycle."
+  },
+  {
+    "title": "欧洲议会以安全风险为由阻止立法者设备上的人工智能",
+    "url": "https://techcrunch.com/2026/02/17/european-parliament-blocks-ai-on-lawmakers-devices-citing-security-risks/",
+    "content": "欧盟立法者发现，由于担心敏感信息可能出现在人工智能公司的美国服务器上，他们的政府发行的设备被禁止使用内置的人工智能工具。",
+    "publish_time": "Tue, 17 Fe",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-02-18T11:32:33.473892",
+    "fetch_method": "RSS",
+    "original_title": "European Parliament blocks AI on lawmakers’ devices, citing security risks",
+    "original_content": "EU lawmakers found their government-issued devices were blocked from using the baked-in AI tools, amid fears that sensitive information could turn up on the U.S. servers of AI companies."
+  },
+  {
+    "title": "Cohere 推出一系列开放式多语言模型",
+    "url": "https://techcrunch.com/2026/02/17/cohere-launches-a-family-of-open-multilingual-models/",
+    "content": "Cohere 的 Tiny Aya 型号支持 70 多种语言",
+    "publish_time": "Tue, 17 Fe",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-02-18T11:32:33.473988",
+    "fetch_method": "RSS",
+    "original_title": "Cohere launches a family of open multilingual models",
+    "original_content": "Cohere's Tiny Aya models support over 70 langauges"
+  },
+  {
+    "title": "Lang2Act：通过自生语言工具链进行细粒度视觉推理",
+    "url": "https://arxiv.org/abs/2602.13235",
+    "content": "arXiv:2602.13235v1 公告类型：新 \n摘要：视觉检索增强生成（VRAG）通过合并外部视觉文档来解决给定的查询，从而增强视觉语言模型（VLM）。现有的 VRAG 框架通常依赖于严格的、预定义的外部工具来扩展感知",
+    "publish_time": "Tue, 17 Fe",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-02-18T11:32:33.474499",
+    "fetch_method": "RSS",
+    "original_title": "Lang2Act: Fine-Grained Visual Reasoning through Self-Emergent Linguistic Toolchains",
+    "original_content": "arXiv:2602.13235v1 Announce Type: new \nAbstract: Visual Retrieval-Augmented Generation (VRAG) enhances Vision-Language Models (VLMs) by incorporating external visual documents to address a given query. Existing VRAG frameworks usually depend on rigid, pre-defined external tools to extend the percept"
+  },
+  {
+    "title": "Mistral AI 在首次收购中收购了 Koyeb，以支持其云计算雄心",
+    "url": "https://techcrunch.com/2026/02/17/mistral-ai-buys-koyeb-in-first-acquisition-to-back-its-cloud-ambitions/",
+    "content": "Mistral AI 已同意收购 Koyeb，这是一家总部位于巴黎的初创公司，该公司大规模简化人工智能应用程序部署并管理其背后的基础设施。",
+    "publish_time": "Tue, 17 Fe",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.05
+    },
+    "collection_time": "2026-02-18T11:32:33.473860",
+    "fetch_method": "RSS",
+    "original_title": "Mistral AI buys Koyeb in first acquisition to back its cloud ambitions",
+    "original_content": "Mistral AI has agreed to buy Koyeb, a Paris-based startup that simplifies AI app deployment at scale and manages the infrastructure behind it."
+  },
+  {
+    "title": "DeepSeek V4即将发布",
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1r71imo/deepseek_v4_release_soon/",
+    "content": "32 提交者 32 utiguidoio 链接 32 条评论",
+    "publish_time": "2026-02-17",
+    "source": "Reddit r/ChatGPT",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-02-18T11:32:47.426378",
+    "original_title": "DeepSeek V4 release soon",
+    "original_content": "32 submitted by 32 utiguidoio link 32 comments"
+  },
+  {
+    "title": "DevDay 发布的 AMA",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/",
+    "content": "这是历史上成为建设者的最好时代。在 DevDay 2025 上，我们推出了下一代工具和模型，以帮助开发人员更快地编码、更可靠地构建代理并扩展他们的应用程序",
+    "publish_time": "2026-02-17",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-02-18T11:32:47.426415",
+    "original_title": "AMA on our DevDay Launches",
+    "original_content": "Its the best time in history to be a builder. At DevDay 2025, we introduced the next generation of tools and models to help developers code faster, build agents more reliably, and scale their apps in "
+  },
+  {
+    "title": "十四行诗 4.6 发布！！文gpt 5.3 ??",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1r7dari/sonnet_46_released_wen_gpt_53/",
+    "content": "32 提交者 32 uInde​​pendent-Wind4462 链接 32 条评论",
+    "publish_time": "2026-02-17",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-02-18T11:32:47.426439",
+    "original_title": "Sonnet 4.6 released!! Wen gpt 5.3 ??",
+    "original_content": "32 submitted by 32 uIndependent-Wind4462 link 32 comments"
+  },
+  {
+    "title": "印度力争到 2028 年吸引超过 200B 美元的人工智能基础设施投资",
+    "url": "https://techcrunch.com/2026/02/17/india-bids-to-attract-over-200b-in-ai-infrastructure-investment-by-2028/",
+    "content": "印度正在加大共享人工智能计算力度，增加了 20,000 个 GPU，作为吸引全球人工智能投资的更广泛举措的一部分。",
+    "publish_time": "Tue, 17 Fe",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-02-18T11:32:33.473927",
+    "fetch_method": "RSS",
+    "original_title": "India bids to attract over $200B in AI infrastructure investment by 2028",
+    "original_content": "India is ramping up shared AI compute, adding 20,000 GPUs as part of a broader push to attract global AI investment."
+  }
+]
