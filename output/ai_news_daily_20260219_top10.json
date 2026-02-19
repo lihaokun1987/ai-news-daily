@@ -1,0 +1,204 @@
+[
+  {
+    "title": "印度人工智能实验室 Sarvam 的新模型是对开源人工智能可行性的重大赌注",
+    "url": "https://techcrunch.com/2026/02/18/indian-ai-lab-sarvams-new-models-are-a-major-bet-on-the-viability-of-open-source-ai/",
+    "content": "新阵容包括 300 亿和 1050 亿参数模型；文本转语音模型；语音到文本模型；以及解析文档的视觉模型。",
+    "publish_time": "Wed, 18 Fe",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 8,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 7.1
+    },
+    "collection_time": "2026-02-19T11:31:36.385199",
+    "fetch_method": "RSS",
+    "original_title": "Indian AI lab Sarvam’s new models are a major bet on the viability of open source AI",
+    "original_content": "The new lineup includes 30-billion- and 105-billion-parameter models; a text-to-speech model; a speech-to-text model; and a vision model to parse documents."
+  },
+  {
+    "title": "OpenAI 收购 OpenClaw 标志着 ChatGPT 时代的结束",
+    "url": "https://venturebeat.com/technology/openais-acquisition-of-openclaw-signals-the-beginning-of-the-end-of-the",
+    "content": "",
+    "publish_time": "2026-02-18",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 7,
+      "comments": 1
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=47067573",
+    "score": {
+      "importance": 8,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.35
+    },
+    "collection_time": "2026-02-19T11:31:53.195281",
+    "original_title": "OpenAI's acquisition of OpenClaw signals the end of the ChatGPT era",
+    "original_content": ""
+  },
+  {
+    "title": "出于安全担忧，Meta 和其他科技公司限制 OpenClaw 的使用",
+    "url": "https://www.wired.com/story/openclaw-banned-by-tech-companies-as-security-concerns-mount/",
+    "content": "安全专家敦促人们对这种病毒性人工智能工具保持谨慎，该工具以功能强大但也非常难以预测而闻名。",
+    "publish_time": "Tue, 17 Fe",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-02-19T11:31:36.384403",
+    "fetch_method": "RSS",
+    "original_title": "Meta and Other Tech Firms Put Restrictions on Use of OpenClaw Over Security Fears",
+    "original_content": "Security experts have urged people to be cautious with the viral agentic AI tool, known for being highly capable but also wildly unpredictable."
+  },
+  {
+    "title": "Anthropic 发布 Sonnet 4.6",
+    "url": "https://techcrunch.com/2026/02/17/anthropic-releases-sonnet-4-6/",
+    "content": "Anthropic 发布了中型 Sonnet 模型的新版本，与该公司四个月的更新周期保持同步。",
+    "publish_time": "Tue, 17 Fe",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-02-19T11:31:36.385218",
+    "fetch_method": "RSS",
+    "original_title": "Anthropic releases Sonnet 4.6",
+    "original_content": "Anthropic has released a new version of its midsized Sonnet model, keeping pace with the company's four-month update cycle."
+  },
+  {
+    "title": "Nvidia 与 Meta 的交易标志着计算能力的新时代",
+    "url": "https://www.wired.com/story/nvidias-deal-with-meta-signals-a-new-era-in-computing-power/",
+    "content": "科技巨头购买分立芯片的时代已经结束。人工智能公司现在需要 GPU、CPU 以及介于两者之间的一切。",
+    "publish_time": "Wed, 18 Fe",
+    "source": "Wired AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.05
+    },
+    "collection_time": "2026-02-19T11:31:36.384328",
+    "fetch_method": "RSS",
+    "original_title": "Nvidia’s Deal With Meta Signals a New Era in Computing Power",
+    "original_content": "The days of tech giants buying up discrete chips are over. AI companies now need GPUs, CPUs, and everything in between."
+  },
+  {
+    "title": "Mistral AI 在首次收购中收购了 Koyeb，以支持其云计算雄心",
+    "url": "https://techcrunch.com/2026/02/17/mistral-ai-buys-koyeb-in-first-acquisition-to-back-its-cloud-ambitions/",
+    "content": "Mistral AI 已同意收购 Koyeb，这是一家总部位于巴黎的初创公司，该公司大规模简化人工智能应用程序部署并管理其背后的基础设施。",
+    "publish_time": "Tue, 17 Fe",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.05
+    },
+    "collection_time": "2026-02-19T11:31:36.385227",
+    "fetch_method": "RSS",
+    "original_title": "Mistral AI buys Koyeb in first acquisition to back its cloud ambitions",
+    "original_content": "Mistral AI has agreed to buy Koyeb, a Paris-based startup that simplifies AI app deployment at scale and manages the infrastructure behind it."
+  },
+  {
+    "title": "我发现克劳德政府埋藏在克劳德桌面二进制文件中。以下是 Anthropic 的构建、部署方式以及他们仍然对五角大楼持的立场。",
+    "url": "https://www.reddit.com/r/artificial/comments/1r7tsff/i_found_claude_for_government_buried_in_the/",
+    "content": "httpsaaddrick.comblogclaude-for-government-the-last-lab-standing 我在 GitHub 上维护 claude-desktop-debian，因此我有完整的构建档案可供比较。克劳德政府出现在",
+    "publish_time": "2026-02-18",
+    "source": "Reddit r/artificial",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-02-19T11:31:53.194708",
+    "original_title": "I found Claude for Government buried in the Claude Desktop binary. Here's what Anthropic built, how it got deployed, and the line they're still holding against the Pentagon.",
+    "original_content": "httpsaaddrick.comblogclaude-for-government-the-last-lab-standing I maintain claude-desktop-debian on GitHub, so I had a full archive of builds to compare against. Claude for Government showed up on An"
+  },
+  {
+    "title": "利用法学硕士的联合共识来消除（或平滑减少）他们自己在决策中的缺陷",
+    "url": "https://www.reddit.com/r/artificial/comments/1r8070j/using_combine_consensus_of_llms_to_remove_or/",
+    "content": "你可能知道LLMS是如何产生幻觉、对冲、不锚定、闲聊等。虽然我们期待着可能会变得更好的新模式，但我们今天、现在能做什么呢？或许不是一个",
+    "publish_time": "2026-02-18",
+    "source": "Reddit r/artificial",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-02-19T11:31:53.194739",
+    "original_title": "Using combine consensus of LLMs to remove (or smooth-reduce) their own flaws in decision making",
+    "original_content": "You probably know how llms hallucinate, hedge, don39t anchor, confabulate, etc. While we look towards new models that are likely to get a bit better, but what can we do today, right now? Perhaps not a"
+  },
+  {
+    "title": "OpenClaw 泄露了 150 万个 API 令牌，包括 OpenAI 密钥——全面安全崩溃",
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1r84u15/openclaw_leaked_15m_api_tokens_including_openai/",
+    "content": "32 提交者 32 uLostPrune2143 链接 32 条评论",
+    "publish_time": "2026-02-18",
+    "source": "Reddit r/ChatGPT",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-02-19T11:31:53.194876",
+    "original_title": "OpenClaw leaked 1.5M API tokens including OpenAI keys — full security breakdown",
+    "original_content": "32 submitted by 32 uLostPrune2143 link 32 comments"
+  },
+  {
+    "title": "DevDay 发布的 AMA",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/",
+    "content": "这是历史上成为建设者的最好时代。在 DevDay 2025 上，我们推出了下一代工具和模型，以帮助开发人员更快地编码、更可靠地构建代理并扩展他们的应用程序",
+    "publish_time": "2026-02-18",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-02-19T11:31:53.194908",
+    "original_title": "AMA on our DevDay Launches",
+    "original_content": "Its the best time in history to be a builder. At DevDay 2025, we introduced the next generation of tools and models to help developers code faster, build agents more reliably, and scale their apps in "
+  }
+]
