@@ -1,0 +1,193 @@
+[
+  {
+    "title": "随着印度增强科技雄心，Reliance 推出 110B 美元人工智能投资计划",
+    "url": "https://techcrunch.com/2026/02/19/reliance-unveils-110b-ai-investment-plan-as-india-ramps-up-tech-ambitions/",
+    "content": "Reliance 已开始在贾姆讷格尔建设数千兆瓦的人工智能数据中心，预计将于 2026 年上线超过 120 兆瓦的容量。",
+    "publish_time": "Thu, 19 Fe",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 8,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.9
+    },
+    "collection_time": "2026-02-20T11:26:25.160746",
+    "fetch_method": "RSS",
+    "original_title": "Reliance unveils $110B AI investment plan as India ramps up tech ambitions",
+    "original_content": "Reliance has begun building multi-gigawatt AI data centers in Jamnagar, with more than 120 MW of capacity expected to come online in 2026."
+  },
+  {
+    "title": "出于安全担忧，Meta 和其他科技公司限制 OpenClaw 的使用",
+    "url": "https://www.wired.com/story/openclaw-banned-by-tech-companies-as-security-concerns-mount/",
+    "content": "安全专家敦促人们对这种病毒性人工智能工具保持谨慎，该工具以功能强大但也非常难以预测而闻名。",
+    "publish_time": "Tue, 17 Fe",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-02-20T11:26:25.160868",
+    "fetch_method": "RSS",
+    "original_title": "Meta and Other Tech Firms Put Restrictions on Use of OpenClaw Over Security Fears",
+    "original_content": "Security experts have urged people to be cautious with the viral agentic AI tool, known for being highly capable but also wildly unpredictable."
+  },
+  {
+    "title": "从整合混乱到数字清晰：Nutrien Ag Solutions 的收购后重置",
+    "url": "https://www.technologyreview.com/2026/02/19/1133320/from-integration-chaos-to-digital-clarity-nutrien-ag-solutions-post-acquisition-reset/",
+    "content": "感谢您加入我们的“企业人工智能中心”。在印孚瑟斯知识学院播客的这一集中，Dylan Cosper 与澳大利亚 Nutrien Ag Solutions 的应用程序和数据主管 Sriram Kalyan 讨论了如何将高风险的收购后 IT 环境转变为可扩展的解决方案",
+    "publish_time": "Thu, 19 Fe",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-02-20T11:26:25.161140",
+    "fetch_method": "RSS",
+    "original_title": "From integration chaos to digital clarity: Nutrien Ag Solutions’ post-acquisition reset",
+    "original_content": "Thank you for joining us on the &#8220;Enterprise AI hub.&#8221; In this episode of the Infosys Knowledge Institute Podcast, Dylan Cosper speaks with Sriram Kalyan, head of applications and data at Nutrien Ag Solutions, Australia, about turning a high-risk post-acquisition IT landscape into a scalab"
+  },
+  {
+    "title": "能力出现的剖析：神经网络中的尺度不变表示崩溃和自上而下的重组",
+    "url": "https://arxiv.org/abs/2602.15997",
+    "content": "arXiv:2602.15997v1 公告类型：新 \n摘要：神经网络训练期间的能力出现在机制上仍然是不透明的。我们跟踪五个模型尺度（405K-85M 参数）的五个几何度量、八个算法任务中的 120 多个涌现事件以及三个 Pythia 语言模型（16",
+    "publish_time": "Thu, 19 Fe",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-02-20T11:26:25.161760",
+    "fetch_method": "RSS",
+    "original_title": "Anatomy of Capability Emergence: Scale-Invariant Representation Collapse and Top-Down Reorganization in Neural Networks",
+    "original_content": "arXiv:2602.15997v1 Announce Type: new \nAbstract: Capability emergence during neural network training remains mechanistically opaque. We track five geometric measures across five model scales (405K-85M parameters), 120+ emergence events in eight algorithmic tasks, and three Pythia language models (16"
+  },
+  {
+    "title": "Nvidia 与 Meta 的交易标志着计算能力的新时代",
+    "url": "https://www.wired.com/story/nvidias-deal-with-meta-signals-a-new-era-in-computing-power/",
+    "content": "科技巨头购买分立芯片的时代已经结束。人工智能公司现在需要 GPU、CPU 以及介于两者之间的一切。",
+    "publish_time": "Wed, 18 Fe",
+    "source": "Wired AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.05
+    },
+    "collection_time": "2026-02-20T11:26:25.160832",
+    "fetch_method": "RSS",
+    "original_title": "Nvidia’s Deal With Meta Signals a New Era in Computing Power",
+    "original_content": "The days of tech giants buying up discrete chips are over. AI companies now need GPUs, CPUs, and everything in between."
+  },
+  {
+    "title": "Anthropic 正式禁止第三方使用订阅授权",
+    "url": "https://code.claude.com/docs/en/legal-and-compliance",
+    "content": "文章网址：https://code.claude.com/docs/en/legal-and-compliance\n评论网址：https://news.ycombinator.com/item?id=47069299\n积分：620\n# 评论: 740",
+    "publish_time": "Thu, 19 Fe",
+    "source": "Hacker News Best",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-02-20T11:26:25.161437",
+    "fetch_method": "RSS",
+    "original_title": "Anthropic officially bans using subscription auth for third party use",
+    "original_content": "Article URL: https://code.claude.com/docs/en/legal-and-compliance\nComments URL: https://news.ycombinator.com/item?id=47069299\nPoints: 620\n# Comments: 740"
+  },
+  {
+    "title": "DevDay 发布的 AMA",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/",
+    "content": "这是历史上成为建设者的最好时代。在 DevDay 2025 上，我们推出了下一代工具和模型，以帮助开发人员更快地编码、更可靠地构建代理并扩展他们的应用程序",
+    "publish_time": "2026-02-19",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-02-20T11:26:39.965475",
+    "original_title": "AMA on our DevDay Launches",
+    "original_content": "Its the best time in history to be a builder. At DevDay 2025, we introduced the next generation of tools and models to help developers code faster, build agents more reliably, and scale their apps in "
+  },
+  {
+    "title": "据报道 OpenAI 以超过 850B 估值完成 100B 美元交易",
+    "url": "https://techcrunch.com/2026/02/19/openai-reportedly-finalizing-100b-deal-at-more-than-850b-valuation/",
+    "content": "据报道，OpenAI 即将完成一项价值 1000 亿美元的交易，支持者包括亚马逊、Nvidia、软银和微软。这笔交易将使 ChatGPT 制造商的估值达到 8500 亿美元。",
+    "publish_time": "Thu, 19 Fe",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-02-20T11:26:25.160654",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI reportedly finalizing $100B deal at more than $850B valuation",
+    "original_content": "OpenAI is reportedly getting close to closing a $100 billion deal, with backers including Amazon, Nvidia, SoftBank, and Microsoft. The deal would value the ChatGPT-maker at $850 billion."
+  },
+  {
+    "title": "OpenAI 与 Pine Labs 金融科技合作伙伴关系深化印度业务",
+    "url": "https://techcrunch.com/2026/02/18/openai-deepens-india-push-with-pine-labs-fintech-partnership/",
+    "content": "OpenAI 通过与 Pine Labs 达成的一项针对企业支付和人工智能驱动的商务的交易，超越了印度的 ChatGPT。",
+    "publish_time": "Thu, 19 Fe",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-02-20T11:26:25.160772",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI deepens India push with Pine Labs fintech partnership",
+    "original_content": "OpenAI moves beyond ChatGPT in India with a Pine Labs deal targeting enterprise payments and AI-driven commerce."
+  },
+  {
+    "title": "编辑部",
+    "source": "www.anthropic.com",
+    "content": "Sonnet 4.6 在编码、代理和大规模专业工作方面提供前沿性能。正在升级我们最智能的模型。在代理编码、计算机使用、工具使用、搜索和金融领域，Opus 4.6 是一个行业领先的模型，通常遥遥领先。我们已经做出选择，克劳德将继续留任",
+    "url": "https://www.anthropic.com/news",
+    "publish_time": "2026-02-19",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-02-20T11:26:39.965179",
+    "original_title": "Newsroom",
+    "original_content": "Sonnet 4.6 delivers frontier performance across coding, agents, and professional work at scale. Were upgrading our smartest model. Across agentic coding, computer use, tool use, search, and finance, Opus 4.6 is an industry-leading model, often by wide margin. Weve made a choice Claude will remain ad"
+  }
+]
