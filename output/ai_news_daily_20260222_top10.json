@@ -1,0 +1,204 @@
+[
+  {
+    "title": "Ollama 0.17 发布，改进了 OpenClaw 入门",
+    "url": "https://www.reddit.com/r/artificial/comments/1rba9ie/ollama_017_released_with_improved_openclaw/",
+    "content": "32 提交者 32 uFcking_Chuck 链接 32 条评论",
+    "publish_time": "2026-02-21",
+    "source": "Reddit r/artificial",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 9,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.95
+    },
+    "collection_time": "2026-02-22T11:30:52.427858",
+    "original_title": "Ollama 0.17 released with improved OpenClaw onboarding",
+    "original_content": "32 submitted by 32 uFcking_Chuck link 32 comments"
+  },
+  {
+    "title": "爪子现在是法学硕士代理人之上的新层",
+    "url": "https://twitter.com/karpathy/status/2024987174077432126",
+    "content": "",
+    "publish_time": "2026-02-21",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 211,
+      "comments": 661
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=47096253",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 6.55
+    },
+    "collection_time": "2026-02-22T11:30:52.428222",
+    "original_title": "Claws are now a new layer on top of LLM agents",
+    "original_content": ""
+  },
+  {
+    "title": "随着竞争加剧，印度 Sarvam 推出 Indus AI 聊天应用程序",
+    "url": "https://techcrunch.com/2026/02/20/indias-sarvam-launches-indus-ai-chat-app-as-competition-heats-up/",
+    "content": "Sarvam 的 Indus 聊天应用程序目前处于测试阶段。",
+    "publish_time": "Sat, 21 Fe",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-02-22T11:30:37.877059",
+    "fetch_method": "RSS",
+    "original_title": "India’s Sarvam launches Indus AI chat app as competition heats up",
+    "original_content": "Sarvam's Indus chat app is currently available in beta."
+  },
+  {
+    "title": "Nvidia 与 Meta 的交易标志着计算能力的新时代",
+    "url": "https://www.wired.com/story/nvidias-deal-with-meta-signals-a-new-era-in-computing-power/",
+    "content": "科技巨头购买分立芯片的时代已经结束。人工智能公司现在需要 GPU、CPU 以及介于两者之间的一切。",
+    "publish_time": "Wed, 18 Fe",
+    "source": "Wired AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.05
+    },
+    "collection_time": "2026-02-22T11:30:37.877654",
+    "fetch_method": "RSS",
+    "original_title": "Nvidia’s Deal With Meta Signals a New Era in Computing Power",
+    "original_content": "The days of tech giants buying up discrete chips are over. AI companies now need GPUs, CPUs, and everything in between."
+  },
+  {
+    "title": "zclaw：个人人工智能助手，小于 888 KB，在 ESP32 上运行",
+    "url": "https://github.com/tnm/zclaw",
+    "content": "",
+    "publish_time": "2026-02-21",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 117,
+      "comments": 61
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=47100232",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 7,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.05
+    },
+    "collection_time": "2026-02-22T11:30:52.428296",
+    "original_title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
+    "original_content": ""
+  },
+  {
+    "title": "律师称，在 NotebookLM 上传后，谷歌关闭了他的 Gmail、语音和照片",
+    "url": "https://www.reddit.com/r/artificial/comments/1raulde/lawyer_says_google_shut_down_his_gmail_voice_and/",
+    "content": "他的案例凸显了一个更广泛的问题，因为美国的人工智能工具阻止了对敏感公共记录的分析，包括爱泼斯坦档案中的文件。 32 提交者 32 ujmdglss 链接 32 条评论",
+    "publish_time": "2026-02-21",
+    "source": "Reddit r/artificial",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-02-22T11:30:52.427840",
+    "original_title": "Lawyer says Google shut down his Gmail, Voice and Photos after NotebookLM upload",
+    "original_content": "His case highlights a broader issue as U.S.-based AI tools block analysis of sensitive public records, including documents from the Epstein files. 32 submitted by 32 ujmdglss link 32 comments"
+  },
+  {
+    "title": "DevDay 发布的 AMA",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/",
+    "content": "这是历史上成为建设者的最好时代。在 DevDay 2025 上，我们推出了下一代工具和模型，以帮助开发人员更快地编码、更可靠地构建代理并扩展他们的应用程序",
+    "publish_time": "2026-02-21",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-02-22T11:30:52.428088",
+    "original_title": "AMA on our DevDay Launches",
+    "original_content": "Its the best time in history to be a builder. At DevDay 2025, we introduced the next generation of tools and models to help developers code faster, build agents more reliably, and scale their apps in "
+  },
+  {
+    "title": "编辑部",
+    "source": "www.anthropic.com",
+    "content": "Sonnet 4.6 在编码、代理和大规模专业工作方面提供前沿性能。正在升级我们最智能的模型。在代理编码、计算机使用、工具使用、搜索和金融领域，Opus 4.6 是一个行业领先的模型，通常遥遥领先。我们已经做出选择，克劳德将继续留任",
+    "url": "https://www.anthropic.com/news",
+    "publish_time": "2026-02-21",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-02-22T11:30:52.427725",
+    "original_title": "Newsroom",
+    "original_content": "Sonnet 4.6 delivers frontier performance across coding, agents, and professional work at scale. Were upgrading our smartest model. Across agentic coding, computer use, tool use, search, and finance, Opus 4.6 is an industry-leading model, often by wide margin. Weve made a choice Claude will remain ad"
+  },
+  {
+    "title": "消息",
+    "source": "deepmind.google",
+    "content": "发现我们最新的人工智能突破、项目和更新 我接受 Google 的条款和条件，并确认我的信息将按照 Google 的隐私政策使用。",
+    "url": "https://deepmind.google/blog/",
+    "publish_time": "2026-02-21",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-02-22T11:30:52.427774",
+    "original_title": "News",
+    "original_content": "Discover our latest AI breakthroughs, projects, and updates I accept Google's Terms and Conditions and acknowledge that my information will be used in accordance withGoogle's Privacy Policy."
+  },
+  {
+    "title": "微软有一个新计划来证明什么是真实的，什么是在线人工智能",
+    "url": "https://www.technologyreview.com/2026/02/19/1133360/microsoft-has-a-new-plan-to-prove-whats-real-and-whats-ai-online/",
+    "content": "人工智能驱动的欺骗现在已经渗透到我们的网络生活中。您可能很容易发现一些引人注目的案例，例如白宫官员最近分享了一张明尼苏达州抗议者的经过处理的图片，然后嘲笑那些询问此事的人。其他时候，它会悄悄地溜进社交媒体，",
+    "publish_time": "Thu, 19 Fe",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 5.6
+    },
+    "collection_time": "2026-02-22T11:30:37.877248",
+    "fetch_method": "RSS",
+    "original_title": "Microsoft has a new plan to prove what’s real and what’s AI online",
+    "original_content": "AI-enabled deception now permeates our online lives. There are the high-profile cases you may easily spot, like when White House officials recently shared a manipulated image of a protester in Minnesota and then mocked those asking about it. Other times, it slips quietly into social media feeds and "
+  }
+]
