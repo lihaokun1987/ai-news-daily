@@ -1,0 +1,198 @@
+[
+  {
+    "title": "Guide Labs 推出新型可解释法学硕士",
+    "url": "https://techcrunch.com/2026/02/23/guide-labs-debuts-a-new-kind-of-interpretable-llm/",
+    "content": "该公司开源了一个包含 80 亿参数的 LLM，Steerling-8B，采用新架构进行训练，旨在使其行为易于解释。",
+    "publish_time": "Mon, 23 Fe",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-02-24T11:29:55.390617",
+    "fetch_method": "RSS",
+    "original_title": "Guide Labs debuts a new kind of interpretable LLM",
+    "original_content": "The company open sourced an 8-billion-parameter LLM, Steerling-8B, trained with a new architecture designed to make its actions easily interpretable."
+  },
+  {
+    "title": "一位 Meta AI 安全研究员表示，OpenClaw 特工在她的收件箱中肆意妄为",
+    "url": "https://techcrunch.com/2026/02/23/a-meta-ai-security-researcher-said-an-openclaw-agent-ran-amok-on-her-inbox/",
+    "content": "一位人工智能安全研究人员发布的病毒式 X 帖子读起来就像讽刺剧。但这实际上是对将任务交给人工智能代理时可能出现问题的警告。",
+    "publish_time": "Tue, 24 Fe",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-02-24T11:29:55.390559",
+    "fetch_method": "RSS",
+    "original_title": "A Meta AI security researcher said an OpenClaw agent ran amok on her inbox",
+    "original_content": "The viral X post from an AI security researcher reads like satire. But it's really a word of warning about what can go wrong when handing tasks to an AI agent."
+  },
+  {
+    "title": "Nvidia 与 Meta 的交易标志着计算能力的新时代",
+    "url": "https://www.wired.com/story/nvidias-deal-with-meta-signals-a-new-era-in-computing-power/",
+    "content": "科技巨头购买分立芯片的时代已经结束。人工智能公司现在需要 GPU、CPU 以及介于两者之间的一切。",
+    "publish_time": "Wed, 18 Fe",
+    "source": "Wired AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.05
+    },
+    "collection_time": "2026-02-24T11:29:55.390322",
+    "fetch_method": "RSS",
+    "original_title": "Nvidia’s Deal With Meta Signals a New Era in Computing Power",
+    "original_content": "The days of tech giants buying up discrete chips are over. AI companies now need GPUs, CPUs, and everything in between."
+  },
+  {
+    "title": "Anthropic 推出 COBOL AI 工具后 IBM 股价暴跌 10%",
+    "url": "https://www.reddit.com/r/artificial/comments/1rcxj45/ibm_stock_tumbles_10_after_anthropic_launches/",
+    "content": "32 提交者 32 uesporx 链接 32 条评论",
+    "publish_time": "2026-02-23",
+    "source": "Reddit r/artificial",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-02-24T11:30:09.592377",
+    "original_title": "IBM stock tumbles 10% after Anthropic launches COBOL AI tool",
+    "original_content": "32 submitted by 32 uesporx link 32 comments"
+  },
+  {
+    "title": "DevDay 发布的 AMA",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/",
+    "content": "这是历史上成为建设者的最好时代。在 DevDay 2025 上，我们推出了下一代工具和模型，以帮助开发人员更快地编码、更可靠地构建代理并扩展他们的应用程序",
+    "publish_time": "2026-02-23",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-02-24T11:30:09.592647",
+    "original_title": "AMA on our DevDay Launches",
+    "original_content": "Its the best time in history to be a builder. At DevDay 2025, we introduced the next generation of tools and models to help developers code faster, build agents more reliably, and scale their apps in "
+  },
+  {
+    "title": "对于人工智能，投资者的忠诚度（几乎）已经消失：至少有十几家 OpenAI 风险投资公司现在也支持 Anthropic",
+    "url": "https://techcrunch.com/2026/02/23/with-ai-investor-loyalty-is-almost-dead-at-least-a-dozen-openai-vcs-now-also-back-anthropic/",
+    "content": "虽然一些双重投资者是可以理解的，但另一些则更令人震惊，并表明对长期存在的道德利益冲突规则的漠视。",
+    "publish_time": "Mon, 23 Fe",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-02-24T11:29:55.390571",
+    "fetch_method": "RSS",
+    "original_title": "With AI, investor loyalty is (almost) dead: At least a dozen OpenAI VCs now also back Anthropic",
+    "original_content": "While some dual investors are understandable, others were more shocking, and signal the disregard of a longstanding ethical conflict-of-interest rule."
+  },
+  {
+    "title": "编辑部",
+    "source": "www.anthropic.com",
+    "content": "Sonnet 4.6 在编码、代理和大规模专业工作方面提供前沿性能。正在升级我们最智能的模型。在代理编码、计算机使用、工具使用、搜索和金融领域，Opus 4.6 是一个行业领先的模型，通常遥遥领先。我们已经做出选择，克劳德将继续留任",
+    "url": "https://www.anthropic.com/news",
+    "publish_time": "2026-02-23",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-02-24T11:30:09.592306",
+    "original_title": "Newsroom",
+    "original_content": "Sonnet 4.6 delivers frontier performance across coding, agents, and professional work at scale. Were upgrading our smartest model. Across agentic coding, computer use, tool use, search, and finance, Opus 4.6 is an industry-leading model, often by wide margin. Weve made a choice Claude will remain ad"
+  },
+  {
+    "title": "消息",
+    "source": "deepmind.google",
+    "content": "发现我们最新的人工智能突破、项目和更新 我接受 Google 的条款和条件，并确认我的信息将按照 Google 的隐私政策使用。",
+    "url": "https://deepmind.google/blog/",
+    "publish_time": "2026-02-23",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-02-24T11:30:09.592341",
+    "original_title": "News",
+    "original_content": "Discover our latest AI breakthroughs, projects, and updates I accept Google's Terms and Conditions and acknowledge that my information will be used in accordance withGoogle's Privacy Policy."
+  },
+  {
+    "title": "教皇告诉牧师用他们的大脑而不是人工智能来写讲道",
+    "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies",
+    "content": "",
+    "publish_time": "2026-02-23",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 530,
+      "comments": 421
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=47119210",
+    "score": {
+      "importance": 3,
+      "authority": 5,
+      "spread": 10,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.7
+    },
+    "collection_time": "2026-02-24T11:30:09.592832",
+    "original_title": "Pope tells priests to use their brains, not AI, to write homilies",
+    "original_content": ""
+  },
+  {
+    "title": "微软有一个新计划来证明什么是真实的，什么是在线人工智能",
+    "url": "https://www.technologyreview.com/2026/02/19/1133360/microsoft-has-a-new-plan-to-prove-whats-real-and-whats-ai-online/",
+    "content": "人工智能驱动的欺骗现在已经渗透到我们的网络生活中。您可能很容易发现一些引人注目的案例，例如白宫官员最近分享了一张明尼苏达州抗议者的经过处理的图片，然后嘲笑那些询问此事的人。其他时候，它会悄悄地溜进社交媒体，",
+    "publish_time": "Thu, 19 Fe",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 5.6
+    },
+    "collection_time": "2026-02-24T11:29:55.390547",
+    "fetch_method": "RSS",
+    "original_title": "Microsoft has a new plan to prove what’s real and what’s AI online",
+    "original_content": "AI-enabled deception now permeates our online lives. There are the high-profile cases you may easily spot, like when White House officials recently shared a manipulated image of a protester in Minnesota and then mocked those asking about it. Other times, it slips quietly into social media feeds and "
+  }
+]
