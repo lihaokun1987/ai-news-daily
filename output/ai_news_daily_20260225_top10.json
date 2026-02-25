@@ -1,0 +1,202 @@
+[
+  {
+    "title": "使用 ML 辅助采样和 LLM 标签衡量违反政策内容的普遍性",
+    "url": "https://arxiv.org/abs/2602.18518",
+    "content": "arXiv:2602.18518v1 公告类型：新 \n摘要：内容安全团队需要反映用户实际体验的指标，而不仅仅是报告的内容。我们研究流行度：在特定日期访问违反特定政策的内容的用户视图（展示次数）所占的比例。准确患病率m",
+    "publish_time": "Tue, 24 Fe",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-02-25T11:31:09.676469",
+    "fetch_method": "RSS",
+    "original_title": "Measuring the Prevalence of Policy Violating Content with ML Assisted Sampling and LLM Labeling",
+    "original_content": "arXiv:2602.18518v1 Announce Type: new \nAbstract: Content safety teams need metrics that reflect what users actually experience, not only what is reported. We study prevalence: the fraction of user views (impressions) that went to content violating a given policy on a given day. Accurate prevalence m"
+  },
+  {
+    "title": "超越优化的学习：自主系统中的压力门控动态机制调节",
+    "url": "https://arxiv.org/abs/2602.18581",
+    "content": "arXiv:2602.18581v1 公告类型：新 \n摘要：尽管现代机器学习方法具有明显的多样性，但它可以简化为一个非常简单的核心原则：通过不断优化参数以最小化或最大化标量目标函数来实现学习。这个范式有b",
+    "publish_time": "Tue, 24 Fe",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-02-25T11:31:09.676553",
+    "fetch_method": "RSS",
+    "original_title": "Learning Beyond Optimization: Stress-Gated Dynamical Regime Regulation in Autonomous Systems",
+    "original_content": "arXiv:2602.18581v1 Announce Type: new \nAbstract: Despite their apparent diversity, modern machine learning methods can be reduced to a remarkably simple core principle: learning is achieved by continuously optimizing parameters to minimize or maximize a scalar objective function. This paradigm has b"
+  },
+  {
+    "title": "Anthropic 通过财务、工程和设计插件推出了针对企业代理的新推送",
+    "url": "https://techcrunch.com/2026/02/24/anthropic-launches-new-push-for-enterprise-agents-with-plugins-for-finance-engineering-and-design/",
+    "content": "这是扩大 Anthropic 企业客户群的重大机会，也是对当前执行这些功能的 SaaS 产品的重大威胁。",
+    "publish_time": "Tue, 24 Fe",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-02-25T11:31:09.675730",
+    "fetch_method": "RSS",
+    "original_title": "Anthropic launches new push for enterprise agents with plug-ins for finance, engineering, and design",
+    "original_content": "It's a major opportunity to grow Anthropic’s enterprise client base — and a significant threat to SaaS products currently performing those functions."
+  },
+  {
+    "title": "New Relic 推出新的 AI 代理平台和 OpenTelemetry 工具",
+    "url": "https://techcrunch.com/2026/02/24/new-relic-launches-new-ai-agent-platform-and-opentelemetry-tools/",
+    "content": "New Relic 为企业提供更多可观察性工具，让他们创建和管理 AI 代理，并更好地集成 OTel 数据流。",
+    "publish_time": "Tue, 24 Fe",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-02-25T11:31:09.675742",
+    "fetch_method": "RSS",
+    "original_title": "New Relic launches new AI agent platform and OpenTelemetry tools",
+    "original_content": "New Relic is giving enterprises more observability tools, letting them create and manage AI agents, and better integrate OTel data streams."
+  },
+  {
+    "title": "OpenAI、美国政府和 Persona 打造了身份监控机器",
+    "url": "https://vmfunc.re/blog/persona/",
+    "content": "",
+    "publish_time": "2026-02-24",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 478,
+      "comments": 152
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=47140632",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.35
+    },
+    "collection_time": "2026-02-25T11:31:25.298078",
+    "original_title": "OpenAI, the US government and Persona built an identity surveillance machine",
+    "original_content": ""
+  },
+  {
+    "title": "Firefox 148 发布，带有 AI Kill Switch 功能和更多增强功能",
+    "url": "https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/",
+    "content": "",
+    "publish_time": "2026-02-24",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 448,
+      "comments": 378
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=47133313",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.35
+    },
+    "collection_time": "2026-02-25T11:31:25.298091",
+    "original_title": "Firefox 148 Launches with AI Kill Switch Feature and More Enhancements",
+    "original_content": ""
+  },
+  {
+    "title": "西班牙‘soonicorn’MultiverseComputing发布免费压缩AI模型",
+    "url": "https://techcrunch.com/2026/02/24/spanish-soonicorn-multiverse-computing-releases-free-compressed-ai-model/",
+    "content": "西班牙初创公司 MultiverseComputing 在 Hugging Face 上发布了 HyperNova 60B 模型的新版本，据称该模型优于 Mistral 的模型。",
+    "publish_time": "Tue, 24 Fe",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-02-25T11:31:09.675592",
+    "fetch_method": "RSS",
+    "original_title": "Spanish ‘soonicorn’ Multiverse Computing releases free compressed AI model",
+    "original_content": "Spanish startup Multiverse Computing has released a new version of its HyperNova 60B model on Hugging Face that, it says, bests Mistral's model."
+  },
+  {
+    "title": "Oura 推出专注于女性健康的专有人工智能模型",
+    "url": "https://techcrunch.com/2026/02/24/oura-launches-a-proprietary-ai-model-focused-on-womens-health/",
+    "content": "该模型支持涵盖从早期月经周期到更年期的整个生殖健康范围的问题。",
+    "publish_time": "Tue, 24 Fe",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-02-25T11:31:09.675717",
+    "fetch_method": "RSS",
+    "original_title": "Oura launches a proprietary AI model focused on women’s health",
+    "original_content": "The model supports questions spanning the full reproductive health spectrum, from early menstrual cycles through menopause."
+  },
+  {
+    "title": "GenPlanner：从噪声到计划——流匹配和扩散模型中的紧急推理",
+    "url": "https://arxiv.org/abs/2602.18812",
+    "content": "arXiv:2602.18812v1 公告类型：新 \n摘要：复杂环境中的路径规划是人工智能的关键问题之一，因为它需要同时理解空间的几何形状和问题的全局结构。在本文中，我们探讨了使用的潜力",
+    "publish_time": "Tue, 24 Fe",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-02-25T11:31:09.676701",
+    "fetch_method": "RSS",
+    "original_title": "GenPlanner: From Noise to Plans -- Emergent Reasoning in Flow Matching and Diffusion Models",
+    "original_content": "arXiv:2602.18812v1 Announce Type: new \nAbstract: Path planning in complex environments is one of the key problems of artificial intelligence because it requires simultaneous understanding of the geometry of space and the global structure of the problem. In this paper, we explore the potential of usi"
+  },
+  {
+    "title": "Anthropic 推出 COBOL AI 工具后 IBM 股价暴跌 10%",
+    "url": "https://www.reddit.com/r/artificial/comments/1rcxj45/ibm_stock_tumbles_10_after_anthropic_launches/",
+    "content": "32 提交者 32 uesporx 链接 32 条评论",
+    "publish_time": "2026-02-24",
+    "source": "Reddit r/artificial",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-02-25T11:31:25.297703",
+    "original_title": "IBM stock tumbles 10% after Anthropic launches COBOL AI tool",
+    "original_content": "32 submitted by 32 uesporx link 32 comments"
+  }
+]
