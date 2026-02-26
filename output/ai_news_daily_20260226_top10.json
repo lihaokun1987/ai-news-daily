@@ -1,0 +1,192 @@
+[
+  {
+    "title": "多模态推理混合策略 RLVR 中的可控探索",
+    "url": "https://arxiv.org/abs/2602.20197",
+    "content": "arXiv:2602.20197v1 公告类型：新 \n摘要：具有可验证奖励的强化学习（RLVR）已成为增强多模态大语言模型（MLLM）推理能力的主要学习范式。然而，在 RL 训练过程中，MLLM 和 s 的巨大状态空间",
+    "publish_time": "Wed, 25 Fe",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-02-26T11:26:57.919613",
+    "fetch_method": "RSS",
+    "original_title": "Controllable Exploration in Hybrid-Policy RLVR for Multi-Modal Reasoning",
+    "original_content": "arXiv:2602.20197v1 Announce Type: new \nAbstract: Reinforcement Learning with verifiable rewards (RLVR) has emerged as a primary learning paradigm for enhancing the reasoning capabilities of multi-modal large language models (MLLMs). However, during RL training, the enormous state space of MLLM and s"
+  },
+  {
+    "title": "可穿戴初创公司 CUDIS 推出了新的健康环系列，配备人工智能“教练”",
+    "url": "https://techcrunch.com/2026/02/25/wearable-startup-cudis-launches-a-new-health-ring-line-with-an-ai-fueled-coach/",
+    "content": "可穿戴设备通过可兑换健康产品的积分来激励健康行为。",
+    "publish_time": "Wed, 25 Fe",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-02-26T11:26:57.918814",
+    "fetch_method": "RSS",
+    "original_title": "Wearable startup CUDIS launches a new health ring line with an AI-fueled ‘coach’",
+    "original_content": "The wearable incentivizes healthy behavior with points that can be redeemed for health products."
+  },
+  {
+    "title": "SiMa.ai 与 STIGA S.p.A. 宣布在物理人工智能领域建立战略合作伙伴关系",
+    "url": "https://www.bing.com/news/search?q=AI+machine+learning+2026-02-25",
+    "content": "欧洲领先的园林机械和设备制造商和分销商 STIGA S.p.A. 与物理人工智能公司 SiMa Technologies Inc. 今天宣布建立战略合作伙伴关系，以...",
+    "publish_time": "2026-02-25",
+    "source": "AI News",
+    "score": {
+      "importance": 8,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.35
+    },
+    "collection_time": "2026-02-26T11:27:22.337760",
+    "original_title": "SiMa.ai and STIGA S.p.A. Announce Strategic Partnership in Physical AI",
+    "original_content": "STIGA S.p.A., the leading European manufacturer and distributor of garden machinery and equipment, and SiMa Technologies Inc., the Physical AI company, today announced a strategic partnership to bring ..."
+  },
+  {
+    "title": "OpenClaw 创建者对 AI 构建者的建议是要更加有趣，并给自己时间来改进",
+    "url": "https://techcrunch.com/2026/02/25/openclaw-creators-advice-to-ai-builders-is-to-be-more-playful-and-allow-yourself-time-to-improve/",
+    "content": "Peter Steinberger 谈论了他的病毒式 AI 代理 OpenClaw 的创建，以及如何变得更加“有趣”以更好地学习 AI 编码。",
+    "publish_time": "Wed, 25 Fe",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-02-26T11:26:57.918904",
+    "fetch_method": "RSS",
+    "original_title": "OpenClaw creator’s advice to AI builders is to be more playful and allow yourself time to improve",
+    "original_content": "Peter Steinberger talks about the creation of his viral AI agent OpenClaw and how being more \"playful\" makes for a better way to learn AI coding."
+  },
+  {
+    "title": "美国要求外交官游说反对外国数据主权法",
+    "url": "https://techcrunch.com/2026/02/25/us-tells-diplomats-to-lobby-against-foreign-data-sovereignty-laws/",
+    "content": "特朗普政府已下令美国外交官游说各国，反对各国试图监管美国科技公司处理外国人数据的行为。",
+    "publish_time": "Wed, 25 Fe",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-02-26T11:26:57.918927",
+    "fetch_method": "RSS",
+    "original_title": "US tells diplomats to lobby against foreign data sovereignty laws",
+    "original_content": "The Trump administration has ordered U.S. diplomats to lobby against countries' attempts to regulate how American tech companies handle foreigners' data."
+  },
+  {
+    "title": "据称 OpenClaw 用户正在绕过反机器人系统",
+    "url": "https://www.wired.com/story/openclaw-users-bypass-anti-bot-systems-cloudflare-scrapling/",
+    "content": "一个名为 Scrapling 的开源项目正在吸引人工智能代理用户，他们希望他们的机器人在未经许可的情况下抓取网站。",
+    "publish_time": "Wed, 25 Fe",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-02-26T11:26:57.918949",
+    "fetch_method": "RSS",
+    "original_title": "OpenClaw Users Are Allegedly Bypassing Anti-Bot Systems",
+    "original_content": "An open source project called Scrapling is gaining traction with AI agent users who want their bots to scrape sites without permission."
+  },
+  {
+    "title": "DevDay 发布的 AMA",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/",
+    "content": "这是历史上成为建设者的最好时代。在 DevDay 2025 上，我们推出了下一代工具和模型，以帮助开发人员更快地编码、更可靠地构建代理并扩展他们的应用程序",
+    "publish_time": "2026-02-25",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-02-26T11:27:22.338105",
+    "original_title": "AMA on our DevDay Launches",
+    "original_content": "Its the best time in history to be a builder. At DevDay 2025, we introduced the next generation of tools and models to help developers code faster, build agents more reliably, and scale their apps in "
+  },
+  {
+    "title": "在 Meta 挖走计算机应用人工智能初创公司 Vercept 创始人之一后，Anthropic 收购了该公司",
+    "url": "https://techcrunch.com/2026/02/25/anthropic-acquires-vercept-ai-startup-agents-computer-use-founders-investors/",
+    "content": "总部位于西雅图的 Vercept 开发了复杂的代理工具，包括一个计算机使用代理，可以像使用笔记本电脑的人一样完成应用程序内的任务。",
+    "publish_time": "Wed, 25 Fe",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-02-26T11:26:57.918758",
+    "fetch_method": "RSS",
+    "original_title": "Anthropic acquires computer-use AI startup Vercept after Meta poached one of its founders",
+    "original_content": "Seattle-based Vercept developed complex agentic tools, including a computer-use agent that could complete tasks inside applications like a person with a laptop would."
+  },
+  {
+    "title": "公众对人工智能基础设施的反对正在升温",
+    "url": "https://techcrunch.com/2026/02/25/the-public-opposition-to-ai-infrastructure-is-heating-up/",
+    "content": "公众对数据中心繁荣的强烈反对导致了各种严厉的政策——包括禁止新建数据中心。",
+    "publish_time": "Wed, 25 Fe",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-02-26T11:26:57.918834",
+    "fetch_method": "RSS",
+    "original_title": "The public opposition to AI infrastructure is heating up",
+    "original_content": "Public backlash over the data center boom is leading to a variety of draconian policies — including bans on new construction."
+  },
+  {
+    "title": "从约会诈骗到假律师：OpenAI 详细介绍了新威胁报告中的 ChatGPT 滥用情况",
+    "url": "https://www.bing.com/news/search?q=ChatGPT+OpenAI+2026-02-25",
+    "content": "2 月 25 日路透社 - OpenAI 表示，它禁止与中国执法部门、浪漫诈骗者和影响力活动有关的账户，包括针对日本第一位女首相的抹黑活动。",
+    "publish_time": "2026-02-25",
+    "source": "AI News",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-02-26T11:27:22.337814",
+    "original_title": "From Dating Scams to Fake Lawyers: OpenAI Details ChatGPT Misuse in New Threat Report",
+    "original_content": "Feb 25 Reuters - OpenAI said it banned accounts linked to Chinese law enforcement, romance scammers and influence operations, including a smear campaign against Japan's first woman prime ..."
+  }
+]
