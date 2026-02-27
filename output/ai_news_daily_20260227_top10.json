@@ -1,0 +1,196 @@
+[
+  {
+    "title": "谷歌推出 Nano Banana 2 模型，图像生成速度更快",
+    "url": "https://techcrunch.com/2026/02/26/google-launches-nano-banana-2-model-with-faster-image-generation/",
+    "content": "谷歌正在将 Nano Banana 2 设为 Gemini 应用程序和 AI 模式的默认模型。",
+    "publish_time": "Thu, 26 Fe",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 9,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 7.25
+    },
+    "collection_time": "2026-02-27T11:24:05.249037",
+    "fetch_method": "RSS",
+    "original_title": "Google launches Nano Banana 2 model with faster image generation",
+    "original_content": "Google is making Nano Banana 2 a default model in Gemini app and in AI mode."
+  },
+  {
+    "title": "OpenAI 宣布大规模扩建伦敦办事处",
+    "url": "https://www.wired.com/story/openai-expands-london-office-major-research-hub/",
+    "content": "位于旧金山的人工智能实验室正在伦敦扩大其研究团队。此举使其与谷歌 DeepMind 直接竞争英国顶尖研究人才。",
+    "publish_time": "Thu, 26 Fe",
+    "source": "Wired AI",
+    "score": {
+      "importance": 8,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.9
+    },
+    "collection_time": "2026-02-27T11:24:05.248793",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI Announces Major Expansion of London Office",
+    "original_content": "The San Francisco-based AI lab is growing its research team in London. The move puts it in direct competition with Google DeepMind for top research talent in the UK."
+  },
+  {
+    "title": "Nano Banana 2：谷歌最新的AI图像生成模型",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
+    "content": "",
+    "publish_time": "2026-02-26",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 501,
+      "comments": 478
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=47167858",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 10,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.75
+    },
+    "collection_time": "2026-02-27T11:24:19.149413",
+    "original_title": "Nano Banana 2: Google's latest AI image generation model",
+    "original_content": ""
+  },
+  {
+    "title": "城市活力嵌入及其在交通预测中的应用",
+    "url": "https://arxiv.org/abs/2602.21232",
+    "content": "arXiv:2602.21232v1 公告类型：新 \n摘要：城市活力反映了城市空间内人类活动的动态，通常使用捕捉流动人口趋势的移动数据来衡量。这项研究提出了一种从实时浮动 p 中导出城市活力嵌入的新方法",
+    "publish_time": "Thu, 26 Fe",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-02-27T11:24:05.248582",
+    "fetch_method": "RSS",
+    "original_title": "Urban Vibrancy Embedding and Application on Traffic Prediction",
+    "original_content": "arXiv:2602.21232v1 Announce Type: new \nAbstract: Urban vibrancy reflects the dynamic human activity within urban spaces and is often measured using mobile data that captures floating population trends. This study proposes a novel approach to derive Urban Vibrancy embeddings from real-time floating p"
+  },
+  {
+    "title": "组正交化策略优化:作为希尔伯特空间正交投影的组策略优化",
+    "url": "https://arxiv.org/abs/2602.21269",
+    "content": "arXiv:2602.21269v1 公告类型：新 \n摘要：我们提出了组正交策略优化（GOPO），这是一种源自希尔伯特函数空间几何的大型语言模型的新对齐算法。而不是对概率单纯形进行优化并继承指数曲线",
+    "publish_time": "Thu, 26 Fe",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-02-27T11:24:05.248606",
+    "fetch_method": "RSS",
+    "original_title": "Group Orthogonalized Policy Optimization:Group Policy Optimization as Orthogonal Projection in Hilbert Space",
+    "original_content": "arXiv:2602.21269v1 Announce Type: new \nAbstract: We present Group Orthogonalized Policy Optimization (GOPO), a new alignment algorithm for large language models derived from the geometry of Hilbert function spaces. Instead of optimizing on the probability simplex and inheriting the exponential curva"
+  },
+  {
+    "title": "亲身体验 Nano Banana 2，Google 人工智能图像生成器的最新版本",
+    "url": "https://www.wired.com/story/google-nano-banana-2-ai-image-generator-hands-on/",
+    "content": "谷歌最新的图像模型 Nano Banana 2 是一款强大的 AI 照片编辑器，可以刺破现实。嗯，有时候。",
+    "publish_time": "Fri, 27 Fe",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-02-27T11:24:05.248734",
+    "fetch_method": "RSS",
+    "original_title": "Hands-On With Nano Banana 2, the Latest Version of Google’s AI Image Generator",
+    "original_content": "Google’s latest image model, Nano Banana 2, is a powerful AI photo editor that punctures reality. Well, sometimes."
+  },
+  {
+    "title": "据称 OpenClaw 用户正在绕过反机器人系统",
+    "url": "https://www.wired.com/story/openclaw-users-bypass-anti-bot-systems-cloudflare-scrapling/",
+    "content": "一个名为 Scrapling 的开源项目正在吸引人工智能代理用户，他们希望他们的机器人在未经许可的情况下抓取网站。",
+    "publish_time": "Wed, 25 Fe",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-02-27T11:24:05.248827",
+    "fetch_method": "RSS",
+    "original_title": "OpenClaw Users Are Allegedly Bypassing Anti-Bot Systems",
+    "original_content": "An open source project called Scrapling is gaining traction with AI agent users who want their bots to scrape sites without permission."
+  },
+  {
+    "title": "Read AI 推出基于电子邮件的“数字孪生”，帮助您制定日程安排和答案",
+    "url": "https://techcrunch.com/2026/02/26/read-ai-launches-an-email-based-digital-twin-to-help-you-with-schedules-and-answers/",
+    "content": "Read AI 正在推出 Ada，它可以回复您的空闲时间，并从公司知识库和网络中提取答案。",
+    "publish_time": "Thu, 26 Fe",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-02-27T11:24:05.249017",
+    "fetch_method": "RSS",
+    "original_title": "Read AI launches an email-based ‘digital twin’ to help you with schedules and answers",
+    "original_content": "Read AI is launching Ada, which can reply with your availability and extract answers from the company knowledge base and the web."
+  },
+  {
+    "title": "该公司声称在电池方面取得了突破。现在他们需要证明这一点。",
+    "url": "https://www.technologyreview.com/2026/02/26/1133722/solid-state-batteries-donut-lab/",
+    "content": "当一家公司声称已经创造了电池的圣杯时，肯定会出现一些问题。自从芬兰公司 Donut Lab 上个月宣布拥有一种新的固态电池技术，该技术已准备好大规模生产以来，人们的兴趣一直在升温",
+    "publish_time": "Thu, 26 Fe",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-02-27T11:24:05.248298",
+    "fetch_method": "RSS",
+    "original_title": "This company claims a battery breakthrough. Now they need to prove it.",
+    "original_content": "When a company claims to have created what’s essentially the holy grail of batteries, there are bound to be some questions. Interest has been swirling since Donut Lab, a Finnish company, announced last month that it had a new solid-state battery technology, one that was ready for large-scale product"
+  },
+  {
+    "title": "动态对称点跟踪：解决模拟内存训练中的非理想参考",
+    "url": "https://arxiv.org/abs/2602.21321",
+    "content": "arXiv:2602.21321v1 公告类型：新 \n摘要：模拟内存计算（AIMC）直接在电阻交叉阵列内执行计算，为扩展大型视觉和语言模型提供了一个节能平台。然而，非理想的模拟设备特性使得AIMC的训练变得更加困难。",
+    "publish_time": "Thu, 26 Fe",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-02-27T11:24:05.248687",
+    "fetch_method": "RSS",
+    "original_title": "Dynamic Symmetric Point Tracking: Tackling Non-ideal Reference in Analog In-memory Training",
+    "original_content": "arXiv:2602.21321v1 Announce Type: new \nAbstract: Analog in-memory computing (AIMC) performs computation directly within resistive crossbar arrays, offering an energy-efficient platform to scale large vision and language models. However, non-ideal analog device properties make the training on AIMC de"
+  }
+]
