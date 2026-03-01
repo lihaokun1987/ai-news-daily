@@ -1,0 +1,199 @@
+[
+  {
+    "title": "OpenAI 的 Sam Altman 宣布五角大楼达成“技术保障”协​​议",
+    "url": "https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/",
+    "content": "OpenAI 的首席执行官声称，其新的防御合同包括解决与 Anthropic 引发的相同问题的保护措施。",
+    "publish_time": "Sat, 28 Fe",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 8,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.9
+    },
+    "collection_time": "2026-03-01T11:35:52.083704",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI’s Sam Altman announces Pentagon deal with ‘technical safeguards’",
+    "original_content": "OpenAI's CEO claims its new defense contract includes protections addressing the same issues that became a flashpoint for Anthropic."
+  },
+  {
+    "title": "在特朗普命令政府停止使用 Anthropic 后，OpenAI 与五角大楼达成协议",
+    "url": "https://www.reddit.com/r/artificial/comments/1rgtjex/openai_strikes_deal_with_pentagon_after_trump/",
+    "content": "32 提交者 32 uFcking_Chuck 链接 32 条评论",
+    "publish_time": "2026-02-28",
+    "source": "Reddit r/artificial",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 8,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.6
+    },
+    "collection_time": "2026-03-01T11:36:07.136980",
+    "original_title": "OpenAI strikes deal with Pentagon after Trump orders government to stop using Anthropic",
+    "original_content": "32 submitted by 32 uFcking_Chuck link 32 comments"
+  },
+  {
+    "title": "OpenAI 获得亚马逊、英伟达、软银 1100 亿美元融资；估值达7300亿美元",
+    "url": "https://www.bing.com/news/search?q=ChatGPT+OpenAI+2026-02-28",
+    "content": "OpenAI 已获得亚马逊、英伟达和软银 1100 亿美元融资，将其投前估值提升至 7300 亿美元。该公司表示，这项投资将有助于扩大基础设施规模，...",
+    "publish_time": "2026-02-28",
+    "source": "AI News",
+    "score": {
+      "importance": 8,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.35
+    },
+    "collection_time": "2026-03-01T11:36:07.136844",
+    "original_title": "OpenAI secures $110 billion funding from Amazon, Nvidia, SoftBank; valuation hits $730 billion",
+    "original_content": "OpenAI has secured USD 110 billion in funding from Amazon, Nvidia, and SoftBank, raising its pre-money valuation to USD 730 billion. The company says the investment will help scale infrastructure, ..."
+  },
+  {
+    "title": "谁在真正运行人工智能？与亚历克斯·博雷斯 (Alex Bores) 展开数十亿美元的监管之战",
+    "url": "https://techcrunch.com/podcast/whos-really-running-ai-inside-the-billion-dollar-battle-over-regulation-with-alex-bores/",
+    "content": "在全国各地的社区都在阻止数据中心建设的同时，五角大楼正在与 Anthropic 就谁来控制“军队如何使用人工智能”展开较量。随着人工智能的争论已被简化为“末日一代与婴儿潮一代”，一项州立法",
+    "publish_time": "Fri, 27 Fe",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-03-01T11:35:52.083782",
+    "fetch_method": "RSS",
+    "original_title": "Who’s really running AI? Inside the billion-dollar battle over regulation with Alex Bores",
+    "original_content": "The&#160;Pentagon is&#160;playing chicken with Anthropic&#160;over&#160;who gets to control&#160;how the&#160;military uses AI&#160;while communities across the country are&#160;blocking data center construction. As the AI debate has been flattened to “doomers&#160;versus boomers,” one state legisla"
+  },
+  {
+    "title": "特朗普采取行动禁止美国政府使用人类",
+    "url": "https://www.wired.com/story/trump-moves-to-ban-anthropic-from-the-us-government/",
+    "content": "在国防部向 Anthropic 施压，要求其放弃对其人工智能如何被军队使用的限制之后，唐纳德·特朗普总统突然下达了命令。",
+    "publish_time": "Fri, 27 Fe",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-03-01T11:35:52.084213",
+    "fetch_method": "RSS",
+    "original_title": "Trump Moves to Ban Anthropic From the US Government",
+    "original_content": "President Donald Trump’s sudden order comes after the Defense Department pressured Anthropic to drop restrictions on how its AI can be used by the military."
+  },
+  {
+    "title": "亲身体验 Nano Banana 2，Google 人工智能图像生成器的最新版本",
+    "url": "https://www.wired.com/story/google-nano-banana-2-ai-image-generator-hands-on/",
+    "content": "谷歌最新的图像模型 Nano Banana 2 是一款强大的 AI 照片编辑器，可以刺破现实。嗯，有时候。",
+    "publish_time": "Fri, 27 Fe",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-03-01T11:35:52.084255",
+    "fetch_method": "RSS",
+    "original_title": "Hands-On With Nano Banana 2, the Latest Version of Google’s AI Image Generator",
+    "original_content": "Google’s latest image model, Nano Banana 2, is a powerful AI photo editor that punctures reality. Well, sometimes."
+  },
+  {
+    "title": "该公司声称在电池方面取得了突破。现在他们需要证明这一点。",
+    "url": "https://www.technologyreview.com/2026/02/26/1133722/solid-state-batteries-donut-lab/",
+    "content": "当一家公司声称已经创造了电池的圣杯时，肯定会出现一些问题。自从芬兰公司 Donut Lab 上个月宣布拥有一种新的固态电池技术，该技术已准备好大规模生产以来，人们的兴趣一直在升温",
+    "publish_time": "Thu, 26 Fe",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-03-01T11:35:52.083903",
+    "fetch_method": "RSS",
+    "original_title": "This company claims a battery breakthrough. Now they need to prove it.",
+    "original_content": "When a company claims to have created what’s essentially the holy grail of batteries, there are bound to be some questions. Interest has been swirling since Donut Lab, a Finnish company, announced last month that it had a new solid-state battery technology, one that was ready for large-scale product"
+  },
+  {
+    "title": "解决反重力禁令并恢复访问",
+    "url": "https://github.com/google-gemini/gemini-cli/discussions/20632",
+    "content": "文章网址：https://github.com/google-gemini/gemini-cli/discussions/20632\n评论网址：https://news.ycombinator.com/item?id=47195371\n积分：209\n# 评论: 174",
+    "publish_time": "Sat, 28 Fe",
+    "source": "Hacker News Front Page",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-03-01T11:35:52.084626",
+    "fetch_method": "RSS",
+    "original_title": "Addressing Antigravity Bans and Reinstating Access",
+    "original_content": "Article URL: https://github.com/google-gemini/gemini-cli/discussions/20632\nComments URL: https://news.ycombinator.com/item?id=47195371\nPoints: 209\n# Comments: 174"
+  },
+  {
+    "title": "DevDay 发布的 AMA",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/",
+    "content": "这是历史上成为建设者的最好时代。在 DevDay 2025 上，我们推出了下一代工具和模型，以帮助开发人员更快地编码、更可靠地构建代理并扩展他们的应用程序",
+    "publish_time": "2026-02-28",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-03-01T11:36:07.137116",
+    "original_title": "AMA on our DevDay Launches",
+    "original_content": "Its the best time in history to be a builder. At DevDay 2025, we introduced the next generation of tools and models to help developers code faster, build agents more reliably, and scale their apps in "
+  },
+  {
+    "title": "如何取消我的 ChatGPT 订阅？",
+    "url": "https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-subscription",
+    "content": "",
+    "publish_time": "2026-02-28",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 1019,
+      "comments": 238
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=47190997",
+    "score": {
+      "importance": 3,
+      "authority": 5,
+      "spread": 10,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-03-01T11:36:07.137221",
+    "original_title": "How do I cancel my ChatGPT subscription?",
+    "original_content": ""
+  }
+]
