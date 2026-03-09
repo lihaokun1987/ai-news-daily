@@ -1,0 +1,195 @@
+[
+  {
+    "title": "OpenAI 已禁止军事用途。五角大楼无论如何都通过微软测试了其模型",
+    "url": "https://www.wired.com/story/openai-defense-department-ban-military-use-microsoft/",
+    "content": "消息人士称，在 ChatGPT 制造商解除对军事应用的禁令之前，国防部曾试验过微软版本的 OpenAI 技术。",
+    "publish_time": "Thu, 05 Ma",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-03-09T11:29:16.401690",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI Had Banned Military Use. The Pentagon Tested Its Models Through Microsoft Anyway",
+    "original_content": "Sources allege the Defense Department experimented with Microsoft’s version of OpenAI technology before the ChatGPT-maker lifted its prohibition on military applications."
+  },
+  {
+    "title": "下载：声称可以阻止闪电的初创公司，以及 OpenAI 与五角大楼的交易内容",
+    "url": "https://www.technologyreview.com/2026/03/03/1133900/the-download-the-startup-that-says-it-can-stop-lightning-and-inside-openais-pentagon-deal/",
+    "content": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。这家初创公司声称它可以阻止闪电并防止灾难性野火 Startup“Skyward Wildfire”表示它可以防止灾难性火灾",
+    "publish_time": "Tue, 03 Ma",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-03-09T11:29:16.401454",
+    "fetch_method": "RSS",
+    "original_title": "The Download: The startup that says it can stop lightning, and inside OpenAI’s Pentagon deal",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This startup claims it can stop lightning and prevent catastrophic wildfires Startup&#160;Skyward Wildfire&#160;says it can prevent catastrophic fires"
+  },
+  {
+    "title": "随着美国银行撤退，甲骨文或将裁员 3 万人，为人工智能数据中心提供资金",
+    "url": "https://www.cio.com/article/4125103/oracle-may-slash-up-to-30000-jobs-to-fund-ai-data-center-expansion-as-us-banks-retreat.html",
+    "content": "",
+    "publish_time": "2026-03-08",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 160,
+      "comments": 210
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=47298183",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 7,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.05
+    },
+    "collection_time": "2026-03-09T11:29:30.775019",
+    "original_title": "Oracle may slash up to 30k jobs to fund AI data-centers as US banks retreat",
+    "original_content": ""
+  },
+  {
+    "title": "DevDay 发布的 AMA",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/",
+    "content": "这是历史上成为建设者的最好时代。在 DevDay 2025 上，我们推出了下一代工具和模型，以帮助开发人员更快地编码、更可靠地构建代理并扩展他们的应用程序",
+    "publish_time": "2026-03-08",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-03-09T11:29:30.774860",
+    "original_title": "AMA on our DevDay Launches",
+    "original_content": "Its the best time in history to be a builder. At DevDay 2025, we introduced the next generation of tools and models to help developers code faster, build agents more reliably, and scale their apps in "
+  },
+  {
+    "title": "OpenAI 硬件高管 Caitlin Kalinowski 因五角大楼交易而辞职",
+    "url": "https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/",
+    "content": "硬件主管 Caitlin Kalinowski 今天宣布，为了回应 OpenAI 与国防部达成的有争议的协议，她辞去了领导该公司机器人团队的职务。",
+    "publish_time": "Sat, 07 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-03-09T11:29:16.401226",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI hardware exec Caitlin Kalinowski quits in response to Pentagon deal",
+    "original_content": "Hardware executive Caitlin Kalinowski announced today that in response to OpenAI's controversial agreement with the Department of Defense, she’s resigned from her role leading the company's robotics team."
+  },
+  {
+    "title": "Anthropic 与五角大楼的交易对于追逐联邦合同的初创公司来说是一个警示故事",
+    "url": "https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/",
+    "content": "在两国未能就军方应对其人工智能模型拥有多少控制权（包括其在自主武器和大规模国内监控中的使用）达成一致后，五角大楼已正式将 Anthropic 指定为供应链风险。随着 Anthropic 价值 2 亿美元的合同破裂，国防部转向",
+    "publish_time": "Fri, 06 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-03-09T11:29:16.401292",
+    "fetch_method": "RSS",
+    "original_title": "Anthropic’s Pentagon deal is a cautionary tale for startups chasing federal contracts",
+    "original_content": "The Pentagon has officially designated Anthropic a supply-chain risk after the two failed to agree on how much control the military should have over its AI models, including its use in autonomous weapons and mass domestic surveillance. As Anthropic’s $200 million contract fell apart, the DoD turned "
+  },
+  {
+    "title": "五角大楼交易失败后，克劳德的消费者增长仍在继续",
+    "url": "https://techcrunch.com/2026/03/06/claudes-consumer-growth-surge-continues-after-pentagon-deal-debacle/",
+    "content": "Claude 的应用程序现在的新安装量比 ChatGPT 更多，并且其每日活跃用户数也在增长。",
+    "publish_time": "Fri, 06 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-03-09T11:29:16.401320",
+    "fetch_method": "RSS",
+    "original_title": "Claude’s consumer growth surge continues after Pentagon deal debacle",
+    "original_content": "Claude's app is now seeing more new installs than ChatGPT and is growing its daily active users."
+  },
+  {
+    "title": "编辑部",
+    "source": "www.anthropic.com",
+    "content": "人类对战争部长的回应和对客户的建议。我们的首席执行官关于人工智能的国家安全用途的声明。 Sonnet 4.6 在编码、代理和大规模专业工作方面提供前沿性能。我们已经做出选择，克劳德将保持无广告状态。我们解释为什么在",
+    "url": "https://www.anthropic.com/news",
+    "publish_time": "2026-03-08",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-03-09T11:29:30.774620",
+    "original_title": "Newsroom",
+    "original_content": "Anthropic's response to the Secretary of War and advice to customers. A statement from our CEO on national security uses of AI. Sonnet 4.6 delivers frontier performance across coding, agents, and professional work at scale. Weve made a choice Claude will remain ad-free. We explain why advertising in"
+  },
+  {
+    "title": "消息",
+    "source": "deepmind.google",
+    "content": "发现我们最新的人工智能突破、项目和更新 我接受 Google 的条款和条件，并确认我的信息将按照 Google 的隐私政策使用。",
+    "url": "https://deepmind.google/blog/",
+    "publish_time": "2026-03-08",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-03-09T11:29:30.774649",
+    "original_title": "News",
+    "original_content": "Discover our latest AI breakthroughs, projects, and updates I accept Google's Terms and Conditions and acknowledge that my information will be used in accordance withGoogle's Privacy Policy."
+  },
+  {
+    "title": "从OpenClaw传播，看中美差异性",
+    "url": "https://36kr.com/p/3712238506521091",
+    "content": "",
+    "publish_time": "2026-03-08",
+    "source": "36氪AI",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.65
+    },
+    "collection_time": "2026-03-09T11:29:30.774985",
+    "original_title": "从OpenClaw传播，看中美差异性",
+    "original_content": ""
+  }
+]
