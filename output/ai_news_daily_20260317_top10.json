@@ -1,0 +1,196 @@
+[
+  {
+    "title": "下载：早期采用者从中国的 OpenClaw 热潮和美国电池衰退中获利",
+    "url": "https://www.technologyreview.com/2026/03/12/1134207/the-download-china-openclaw-ai-craze-us-battery-industry-downturn/",
+    "content": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。骗子们正在从中国的“OpenClaw”人工智能热潮中获利。一月份，北京的软件工程师冯庆阳开始摆弄&",
+    "publish_time": "Thu, 12 Ma",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-03-17T11:27:31.649599",
+    "fetch_method": "RSS",
+    "original_title": "The Download: Early adopters cash in on China’s OpenClaw craze, and US batteries slump",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Hustlers are cashing in on China’s&#160;OpenClaw&#160;AI craze&#160; In January, Beijing-based software engineer Feng Qingyang started tinkering with&"
+  },
+  {
+    "title": "通过标准化进行 ODRL 政策比较",
+    "url": "https://arxiv.org/abs/2603.12926",
+    "content": "arXiv:2603.12926v1 公告类型：新 \n摘要：ODRL 语言已成为表示数字版权政策和法规的标准。然而其复杂性对其使用造成了障碍，这导致许多相关的理论和实践工作侧重于不同的而不是整体的。",
+    "publish_time": "Mon, 16 Ma",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-03-17T11:27:31.650048",
+    "fetch_method": "RSS",
+    "original_title": "ODRL Policy Comparison Through Normalisation",
+    "original_content": "arXiv:2603.12926v1 Announce Type: new \nAbstract: The ODRL language has become the standard for representing policies and regulations for digital rights. However its complexity is a barrier to its usage, which has caused many related theoretical and practical works to focus on different, and not inte"
+  },
+  {
+    "title": "中国的OpenClaw热潮是人工智能公司的淘金热",
+    "url": "https://www.wired.com/story/china-is-going-all-in-on-openclaw/",
+    "content": "围绕开源代理的炒作正在促使人们租用云服务器并购买人工智能订阅只是为了尝试一下，这为科技公司创造了意外之财。",
+    "publish_time": "Fri, 13 Ma",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-03-17T11:27:31.649399",
+    "fetch_method": "RSS",
+    "original_title": "China’s OpenClaw Boom Is a Gold Rush for AI Companies",
+    "original_content": "Hype around the open source agent is driving people to rent cloud servers and buy AI subscriptions just to try it, creating a windfall for tech companies."
+  },
+  {
+    "title": "“恐怖谷”：Anthropic 的国防部诉讼、战争迷因和人工智能将取代风险投资工作",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-anthropic-department-defense-lawsuit-iran-war-memes-artificial-intelligence-venture-capital/",
+    "content": "在今天的节目中，我们将讨论人类与国防部之间的传奇故事还远未结束。",
+    "publish_time": "Thu, 12 Ma",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-03-17T11:27:31.649439",
+    "fetch_method": "RSS",
+    "original_title": "‘Uncanny Valley’: Anthropic’s DOD Lawsuit, War Memes, and AI Coming for VC Jobs",
+    "original_content": "In today’s episode, we discuss how the saga between Anthropic and the Department of Defense is far from over."
+  },
+  {
+    "title": "Grammarly 因其人工智能“专家审查”功能面临集体诉讼",
+    "url": "https://www.wired.com/story/grammarly-is-facing-a-class-action-lawsuit-over-its-ai-expert-review-feature/",
+    "content": "该功能周三被 Grammarly 关闭，它提出的编辑建议就好像来自知名作家和学者——未经他们的同意。",
+    "publish_time": "Wed, 11 Ma",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-03-17T11:27:31.649471",
+    "fetch_method": "RSS",
+    "original_title": "Grammarly Is Facing a Class Action Lawsuit Over Its AI ‘Expert Review’ Feature",
+    "original_content": "The feature, which Grammarly shut down Wednesday, presented editing suggestions as if they came from established authors and academics—without their consent."
+  },
+  {
+    "title": "Nvidia 版本的 OpenClaw 可以解决其最大的问题：安全性",
+    "url": "https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/",
+    "content": "Nvidia 宣布推出一个名为 NemoClaw 的开放式企业 AI 代理平台，该平台是在病毒式传播的 OpenClaw 基础上构建的。",
+    "publish_time": "Mon, 16 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-03-17T11:27:31.649623",
+    "fetch_method": "RSS",
+    "original_title": "Nvidia’s version of OpenClaw could solve its biggest problem: security",
+    "original_content": "Nvidia announced an open enterprise AI agent platform, called NemoClaw, that is built off of viral OpenClaw."
+  },
+  {
+    "title": "埃隆·马斯克 (Elon Musk) 的 xAI 面临未成年人的儿童色情诉讼 Grok 涉嫌脱衣",
+    "url": "https://techcrunch.com/2026/03/16/elon-musks-xai-faces-child-porn-lawsuit-from-minors-grok-allegedly-undressed/",
+    "content": "这三名原告正在寻求代表任何拥有他们未成年时真实图像并被 Grok 修改为色情内容的人。",
+    "publish_time": "Mon, 16 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-03-17T11:27:31.649677",
+    "fetch_method": "RSS",
+    "original_title": "Elon Musk’s xAI faces child porn lawsuit from minors Grok allegedly undressed",
+    "original_content": "The three plaintiffs are seeking to represent anyone who had real images of them as a minor altered into sexual content by Grok."
+  },
+  {
+    "title": "人工智能精神病案件背后的律师警告大规模伤亡风险",
+    "url": "https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
+    "content": "多年来，人工智能聊天机器人一直与自杀有关。现在，一位律师表示，它们也出现在大规模伤亡案件中，而且技术的发展速度快于保障措施。",
+    "publish_time": "Sun, 15 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-03-17T11:27:31.649789",
+    "fetch_method": "RSS",
+    "original_title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
+    "original_content": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards."
+  },
+  {
+    "title": "Nvidia 推出 Vera CPU，专为 Agentic AI 打造",
+    "url": "https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai",
+    "content": "",
+    "publish_time": "2026-03-16",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 139,
+      "comments": 83
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=47404074",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 7,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.05
+    },
+    "collection_time": "2026-03-17T11:27:46.057281",
+    "original_title": "Nvidia Launches Vera CPU, Purpose-Built for Agentic AI",
+    "original_content": ""
+  },
+  {
+    "title": "推出 HN：Voygr (YC W26) – 用于代理和人工智能应用程序的更好的地图 API",
+    "url": "https://news.ycombinator.com/item?id=47401042",
+    "content": "您好，HN，我们是来自 VOYGR (https://voygr.tech/) 的 Yarik 和 Vlad，致力于为应用程序开发人员和代理商提供更好的现实世界场所情报。这是一个演示：https://www.youtube.com/watch?v=cNIpcWIE0n4。Google 地图可以告诉你一家餐厅“4.2 星，营业至 10 点”。他们的 API 无法告诉你原理",
+    "publish_time": "Mon, 16 Ma",
+    "source": "Hacker News Front Page",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-03-17T11:27:31.650362",
+    "fetch_method": "RSS",
+    "original_title": "Launch HN: Voygr (YC W26) – A better maps API for agents and AI apps",
+    "original_content": "Hi HN, we’re Yarik and Vlad from VOYGR (https://voygr.tech/), working on better real-world place intelligence for app developers and agents. Here’s a demo: https://www.youtube.com/watch?v=cNIpcWIE0n4.Google Maps can tell you a restaurant is \"4.2 stars, open till 10.\" Their API can't tell you the che"
+  }
+]
