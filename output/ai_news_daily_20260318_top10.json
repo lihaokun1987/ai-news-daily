@@ -1,0 +1,196 @@
+[
+  {
+    "title": "下载：OpenAI 的美国军事协议和 Grok 的 CSAM 诉讼",
+    "url": "https://www.technologyreview.com/2026/03/17/1134322/the-download-openi-us-military-deal-grok-xai-csam-lawsuit/",
+    "content": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。 OpenAI 的技术可能会出现在伊朗的哪些地方？ OpenAI 有争议地同意让五角大楼使用其人工智能。但具体哪里可以",
+    "publish_time": "Tue, 17 Ma",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 8,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 7.15
+    },
+    "collection_time": "2026-03-18T11:34:31.888039",
+    "fetch_method": "RSS",
+    "original_title": "The Download: OpenAI’s US military deal, and Grok’s CSAM lawsuit",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Where OpenAI’s technology could show up in Iran&#160; OpenAI has controversially agreed to give the Pentagon access to its AI. But where exactly could"
+  },
+  {
+    "title": "报告称 OpenAI 通过 AWS 交易扩大了政府足迹",
+    "url": "https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/",
+    "content": "据报道，OpenAI 已与 AWS 签署合作伙伴关系，将其人工智能系统出售给美国政府用于机密和非机密工作，这标志着其上个月与五角大楼达成的协议的扩展。",
+    "publish_time": "Tue, 17 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 8,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.9
+    },
+    "collection_time": "2026-03-18T11:34:31.887683",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI expands government footprint with AWS deal, report says",
+    "original_content": "OpenAI has reportedly signed a partnership with AWS to sell its AI systems to the U.S. government for classified and unclassified work, marking an expansion beyond its Pentagon deal last month."
+  },
+  {
+    "title": "银行系统中零日欺诈检测的双路径生成框架",
+    "url": "https://arxiv.org/abs/2603.13237",
+    "content": "arXiv:2603.13237v1 公告类型：新 \n摘要：高频银行环境面临低延迟欺诈检测和 GDPR 要求的监管可解释性之间的关键权衡。由于极端类别，传统的基于规则的判别模型难以应对“零日”攻击",
+    "publish_time": "Tue, 17 Ma",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.65
+    },
+    "collection_time": "2026-03-18T11:34:31.888323",
+    "fetch_method": "RSS",
+    "original_title": "A Dual-Path Generative Framework for Zero-Day Fraud Detection in Banking Systems",
+    "original_content": "arXiv:2603.13237v1 Announce Type: new \nAbstract: High-frequency banking environments face a critical trade-off between low-latency fraud detection and the regulatory explainability demanded by GDPR. Traditional rule-based and discriminative models struggle with \"zero-day\" attacks due to extreme clas"
+  },
+  {
+    "title": "BuzzFeed 推出 AI slop 应用程序以寻求新收入",
+    "url": "https://techcrunch.com/2026/03/17/buzzfeed-ai-slop-apps-sxsw-bf-island-conjure/",
+    "content": "BuzzFeed 在 SXSW 上推出了新的人工智能驱动的社交应用程序，但其演示却引起了冷淡的反应。",
+    "publish_time": "Tue, 17 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-03-18T11:34:31.887659",
+    "fetch_method": "RSS",
+    "original_title": "BuzzFeed debuts AI slop apps in bid for new revenue",
+    "original_content": "BuzzFeed unveiled new AI-powered social apps at SXSW, but its demos drew muted reactions."
+  },
+  {
+    "title": "中国的OpenClaw热潮是人工智能公司的淘金热",
+    "url": "https://www.wired.com/story/china-is-going-all-in-on-openclaw/",
+    "content": "围绕开源代理的炒作正在促使人们租用云服务器并购买人工智能订阅只是为了尝试一下，这为科技公司创造了意外之财。",
+    "publish_time": "Fri, 13 Ma",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-03-18T11:34:31.887548",
+    "fetch_method": "RSS",
+    "original_title": "China’s OpenClaw Boom Is a Gold Rush for AI Companies",
+    "original_content": "Hype around the open source agent is driving people to rent cloud servers and buy AI subscriptions just to try it, creating a windfall for tech companies."
+  },
+  {
+    "title": "“恐怖谷”：Anthropic 的国防部诉讼、战争迷因和人工智能将取代风险投资工作",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-anthropic-department-defense-lawsuit-iran-war-memes-artificial-intelligence-venture-capital/",
+    "content": "在今天的节目中，我们将讨论人类与国防部之间的传奇故事还远未结束。",
+    "publish_time": "Thu, 12 Ma",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-03-18T11:34:31.887597",
+    "fetch_method": "RSS",
+    "original_title": "‘Uncanny Valley’: Anthropic’s DOD Lawsuit, War Memes, and AI Coming for VC Jobs",
+    "original_content": "In today’s episode, we discuss how the saga between Anthropic and the Department of Defense is far from over."
+  },
+  {
+    "title": "World推出工具来验证人工智能购物代理背后的人类",
+    "url": "https://techcrunch.com/2026/03/17/world-launches-tool-to-verify-humans-behind-ai-shopping-agents/",
+    "content": "随着人工智能代理掌控在线购物者，Sam Altman 的非传统初创公司正在寻求扩展其验证产品以支持代理商务。",
+    "publish_time": "Tue, 17 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-03-18T11:34:31.887707",
+    "fetch_method": "RSS",
+    "original_title": "World launches tool to verify humans behind AI shopping agents",
+    "original_content": "As AI agents take the reins for online shoppers, Sam Altman's unconventional startup is looking to expand its verification offerings to support agentic commerce."
+  },
+  {
+    "title": "Nvidia 版本的 OpenClaw 可以解决其最大的问题：安全性",
+    "url": "https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/",
+    "content": "Nvidia 宣布推出一个名为 NemoClaw 的开放式企业 AI 代理平台，该平台是在病毒式传播的 OpenClaw 基础上构建的。",
+    "publish_time": "Mon, 16 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-03-18T11:34:31.887756",
+    "fetch_method": "RSS",
+    "original_title": "Nvidia’s version of OpenClaw could solve its biggest problem: security",
+    "original_content": "Nvidia announced an open enterprise AI agent platform, called NemoClaw, that is built off of viral OpenClaw."
+  },
+  {
+    "title": "用于纵向 EHR 预测的图变换器中的平移差距：GT-BEHRT 的批判性评估",
+    "url": "https://arxiv.org/abs/2603.13231",
+    "content": "arXiv:2603.13231v1 公告类型：新 \n摘要：基于 Transformer 的模型通过大规模自监督预训练改进了纵向电子健康记录的预测模型。然而，大多数 EHR 转换器架构将每次临床遭遇视为无序集合",
+    "publish_time": "Tue, 17 Ma",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-03-18T11:34:31.888142",
+    "fetch_method": "RSS",
+    "original_title": "Translational Gaps in Graph Transformers for Longitudinal EHR Prediction: A Critical Appraisal of GT-BEHRT",
+    "original_content": "arXiv:2603.13231v1 Announce Type: new \nAbstract: Transformer-based models have improved predictive modeling on longitudinal electronic health records through large-scale self-supervised pretraining. However, most EHR transformer architectures treat each clinical encounter as an unordered collection "
+  },
+  {
+    "title": "Mistral AI 发布 Forge",
+    "url": "https://mistral.ai/news/forge",
+    "content": "",
+    "publish_time": "2026-03-17",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 176,
+      "comments": 26
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=47418295",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 7,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.05
+    },
+    "collection_time": "2026-03-18T11:34:55.163884",
+    "original_title": "Mistral AI Releases Forge",
+    "original_content": ""
+  }
+]
