@@ -1,0 +1,206 @@
+[
+  {
+    "title": "下载：OpenAI 的美国军事协议和 Grok 的 CSAM 诉讼",
+    "url": "https://www.technologyreview.com/2026/03/17/1134322/the-download-openi-us-military-deal-grok-xai-csam-lawsuit/",
+    "content": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。 OpenAI 的技术可能会出现在伊朗的哪些地方？ OpenAI 有争议地同意让五角大楼使用其人工智能。但具体哪里可以",
+    "publish_time": "Tue, 17 Ma",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 8,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 7.15
+    },
+    "collection_time": "2026-03-20T11:24:55.118007",
+    "fetch_method": "RSS",
+    "original_title": "The Download: OpenAI’s US military deal, and Grok’s CSAM lawsuit",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Where OpenAI’s technology could show up in Iran&#160; OpenAI has controversially agreed to give the Pentagon access to its AI. But where exactly could"
+  },
+  {
+    "title": "MHPO：稳定强化学习的调制危险感知策略优化",
+    "url": "https://arxiv.org/abs/2603.16929",
+    "content": "arXiv:2603.16929v1 公告类型：新 \n摘要：调节重要性比对于基于组相对策略优化（GRPO）的框架的训练稳定性至关重要。然而，流行的比率控制方法（例如硬剪裁）受到不可微分边界和范尼斯的影响",
+    "publish_time": "Thu, 19 Ma",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-03-20T11:24:55.118783",
+    "fetch_method": "RSS",
+    "original_title": "MHPO: Modulated Hazard-aware Policy Optimization for Stable Reinforcement Learning",
+    "original_content": "arXiv:2603.16929v1 Announce Type: new \nAbstract: Regulating the importance ratio is critical for the training stability of Group Relative Policy Optimization (GRPO) based frameworks. However, prevailing ratio control methods, such as hard clipping, suffer from non-differentiable boundaries and vanis"
+  },
+  {
+    "title": "最小动作学习：从噪声数据中识别物理定律的能量约束符号模型选择",
+    "url": "https://arxiv.org/abs/2603.16951",
+    "content": "arXiv:2603.16951v1 公告类型：新 \n摘要：从嘈杂的观测数据中识别物理定律是科学机器学习的核心挑战。我们提出了最小动作学习（MAL），这是一个框架，通过最小化 Tr 从预先指定的基础库中选择符号力定律",
+    "publish_time": "Thu, 19 Ma",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-03-20T11:24:55.118808",
+    "fetch_method": "RSS",
+    "original_title": "Minimum-Action Learning: Energy-Constrained Symbolic Model Selection for Physical Law Identification from Noisy Data",
+    "original_content": "arXiv:2603.16951v1 Announce Type: new \nAbstract: Identifying physical laws from noisy observational data is a central challenge in scientific machine learning. We present Minimum-Action Learning (MAL), a framework that selects symbolic force laws from a pre-specified basis library by minimizing a Tr"
+  },
+  {
+    "title": "DoorDash 推出了一款新的“任务”应用程序，该应用程序向快递员付费，让他们提交视频来训练人工智能",
+    "url": "https://techcrunch.com/2026/03/19/doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai/",
+    "content": "送货员将能够通过完成诸如拍摄日常任务或录制自己用另一种语言说话的活动来赚钱。",
+    "publish_time": "Thu, 19 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-03-20T11:24:55.118300",
+    "fetch_method": "RSS",
+    "original_title": "DoorDash launches a new ‘Tasks’ app that pays couriers to submit videos to train AI",
+    "original_content": "Delivery couriers will be able to earn money by completing activities like filming everyday tasks or recording themselves speaking in another language."
+  },
+  {
+    "title": "谷歌在 OpenClaw 热潮中重组了浏览器代理团队",
+    "url": "https://www.wired.com/story/google-shakes-up-project-mariner-team-web-browsing-agents/",
+    "content": "随着硅谷痴迷于新一波的人工智能编码代理，谷歌和其他人工智能实验室正在改变他们的赌注。",
+    "publish_time": "Thu, 19 Ma",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-03-20T11:24:55.118403",
+    "fetch_method": "RSS",
+    "original_title": "Google Shakes Up Its Browser Agent Team Amid OpenClaw Craze",
+    "original_content": "As Silicon Valley obsesses over a new wave of AI coding agents, Google and other AI labs are shifting their bets."
+  },
+  {
+    "title": "DevDay 发布的 AMA",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/",
+    "content": "这是历史上成为建设者的最好时代。在 DevDay 2025 上，我们推出了下一代工具和模型，以帮助开发人员更快地编码、更可靠地构建代理并扩展他们的应用程序",
+    "publish_time": "2026-03-19",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-03-20T11:25:08.892537",
+    "original_title": "AMA on our DevDay Launches",
+    "original_content": "Its the best time in history to be a builder. At DevDay 2025, we introduced the next generation of tools and models to help developers code faster, build agents more reliably, and scale their apps in "
+  },
+  {
+    "title": "Astral 加入 OpenAI",
+    "url": "https://astral.sh/blog/openai",
+    "content": "",
+    "publish_time": "2026-03-19",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 1251,
+      "comments": 773
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=47438723",
+    "score": {
+      "importance": 3,
+      "authority": 5,
+      "spread": 10,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-03-20T11:25:08.892670",
+    "original_title": "Astral to Join OpenAI",
+    "original_content": ""
+  },
+  {
+    "title": "谷歌详细介绍了旁加载未经验证的 Android 应用程序的新 24 小时流程",
+    "url": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
+    "content": "",
+    "publish_time": "2026-03-19",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 567,
+      "comments": 659
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=47442690",
+    "score": {
+      "importance": 3,
+      "authority": 5,
+      "spread": 10,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-03-20T11:25:08.892683",
+    "original_title": "Google details new 24-hour process to sideload unverified Android apps",
+    "original_content": ""
+  },
+  {
+    "title": "为什么沃尔玛和 OpenAI 正在改变他们的代理购物交易",
+    "url": "https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal/",
+    "content": "在 OpenAI 的即时结帐功能出现缺陷后，沃尔玛将其 Sparky 聊天机器人直接嵌入 ChatGPT 和 Google Gemini 中。",
+    "publish_time": "Wed, 18 Ma",
+    "source": "Wired AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-03-20T11:24:55.118456",
+    "fetch_method": "RSS",
+    "original_title": "Why Walmart and OpenAI Are Shaking Up Their Agentic Shopping Deal",
+    "original_content": "After OpenAI’s Instant Checkout feature fell short, Walmart is instead embedding its Sparky chatbot directly into ChatGPT and Google Gemini."
+  },
+  {
+    "title": "推出 HN：Voltair (YC W26) – 电力公司的无人机和充电网络",
+    "url": "https://news.ycombinator.com/item?id=47442452",
+    "content": "",
+    "publish_time": "2026-03-19",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 60,
+      "comments": 21
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=47442452",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 6,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-03-20T11:25:08.892773",
+    "original_title": "Launch HN: Voltair (YC W26) – Drone and charging network for power utilities",
+    "original_content": ""
+  }
+]
