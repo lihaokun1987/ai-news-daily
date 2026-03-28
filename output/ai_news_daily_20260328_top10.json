@@ -1,0 +1,191 @@
+[
+  {
+    "title": "为什么软银新的 400 亿美元贷款指向 2026 年 OpenAI IPO",
+    "url": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
+    "content": "华尔街巨头摩根大通和高盛正在向这家日本企业集团提供为期 12 个月的无担保贷款。",
+    "publish_time": "Fri, 27 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 8,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 7.1
+    },
+    "collection_time": "2026-03-28T11:31:50.849199",
+    "fetch_method": "RSS",
+    "original_title": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
+    "original_content": "Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate."
+  },
+  {
+    "title": "用于主动用户-LLM 交互的隐式回合策略优化",
+    "url": "https://arxiv.org/abs/2603.23550",
+    "content": "arXiv:2603.23550v1 公告类型：新 \n摘要：多轮人机协作是部署自适应辅导、对话式推荐和专业咨询等交互式服务的基础。然而，通过强化学习优化这些交互受到阻碍",
+    "publish_time": "Fri, 27 Ma",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-03-28T11:31:50.849602",
+    "fetch_method": "RSS",
+    "original_title": "Implicit Turn-Wise Policy Optimization for Proactive User-LLM Interaction",
+    "original_content": "arXiv:2603.23550v1 Announce Type: new \nAbstract: Multi-turn human-AI collaboration is fundamental to deploying interactive services such as adaptive tutoring, conversational recommendation, and professional consultation. However, optimizing these interactions via reinforcement learning is hindered b"
+  },
+  {
+    "title": "Cohere 推出专门用于转录的开源语音模型",
+    "url": "https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/",
+    "content": "该模型相对较轻，只有 20 亿个参数，适合那些想要自行托管它的人与消费级 GPU 一起使用。目前它支持 14 种语言。",
+    "publish_time": "Thu, 26 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-03-28T11:31:50.849380",
+    "fetch_method": "RSS",
+    "original_title": "Cohere launches an open source voice model specifically for transcription",
+    "original_content": "Relatively light at just 2 billion parameters, the model is meant for use with consumer-grade GPUs for those who want to self-host it. It currently supports 14 languages."
+  },
+  {
+    "title": "Mistral 发布了用于语音生成的新开源模型",
+    "url": "https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/",
+    "content": "该模型允许企业构建用于销售和客户参与的语音代理，使 Mistral 与 ElevenLabs、Deepgram 和 OpenAI 等公司直接竞争。",
+    "publish_time": "Thu, 26 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-03-28T11:31:50.849403",
+    "fetch_method": "RSS",
+    "original_title": "Mistral releases a new open source model for speech generation",
+    "original_content": "The model, which lets enterprises build voice agents for sales and customer engagement, puts Mistral in direct competition with the likes of ElevenLabs, Deepgram, and OpenAI."
+  },
+  {
+    "title": "Mellea 0.4.0 + Granite 库版本的新增功能",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-libraries",
+    "content": "",
+    "publish_time": "Fri, 20 Ma",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-03-28T11:31:50.849434",
+    "fetch_method": "RSS",
+    "original_title": "What's New in Mellea 0.4.0 + Granite Libraries Release",
+    "original_content": ""
+  },
+  {
+    "title": "软银获得 400 亿美元贷款以深化 OpenAI 合作伙伴关系",
+    "url": "https://www.bing.com/news/search?q=ChatGPT+OpenAI+2026-03-27",
+    "content": "软银已获得 400 亿美元的过桥贷款，以加强对人工智能的关注，并扩大与 ChatGPT 背后的公司 OpenAI 的关系。此举标志着新的推动......",
+    "publish_time": "2026-03-27",
+    "source": "AI News",
+    "score": {
+      "importance": 8,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.35
+    },
+    "collection_time": "2026-03-28T11:32:05.191359",
+    "original_title": "SoftBank secures $40B loan to deepen OpenAI partnership",
+    "original_content": "SoftBank has secured a 40 billion bridge loan as it sharpens its focus on artificial intelligence and expands its relationship with OpenAI, the company behind ChatGPT. The move signals a renewed push ..."
+  },
+  {
+    "title": "OpenClaw 特工可能会因内疚而陷入自我破坏",
+    "url": "https://www.wired.com/story/openclaw-ai-agent-manipulation-security-northeastern-study/",
+    "content": "在一项对照实验中，OpenClaw 特工被证明容易恐慌并且容易受到操纵。当人类点燃煤气时，它们甚至会禁用自己的功能。",
+    "publish_time": "Wed, 25 Ma",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-03-28T11:31:50.849069",
+    "fetch_method": "RSS",
+    "original_title": "OpenClaw Agents Can Be Guilt-Tripped Into Self-Sabotage",
+    "original_content": "In a controlled experiment, OpenClaw agents proved prone to panic and vulnerable to manipulation. They even disabled their own functionality when gaslit by humans."
+  },
+  {
+    "title": "OpenAI 放弃了另一个支线任务：ChatGPT 的色情模式",
+    "url": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
+    "content": "这只是这家人工智能初创公司上周放弃的几个副项目中的最新一个。",
+    "publish_time": "Thu, 26 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-03-28T11:31:50.849299",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI abandons yet another side quest: ChatGPT’s erotic mode",
+    "original_content": "It's only the latest of several side projects that the AI startup has ditched over the past week."
+  },
+  {
+    "title": "综合混合训练：扩展 RAG 之外的参数化知识获取",
+    "url": "https://arxiv.org/abs/2603.23562",
+    "content": "arXiv:2603.23562v1 公告类型：新 \n摘要：合成数据增强有助于语言模型学习数据受限领域的新知识。然而，通过训练更多的合成令牌或使用更强的生成器来天真地扩展现有的合成数据方法会产生收益递减",
+    "publish_time": "Fri, 27 Ma",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-03-28T11:31:50.849624",
+    "fetch_method": "RSS",
+    "original_title": "Synthetic Mixed Training: Scaling Parametric Knowledge Acquisition Beyond RAG",
+    "original_content": "arXiv:2603.23562v1 Announce Type: new \nAbstract: Synthetic data augmentation helps language models learn new knowledge in data-constrained domains. However, naively scaling existing synthetic data methods by training on more synthetic tokens or using stronger generators yields diminishing returns be"
+  },
+  {
+    "title": "PLDR-LLMs 在自组织临界点上的推理",
+    "url": "https://arxiv.org/abs/2603.23539",
+    "content": "arXiv:2603.23539v1 公告类型：新 \n摘要：我们表明，在自组织临界点预训练的 PLDR-LLM 在推理时表现出推理能力。 PLDR-LLM 演绎输出在临界点的特性类似于二阶相变。在临界点，相关长度",
+    "publish_time": "Fri, 27 Ma",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-03-28T11:31:50.849789",
+    "fetch_method": "RSS",
+    "original_title": "PLDR-LLMs Reason At Self-Organized Criticality",
+    "original_content": "arXiv:2603.23539v1 Announce Type: new \nAbstract: We show that PLDR-LLMs pretrained at self-organized criticality exhibit reasoning at inference time. The characteristics of PLDR-LLM deductive outputs at criticality is similar to second-order phase transitions. At criticality, the correlation length "
+  }
+]
