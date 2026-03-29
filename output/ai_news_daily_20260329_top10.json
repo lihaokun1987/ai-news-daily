@@ -1,0 +1,199 @@
+[
+  {
+    "title": "为什么软银新的 400 亿美元贷款指向 2026 年 OpenAI IPO",
+    "url": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
+    "content": "华尔街巨头摩根大通和高盛正在向这家日本企业集团提供为期 12 个月的无担保贷款。",
+    "publish_time": "Fri, 27 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 8,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 7.1
+    },
+    "collection_time": "2026-03-29T11:50:10.502135",
+    "fetch_method": "RSS",
+    "original_title": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
+    "original_content": "Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate."
+  },
+  {
+    "title": "Mellea 0.4.0 + Granite 库版本的新增功能",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-libraries",
+    "content": "",
+    "publish_time": "Fri, 20 Ma",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-03-29T11:50:10.502602",
+    "fetch_method": "RSS",
+    "original_title": "What's New in Mellea 0.4.0 + Granite Libraries Release",
+    "original_content": ""
+  },
+  {
+    "title": "OpenAI 放弃了另一个支线任务：ChatGPT 的色情模式",
+    "url": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
+    "content": "这只是这家人工智能初创公司上周放弃的几个副项目中的最新一个。",
+    "publish_time": "Thu, 26 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-03-29T11:50:10.502249",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI abandons yet another side quest: ChatGPT’s erotic mode",
+    "original_content": "It's only the latest of several side projects that the AI startup has ditched over the past week."
+  },
+  {
+    "title": "OpenClaw 特工可能会因内疚而陷入自我破坏",
+    "url": "https://www.wired.com/story/openclaw-ai-agent-manipulation-security-northeastern-study/",
+    "content": "在一项对照实验中，OpenClaw 特工被证明容易恐慌并且容易受到操纵。当人类点燃煤气时，它们甚至会禁用自己的功能。",
+    "publish_time": "Wed, 25 Ma",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-03-29T11:50:10.502414",
+    "fetch_method": "RSS",
+    "original_title": "OpenClaw Agents Can Be Guilt-Tripped Into Self-Sabotage",
+    "original_content": "In a controlled experiment, OpenClaw agents proved prone to panic and vulnerable to manipulation. They even disabled their own functionality when gaslit by humans."
+  },
+  {
+    "title": "解放你的 OpenClaw",
+    "url": "https://huggingface.co/blog/liberate-your-openclaw",
+    "content": "",
+    "publish_time": "Fri, 27 Ma",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-03-29T11:50:10.502573",
+    "fetch_method": "RSS",
+    "original_title": "Liberate your OpenClaw",
+    "original_content": ""
+  },
+  {
+    "title": "[R] 我建立了一个基准来捕捉法学硕士违反物理定律的情况",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1s6keh0/r_i_built_a_benchmark_that_catches_llms_breaking/",
+    "content": "我厌倦了法学硕士自信地给出错误的物理答案，所以我建立了一个基准，生成对抗性物理问题，并用符号数学 sympy 品脱对它们进行评分。没有法学硕士作为法官，没有振动",
+    "publish_time": "2026-03-28",
+    "source": "Reddit r/MachineLearning",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-03-29T11:50:24.098532",
+    "original_title": "[R] I built a benchmark that catches LLMs breaking physics laws",
+    "original_content": "I got tired of LLMs confidently giving wrong physics answers, so I built a benchmark that generates adversarial physics questions and grades them with symbolic math sympy pint. No LLM-as-judge, no vib"
+  },
+  {
+    "title": "DevDay 发布的 AMA",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/",
+    "content": "这是历史上成为建设者的最好时代。在 DevDay 2025 上，我们推出了下一代工具和模型，以帮助开发人员更快地编码、更可靠地构建代理并扩展他们的应用程序",
+    "publish_time": "2026-03-28",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-03-29T11:50:24.098611",
+    "original_title": "AMA on our DevDay Launches",
+    "original_content": "Its the best time in history to be a builder. At DevDay 2025, we introduced the next generation of tools and models to help developers code faster, build agents more reliably, and scale their apps in "
+  },
+  {
+    "title": "存储芯片巨头 SK 海力士可能会通过美国 IPO 来结束“RAMmageddon”",
+    "url": "https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/",
+    "content": "SK 海力士潜在的美国上市可能会筹集 10 至 140 亿美元资金，以帮助其建设更多产能，鼓励其他公司效仿，并结束“RAMmageddon”内存短缺问题。",
+    "publish_time": "Fri, 27 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-03-29T11:50:10.502150",
+    "fetch_method": "RSS",
+    "original_title": "Memory chip giant SK hynix could help end ‘RAMmageddon’ with blockbuster US IPO",
+    "original_content": "SK hynix’s potential U.S. listing could raise $10-$14 billion to help it build more capacity, encourage others to follow, and end the 'RAMmageddon' memory shortage."
+  },
+  {
+    "title": "维基百科在其在线百科全书中禁止人工智能生成的内容",
+    "url": "https://www.theguardian.com/technology/2026/mar/27/wikipedia-bans-ai",
+    "content": "",
+    "publish_time": "2026-03-28",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 74,
+      "comments": 16
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=47556116",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 6,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-03-29T11:50:24.098834",
+    "original_title": "Wikipedia bans AI-generated content in its online encyclopedia",
+    "original_content": ""
+  },
+  {
+    "title": "编辑部",
+    "source": "www.anthropic.com",
+    "content": "我们邀请 Claude.ai 用户分享他们如何使用人工智能、他们梦想人工智能可以实现什么，以及他们担心人工智能可能会做什么。近 81,000 人参与了同类中规模最大、语言种类最多的定性研究。这是我们发现的。 Sonnet 4.6 提供跨编码的前沿性能，",
+    "url": "https://www.anthropic.com/news",
+    "publish_time": "2026-03-28",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-03-29T11:50:24.098268",
+    "original_title": "Newsroom",
+    "original_content": "We invited Claude.ai users to share how they use AI, what they dream it could make possible, and what they fear it might do. Nearly 81,000 people participatedthe largest and most multilingual qualitative study of its kind. Here's what we found. Sonnet 4.6 delivers frontier performance across coding,"
+  }
+]
