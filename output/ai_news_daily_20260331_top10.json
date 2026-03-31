@@ -1,0 +1,193 @@
+[
+  {
+    "title": "BeSafe-Bench：揭示功能环境中特定人员的行为安全风险",
+    "url": "https://arxiv.org/abs/2603.25747",
+    "content": "arXiv:2603.25747v1 公告类型：新 \n摘要：大型多模态模型（LMM）的快速发展使智能体能够执行复杂的数字和物理任务，但将它们部署为自主决策者会带来大量无意的行为安全风险。然而，缺席",
+    "publish_time": "Mon, 30 Ma",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-03-31T11:44:48.515556",
+    "fetch_method": "RSS",
+    "original_title": "BeSafe-Bench: Unveiling Behavioral Safety Risks of Situated Agents in Functional Environments",
+    "original_content": "arXiv:2603.25747v1 Announce Type: new \nAbstract: The rapid evolution of Large Multimodal Models (LMMs) has enabled agents to perform complex digital and physical tasks, yet their deployment as autonomous decision-makers introduces substantial unintentional behavioral safety risks. However, the absen"
+  },
+  {
+    "title": "无约束线性强盗的无参数动态遗憾",
+    "url": "https://arxiv.org/abs/2603.25916",
+    "content": "arXiv:2603.25916v1 公告类型：新 \n摘要：我们研究无约束对抗性线性老虎机问题中的动态遗憾最小化。在此设置中，学习者必须最小化相对于 $\\mat 中任意比较器 $\\boldsymbol{u}_1,\\ldots,\\boldsymbol{u}_T$ 序列的累积损失",
+    "publish_time": "Mon, 30 Ma",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-03-31T11:44:48.515839",
+    "fetch_method": "RSS",
+    "original_title": "Parameter-Free Dynamic Regret for Unconstrained Linear Bandits",
+    "original_content": "arXiv:2603.25916v1 Announce Type: new \nAbstract: We study dynamic regret minimization in unconstrained adversarial linear bandit problems. In this setting, a learner must minimize the cumulative loss relative to an arbitrary sequence of comparators $\\boldsymbol{u}_1,\\ldots,\\boldsymbol{u}_T$ in $\\mat"
+  },
+  {
+    "title": "Mellea 0.4.0 + Granite 库版本的新增功能",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-libraries",
+    "content": "",
+    "publish_time": "Fri, 20 Ma",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-03-31T11:44:48.515092",
+    "fetch_method": "RSS",
+    "original_title": "What's New in Mellea 0.4.0 + Granite Libraries Release",
+    "original_content": ""
+  },
+  {
+    "title": "BullFrog AI 宣布与全球排名前 5 的制药公司达成商业协议，以确定和优先考虑重度抑郁症的治疗目标",
+    "url": "https://www.bing.com/news/search?q=AI+machine+learning+2026-03-30",
+    "content": "BullFrog AI Holdings, Inc. 纳斯达克 BFRG BFRGW BullFrog AI 或该公司是一家利用人工智能 AI 和机器学习将复杂的生物医学数据转化为...的科技公司",
+    "publish_time": "2026-03-30",
+    "source": "AI News",
+    "score": {
+      "importance": 8,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.35
+    },
+    "collection_time": "2026-03-31T11:45:04.925724",
+    "original_title": "BullFrog AI Announces Commercial Agreement with Top 5 Global Pharmaceutical Company to Identify and Prioritize Therapeutic Target in Major Depressive Disorder",
+    "original_content": "BullFrog AI Holdings, Inc. NASDAQ BFRG BFRGW BullFrog AI or the Company, a technology company using artificial intelligence AI and machine learning to turn complex biomedical data into ..."
+  },
+  {
+    "title": "解放你的 OpenClaw",
+    "url": "https://huggingface.co/blog/liberate-your-openclaw",
+    "content": "",
+    "publish_time": "Fri, 27 Ma",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-03-31T11:44:48.515019",
+    "fetch_method": "RSS",
+    "original_title": "Liberate your OpenClaw",
+    "original_content": ""
+  },
+  {
+    "title": "新的一年，新的车型",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1s7w30e/new_year_new_models/",
+    "content": "32 由 32 uIncandescentSplash 链接提交 32 条评论",
+    "publish_time": "2026-03-30",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-03-31T11:45:04.926206",
+    "original_title": "New year, new models",
+    "original_content": "32 submitted by 32 uIncandescentSplash link 32 comments"
+  },
+  {
+    "title": "DevDay 发布的 AMA",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/",
+    "content": "这是历史上成为建设者的最好时代。在 DevDay 2025 上，我们推出了下一代工具和模型，以帮助开发人员更快地编码、更可靠地构建代理并扩展他们的应用程序",
+    "publish_time": "2026-03-30",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-03-31T11:45:04.926176",
+    "original_title": "AMA on our DevDay Launches",
+    "original_content": "Its the best time in history to be a builder. At DevDay 2025, we introduced the next generation of tools and models to help developers code faster, build agents more reliably, and scale their apps in "
+  },
+  {
+    "title": "AI 芯片初创公司 Rebellions 在 IPO 前轮融资 4 亿美元，估值 2.3B 美元",
+    "url": "https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/",
+    "content": "这家初创公司计划于今年晚些时候上市，专门为人工智能推理设计芯片，这是英伟达主导地位的另一个挑战者。",
+    "publish_time": "Mon, 30 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-03-31T11:44:48.515290",
+    "fetch_method": "RSS",
+    "original_title": "AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round",
+    "original_content": "The startup, which is planning to go public later this year, designs chips specifically for AI inference, another challenger to Nvidia's dominance."
+  },
+  {
+    "title": "编辑部",
+    "source": "www.anthropic.com",
+    "content": "我们邀请 Claude.ai 用户分享他们如何使用人工智能、他们梦想人工智能可以实现什么，以及他们担心人工智能可能会做什么。近 81,000 人参与了同类中规模最大、语言种类最多的定性研究。这是我们发现的。 Sonnet 4.6 提供跨编码的前沿性能，",
+    "url": "https://www.anthropic.com/news",
+    "publish_time": "2026-03-30",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-03-31T11:45:04.925815",
+    "original_title": "Newsroom",
+    "original_content": "We invited Claude.ai users to share how they use AI, what they dream it could make possible, and what they fear it might do. Nearly 81,000 people participatedthe largest and most multilingual qualitative study of its kind. Here's what we found. Sonnet 4.6 delivers frontier performance across coding,"
+  },
+  {
+    "title": "消息",
+    "source": "deepmind.google",
+    "content": "发现我们最新的人工智能突破、项目和更新 我接受 Google 的条款和条件，并确认我的信息将按照 Google 的隐私政策使用。",
+    "url": "https://deepmind.google/blog/",
+    "publish_time": "2026-03-30",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-03-31T11:45:04.925868",
+    "original_title": "News",
+    "original_content": "Discover our latest AI breakthroughs, projects, and updates I accept Google's Terms and Conditions and acknowledge that my information will be used in accordance withGoogle's Privacy Policy."
+  }
+]
