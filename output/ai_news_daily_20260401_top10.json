@@ -1,0 +1,204 @@
+[
+  {
+    "title": "Salesforce 宣布对 Slack 进行人工智能改造，新增 30 项功能",
+    "url": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
+    "content": "Slack 变得更加有用。",
+    "publish_time": "Tue, 31 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-04-01T11:56:35.748135",
+    "fetch_method": "RSS",
+    "original_title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
+    "original_content": "Slack just got a whole lot more useful."
+  },
+  {
+    "title": "独家：Runway 推出 1000 万美元基金和 Builders 计划以支持早期人工智能初创公司",
+    "url": "https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/",
+    "content": "Runway 正在推出一项 1000 万美元的基金和启动计划，以支持利用其 AI 视频模型构建的公司，以推动交互式、实时的“视频智能”应用程序的发展。",
+    "publish_time": "Tue, 31 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-04-01T11:56:35.748229",
+    "fetch_method": "RSS",
+    "original_title": "Exclusive: Runway launches $10M fund, Builders program to support early-stage AI startups",
+    "original_content": "Runway is launching a $10 million fund and startup program to back companies building with its AI video models, as it pushes toward interactive, real-time “video intelligence” applications."
+  },
+  {
+    "title": "解放你的 OpenClaw",
+    "url": "https://huggingface.co/blog/liberate-your-openclaw",
+    "content": "",
+    "publish_time": "Fri, 27 Ma",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-04-01T11:56:35.748531",
+    "fetch_method": "RSS",
+    "original_title": "Liberate your OpenClaw",
+    "original_content": ""
+  },
+  {
+    "title": "热力学结构信息神经网络的比较研究",
+    "url": "https://arxiv.org/abs/2603.26803",
+    "content": "arXiv:2603.26803v1 公告类型：新 \n摘要：物理信息神经网络（PINN）为解决微分方程的正向和反演问题提供了统一的框架，但其性能和物理一致性在很大程度上取决于控制定律的结合方式。在这个",
+    "publish_time": "Tue, 31 Ma",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-04-01T11:56:35.749077",
+    "fetch_method": "RSS",
+    "original_title": "A Comparative Investigation of Thermodynamic Structure-Informed Neural Networks",
+    "original_content": "arXiv:2603.26803v1 Announce Type: new \nAbstract: Physics-informed neural networks (PINNs) offer a unified framework for solving both forward and inverse problems of differential equations, yet their performance and physical consistency strongly depend on how governing laws are incorporated. In this "
+  },
+  {
+    "title": "我儿子在 Gemini Live 上玩得很开心。全家人的 Google 帐户均被禁止",
+    "url": "https://old.reddit.com/r/LegalAdviceUK/comments/1s92fql/my_son_pleasured_himself_in_front_of_gemini_live/",
+    "content": "",
+    "publish_time": "2026-03-31",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 123,
+      "comments": 52
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=47595971",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 7,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.05
+    },
+    "collection_time": "2026-04-01T11:56:52.033302",
+    "original_title": "My son pleasured himself on Gemini Live. Entire family's Google accounts banned",
+    "original_content": ""
+  },
+  {
+    "title": "OpenAI 以 852B 美元估值完成融资",
+    "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+    "content": "",
+    "publish_time": "2026-03-31",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 371,
+      "comments": 315
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=47592755",
+    "score": {
+      "importance": 5,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.0
+    },
+    "collection_time": "2026-04-01T11:56:52.033259",
+    "original_title": "OpenAI closes funding round at an $852B valuation",
+    "original_content": ""
+  },
+  {
+    "title": "[D] ICML 2026 审查政策辩论：100 条回复表明政策 B 得分可能更高，而政策 A 则表现出更高的信心",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1s8rpuo/d_icml_2026_review_policy_debate_100_responses/",
+    "content": "一周前，我发了一个帖子，询问 ICML 2026 的评审政策是否会影响评审结果，特别是政策 A 论文是否会比政策 B 论文受到更严厉的评判。奥里吉",
+    "publish_time": "2026-03-31",
+    "source": "Reddit r/MachineLearning",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-04-01T11:56:52.033033",
+    "original_title": "[D] ICML 2026 review policy debate: 100 responses suggest Policy B may score higher, while Policy A shows higher confidence",
+    "original_content": "A week ago I made a thread asking whether ICML 2026s review policy might have affected review outcomes, especially whether Policy A papers may have been judged more harshly than Policy B papers. Origi"
+  },
+  {
+    "title": "DevDay 发布的 AMA",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/",
+    "content": "这是历史上成为建设者的最好时代。在 DevDay 2025 上，我们推出了下一代工具和模型，以帮助开发人员更快地编码、更可靠地构建代理并扩展他们的应用程序",
+    "publish_time": "2026-03-31",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-04-01T11:56:52.033105",
+    "original_title": "AMA on our DevDay Launches",
+    "original_content": "Its the best time in history to be a builder. At DevDay 2025, we introduced the next generation of tools and models to help developers code faster, build agents more reliably, and scale their apps in "
+  },
+  {
+    "title": "OpenAI 尚未上市，在 122B 美元的巨额融资中从散户投资者那里筹集了 30 亿美元",
+    "url": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
+    "content": "OpenAI 最新一轮融资由亚马逊、Nvidia 和软银领投，该人工智能实验室即将进行 IPO，估值为 8520 亿美元。",
+    "publish_time": "Tue, 31 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-04-01T11:56:35.748152",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
+    "original_content": "OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO."
+  },
+  {
+    "title": "AI 芯片初创公司 Rebellions 在 IPO 前轮融资 4 亿美元，估值 2.3B 美元",
+    "url": "https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/",
+    "content": "这家初创公司计划于今年晚些时候上市，专门为人工智能推理设计芯片，这是英伟达主导地位的另一个挑战者。",
+    "publish_time": "Mon, 30 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-04-01T11:56:35.748335",
+    "fetch_method": "RSS",
+    "original_title": "AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round",
+    "original_content": "The startup, which is planning to go public later this year, designs chips specifically for AI inference, another challenger to Nvidia's dominance."
+  }
+]
