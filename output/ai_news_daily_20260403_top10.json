@@ -1,0 +1,195 @@
+[
+  {
+    "title": "对数分数、幂律发现：在基于代理的评估中将测量与覆盖范围分开",
+    "url": "https://arxiv.org/abs/2604.00477",
+    "content": "arXiv:2604.00477v1 公告类型：新 \n摘要：基于法学硕士的代理法官是一种评估对话式人工智能的新兴方法，但仍然存在一个基本的不确定性：我们是否可以相信他们的评估，如果可以，需要多少？通过 15 个任务中两个模型对的 960 个会话，我们展示了",
+    "publish_time": "Thu, 02 Ap",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-04-03T11:39:47.403806",
+    "fetch_method": "RSS",
+    "original_title": "Logarithmic Scores, Power-Law Discoveries: Disentangling Measurement from Coverage in Agent-Based Evaluation",
+    "original_content": "arXiv:2604.00477v1 Announce Type: new \nAbstract: LLM-based agent judges are an emerging approach to evaluating conversational AI, yet a fundamental uncertainty remains: can we trust their assessments, and if so, how many are needed? Through 960 sessions with two model pairs across 15 tasks, we show "
+  },
+  {
+    "title": "ParetoBandit：非固定法学硕士服务的预算节奏自适应路由",
+    "url": "https://arxiv.org/abs/2604.00136",
+    "content": "arXiv:2604.00136v1 公告类型：新 \n摘要：生产 LLM 服务通常依赖于跨越约 530 倍成本范围的多模型投资组合，其中路由决策会在质量与成本之间进行权衡。这种权衡是非平稳的：提供商修改定价，模型质量可能会悄然下降，而新的",
+    "publish_time": "Thu, 02 Ap",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-04-03T11:39:47.403943",
+    "fetch_method": "RSS",
+    "original_title": "ParetoBandit: Budget-Paced Adaptive Routing for Non-Stationary LLM Serving",
+    "original_content": "arXiv:2604.00136v1 Announce Type: new \nAbstract: Production LLM serving often relies on multi-model portfolios spanning a ~530x cost range, where routing decisions trade off quality against cost. This trade-off is non-stationary: providers revise pricing, model quality can regress silently, and new "
+  },
+  {
+    "title": "使用脑电图 (EEG) 信号的特征分析和图卷积神经网络 (GCN) 在不同频段检测癫痫发作",
+    "url": "https://arxiv.org/abs/2604.00163",
+    "content": "arXiv:2604.00163v1 公告类型：新 \n摘要： 癫痫发作是一种神经系统疾病，其特征是大脑异常和过度的电活动，导致反复发作。脑电图（EEG）信号由于其能力而被广泛用于癫痫发作诊断",
+    "publish_time": "Thu, 02 Ap",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-04-03T11:39:47.403956",
+    "fetch_method": "RSS",
+    "original_title": "Epileptic Seizure Detection in Separate Frequency Bands Using Feature Analysis and Graph Convolutional Neural Network (GCN) from Electroencephalogram (EEG) Signals",
+    "original_content": "arXiv:2604.00163v1 Announce Type: new \nAbstract: Epileptic seizures are neurological disorders characterized by abnormal and excessive electrical activity in the brain, resulting in recurrent seizure events. Electroencephalogram (EEG) signals are widely used for seizure diagnosis due to their abilit"
+  },
+  {
+    "title": "Salesforce 宣布对 Slack 进行人工智能改造，新增 30 项功能",
+    "url": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
+    "content": "Slack 变得更加有用。",
+    "publish_time": "Tue, 31 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-04-03T11:39:47.403295",
+    "fetch_method": "RSS",
+    "original_title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
+    "original_content": "Slack just got a whole lot more useful."
+  },
+  {
+    "title": "Cursor 推出全新 AI 代理体验，挑战 Claude Code 和 Codex",
+    "url": "https://www.wired.com/story/cusor-launches-coding-agent-openai-anthropic/",
+    "content": "随着 Cursor 推出下一代产品，这家人工智能编码初创公司必须比以往更直接地与 OpenAI 和 Anthropic 竞争。",
+    "publish_time": "Thu, 02 Ap",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-04-03T11:39:47.403373",
+    "fetch_method": "RSS",
+    "original_title": "Cursor Launches a New AI Agent Experience to Take On Claude Code and Codex",
+    "original_content": "As Cursor launches the next generation of its product, the AI coding startup has to compete with OpenAI and Anthropic more directly than ever."
+  },
+  {
+    "title": "Solve Intelligence 收购人工智能专利诉讼初创公司 Palito.ai，并宣布在慕尼黑设立办事处",
+    "url": "https://www.bing.com/news/search?q=artificial+intelligence+2026-04-02",
+    "content": "Solve Intelligence 计划在其平台上添加 Palito.ais 功能，包括有效性分析和判例法研究。",
+    "publish_time": "2026-04-02",
+    "source": "AI News",
+    "score": {
+      "importance": 8,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.35
+    },
+    "collection_time": "2026-04-03T11:40:02.256406",
+    "original_title": "Solve Intelligence Acquires AI Patent Litigation Startup Palito.ai, Announces Munich Office",
+    "original_content": "Solve Intelligence plans to add Palito.ais capabilities, including validity analysis and case law research, to its platform."
+  },
+  {
+    "title": "新法律使取消订阅和获得退款变得更容易",
+    "url": "https://www.bbc.co.uk/news/articles/cvg0v36ek2go",
+    "content": "",
+    "publish_time": "2026-04-02",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 146,
+      "comments": 63
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=47611809",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 7,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 6.25
+    },
+    "collection_time": "2026-04-03T11:40:02.256955",
+    "original_title": "New laws to make it easier to cancel subscriptions and get refunds",
+    "original_content": ""
+  },
+  {
+    "title": "独家：Runway 推出 1000 万美元基金和 Builders 计划以支持早期人工智能初创公司",
+    "url": "https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/",
+    "content": "Runway 正在推出一项 1000 万美元的基金和启动计划，以支持利用其 AI 视频模型构建的公司，以推动交互式、实时的“视频智能”应用程序的发展。",
+    "publish_time": "Tue, 31 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-04-03T11:39:47.403351",
+    "fetch_method": "RSS",
+    "original_title": "Exclusive: Runway launches $10M fund, Builders program to support early-stage AI startups",
+    "original_content": "Runway is launching a $10 million fund and startup program to back companies building with its AI video models, as it pushes toward interactive, real-time “video intelligence” applications."
+  },
+  {
+    "title": "解放你的 OpenClaw",
+    "url": "https://huggingface.co/blog/liberate-your-openclaw",
+    "content": "",
+    "publish_time": "Fri, 27 Ma",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-04-03T11:39:47.403560",
+    "fetch_method": "RSS",
+    "original_title": "Liberate your OpenClaw",
+    "original_content": ""
+  },
+  {
+    "title": "下载：塑料与燃料价格的问题，以及 SpaceX 的重磅 IPO",
+    "url": "https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/",
+    "content": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。燃油价格正在飙升。塑料可能是下一个。”随着伊朗战争的继续，最明显的全球经济连锁反应之一是",
+    "publish_time": "Thu, 02 Ap",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-04-03T11:39:47.403060",
+    "fetch_method": "RSS",
+    "original_title": "The Download: plastic’s problem with fuel prices, and SpaceX’s blockbuster IPO",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Fuel prices are soaring. Plastic could be next.&#160; As the war in Iran continues, one of the most visible global economic ripple effects has been fo"
+  }
+]
