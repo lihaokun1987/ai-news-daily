@@ -1,0 +1,199 @@
+[
+  {
+    "title": "报道称，埃隆·马斯克要求 SpaceX IPO 背后的银行购买 Grok 订阅服务",
+    "url": "https://www.reddit.com/r/artificial/comments/1sbxms5/elon_musk_requires_banks_behind_spacex_ipo_to_buy/",
+    "content": "32 提交者 32 uesporx 链接 32 条评论",
+    "publish_time": "2026-04-03",
+    "source": "Reddit r/artificial",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 8,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.6
+    },
+    "collection_time": "2026-04-04T11:27:41.732167",
+    "original_title": "Elon Musk Requires Banks Behind SpaceX IPO To Buy Grok Subscriptions, Report Says",
+    "original_content": "32 submitted by 32 uesporx link 32 comments"
+  },
+  {
+    "title": "对数分数、幂律发现：在基于代理的评估中将测量与覆盖范围分开",
+    "url": "https://arxiv.org/abs/2604.00477",
+    "content": "arXiv:2604.00477v1 公告类型：新 \n摘要：基于法学硕士的代理法官是一种评估对话式人工智能的新兴方法，但仍然存在一个基本的不确定性：我们是否可以相信他们的评估，如果可以，需要多少？通过 15 个任务中两个模型对的 960 个会话，我们展示了",
+    "publish_time": "Fri, 03 Ap",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-04-04T11:27:28.177007",
+    "fetch_method": "RSS",
+    "original_title": "Logarithmic Scores, Power-Law Discoveries: Disentangling Measurement from Coverage in Agent-Based Evaluation",
+    "original_content": "arXiv:2604.00477v1 Announce Type: new \nAbstract: LLM-based agent judges are an emerging approach to evaluating conversational AI, yet a fundamental uncertainty remains: can we trust their assessments, and if so, how many are needed? Through 960 sessions with two model pairs across 15 tasks, we show "
+  },
+  {
+    "title": "Cursor 推出全新 AI 代理体验，挑战 Claude Code 和 Codex",
+    "url": "https://www.wired.com/story/cusor-launches-coding-agent-openai-anthropic/",
+    "content": "随着 Cursor 推出下一代产品，这家人工智能编码初创公司必须比以往更直接地与 OpenAI 和 Anthropic 竞争。",
+    "publish_time": "Thu, 02 Ap",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-04-04T11:27:28.176059",
+    "fetch_method": "RSS",
+    "original_title": "Cursor Launches a New AI Agent Experience to Take On Claude Code and Codex",
+    "original_content": "As Cursor launches the next generation of its product, the AI coding startup has to compete with OpenAI and Anthropic more directly than ever."
+  },
+  {
+    "title": "埃隆·马斯克要求 SpaceX IPO 银行购买 Grok AI 订阅：报告",
+    "url": "https://www.bing.com/news/search?q=artificial+intelligence+2026-04-03",
+    "content": "据《纽约时报》周五援引知情人士的话报道，埃隆·马斯克要求银行和其他参与 SpaceX 计划 IPO 的顾问购买他的人工智能聊天机器人 Grok 的订阅。",
+    "publish_time": "2026-04-03",
+    "source": "AI News",
+    "score": {
+      "importance": 8,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.35
+    },
+    "collection_time": "2026-04-04T11:27:41.731948",
+    "original_title": "Elon Musk asks SpaceX IPO banks to buy Grok AI subscriptions: report",
+    "original_content": "Elon Musk is requiring banks and other advisers working on SpaceXs planned IPO to buy subscriptions to Grok, his artificial intelligence chatbot, the New York Times reported Friday, citing people ..."
+  },
+  {
+    "title": "告诉 HN：Anthropic 不再允许 Claude Code 订阅使用 OpenClaw",
+    "url": "https://news.ycombinator.com/item?id=47633396",
+    "content": "",
+    "publish_time": "2026-04-03",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 357,
+      "comments": 366
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=47633396",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.35
+    },
+    "collection_time": "2026-04-04T11:27:41.732472",
+    "original_title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+    "original_content": ""
+  },
+  {
+    "title": "解放你的 OpenClaw",
+    "url": "https://huggingface.co/blog/liberate-your-openclaw",
+    "content": "",
+    "publish_time": "Fri, 27 Ma",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-04-04T11:27:28.176511",
+    "fetch_method": "RSS",
+    "original_title": "Liberate your OpenClaw",
+    "original_content": ""
+  },
+  {
+    "title": "下载：塑料与燃料价格的问题，以及 SpaceX 的重磅 IPO",
+    "url": "https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/",
+    "content": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。燃油价格正在飙升。塑料可能是下一个。”随着伊朗战争的继续，最明显的全球经济连锁反应之一是",
+    "publish_time": "Thu, 02 Ap",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-04-04T11:27:28.176299",
+    "fetch_method": "RSS",
+    "original_title": "The Download: plastic’s problem with fuel prices, and SpaceX’s blockbuster IPO",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Fuel prices are soaring. Plastic could be next.&#160; As the war in Iran continues, one of the most visible global economic ripple effects has been fo"
+  },
+  {
+    "title": "Openai 的新型号出现在 LMarena 上",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1sbv3l3/new_model_from_openai_spotted_on_lmarena/",
+    "content": "围绕这个新模型的猜测不断，也许我们会在未来几天内得到一个新的图像生成模型。 32 条提交者 32 uOk_Argument2913 链接 32 条评论",
+    "publish_time": "2026-04-03",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-04-04T11:27:41.732342",
+    "original_title": "New model from Openai spotted on LMarena",
+    "original_content": "Speculations are circling around this new model, maybe we will get a new image generation model in the next few days. 32 submitted by 32 uOk_Argument2913 link 32 comments"
+  },
+  {
+    "title": "OpenAI 收购了科技脱口秀节目“TBPN”，并为自己赢得了一些积极的消息",
+    "url": "https://www.wired.com/story/openai-acquires-tbpn-buys-positive-news-coverage/",
+    "content": "OpenAI 正在收购 TBPN，这是一档在硅谷精英中很受欢迎的商业脱口秀节目，以继续与其负面公众形象作斗争。",
+    "publish_time": "Thu, 02 Ap",
+    "source": "Wired AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.05
+    },
+    "collection_time": "2026-04-04T11:27:28.176045",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI Acquires Tech Talk Show ‘TBPN’—and Buys Itself Some Positive News",
+    "original_content": "OpenAI is acquiring TBPN, a business talk show that’s popular among Silicon Valley elites, as it continues to battle its negative public image."
+  },
+  {
+    "title": "OpenClaw 给用户带来了另一个对安全性感到恐惧的理由",
+    "url": "https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/",
+    "content": "这种病毒式 AI 代理工具让攻击者能够悄悄地获得未经身份验证的管理员访问权限。",
+    "publish_time": "Fri, 03 Ap",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-04-04T11:27:28.176626",
+    "fetch_method": "RSS",
+    "original_title": "OpenClaw gives users yet another reason to be freaked out about security",
+    "original_content": "The viral AI agentic tool let attackers silently gain admin unauthenticated access."
+  }
+]
