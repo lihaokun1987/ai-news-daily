@@ -1,0 +1,193 @@
+[
+  {
+    "title": "Cursor 推出全新 AI 代理体验，挑战 Claude Code 和 Codex",
+    "url": "https://www.wired.com/story/cusor-launches-coding-agent-openai-anthropic/",
+    "content": "随着 Cursor 推出下一代产品，这家人工智能编码初创公司必须比以往更直接地与 OpenAI 和 Anthropic 竞争。",
+    "publish_time": "Thu, 02 Ap",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-04-06T11:52:50.931648",
+    "fetch_method": "RSS",
+    "original_title": "Cursor Launches a New AI Agent Experience to Take On Claude Code and Codex",
+    "original_content": "As Cursor launches the next generation of its product, the AI coding startup has to compete with OpenAI and Anthropic more directly than ever."
+  },
+  {
+    "title": "Anthropic 表示 Claude Code 订阅者需要为 OpenClaw 的使用支付额外费用",
+    "url": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
+    "content": "对于 Claude Code 订阅者来说，使用 Anthropic 的编码助手以及 OpenClaw 和其他第三方工具的费用将会变得更加昂贵。",
+    "publish_time": "Sat, 04 Ap",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-04-06T11:52:50.931456",
+    "fetch_method": "RSS",
+    "original_title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
+    "original_content": "It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools."
+  },
+  {
+    "title": "解放你的 OpenClaw",
+    "url": "https://huggingface.co/blog/liberate-your-openclaw",
+    "content": "",
+    "publish_time": "Fri, 27 Ma",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-04-06T11:52:50.931733",
+    "fetch_method": "RSS",
+    "original_title": "Liberate your OpenClaw",
+    "original_content": ""
+  },
+  {
+    "title": "下载：塑料与燃料价格的问题，以及 SpaceX 的重磅 IPO",
+    "url": "https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/",
+    "content": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。燃油价格正在飙升。塑料可能是下一个。”随着伊朗战争的继续，最明显的全球经济连锁反应之一是",
+    "publish_time": "Thu, 02 Ap",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-04-06T11:52:50.931852",
+    "fetch_method": "RSS",
+    "original_title": "The Download: plastic’s problem with fuel prices, and SpaceX’s blockbuster IPO",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Fuel prices are soaring. Plastic could be next.&#160; As the war in Iran continues, one of the most visible global economic ripple effects has been fo"
+  },
+  {
+    "title": "OpenAI 收购了科技脱口秀节目“TBPN”，并为自己赢得了一些积极的消息",
+    "url": "https://www.wired.com/story/openai-acquires-tbpn-buys-positive-news-coverage/",
+    "content": "OpenAI 正在收购 TBPN，这是一档在硅谷精英中很受欢迎的商业脱口秀节目，以继续与其负面公众形象作斗争。",
+    "publish_time": "Thu, 02 Ap",
+    "source": "Wired AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.05
+    },
+    "collection_time": "2026-04-06T11:52:50.931639",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI Acquires Tech Talk Show ‘TBPN’—and Buys Itself Some Positive News",
+    "original_content": "OpenAI is acquiring TBPN, a business talk show that’s popular among Silicon Valley elites, as it continues to battle its negative public image."
+  },
+  {
+    "title": "OpenClaw 给用户带来了另一个对安全性感到恐惧的理由",
+    "url": "https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/",
+    "content": "这种病毒式 AI 代理工具让攻击者能够悄悄地获得未经身份验证的管理员访问权限。",
+    "publish_time": "Fri, 03 Ap",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-04-06T11:52:50.932147",
+    "fetch_method": "RSS",
+    "original_title": "OpenClaw gives users yet another reason to be freaked out about security",
+    "original_content": "The viral AI agentic tool let attackers silently gain admin unauthenticated access."
+  },
+  {
+    "title": "DevDay 发布的 AMA",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/",
+    "content": "这是历史上成为建设者的最好时代。在 DevDay 2025 上，我们推出了下一代工具和模型，以帮助开发人员更快地编码、更可靠地构建代理并扩展他们的应用程序",
+    "publish_time": "2026-04-05",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-04-06T11:53:05.765969",
+    "original_title": "AMA on our DevDay Launches",
+    "original_content": "Its the best time in history to be a builder. At DevDay 2025, we introduced the next generation of tools and models to help developers code faster, build agents more reliably, and scale their apps in "
+  },
+  {
+    "title": "Anthropic 以 4 亿美元收购生物技术初创公司 Coefficient Bio：报告",
+    "url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
+    "content": "据 The Information 和 Eric Newcomer 报道，Anthropic 以 4 亿美元的股票交易收购了隐形生物技术人工智能初创公司 Coefficient Bio。",
+    "publish_time": "Fri, 03 Ap",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-04-06T11:52:50.931498",
+    "fetch_method": "RSS",
+    "original_title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
+    "original_content": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer."
+  },
+  {
+    "title": "OpenAI 收购 TBPN，这是一档由创始人主导的热门商业脱口秀节目",
+    "url": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
+    "content": "硅谷最受欢迎的科技播客 TBPN 将独立运营，尽管它由首席政治执行官 Chris Lehane 监管。",
+    "publish_time": "Thu, 02 Ap",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-04-06T11:52:50.931553",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
+    "original_content": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane."
+  },
+  {
+    "title": "编辑部",
+    "source": "www.anthropic.com",
+    "content": "我们邀请 Claude.ai 用户分享他们如何使用人工智能、他们梦想人工智能可以实现什么，以及他们担心人工智能可能会做什么。近 81,000 人参与了同类中规模最大、语言种类最多的定性研究。这是我们发现的。 Sonnet 4.6 提供跨编码的前沿性能，",
+    "url": "https://www.anthropic.com/news",
+    "publish_time": "2026-04-05",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-04-06T11:53:05.765648",
+    "original_title": "Newsroom",
+    "original_content": "We invited Claude.ai users to share how they use AI, what they dream it could make possible, and what they fear it might do. Nearly 81,000 people participatedthe largest and most multilingual qualitative study of its kind. Here's what we found. Sonnet 4.6 delivers frontier performance across coding,"
+  }
+]
