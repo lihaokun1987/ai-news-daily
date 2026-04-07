@@ -1,0 +1,200 @@
+[
+  {
+    "title": "罗南·法罗 (Ronan Farrow) 调查后，OpenAI 要求加利福尼亚州、特拉华州在 4 月份审判前调查马斯克的“反竞争行为”",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1sec35j/after_ronan_farrows_investigation_openai_asks/",
+    "content": "OpenAI 在信中表示，马斯克可能会对这家人工智能公司发表不“基于现实”的评论，并且是“他之前采用的典型骚扰策略”。",
+    "publish_time": "2026-04-06",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 8,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.6
+    },
+    "collection_time": "2026-04-07T11:44:00.391334",
+    "original_title": "After Ronan Farrow’s investigation, OpenAI asks California, Delaware to investigate Musk's 'anti-competitive behavior' ahead of April trial",
+    "original_content": "OpenAI said in that letter that Musk will likely make comments about the AI company that are not quotgrounded in realityquot and are quottypical of the harassment tactics he39s previously deployed.quo"
+  },
+  {
+    "title": "《纽约客》今天发表了对 Sam Altman 和 OpenAI 的一项重大调查——基于从未披露的内部备忘录和 100 多次采访",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1sdyg8c/new_yorker_published_a_major_investigation_into/",
+    "content": "Ronan Farrow 花了 18 个月的时间报道了这篇文章，利用了之前未公开的内部文件，包括 Ilya Sutskever 编写的 70 页备忘录和 200 页私人文件",
+    "publish_time": "2026-04-06",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 7,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-04-07T11:44:00.391319",
+    "original_title": "New Yorker published a major investigation into Sam Altman and OpenAI today — based on never-before-disclosed internal memos and 100+ interviews",
+    "original_content": "Ronan Farrow spent 18 months reporting this piece, drawing on internal documents that havent previously been made public including 70 pages of memos compiled by Ilya Sutskever and 200 pages of private"
+  },
+  {
+    "title": "Cursor 推出全新 AI 代理体验，挑战 Claude Code 和 Codex",
+    "url": "https://www.wired.com/story/cusor-launches-coding-agent-openai-anthropic/",
+    "content": "随着 Cursor 推出下一代产品，这家人工智能编码初创公司必须比以往更直接地与 OpenAI 和 Anthropic 竞争。",
+    "publish_time": "Thu, 02 Ap",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-04-07T11:43:47.445540",
+    "fetch_method": "RSS",
+    "original_title": "Cursor Launches a New AI Agent Experience to Take On Claude Code and Codex",
+    "original_content": "As Cursor launches the next generation of its product, the AI coding startup has to compete with OpenAI and Anthropic more directly than ever."
+  },
+  {
+    "title": "推出 HN：Freestyle – 编码代理沙盒",
+    "url": "https://www.freestyle.sh/",
+    "content": "",
+    "publish_time": "2026-04-06",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 219,
+      "comments": 118
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=47663147",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.35
+    },
+    "collection_time": "2026-04-07T11:44:00.391432",
+    "original_title": "Launch HN: Freestyle – Sandboxes for Coding Agents",
+    "original_content": ""
+  },
+  {
+    "title": "极端天气不确定性下电力公司长期防灾投资规划的综合框架",
+    "url": "https://arxiv.org/abs/2604.02504",
+    "content": "arXiv:2604.02504v1 公告类型：新 \n摘要：电力公司必须在未来几年进行大规模资本投资，以应对需求的爆炸性增长、资产老化和极端天气日益严重的威胁。当今的公用事业公司已经拥有严格的资本规划框架，并且",
+    "publish_time": "Mon, 06 Ap",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.3
+    },
+    "collection_time": "2026-04-07T11:43:47.445974",
+    "fetch_method": "RSS",
+    "original_title": "A Comprehensive Framework for Long-Term Resiliency Investment Planning under Extreme Weather Uncertainty for Electric Utilities",
+    "original_content": "arXiv:2604.02504v1 Announce Type: new \nAbstract: Electric utilities must make massive capital investments in the coming years to respond to explosive growth in demand, aging assets and rising threats from extreme weather. Utilities today already have rigorous frameworks for capital planning, and the"
+  },
+  {
+    "title": "谷歌悄然推出一款离线工作的人工智能听写应用",
+    "url": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
+    "content": "谷歌新推出的离线优先听写应用程序使用 Gemma AI 模型来挑战 Wispr Flow 等应用程序。",
+    "publish_time": "Mon, 06 Ap",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-04-07T11:43:47.445576",
+    "fetch_method": "RSS",
+    "original_title": "Google quietly launched an AI dictation app that works offline",
+    "original_content": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow."
+  },
+  {
+    "title": "Anthropic 表示 Claude Code 订阅者需要为 OpenClaw 的使用支付额外费用",
+    "url": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
+    "content": "对于 Claude Code 订阅者来说，使用 Anthropic 的编码助手以及 OpenClaw 和其他第三方工具的费用将会变得更加昂贵。",
+    "publish_time": "Sat, 04 Ap",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-04-07T11:43:47.445688",
+    "fetch_method": "RSS",
+    "original_title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
+    "original_content": "It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools."
+  },
+  {
+    "title": "解放你的 OpenClaw",
+    "url": "https://huggingface.co/blog/liberate-your-openclaw",
+    "content": "",
+    "publish_time": "Fri, 27 Ma",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-04-07T11:43:47.445804",
+    "fetch_method": "RSS",
+    "original_title": "Liberate your OpenClaw",
+    "original_content": ""
+  },
+  {
+    "title": "下载：塑料与燃料价格的问题，以及 SpaceX 的重磅 IPO",
+    "url": "https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/",
+    "content": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。燃油价格正在飙升。塑料可能是下一个。”随着伊朗战争的继续，最明显的全球经济连锁反应之一是",
+    "publish_time": "Thu, 02 Ap",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-04-07T11:43:47.445275",
+    "fetch_method": "RSS",
+    "original_title": "The Download: plastic’s problem with fuel prices, and SpaceX’s blockbuster IPO",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Fuel prices are soaring. Plastic could be next.&#160; As the war in Iran continues, one of the most visible global economic ripple effects has been fo"
+  },
+  {
+    "title": "OpenAI 收购了科技脱口秀节目“TBPN”，并为自己赢得了一些积极的消息",
+    "url": "https://www.wired.com/story/openai-acquires-tbpn-buys-positive-news-coverage/",
+    "content": "OpenAI 正在收购 TBPN，这是一档在硅谷精英中很受欢迎的商业脱口秀节目，以继续与其负面公众形象作斗争。",
+    "publish_time": "Thu, 02 Ap",
+    "source": "Wired AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.05
+    },
+    "collection_time": "2026-04-07T11:43:47.445526",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI Acquires Tech Talk Show ‘TBPN’—and Buys Itself Some Positive News",
+    "original_content": "OpenAI is acquiring TBPN, a business talk show that’s popular among Silicon Valley elites, as it continues to battle its negative public image."
+  }
+]
