@@ -1,0 +1,194 @@
+[
+  {
+    "title": "Tubi 是第一个在 ChatGPT 中启动本机应用程序的主播",
+    "url": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
+    "content": "Tubi 成为首个在 ChatGPT 中提供应用程序集成的流媒体服务，ChatGPT 是数百万用户向其寻求答案的人工智能聊天机器人。",
+    "publish_time": "Wed, 08 Ap",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-04-09T11:41:11.145208",
+    "fetch_method": "RSS",
+    "original_title": "Tubi is the first streamer to launch a native app within ChatGPT",
+    "original_content": "Tubi becomes the first streaming service to offer an app integration within ChatGPT, the AI chatbot that millions of users turn to for answers."
+  },
+  {
+    "title": "OpenAI 发布新的安全蓝图以解决儿童性剥削问题",
+    "url": "https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/",
+    "content": "OpenAI 的新儿童安全蓝图旨在解决与人工智能进步相关的儿童性剥削问题。",
+    "publish_time": "Wed, 08 Ap",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-04-09T11:41:11.145232",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI releases a new safety blueprint to address the rise in child sexual exploitation",
+    "original_content": "OpenAI's new Child Safety Blueprint aims to tackle the alarming rise in child sexual exploitation linked to advancements in AI."
+  },
+  {
+    "title": "Anthropic 在新的网络安全计划中首次推出强大的新人工智能模型 Mythos 预览",
+    "url": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/",
+    "content": "新模式将被少数知名公司用来从事防御性网络安全工作。",
+    "publish_time": "Tue, 07 Ap",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-04-09T11:41:11.145307",
+    "fetch_method": "RSS",
+    "original_title": "Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative",
+    "original_content": "The new model will be used by a small number of high-profile companies to engage in defensive cybersecurity work."
+  },
+  {
+    "title": "解放你的 OpenClaw",
+    "url": "https://huggingface.co/blog/liberate-your-openclaw",
+    "content": "",
+    "publish_time": "Fri, 27 Ma",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-04-09T11:41:11.144970",
+    "fetch_method": "RSS",
+    "original_title": "Liberate your OpenClaw",
+    "original_content": ""
+  },
+  {
+    "title": "Atlassian 在 Confluence 中推出视觉 AI 工具和第三方代理",
+    "url": "https://techcrunch.com/2026/04/08/atlassian-confluence-visual-ai-tools-agents/",
+    "content": "除了与 Lovable、Replit 和 Gamma 合作的新第三方代理之外，Confluence 用户现在还可以在软件中创建视觉资产。",
+    "publish_time": "Wed, 08 Ap",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-04-09T11:41:11.145258",
+    "fetch_method": "RSS",
+    "original_title": "Atlassian launches visual AI tools and third-party agents in Confluence",
+    "original_content": "Confluence users can now create visual assets within the software in addition to new third-party agents working with Lovable, Replit, and Gamma."
+  },
+  {
+    "title": "谷歌悄然推出一款离线工作的人工智能听写应用",
+    "url": "https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
+    "content": "谷歌新推出的离线优先听写应用程序使用 Gemma AI 模型来挑战 Wispr Flow 等应用程序。",
+    "publish_time": "Wed, 08 Ap",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-04-09T11:41:11.145269",
+    "fetch_method": "RSS",
+    "original_title": "Google quietly launched an AI dictation app that works offline",
+    "original_content": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow."
+  },
+  {
+    "title": "OpenAI 表示其新模型 GPT-2 太危险，无法发布（2019）",
+    "url": "https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html",
+    "content": "文章网址：https://slate.com/technology/2019/02/openai-gpt2-text-generate-algorithm-ai-dangerous.html\n评论网址：https://news.ycombinator.com/item?id=47684326\n积分：380\n# 评论: 114",
+    "publish_time": "Wed, 08 Ap",
+    "source": "Hacker News Best",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.15
+    },
+    "collection_time": "2026-04-09T11:41:11.145937",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI says its new model GPT-2 is too dangerous to release (2019)",
+    "original_content": "Article URL: https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html\nComments URL: https://news.ycombinator.com/item?id=47684326\nPoints: 380\n# Comments: 114"
+  },
+  {
+    "title": "下载：塑料与燃料价格的问题，以及 SpaceX 的重磅 IPO",
+    "url": "https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/",
+    "content": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。燃油价格正在飙升。塑料可能是下一个。”随着伊朗战争的继续，最明显的全球经济连锁反应之一是",
+    "publish_time": "Thu, 02 Ap",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-04-09T11:41:11.145138",
+    "fetch_method": "RSS",
+    "original_title": "The Download: plastic’s problem with fuel prices, and SpaceX’s blockbuster IPO",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Fuel prices are soaring. Plastic could be next.&#160; As the war in Iran continues, one of the most visible global economic ripple effects has been fo"
+  },
+  {
+    "title": "OpenClaw 给用户带来了另一个对安全性感到恐惧的理由",
+    "url": "https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/",
+    "content": "这种病毒式 AI 代理工具让攻击者能够悄悄地获得未经身份验证的管理员访问权限。",
+    "publish_time": "Fri, 03 Ap",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-04-09T11:41:11.144833",
+    "fetch_method": "RSS",
+    "original_title": "OpenClaw gives users yet another reason to be freaked out about security",
+    "original_content": "The viral AI agentic tool let attackers silently gain admin unauthenticated access."
+  },
+  {
+    "title": "DevDay 发布的 AMA",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/",
+    "content": "这是历史上成为建设者的最好时代。在 DevDay 2025 上，我们推出了下一代工具和模型，以帮助开发人员更快地编码、更可靠地构建代理并扩展他们的应用程序",
+    "publish_time": "2026-04-08",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-04-09T11:41:25.887089",
+    "original_title": "AMA on our DevDay Launches",
+    "original_content": "Its the best time in history to be a builder. At DevDay 2025, we introduced the next generation of tools and models to help developers code faster, build agents more reliably, and scale their apps in "
+  }
+]
