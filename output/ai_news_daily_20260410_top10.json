@@ -1,0 +1,194 @@
+[
+  {
+    "title": "Florida AG 宣布对 OpenAI 涉嫌涉及 ChatGPT 的枪击事件进行调查",
+    "url": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
+    "content": "据报道，去年 4 月，ChatGPT 被用来策划佛罗里达州立大学的袭击事件，造成两人死亡、五人受伤。一名受害者的家人表示，他们计划就这一事件起诉 OpenAI。",
+    "publish_time": "Thu, 09 Ap",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 8,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.9
+    },
+    "collection_time": "2026-04-10T11:54:15.556576",
+    "fetch_method": "RSS",
+    "original_title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
+    "original_content": "ChatGPT had reportedly been used to plan the attack that killed two and injured five at Florida State University last April. The family of one victim has said that they plan to sue OpenAI over the incident."
+  },
+  {
+    "title": "基于新的孟加拉国市场价格数据集的农产品价格预测的经典和深度学习模型的基准",
+    "url": "https://arxiv.org/abs/2604.06227",
+    "content": "arXiv:2604.06227v1 公告类型：新 \n摘要：准确的短期农产品价格预测对于发展中经济体的粮食安全规划和小农收入稳定至关重要，但南亚仍缺乏用于此目的的机器学习数据集。蒂",
+    "publish_time": "Thu, 09 Ap",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.65
+    },
+    "collection_time": "2026-04-10T11:54:15.557298",
+    "fetch_method": "RSS",
+    "original_title": "A Benchmark of Classical and Deep Learning Models for Agricultural Commodity Price Forecasting on A Novel Bangladeshi Market Price Dataset",
+    "original_content": "arXiv:2604.06227v1 Announce Type: new \nAbstract: Accurate short-term forecasting of agricultural commodity prices is critical for food security planning and smallholder income stabilisation in developing economies, yet machine-learning-ready datasets for this purpose remain scarce in South Asia. Thi"
+  },
+  {
+    "title": "Tubi 是第一个在 ChatGPT 中启动本机应用程序的主播",
+    "url": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
+    "content": "Tubi 成为首个在 ChatGPT 中提供应用程序集成的流媒体服务，ChatGPT 是数百万用户向其寻求答案的人工智能聊天机器人。",
+    "publish_time": "Wed, 08 Ap",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-04-10T11:54:15.556716",
+    "fetch_method": "RSS",
+    "original_title": "Tubi is the first streamer to launch a native app within ChatGPT",
+    "original_content": "Tubi becomes the first streaming service to offer an app integration within ChatGPT, the AI chatbot that millions of users turn to for answers."
+  },
+  {
+    "title": "OpenAI 发布新的安全蓝图以解决儿童性剥削问题",
+    "url": "https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/",
+    "content": "OpenAI 的新儿童安全蓝图旨在解决与人工智能进步相关的儿童性剥削问题。",
+    "publish_time": "Wed, 08 Ap",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-04-10T11:54:15.556743",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI releases a new safety blueprint to address the rise in child sexual exploitation",
+    "original_content": "OpenAI's new Child Safety Blueprint aims to tackle the alarming rise in child sexual exploitation linked to advancements in AI."
+  },
+  {
+    "title": "Muse Spark 推出后，Meta AI 应用攀升至 App Store 第五名",
+    "url": "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/",
+    "content": "就在 Meta AI 新模型推出之前，该应用程序在 App Store 上排名第 57 位。现在它排名第五，并且还在上升。",
+    "publish_time": "Thu, 09 Ap",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-04-10T11:54:15.556592",
+    "fetch_method": "RSS",
+    "original_title": "Meta AI app climbs to No. 5 on the App Store after Muse Spark launch",
+    "original_content": "The app was ranking No. 57 on the App Store just before Meta AI's new model launched. Now it's No. 5 — and rising."
+  },
+  {
+    "title": "Anthropic 限制 Mythos 的发布是为了保护互联网——还是 Anthropic？",
+    "url": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/",
+    "content": "Anthropic 本周表示，它限制了其名为 Mythos 的最新模型的发布，因为它太有能力发现世界各地用户所依赖的软件中的安全漏洞。真正的网络安全问题是否掩盖了前沿实验室的更大问题？",
+    "publish_time": "Thu, 09 Ap",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-04-10T11:54:15.556614",
+    "fetch_method": "RSS",
+    "original_title": "Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?",
+    "original_content": "Anthropic said this week that it limited the release of its newest model, dubbed Mythos, because it is too capable of finding security exploits in software relied upon by users around the world. Are real cybersecurity concerns a cover for a bigger problem at the frontier lab?"
+  },
+  {
+    "title": "解放你的 OpenClaw",
+    "url": "https://huggingface.co/blog/liberate-your-openclaw",
+    "content": "",
+    "publish_time": "Fri, 27 Ma",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-04-10T11:54:15.556934",
+    "fetch_method": "RSS",
+    "original_title": "Liberate your OpenClaw",
+    "original_content": ""
+  },
+  {
+    "title": "人类与五角大楼：这一次，美国法院做出了对政府有利的裁决",
+    "url": "https://www.wired.com/story/anthropic-appeals-court-ruling/",
+    "content": "美国上诉法院的一项裁决与 3 月份的另一项下级法院裁决不一致，这给美国军方是否以及如何使用人工智能公司的克劳德模型留下了不确定性。",
+    "publish_time": "Wed, 08 Ap",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-04-10T11:54:15.557027",
+    "fetch_method": "RSS",
+    "original_title": "Anthropic vs. the Pentagon: This Time, a US Court Has Ruled in the Government's Favor",
+    "original_content": "A US appeals court ruling is at odds with a separate, lower court decision from March, leaving uncertainty about if and how the US military can use the AI company's Claude model."
+  },
+  {
+    "title": "OpenClaw 给用户带来了另一个对安全性感到恐惧的理由",
+    "url": "https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/",
+    "content": "这种病毒式 AI 代理工具让攻击者能够悄悄地获得未经身份验证的管理员访问权限。",
+    "publish_time": "Fri, 03 Ap",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-04-10T11:54:15.556769",
+    "fetch_method": "RSS",
+    "original_title": "OpenClaw gives users yet another reason to be freaked out about security",
+    "original_content": "The viral AI agentic tool let attackers silently gain admin unauthenticated access."
+  },
+  {
+    "title": "DevDay 发布的 AMA",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/",
+    "content": "这是历史上成为建设者的最好时代。在 DevDay 2025 上，我们推出了下一代工具和模型，以帮助开发人员更快地编码、更可靠地构建代理并扩展他们的应用程序",
+    "publish_time": "2026-04-09",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-04-10T11:54:29.768106",
+    "original_title": "AMA on our DevDay Launches",
+    "original_content": "Its the best time in history to be a builder. At DevDay 2025, we introduced the next generation of tools and models to help developers code faster, build agents more reliably, and scale their apps in "
+  }
+]
