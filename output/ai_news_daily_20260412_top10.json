@@ -1,0 +1,194 @@
+[
+  {
+    "title": "Florida AG 宣布对 OpenAI 涉嫌涉及 ChatGPT 的枪击事件进行调查",
+    "url": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
+    "content": "据报道，去年 4 月，ChatGPT 被用来策划佛罗里达州立大学的袭击事件，造成两人死亡、五人受伤。一名受害者的家人表示，他们计划就这一事件起诉 OpenAI。",
+    "publish_time": "Thu, 09 Ap",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 8,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.9
+    },
+    "collection_time": "2026-04-12T11:57:20.680161",
+    "fetch_method": "RSS",
+    "original_title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
+    "original_content": "ChatGPT had reportedly been used to plan the attack that killed two and injured five at Florida State University last April. The family of one victim has said that they plan to sue OpenAI over the incident."
+  },
+  {
+    "title": "下载：杰夫·范德米尔 (Jeff VanderMeer) 的独家故事和人工智能模型太可怕了，无法发布",
+    "url": "https://www.technologyreview.com/2026/04/10/1135618/the-download-jeff-vandermeer-short-story-and-ai-models-too-danger-to-release/",
+    "content": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。星座&#160; ——《星座》是杰夫·范德米尔（Jeff VanderMeer）的短篇小说，他是广受好评的畅销书《南境》系列的作者。 &",
+    "publish_time": "Fri, 10 Ap",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-04-12T11:57:20.680288",
+    "fetch_method": "RSS",
+    "original_title": "The Download: an exclusive Jeff VanderMeer story and AI models too scary to release",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Constellations&#160; —Constellations is a short story by Jeff VanderMeer, the author of the critically acclaimed, bestselling Southern Reach series. &"
+  },
+  {
+    "title": "Anthropic 暂时禁止 OpenClaw 的创建者访问 Claude",
+    "url": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
+    "content": "这项禁令是在上周 Claude 对 OpenClaw 用户的定价发生变化后实施的。",
+    "publish_time": "Fri, 10 Ap",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-04-12T11:57:20.680096",
+    "fetch_method": "RSS",
+    "original_title": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
+    "original_content": "This ban took place after Claude's pricing changed for OpenClaw users last week."
+  },
+  {
+    "title": "Muse Spark 推出后，Meta AI 应用攀升至 App Store 第五名",
+    "url": "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/",
+    "content": "就在 Meta AI 新模型推出之前，该应用程序在 App Store 上排名第 57 位。现在它排名第五，并且还在上升。",
+    "publish_time": "Thu, 09 Ap",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-04-12T11:57:20.680173",
+    "fetch_method": "RSS",
+    "original_title": "Meta AI app climbs to No. 5 on the App Store after Muse Spark launch",
+    "original_content": "The app was ranking No. 57 on the App Store just before Meta AI's new model launched. Now it's No. 5 — and rising."
+  },
+  {
+    "title": "Anthropic 限制 Mythos 的发布是为了保护互联网——还是 Anthropic？",
+    "url": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/",
+    "content": "Anthropic 本周表示，它限制了其名为 Mythos 的最新模型的发布，因为它太有能力发现世界各地用户所依赖的软件中的安全漏洞。真正的网络安全问题是否掩盖了前沿实验室的更大问题？",
+    "publish_time": "Thu, 09 Ap",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-04-12T11:57:20.680198",
+    "fetch_method": "RSS",
+    "original_title": "Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?",
+    "original_content": "Anthropic said this week that it limited the release of its newest model, dubbed Mythos, because it is too capable of finding security exploits in software relied upon by users around the world. Are real cybersecurity concerns a cover for a bigger problem at the frontier lab?"
+  },
+  {
+    "title": "解放你的 OpenClaw",
+    "url": "https://huggingface.co/blog/liberate-your-openclaw",
+    "content": "",
+    "publish_time": "Fri, 27 Ma",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-04-12T11:57:20.680497",
+    "fetch_method": "RSS",
+    "original_title": "Liberate your OpenClaw",
+    "original_content": ""
+  },
+  {
+    "title": "OpenClaw 给用户带来了另一个对安全性感到恐惧的理由",
+    "url": "https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/",
+    "content": "这种病毒式 AI 代理工具让攻击者能够悄悄地获得未经身份验证的管理员访问权限。",
+    "publish_time": "Fri, 03 Ap",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-04-12T11:57:20.680538",
+    "fetch_method": "RSS",
+    "original_title": "OpenClaw gives users yet another reason to be freaked out about security",
+    "original_content": "The viral AI agentic tool let attackers silently gain admin unauthenticated access."
+  },
+  {
+    "title": "DevDay 发布的 AMA",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/",
+    "content": "这是历史上成为建设者的最好时代。在 DevDay 2025 上，我们推出了下一代工具和模型，以帮助开发人员更快地编码、更可靠地构建代理并扩展他们的应用程序",
+    "publish_time": "2026-04-11",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-04-12T11:57:35.824290",
+    "original_title": "AMA on our DevDay Launches",
+    "original_content": "Its the best time in history to be a builder. At DevDay 2025, we introduced the next generation of tools and models to help developers code faster, build agents more reliably, and scale their apps in "
+  },
+  {
+    "title": "跟踪受害者起诉 OpenAI，声称 ChatGPT 助长了施虐者的妄想并无视她的警告",
+    "url": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
+    "content": "一项新诉讼称，OpenAI 在跟踪并骚扰他的前女友时，无视了关于 ChatGPT 用户危险的三项警告，其中包括其自己的造成大规模伤亡的旗帜。",
+    "publish_time": "Fri, 10 Ap",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-04-12T11:57:20.680117",
+    "fetch_method": "RSS",
+    "original_title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
+    "original_content": "OpenAI ignored three warnings that a ChatGPT user was dangerous — including its own mass-casualty flag — while he stalked and harassed his ex-girlfriend, a new lawsuit alleges."
+  },
+  {
+    "title": "谷歌与英特尔深化人工智能基础设施合作",
+    "url": "https://techcrunch.com/2026/04/09/google-and-intel-deepen-ai-infrastructure-partnership/",
+    "content": "由于全球CPU短缺日益严重，对CPU的需求很高，这两家科技巨头正在寻求共同开发定制芯片。",
+    "publish_time": "Thu, 09 Ap",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-04-12T11:57:20.680211",
+    "fetch_method": "RSS",
+    "original_title": "Google and Intel deepen AI infrastructure partnership",
+    "original_content": "The two tech giants are looking to co-develop custom chips, at a time when demand for CPUs is high due to a growing global shortage."
+  }
+]
