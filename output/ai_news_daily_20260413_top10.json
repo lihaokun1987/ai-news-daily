@@ -1,0 +1,192 @@
+[
+  {
+    "title": "Florida AG 宣布对 OpenAI 涉嫌涉及 ChatGPT 的枪击事件进行调查",
+    "url": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
+    "content": "据报道，去年 4 月，ChatGPT 被用来策划佛罗里达州立大学的袭击事件，造成两人死亡、五人受伤。一名受害者的家人表示，他们计划就这一事件起诉 OpenAI。",
+    "publish_time": "Thu, 09 Ap",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 8,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.9
+    },
+    "collection_time": "2026-04-13T12:14:36.285596",
+    "fetch_method": "RSS",
+    "original_title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
+    "original_content": "ChatGPT had reportedly been used to plan the attack that killed two and injured five at Florida State University last April. The family of one victim has said that they plan to sue OpenAI over the incident."
+  },
+  {
+    "title": "下载：杰夫·范德米尔 (Jeff VanderMeer) 的独家故事和人工智能模型太可怕了，无法发布",
+    "url": "https://www.technologyreview.com/2026/04/10/1135618/the-download-jeff-vandermeer-short-story-and-ai-models-too-danger-to-release/",
+    "content": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。星座&#160; ——《星座》是杰夫·范德米尔（Jeff VanderMeer）的短篇小说，他是广受好评的畅销书《南境》系列的作者。 &",
+    "publish_time": "Fri, 10 Ap",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-04-13T12:14:36.285946",
+    "fetch_method": "RSS",
+    "original_title": "The Download: an exclusive Jeff VanderMeer story and AI models too scary to release",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Constellations&#160; —Constellations is a short story by Jeff VanderMeer, the author of the critically acclaimed, bestselling Southern Reach series. &"
+  },
+  {
+    "title": "StaRPO：稳定性增强强化策略优化",
+    "url": "https://arxiv.org/abs/2604.08905",
+    "content": "arXiv:2604.08905v1 公告类型：新 \n摘要：强化学习（RL）可以有效提高大型语言模型在复杂推理任务中的准确性。现有的强化学习策略优化框架依赖最终答案的正确性作为反馈信号，很少捕获内部日志",
+    "publish_time": "Mon, 13 Ap",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-04-13T12:14:36.286220",
+    "fetch_method": "RSS",
+    "original_title": "StaRPO: Stability-Augmented Reinforcement Policy Optimization",
+    "original_content": "arXiv:2604.08905v1 Announce Type: new \nAbstract: Reinforcement learning (RL) is effective in enhancing the accuracy of large language models in complex reasoning tasks. Existing RL policy optimization frameworks rely on final-answer correctness as feedback signals and rarely capture the internal log"
+  },
+  {
+    "title": "特朗普官员可能鼓励银行测试 Anthropic 的神话模型",
+    "url": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
+    "content": "该报告尤其令人惊讶，因为国防部最近宣布 Anthropic 为供应链风险。",
+    "publish_time": "Sun, 12 Ap",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-04-13T12:14:36.285401",
+    "fetch_method": "RSS",
+    "original_title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
+    "original_content": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk."
+  },
+  {
+    "title": "Anthropic 暂时禁止 OpenClaw 的创建者访问 Claude",
+    "url": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
+    "content": "这项禁令是在上周 Claude 对 OpenClaw 用户的定价发生变化后实施的。",
+    "publish_time": "Fri, 10 Ap",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-04-13T12:14:36.285500",
+    "fetch_method": "RSS",
+    "original_title": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
+    "original_content": "This ban took place after Claude's pricing changed for OpenClaw users last week."
+  },
+  {
+    "title": "Muse Spark 推出后，Meta AI 应用攀升至 App Store 第五名",
+    "url": "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/",
+    "content": "就在 Meta AI 新模型推出之前，该应用程序在 App Store 上排名第 57 位。现在它排名第五，并且还在上升。",
+    "publish_time": "Thu, 09 Ap",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-04-13T12:14:36.285614",
+    "fetch_method": "RSS",
+    "original_title": "Meta AI app climbs to No. 5 on the App Store after Muse Spark launch",
+    "original_content": "The app was ranking No. 57 on the App Store just before Meta AI's new model launched. Now it's No. 5 — and rising."
+  },
+  {
+    "title": "Anthropic 限制 Mythos 的发布是为了保护互联网——还是 Anthropic？",
+    "url": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/",
+    "content": "Anthropic 本周表示，它限制了其名为 Mythos 的最新模型的发布，因为它太有能力发现世界各地用户所依赖的软件中的安全漏洞。真正的网络安全问题是否掩盖了前沿实验室的更大问题？",
+    "publish_time": "Thu, 09 Ap",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-04-13T12:14:36.285635",
+    "fetch_method": "RSS",
+    "original_title": "Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?",
+    "original_content": "Anthropic said this week that it limited the release of its newest model, dubbed Mythos, because it is too capable of finding security exploits in software relied upon by users around the world. Are real cybersecurity concerns a cover for a bigger problem at the frontier lab?"
+  },
+  {
+    "title": "解放你的 OpenClaw",
+    "url": "https://huggingface.co/blog/liberate-your-openclaw",
+    "content": "",
+    "publish_time": "Fri, 27 Ma",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-04-13T12:14:36.286492",
+    "fetch_method": "RSS",
+    "original_title": "Liberate your OpenClaw",
+    "original_content": ""
+  },
+  {
+    "title": "OpenClaw 给用户带来了另一个对安全性感到恐惧的理由",
+    "url": "https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/",
+    "content": "这种病毒式 AI 代理工具让攻击者能够悄悄地获得未经身份验证的管理员访问权限。",
+    "publish_time": "Fri, 03 Ap",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-04-13T12:14:36.285873",
+    "fetch_method": "RSS",
+    "original_title": "OpenClaw gives users yet another reason to be freaked out about security",
+    "original_content": "The viral AI agentic tool let attackers silently gain admin unauthenticated access."
+  },
+  {
+    "title": "显示 HN：Claudraband – 高级用户的 Claude 代码",
+    "url": "https://github.com/halfwhey/claudraband",
+    "content": "大家好。Claudraband 将 Claude Code TUI 包装在受控终端中以启用扩展工作流程。它使用 tmux 进行可见的受控会话，或使用 xterm.js 进行无头会话（速度稍慢），但一切都是由实际的 Claude Code TUI 介导的。我现在使用的工作流程的一个示例是 h",
+    "publish_time": "Sun, 12 Ap",
+    "source": "Hacker News Front Page",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-04-13T12:14:36.286928",
+    "fetch_method": "RSS",
+    "original_title": "Show HN: Claudraband – Claude Code for the Power User",
+    "original_content": "Hello everyone.Claudraband wraps a Claude Code TUI in a controlled terminal to enable extended workflows. It uses tmux for visible controlled sessions or xterm.js for headless sessions (a little slower), but everything is mediated by an actual Claude Code TUI.One example of a workflow I use now is h"
+  }
+]
