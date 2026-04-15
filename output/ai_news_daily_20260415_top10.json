@@ -1,0 +1,194 @@
+[
+  {
+    "title": "微软正在开发另一个类似 OpenClaw 的代理",
+    "url": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
+    "content": "新功能将面向企业客户，与众所周知的高风险开源 OpenClaw 代理相比，具有更好的安全控制。",
+    "publish_time": "Mon, 13 Ap",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-04-15T11:54:55.654737",
+    "fetch_method": "RSS",
+    "original_title": "Microsoft is working on yet another OpenClaw-like agent",
+    "original_content": "The new features would be geared toward enterprise customers, with better security controls than the famously risky open source OpenClaw agent."
+  },
+  {
+    "title": "特朗普官员可能鼓励银行测试 Anthropic 的神话模型",
+    "url": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
+    "content": "该报告尤其令人惊讶，因为国防部最近宣布 Anthropic 为供应链风险。",
+    "publish_time": "Sun, 12 Ap",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-04-15T11:54:55.654773",
+    "fetch_method": "RSS",
+    "original_title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
+    "original_content": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk."
+  },
+  {
+    "title": "解放你的 OpenClaw",
+    "url": "https://huggingface.co/blog/liberate-your-openclaw",
+    "content": "",
+    "publish_time": "Fri, 27 Ma",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-04-15T11:54:55.654935",
+    "fetch_method": "RSS",
+    "original_title": "Liberate your OpenClaw",
+    "original_content": ""
+  },
+  {
+    "title": "OpenClaw 给用户带来了另一个对安全性感到恐惧的理由",
+    "url": "https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/",
+    "content": "这种病毒式 AI 代理工具让攻击者能够悄悄地获得未经身份验证的管理员访问权限。",
+    "publish_time": "Fri, 03 Ap",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-04-15T11:54:55.654609",
+    "fetch_method": "RSS",
+    "original_title": "OpenClaw gives users yet another reason to be freaked out about security",
+    "original_content": "The viral AI agentic tool let attackers silently gain admin unauthenticated access."
+  },
+  {
+    "title": "ClawBench：AI代理能完成日常在线任务吗？ 153 个任务，144 个实时网站，最佳模型为 33.3% [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1slf7pg/clawbench_can_ai_agents_complete_everyday_online/",
+    "content": "我们推出了 ClawBench，这是一个基准测试，用于评估 AI 浏览器代理在 144 个实时网站的 153 项真实日常任务上的表现。与综合基准不同，ClawBench 在实际生产中测试代理",
+    "publish_time": "2026-04-14",
+    "source": "Reddit r/MachineLearning",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-04-15T11:55:09.930421",
+    "original_title": "ClawBench: Can AI Agents Complete Everyday Online Tasks? 153 tasks, 144 live websites, best model at 33.3% [R]",
+    "original_content": "We introduce ClawBench, a benchmark that evaluates AI browser agents on 153 real-world everyday tasks across 144 live websites. Unlike synthetic benchmarks, ClawBench tests agents on actual production"
+  },
+  {
+    "title": "DevDay 发布的 AMA",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/",
+    "content": "这是历史上成为建设者的最好时代。在 DevDay 2025 上，我们推出了下一代工具和模型，以帮助开发人员更快地编码、更可靠地构建代理并扩展他们的应用程序",
+    "publish_time": "2026-04-14",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-04-15T11:55:09.930492",
+    "original_title": "AMA on our DevDay Launches",
+    "original_content": "Its the best time in history to be a builder. At DevDay 2025, we introduced the next generation of tools and models to help developers code faster, build agents more reliably, and scale their apps in "
+  },
+  {
+    "title": "Anthropic 的崛起让一些 OpenAI 投资者重新考虑",
+    "url": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
+    "content": "一位支持这两家公司的投资者告诉英国《金融时报》，证明 OpenAI 最近一轮融资的合理性需要假设 IPO 估值为 1.2 万亿美元或更高，这使得 Anthropic 目前 3800 亿美元的估值看起来相对便宜。",
+    "publish_time": "Wed, 15 Ap",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-04-15T11:54:55.654645",
+    "fetch_method": "RSS",
+    "original_title": "Anthropic’s rise is giving some OpenAI investors second thoughts",
+    "original_content": "One investor who has backed both companies told the FT that justifying OpenAI's recent round required assuming an IPO valuation of $1.2 trillion or more — making Anthropic's current $380 billion valuation look like the relative bargain."
+  },
+  {
+    "title": "Vercel 首席执行官 Guillermo Rauch 表示已做好 IPO 准备，人工智能代理推动收入激增",
+    "url": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
+    "content": "尽管许多在 ChatGPT 出现之前成立的初创公司都在努力为人工智能时代做好定位，但拥有 10 年历史的开发工具和网站托管平台 Vercel 却受益于人工智能生成的应用程序和代理的爆炸式增长。",
+    "publish_time": "Mon, 13 Ap",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-04-15T11:54:55.654760",
+    "fetch_method": "RSS",
+    "original_title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
+    "original_content": "While many startups founded prior to the emergence of ChatGPT are struggling to position themselves for the AI era, Vercel, a 10-year-old dev tool and website hosting platform, is benefiting from the explosion of AI-generated apps and agents."
+  },
+  {
+    "title": "编辑部",
+    "source": "www.anthropic.com",
+    "content": "这项新计划汇集了 Amazon Web Services、Anthropic、Apple、Broadcom、Cisco、CrowdStrike、Google、JPMorganChase、Linux 基金会、Microsoft、NVIDIA 和 Palo Alto Networks，共同努力保护世界上最关键的软件。我们邀请 Claude.ai 用户分享他们如何使用",
+    "url": "https://www.anthropic.com/news",
+    "publish_time": "2026-04-14",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-04-15T11:55:09.930258",
+    "original_title": "Newsroom",
+    "original_content": "A new initiative that brings together Amazon Web Services, Anthropic, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorganChase, the Linux Foundation, Microsoft, NVIDIA, and Palo Alto Networks in an effort to secure the world's most critical software. We invited Claude.ai users to share how they us"
+  },
+  {
+    "title": "消息",
+    "source": "deepmind.google",
+    "content": "发现我们最新的人工智能突破、项目和更新 我接受 Google 的条款和条件，并确认我的信息将按照 Google 的隐私政策使用。",
+    "url": "https://deepmind.google/blog/",
+    "publish_time": "2026-04-14",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-04-15T11:55:09.930286",
+    "original_title": "News",
+    "original_content": "Discover our latest AI breakthroughs, projects, and updates I accept Google's Terms and Conditions and acknowledge that my information will be used in accordance withGoogle's Privacy Policy."
+  }
+]
