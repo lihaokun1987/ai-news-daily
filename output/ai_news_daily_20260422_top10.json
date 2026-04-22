@@ -1,0 +1,193 @@
+[
+  {
+    "title": "圆桌会议：揭晓当前人工智能领域最重要的 10 件事",
+    "url": "https://www.technologyreview.com/2026/04/21/1135486/roundtables-unveiling-the-10-things-that-matter-in-ai-right-now/",
+    "content": "收听会议或观看下面的节目 观看来自《麻省理工学院技术评论》人工智能领导力标志性会议 EmTech AI 的特别版圆桌会议联播直播。订阅者可以独家抢先了解包含 10 项关键技术、新兴趋势、大胆想法和强大动力的新列表",
+    "publish_time": "Tue, 21 Ap",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-04-22T11:55:04.319606",
+    "fetch_method": "RSS",
+    "original_title": "Roundtables: Unveiling The 10 Things That Matter in AI Right Now",
+    "original_content": "Listen to the session or watch below Watch a special edition of Roundtables simulcast live from EmTech AI, MIT Technology Review’s signature conference for AI leadership. Subscribers got an exclusive first look at a new list capturing 10 key technologies, emerging trends, bold ideas, and powerful mo"
+  },
+  {
+    "title": "佛罗里达州总检察长对 ChatGPT 和 OpenAI 展开刑事调查",
+    "url": "https://www.bing.com/news/search?q=ChatGPT+OpenAI+2026-04-21",
+    "content": "佛罗里达州总检察长 James Uthmeier 宣布向 OpenAI 和 ChatGPT 发出传票，作为对自残、儿童色情和 FSU 枪击案等涉嫌伤害行为进行刑事调查的一部分......",
+    "publish_time": "2026-04-21",
+    "source": "AI News",
+    "score": {
+      "importance": 8,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.35
+    },
+    "collection_time": "2026-04-22T11:55:18.724500",
+    "original_title": "Florida attorney general launches criminal investigation into ChatGPT and OpenAI",
+    "original_content": "Florida Attorney General James Uthmeier announced subpoenas to OpenAI and ChatGPT as part of a criminal investigation into alleged harms, including self-harm, child pornography and the FSU shooters ..."
+  },
+  {
+    "title": "AI Dungeon 制造商 Latitude 推出 Voyage，一个用于创建 AI 驱动的 RPG 的平台",
+    "url": "https://techcrunch.com/2026/04/21/voyage-is-an-ai-rpg-platform-for-creating-custom-gaming-worlds-with-ai-generated-npc-interactions/",
+    "content": "Latitude 的全新 AI 原生平台 Voyage 旨在帮助游戏玩家创建自己的角色扮演游戏。",
+    "publish_time": "Tue, 21 Ap",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-04-22T11:55:04.319772",
+    "fetch_method": "RSS",
+    "original_title": "AI Dungeon maker Latitude unveils Voyage, a platform for creating AI-powered RPGs",
+    "original_content": "Latitude's new AI-native platform, Voyage, aims to help gamers create their very own role-playing game."
+  },
+  {
+    "title": "Grokking 跨 MLP 和 Transformer 的维度临界性",
+    "url": "https://arxiv.org/abs/2604.16431",
+    "content": "arXiv:2604.16431v1 公告类型：新 \n摘要：不同动态状态之间的突然转变是复杂系统的标志。深度神经网络中的摸索提供了一个引人注目的例子——在训练精度饱和很久之后，从记忆到泛化的突然转变——",
+    "publish_time": "Tue, 21 Ap",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-04-22T11:55:04.320535",
+    "fetch_method": "RSS",
+    "original_title": "Dimensional Criticality at Grokking Across MLPs and Transformers",
+    "original_content": "arXiv:2604.16431v1 Announce Type: new \nAbstract: Abrupt transitions between distinct dynamical regimes are a hallmark of complex systems. Grokking in deep neural networks provides a striking example -- an abrupt transition from memorization to generalization long after training accuracy saturates --"
+  },
+  {
+    "title": "OpenClaw 给用户带来了另一个对安全性感到恐惧的理由",
+    "url": "https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/",
+    "content": "这种病毒式 AI 代理工具让攻击者能够悄悄地获得未经身份验证的管理员访问权限。",
+    "publish_time": "Fri, 03 Ap",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-04-22T11:55:04.319873",
+    "fetch_method": "RSS",
+    "original_title": "OpenClaw gives users yet another reason to be freaked out about security",
+    "original_content": "The viral AI agentic tool let attackers silently gain admin unauthenticated access."
+  },
+  {
+    "title": "Anthropic 表示再次允许使用 OpenClaw 风格的 Claude CLI",
+    "url": "https://docs.openclaw.ai/providers/anthropic",
+    "content": "文章网址：https://docs.openclaw.ai/providers/anthropic\n评论网址：https://news.ycombinator.com/item?id=47844269\n积分：482\n# 评论：274",
+    "publish_time": "Tue, 21 Ap",
+    "source": "Hacker News Best",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-04-22T11:55:04.320790",
+    "fetch_method": "RSS",
+    "original_title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
+    "original_content": "Article URL: https://docs.openclaw.ai/providers/anthropic\nComments URL: https://news.ycombinator.com/item?id=47844269\nPoints: 482\n# Comments: 274"
+  },
+  {
+    "title": "在受到议员、工会和活动人士的批评后，英国政府正在考虑终止 Palantir 参与 NHS 中央数据平台",
+    "url": "https://www.reddit.com/r/artificial/comments/1srbv5o/the_uk_government_is_considering_ending_palantirs/",
+    "content": "32 提交者 32 uhillary_262 链接 32 条评论",
+    "publish_time": "2026-04-21",
+    "source": "Reddit r/artificial",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-04-22T11:55:18.724611",
+    "original_title": "The UK government is considering ending Palantir's involvement in a central NHS data platform after coming under fire from MPs, unions, and campaigners",
+    "original_content": "32 submitted by 32 uhillary_262 link 32 comments"
+  },
+  {
+    "title": "DevDay 发布的 AMA",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/",
+    "content": "这是历史上成为建设者的最好时代。在 DevDay 2025 上，我们推出了下一代工具和模型，以帮助开发人员更快地编码、更可靠地构建代理并扩展他们的应用程序",
+    "publish_time": "2026-04-21",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-04-22T11:55:18.724745",
+    "original_title": "AMA on our DevDay Launches",
+    "original_content": "Its the best time in history to be a builder. At DevDay 2025, we introduced the next generation of tools and models to help developers code faster, build agents more reliably, and scale their apps in "
+  },
+  {
+    "title": "编辑部",
+    "source": "www.anthropic.com",
+    "content": "我们最新的 Opus 模型在编码、代理、愿景和多步骤任务方面带来了更强大的性能，并且在最重要的工作上具有更高的彻底性和一致性。今天，我们推出了 Claude Design，这是 Anthropic Labs 的一款新产品，可让您与 Claude 合作创建精美的 v",
+    "url": "https://www.anthropic.com/news",
+    "publish_time": "2026-04-21",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-04-22T11:55:18.724508",
+    "original_title": "Newsroom",
+    "original_content": "Our latest Opus model brings stronger performance across coding, agents, vision, and multi-step tasks, with greater thoroughness and consistency on the work that matters most. Today, were launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished v"
+  },
+  {
+    "title": "消息",
+    "source": "deepmind.google",
+    "content": "发现我们最新的人工智能突破、项目和更新 我接受 Google 的条款和条件，并确认我的信息将按照 Google 的隐私政策使用。",
+    "url": "https://deepmind.google/blog/",
+    "publish_time": "2026-04-21",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-04-22T11:55:18.724540",
+    "original_title": "News",
+    "original_content": "Discover our latest AI breakthroughs, projects, and updates I accept Google's Terms and Conditions and acknowledge that my information will be used in accordance withGoogle's Privacy Policy."
+  }
+]
