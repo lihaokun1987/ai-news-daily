@@ -1,0 +1,194 @@
+[
+  {
+    "title": "DeepSeek 新模型重要的三个原因",
+    "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
+    "content": "周五，中国人工智能公司 DeepSeek 发布了其期待已久的新旗舰机型 V4 的预览。值得注意的是，由于新设计有助于更有效地处理大量文本，该模型可以处理比上一代更长的提示。与 DeepSeek 之前的型号一样，V4 是 o",
+    "publish_time": "Fri, 24 Ap",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.65
+    },
+    "collection_time": "2026-04-25T11:47:04.237067",
+    "fetch_method": "RSS",
+    "original_title": "Three reasons why DeepSeek’s new model matters",
+    "original_content": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is o"
+  },
+  {
+    "title": "OpenAI 在 API 中发布 GPT-5.5 和 GPT-5.5 Pro",
+    "url": "https://developers.openai.com/api/docs/changelog",
+    "content": "",
+    "publish_time": "2026-04-24",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 222,
+      "comments": 124
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=47894000",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 6.55
+    },
+    "collection_time": "2026-04-25T11:47:19.305293",
+    "original_title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
+    "original_content": ""
+  },
+  {
+    "title": "针对长期任务的共同进化法学硕士决策和技能库代理",
+    "url": "https://arxiv.org/abs/2604.20987",
+    "content": "arXiv:2604.20987v1 公告类型：新 \n摘要：长视野交互环境是评估智能体技能使用能力的测试平台。这些环境需要多步骤推理、多个时间步长的多种技能的链接，以及在延迟奖励和延迟的情况下做出稳健的决策。",
+    "publish_time": "Fri, 24 Ap",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-04-25T11:47:04.238009",
+    "fetch_method": "RSS",
+    "original_title": "Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks",
+    "original_content": "arXiv:2604.20987v1 Announce Type: new \nAbstract: Long horizon interactive environments are a testbed for evaluating agents skill usage abilities. These environments demand multi step reasoning, the chaining of multiple skills over many timesteps, and robust decision making under delayed rewards and "
+  },
+  {
+    "title": "OpenAI 发布 GPT-5.5，让公司离 AI“超级应用”又近了一步",
+    "url": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
+    "content": "OpenAI 表示，其最新模型在多种类别中提供了增强的功能。",
+    "publish_time": "Thu, 23 Ap",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-04-25T11:47:04.237385",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’",
+    "original_content": "OpenAI says its latest model offers increased capabilities across a broad variety of categories."
+  },
+  {
+    "title": "继 AACR 2026 科学首次亮相后，Lantern Pharma 将于 4 月 30 日首次公开展示 withZeta.ai - 一个征服罕见癌症的平台",
+    "url": "https://www.bing.com/news/search?q=AI+machine+learning+2026-04-24",
+    "content": "Lantern Pharma Inc. 纳斯达克 LTRN“Lantern”或“公司”是一家人工智能驱动的临床阶段精准肿瘤学公司，今天宣布首次公开演示 withZeta.ai，其...",
+    "publish_time": "2026-04-24",
+    "source": "AI News",
+    "score": {
+      "importance": 8,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.35
+    },
+    "collection_time": "2026-04-25T11:47:19.304832",
+    "original_title": "Lantern Pharma to Debut Public Demonstration of withZeta.ai - A Platform to Conquer Rare Cancers on April 30 Following AACR 2026 Scientific Debut",
+    "original_content": "Lantern Pharma Inc. NASDAQ LTRN \"Lantern\" or the \"Company\", an AI-driven clinical-stage precision oncology company, today announced the first public demonstration of withZeta.ai, its ..."
+  },
+  {
+    "title": "微软针对 macOS 和 Linux ASP.NET 威胁发布紧急更新",
+    "url": "https://arstechnica.com/security/2026/04/microsoft-issues-emergency-update-for-macos-and-linux-asp-net-threat/",
+    "content": "当身份验证失败时，事情可能会变得非常非常错误。",
+    "publish_time": "Wed, 22 Ap",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 7,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.3
+    },
+    "collection_time": "2026-04-25T11:47:04.237196",
+    "fetch_method": "RSS",
+    "original_title": "Microsoft issues emergency update for macOS and Linux ASP.NET threat",
+    "original_content": "When authentication fails, things can go very, very wrong."
+  },
+  {
+    "title": "没有什么介绍人工智能驱动的听写工具",
+    "url": "https://techcrunch.com/2026/04/24/nothing-introduces-an-ai-powered-dictation-tool/",
+    "content": "Nothing 是新的设备听写工具，支持 100 多种语言。",
+    "publish_time": "Fri, 24 Ap",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-04-25T11:47:04.237297",
+    "fetch_method": "RSS",
+    "original_title": "Nothing introduces an AI-powered dictation tool",
+    "original_content": "Nothing's new on-device dictation tool supports over 100 languages."
+  },
+  {
+    "title": "苹果下一任首席执行官需要推出杀手级人工智能产品",
+    "url": "https://www.wired.com/story/apples-next-ceo-needs-to-launch-a-killer-ai-product/",
+    "content": "蒂姆·库克是一位伟大的首席执行官，但他并没有破解人工智能。  这是约翰·特努斯 (John Ternus) 的首要工作。",
+    "publish_time": "Fri, 24 Ap",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-04-25T11:47:04.237585",
+    "fetch_method": "RSS",
+    "original_title": "Apple's Next CEO Needs to Launch a Killer AI Product",
+    "original_content": "Tim Cook was a great CEO, but he didn’t crack AI.  It’s job number 1 for John Ternus."
+  },
+  {
+    "title": "Deep FinResearch Bench：评估人工智能进行专业金融投资研究的能力",
+    "url": "https://arxiv.org/abs/2604.21006",
+    "content": "arXiv:2604.21006v1 公告类型：新 \n摘要：我们介绍 Deep FinResearch Bench，这是一个针对金融投资研究中的深度研究（DR）代理的实用且全面的评估框架。该基准评估报告质量的三个维度：定性严谨性、定量预测",
+    "publish_time": "Fri, 24 Ap",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-04-25T11:47:04.238044",
+    "fetch_method": "RSS",
+    "original_title": "Deep FinResearch Bench: Evaluating AI's Ability to Conduct Professional Financial Investment Research",
+    "original_content": "arXiv:2604.21006v1 Announce Type: new \nAbstract: We introduce Deep FinResearch Bench, a practical and comprehensive evaluation framework for deep research (DR) agents in financial investment research. The benchmark assesses three dimensions of report quality: qualitative rigor, quantitative forecast"
+  },
+  {
+    "title": "谷歌向 Anthropic 投入数十亿美元以建立主要人工智能合作伙伴关系",
+    "url": "https://www.bing.com/news/search?q=artificial+intelligence+2026-04-24",
+    "content": "就在几天前，电子商务巨头亚马逊表示将向这家初创公司投资高达 250 亿美元。",
+    "publish_time": "2026-04-24",
+    "source": "AI News",
+    "score": {
+      "importance": 7,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.0
+    },
+    "collection_time": "2026-04-25T11:47:19.304773",
+    "original_title": "Google commits billions to Anthropic in major AI partnership",
+    "original_content": "The investment comes just days after e-commerce giant Amazon said it will invest up to 25 billion in the startup."
+  }
+]
