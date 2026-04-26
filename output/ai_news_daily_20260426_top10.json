@@ -1,0 +1,200 @@
+[
+  {
+    "title": "DeepSeek 新模型重要的三个原因",
+    "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
+    "content": "周五，中国人工智能公司 DeepSeek 发布了其期待已久的新旗舰机型 V4 的预览。值得注意的是，由于新设计有助于更有效地处理大量文本，该模型可以处理比上一代更长的提示。与 DeepSeek 之前的型号一样，V4 是 o",
+    "publish_time": "Fri, 24 Ap",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.65
+    },
+    "collection_time": "2026-04-26T12:17:58.555392",
+    "fetch_method": "RSS",
+    "original_title": "Three reasons why DeepSeek’s new model matters",
+    "original_content": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is o"
+  },
+  {
+    "title": "微软针对 macOS 和 Linux ASP.NET 威胁发布紧急更新",
+    "url": "https://arstechnica.com/security/2026/04/microsoft-issues-emergency-update-for-macos-and-linux-asp-net-threat/",
+    "content": "当身份验证失败时，事情可能会变得非常非常错误。",
+    "publish_time": "Wed, 22 Ap",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 7,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.3
+    },
+    "collection_time": "2026-04-26T12:17:58.555564",
+    "fetch_method": "RSS",
+    "original_title": "Microsoft issues emergency update for macOS and Linux ASP.NET threat",
+    "original_content": "When authentication fails, things can go very, very wrong."
+  },
+  {
+    "title": "没有什么介绍人工智能驱动的听写工具",
+    "url": "https://techcrunch.com/2026/04/24/nothing-introduces-an-ai-powered-dictation-tool/",
+    "content": "Nothing 是新的设备听写工具，支持 100 多种语言。",
+    "publish_time": "Fri, 24 Ap",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-04-26T12:17:58.555362",
+    "fetch_method": "RSS",
+    "original_title": "Nothing introduces an AI-powered dictation tool",
+    "original_content": "Nothing's new on-device dictation tool supports over 100 languages."
+  },
+  {
+    "title": "苹果下一任首席执行官需要推出杀手级人工智能产品",
+    "url": "https://www.wired.com/story/apples-next-ceo-needs-to-launch-a-killer-ai-product/",
+    "content": "蒂姆·库克是一位伟大的首席执行官，但他并没有破解人工智能。  这是约翰·特努斯 (John Ternus) 的首要工作。",
+    "publish_time": "Fri, 24 Ap",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-04-26T12:17:58.555494",
+    "fetch_method": "RSS",
+    "original_title": "Apple's Next CEO Needs to Launch a Killer AI Product",
+    "original_content": "Tim Cook was a great CEO, but he didn’t crack AI.  It’s job number 1 for John Ternus."
+  },
+  {
+    "title": "OpenAI 在 API 中发布 GPT-5.5 和 GPT-5.5 Pro",
+    "url": "https://developers.openai.com/api/docs/changelog",
+    "content": "GPT-5.5 - https://news.ycombinator.com/item?id=47879092 - 2026 年 4 月（1010 条评论）\n\n评论网址：https://news.ycombinator.com/item?id=47894000\n积分：254\n# 评论: 152",
+    "publish_time": "Fri, 24 Ap",
+    "source": "Hacker News Best",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.15
+    },
+    "collection_time": "2026-04-26T12:17:58.555952",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
+    "original_content": "GPT-5.5 - https://news.ycombinator.com/item?id=47879092 - April 2026 (1010 comments)\n\nComments URL: https://news.ycombinator.com/item?id=47894000\nPoints: 254\n# Comments: 152"
+  },
+  {
+    "title": "人工智能行业发现公众讨厌它",
+    "url": "https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash",
+    "content": "",
+    "publish_time": "2026-04-25",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 217,
+      "comments": 294
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=47904568",
+    "score": {
+      "importance": 5,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.0
+    },
+    "collection_time": "2026-04-26T12:18:12.157502",
+    "original_title": "The AI industry is discovering that the public hates it",
+    "original_content": ""
+  },
+  {
+    "title": "OpenClaw 给用户带来了另一个对安全性感到恐惧的理由",
+    "url": "https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/",
+    "content": "这种病毒式 AI 代理工具让攻击者能够悄悄地获得未经身份验证的管理员访问权限。",
+    "publish_time": "Fri, 03 Ap",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-04-26T12:17:58.555588",
+    "fetch_method": "RSS",
+    "original_title": "OpenClaw gives users yet another reason to be freaked out about security",
+    "original_content": "The viral AI agentic tool let attackers silently gain admin unauthenticated access."
+  },
+  {
+    "title": "DevDay 发布的 AMA",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/",
+    "content": "这是历史上成为建设者的最好时代。在 DevDay 2025 上，我们推出了下一代工具和模型，以帮助开发人员更快地编码、更可靠地构建代理并扩展他们的应用程序",
+    "publish_time": "2026-04-25",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-04-26T12:18:12.157359",
+    "original_title": "AMA on our DevDay Launches",
+    "original_content": "Its the best time in history to be a builder. At DevDay 2025, we introduced the next generation of tools and models to help developers code faster, build agents more reliably, and scale their apps in "
+  },
+  {
+    "title": "OpenAI 模型随着时间的推移而发布",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1svknex/openai_model_releases_over_time/",
+    "content": "32 提交者 32 uEchoOfOppenheimer 链接 32 条评论",
+    "publish_time": "2026-04-25",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-04-26T12:18:12.157377",
+    "original_title": "OpenAI model releases over time",
+    "original_content": "32 submitted by 32 uEchoOfOppenheimer link 32 comments"
+  },
+  {
+    "title": "谷歌将以现金和计算方式向 Anthropic 投资高达 40B 美元",
+    "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
+    "content": "谷歌计划向 Anthropic 投资高达 400 亿美元，因为人工智能竞争对手在其强大的、专注于网络安全的 Mythos 模型有限发布后，竞相争夺巨大的计算能力。",
+    "publish_time": "Fri, 24 Ap",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-04-26T12:17:58.555318",
+    "fetch_method": "RSS",
+    "original_title": "Google to invest up to $40B in Anthropic in cash and compute",
+    "original_content": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model."
+  }
+]
