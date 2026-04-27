@@ -1,0 +1,191 @@
+[
+  {
+    "title": "DeepSeek 新模型重要的三个原因",
+    "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
+    "content": "周五，中国人工智能公司 DeepSeek 发布了其期待已久的新旗舰机型 V4 的预览。值得注意的是，由于新设计有助于更有效地处理大量文本，该模型可以处理比上一代更长的提示。与 DeepSeek 之前的型号一样，V4 是 o",
+    "publish_time": "Fri, 24 Ap",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.65
+    },
+    "collection_time": "2026-04-27T12:24:17.134233",
+    "fetch_method": "RSS",
+    "original_title": "Three reasons why DeepSeek’s new model matters",
+    "original_content": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is o"
+  },
+  {
+    "title": "MolClaw：具有分层技能的自主代理，用于药物分子评估、筛选和优化",
+    "url": "https://arxiv.org/abs/2604.21937",
+    "content": "arXiv:2604.21937v1 公告类型：新 \n摘要：计算药物发现，特别是药物分子筛选和优化的复杂工作流程，需要在多步骤工作流程中编排数十个专用工具，但当前的人工智能代理很难保持稳健的性能和",
+    "publish_time": "Mon, 27 Ap",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-04-27T12:24:17.134332",
+    "fetch_method": "RSS",
+    "original_title": "MolClaw: An Autonomous Agent with Hierarchical Skills for Drug Molecule Evaluation, Screening, and Optimization",
+    "original_content": "arXiv:2604.21937v1 Announce Type: new \nAbstract: Computational drug discovery, particularly the complex workflows of drug molecule screening and optimization, requires orchestrating dozens of specialized tools in multi-step workflows, yet current AI agents struggle to maintain robust performance and"
+  },
+  {
+    "title": "PrivUn：揭示隐私遗忘中的潜在涟漪效应和浅层遗忘",
+    "url": "https://arxiv.org/abs/2604.22076",
+    "content": "arXiv:2604.22076v1 公告类型：新 \n摘要：大型语言模型（LLM）经常在训练过程中记住私人信息，引发了严重的隐私问题。虽然机器学习已成为一种有前途的解决方案，但其针对隐私攻击的真正有效性仍不清楚。致地址",
+    "publish_time": "Mon, 27 Ap",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-04-27T12:24:17.134645",
+    "fetch_method": "RSS",
+    "original_title": "PrivUn: Unveiling Latent Ripple Effects and Shallow Forgetting in Privacy Unlearning",
+    "original_content": "arXiv:2604.22076v1 Announce Type: new \nAbstract: Large language models (LLMs) often memorize private information during training, raising serious privacy concerns. While machine unlearning has emerged as a promising solution, its true effectiveness against privacy attacks remains unclear. To address"
+  },
+  {
+    "title": "佛罗里达州总检察长在 FSU 枪击事件后对 ChatGPT 制造商 OpenAI 展开刑事调查",
+    "url": "https://www.bing.com/news/search?q=ChatGPT+OpenAI+2026-04-26",
+    "content": "佛罗里达州总检察长 James Uthmeier 对 OpenAI 展开调查，调查该公司是否对去年佛罗里达州立大学发生的枪击事件负有刑事责任。",
+    "publish_time": "2026-04-26",
+    "source": "AI News",
+    "score": {
+      "importance": 8,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.35
+    },
+    "collection_time": "2026-04-27T12:24:31.707491",
+    "original_title": "Florida attorney general launches criminal investigation into ChatGPT maker OpenAI after deadly FSU shooting",
+    "original_content": "Florida Attorney General James Uthmeier opened an investigation into OpenAI over whether the company bears criminal responsibility for a shooting at Florida State University last year."
+  },
+  {
+    "title": "微软针对 macOS 和 Linux ASP.NET 威胁发布紧急更新",
+    "url": "https://arstechnica.com/security/2026/04/microsoft-issues-emergency-update-for-macos-and-linux-asp-net-threat/",
+    "content": "当身份验证失败时，事情可能会变得非常非常错误。",
+    "publish_time": "Wed, 22 Ap",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 7,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.3
+    },
+    "collection_time": "2026-04-27T12:24:17.133893",
+    "fetch_method": "RSS",
+    "original_title": "Microsoft issues emergency update for macOS and Linux ASP.NET threat",
+    "original_content": "When authentication fails, things can go very, very wrong."
+  },
+  {
+    "title": "重新思考出版：人工智能研究的认证框架",
+    "url": "https://arxiv.org/abs/2604.22026",
+    "content": "arXiv:2604.22026v1 公告类型：新 \n摘要：人工智能研究渠道现在产生的可发表学术成果的份额越来越大，其中包括符合现有同行评审质量和新颖性标准的工作。然而，出版系统是建立在普遍人类作者身份和",
+    "publish_time": "Mon, 27 Ap",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.3
+    },
+    "collection_time": "2026-04-27T12:24:17.134353",
+    "fetch_method": "RSS",
+    "original_title": "Rethinking Publication: A Certification Framework for AI-Enabled Research",
+    "original_content": "arXiv:2604.22026v1 Announce Type: new \nAbstract: AI research pipelines now produce a growing share of publishable academic output, including work that meets existing peer-review standards for quality and novelty. Yet the publication system was built on the assumption of universal human authorship an"
+  },
+  {
+    "title": "人工智能中的紧急战略推理风险：分类驱动的评估框架",
+    "url": "https://arxiv.org/abs/2604.22119",
+    "content": "arXiv:2604.22119v1 公告类型：新 \n摘要：随着推理能力和部署范围同步增长，大型语言模型（LLM）获得了参与服务于其自身目标的行为的能力，我们将这种风险称为紧急战略推理风险（ESRR）。这些包括，但",
+    "publish_time": "Mon, 27 Ap",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.3
+    },
+    "collection_time": "2026-04-27T12:24:17.134385",
+    "fetch_method": "RSS",
+    "original_title": "Emergent Strategic Reasoning Risks in AI: A Taxonomy-Driven Evaluation Framework",
+    "original_content": "arXiv:2604.22119v1 Announce Type: new \nAbstract: As reasoning capacity and deployment scope grow in tandem, large language models (LLMs) gain the capacity to engage in behaviors that serve their own objectives, a class of risks we term Emergent Strategic Reasoning Risks (ESRRs). These include, but a"
+  },
+  {
+    "title": "苹果下一任首席执行官需要推出杀手级人工智能产品",
+    "url": "https://www.wired.com/story/apples-next-ceo-needs-to-launch-a-killer-ai-product/",
+    "content": "蒂姆·库克是一位伟大的首席执行官，但他并没有破解人工智能。  这是约翰·特努斯 (John Ternus) 的首要工作。",
+    "publish_time": "Fri, 24 Ap",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-04-27T12:24:17.133806",
+    "fetch_method": "RSS",
+    "original_title": "Apple's Next CEO Needs to Launch a Killer AI Product",
+    "original_content": "Tim Cook was a great CEO, but he didn’t crack AI.  It’s job number 1 for John Ternus."
+  },
+  {
+    "title": "没有什么介绍人工智能驱动的听写工具",
+    "url": "https://techcrunch.com/2026/04/24/nothing-introduces-an-ai-powered-dictation-tool/",
+    "content": "Nothing 是新的设备听写工具，支持 100 多种语言。",
+    "publish_time": "Fri, 24 Ap",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-04-27T12:24:17.134220",
+    "fetch_method": "RSS",
+    "original_title": "Nothing introduces an AI-powered dictation tool",
+    "original_content": "Nothing's new on-device dictation tool supports over 100 languages."
+  },
+  {
+    "title": "数学需要两个：通信中新兴数学推理的测试",
+    "url": "https://arxiv.org/abs/2604.21935",
+    "content": "arXiv:2604.21935v1 公告类型：新 \n摘要：尽管语言模型在数学基准上表现出出色的熟练程度，但仍不清楚这是否反映了学习形式语法的真正数学推理或统计模式匹配。大多数现有的评估依赖于",
+    "publish_time": "Mon, 27 Ap",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-04-27T12:24:17.134310",
+    "fetch_method": "RSS",
+    "original_title": "Math Takes Two: A test for emergent mathematical reasoning in communication",
+    "original_content": "arXiv:2604.21935v1 Announce Type: new \nAbstract: Although language models demonstrate remarkable proficiency on mathematical benchmarks, it remains unclear whether this reflects true mathematical reasoning or statistical pattern matching over learning formal syntax. Most existing evaluations rely on"
+  }
+]
