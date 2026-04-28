@@ -1,0 +1,195 @@
+[
+  {
+    "title": "Skye 的 iPhone 人工智能主屏应用程序在推出前获得投资者支持",
+    "url": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
+    "content": "Skye 的新人工智能应用程序在推出之前就吸引了投资者——这表明人们对更具人工智能意识的 iPhone 感兴趣。",
+    "publish_time": "Mon, 27 Ap",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 8,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.9
+    },
+    "collection_time": "2026-04-28T12:28:17.447423",
+    "fetch_method": "RSS",
+    "original_title": "Investors back Skye’s AI home screen app for iPhone ahead of launch",
+    "original_content": "Skye's new AI app attracted investors before it even launched — a sign of interest in a more AI-aware iPhone."
+  },
+  {
+    "title": "DeepSeek 新模型重要的三个原因",
+    "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
+    "content": "4月24日，中国人工智能公司DeepSeek发布了其期待已久的新旗舰机型V4的预览。该模型可以处理比上一代更长的提示，这要归功于新的设计，有助于它更有效地处理大量文本。与 DeepSeek 之前的型号一样，V4 是开放式的",
+    "publish_time": "Fri, 24 Ap",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.65
+    },
+    "collection_time": "2026-04-28T12:28:17.447324",
+    "fetch_method": "RSS",
+    "original_title": "Three reasons why DeepSeek’s new model matters",
+    "original_content": "On April 24, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. The model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is open sou"
+  },
+  {
+    "title": "今天早上宣布了一项新协议",
+    "url": "https://about.fb.com/news/2026/04/powering-ai-strengthening-the-grid-space-solar-energy-and-long-duration-storage/",
+    "content": "",
+    "publish_time": "2026-04-27",
+    "source": "The Verge AI",
+    "score": {
+      "importance": 8,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 6.55
+    },
+    "collection_time": "2026-04-28T12:28:31.654325",
+    "original_title": "announced a new deal this morning",
+    "original_content": ""
+  },
+  {
+    "title": "CoFi-PGMA：多代理法学硕士过滤反馈下的反事实政策梯度",
+    "url": "https://arxiv.org/abs/2604.22785",
+    "content": "arXiv:2604.22785v1 公告类型：新 \n摘要：大型语言模型（LLM）部署越来越依赖于多代理架构，其中多个模型要么通过路由机制竞争，要么协作产生最终答案。在这两种设置中，每个a接收到的学习信号",
+    "publish_time": "Tue, 28 Ap",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-04-28T12:28:17.447883",
+    "fetch_method": "RSS",
+    "original_title": "CoFi-PGMA: Counterfactual Policy Gradients under Filtered Feedback for Multi-Agent LLMs",
+    "original_content": "arXiv:2604.22785v1 Announce Type: new \nAbstract: Large language model (LLM) deployments increasingly rely on multi-agent architectures in which multiple models either compete through routing mechanisms or collaborate to produce a final answer. In both settings, the learning signal received by each a"
+  },
+  {
+    "title": "幂律的力量：不对称性促进组合推理",
+    "url": "https://arxiv.org/abs/2604.22951",
+    "content": "arXiv:2604.22951v1 公告类型：新 \n摘要：自然语言数据遵循幂律分布，大多数知识和技能出现的频率非常低。虽然普遍的直觉表明，重新加权或整理数据以使其趋于均匀分布可能有助于模型更好地学习",
+    "publish_time": "Tue, 28 Ap",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-04-28T12:28:17.448163",
+    "fetch_method": "RSS",
+    "original_title": "The Power of Power Law: Asymmetry Enables Compositional Reasoning",
+    "original_content": "arXiv:2604.22951v1 Announce Type: new \nAbstract: Natural language data follows a power-law distribution, with most knowledge and skills appearing at very low frequency. While a common intuition suggests that reweighting or curating data towards a uniform distribution may help models better learn the"
+  },
+  {
+    "title": "微软和 OpenAI 终止独家收入共享协议",
+    "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
+    "content": "",
+    "publish_time": "2026-04-27",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 794,
+      "comments": 681
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=47921248",
+    "score": {
+      "importance": 5,
+      "authority": 5,
+      "spread": 10,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-04-28T12:28:31.654850",
+    "original_title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+    "original_content": ""
+  },
+  {
+    "title": "微软针对 macOS 和 Linux ASP.NET 威胁发布紧急更新",
+    "url": "https://arstechnica.com/security/2026/04/microsoft-issues-emergency-update-for-macos-and-linux-asp-net-threat/",
+    "content": "当身份验证失败时，事情可能会变得非常非常错误。",
+    "publish_time": "Wed, 22 Ap",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 7,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.3
+    },
+    "collection_time": "2026-04-28T12:28:17.447738",
+    "fetch_method": "RSS",
+    "original_title": "Microsoft issues emergency update for macOS and Linux ASP.NET threat",
+    "original_content": "When authentication fails, things can go very, very wrong."
+  },
+  {
+    "title": "BiTA：时态图网络框架中的双向门控循环单元变压器聚合器，用于计算机网络中的警报预测",
+    "url": "https://arxiv.org/abs/2604.22781",
+    "content": "arXiv:2604.22781v1 公告类型：新 \n摘要：计算机网络中的主动警报预测对于缓解不断变化的网络威胁和及时采取防御行动至关重要。时态图神经网络（TGN）提供了一个用于建模随时间演化的交互的原则框架；豪",
+    "publish_time": "Tue, 28 Ap",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.3
+    },
+    "collection_time": "2026-04-28T12:28:17.447835",
+    "fetch_method": "RSS",
+    "original_title": "BiTA: Bidirectional Gated Recurrent Unit-Transformer Aggregator in a Temporal Graph Network Framework for Alert Prediction in Computer Networks",
+    "original_content": "arXiv:2604.22781v1 Announce Type: new \nAbstract: Proactive alert prediction in computer networks is critical for mitigating evolving cyber threats and enabling timely defensive actions. Temporal Graph Neural Networks (TGNs) provide a principled framework for modeling time-evolving interactions; howe"
+  },
+  {
+    "title": "苹果下一任首席执行官需要推出杀手级人工智能产品",
+    "url": "https://www.wired.com/story/apples-next-ceo-needs-to-launch-a-killer-ai-product/",
+    "content": "蒂姆·库克是一位伟大的首席执行官，但他并没有破解人工智能。  这是约翰·特努斯 (John Ternus) 的首要工作。",
+    "publish_time": "Fri, 24 Ap",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-04-28T12:28:17.447614",
+    "fetch_method": "RSS",
+    "original_title": "Apple's Next CEO Needs to Launch a Killer AI Product",
+    "original_content": "Tim Cook was a great CEO, but he didn’t crack AI.  It’s job number 1 for John Ternus."
+  },
+  {
+    "title": "下载：DeepSeek 最新的人工智能突破以及构建世界模型的竞赛",
+    "url": "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/",
+    "content": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。 DeepSeek 新模型重要的三个原因周五，中国人工智能公司 DeepSeek 发布了其期待已久的新旗舰模型 V4 的预览。诺塔",
+    "publish_time": "Mon, 27 Ap",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-04-28T12:28:17.447310",
+    "fetch_method": "RSS",
+    "original_title": "The Download: DeepSeek’s latest AI breakthrough, and the race to build world models",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Three reasons why DeepSeek’s new model matters On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Nota"
+  }
+]
