@@ -1,0 +1,196 @@
+[
+  {
+    "title": "据报道，谷歌和五角大楼就“任何合法”使用人工智能的协议达成一致",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal",
+    "content": "",
+    "publish_time": "2026-04-28",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 281,
+      "comments": 260
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=47936156",
+    "score": {
+      "importance": 8,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 7.05
+    },
+    "collection_time": "2026-04-29T12:23:22.961698",
+    "original_title": "Google and Pentagon reportedly agree on deal for 'any lawful' use of AI",
+    "original_content": ""
+  },
+  {
+    "title": "Skye 的 iPhone 人工智能主屏应用程序在推出前获得投资者支持",
+    "url": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
+    "content": "Skye 的新人工智能应用程序在推出之前就吸引了投资者——这表明人们对更具人工智能意识的 iPhone 感兴趣。",
+    "publish_time": "Mon, 27 Ap",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 8,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.9
+    },
+    "collection_time": "2026-04-29T12:23:09.432257",
+    "fetch_method": "RSS",
+    "original_title": "Investors back Skye’s AI home screen app for iPhone ahead of launch",
+    "original_content": "Skye's new AI app attracted investors before it even launched — a sign of interest in a more AI-aware iPhone."
+  },
+  {
+    "title": "DeepSeek 新模型重要的三个原因",
+    "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
+    "content": "4月24日，中国人工智能公司DeepSeek发布了其期待已久的新旗舰机型V4的预览。该模型可以处理比上一代更长的提示，这要归功于新的设计，有助于它更有效地处理大量文本。与 DeepSeek 之前的型号一样，V4 是开放式的",
+    "publish_time": "Fri, 24 Ap",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.65
+    },
+    "collection_time": "2026-04-29T12:23:09.432402",
+    "fetch_method": "RSS",
+    "original_title": "Three reasons why DeepSeek’s new model matters",
+    "original_content": "On April 24, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. The model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is open sou"
+  },
+  {
+    "title": "OpenAI CEO 身份验证公司宣布与 Fake Bruno Mars 合作",
+    "url": "https://www.vice.com/en/article/openai-ceo-identity-verification-company-fake-bruno-mars-partnership-mistaken-identity/",
+    "content": "文章网址：https://www.vice.com/en/article/openai-ceo-identity-verification-company-fake-bruno-mars-partnership-mistaken-identity/\n评论网址：https://news.ycombinator.com/item?id=47934269\n积分：279\n# 评论: 104",
+    "publish_time": "Tue, 28 Ap",
+    "source": "Hacker News Best",
+    "score": {
+      "importance": 8,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.65
+    },
+    "collection_time": "2026-04-29T12:23:09.433157",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI CEO's Identity Verification Company Announced Fake Bruno Mars Partnership",
+    "original_content": "Article URL: https://www.vice.com/en/article/openai-ceo-identity-verification-company-fake-bruno-mars-partnership-mistaken-identity/\nComments URL: https://news.ycombinator.com/item?id=47934269\nPoints: 279\n# Comments: 104"
+  },
+  {
+    "title": "幂律的力量：不对称性促进组合推理",
+    "url": "https://arxiv.org/abs/2604.22951",
+    "content": "arXiv:2604.22951v1 公告类型：新 \n摘要：自然语言数据遵循幂律分布，大多数知识和技能出现的频率非常低。虽然普遍的直觉表明，重新加权或整理数据以使其趋于均匀分布可能有助于模型更好地学习",
+    "publish_time": "Wed, 29 Ap",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-04-29T12:23:09.432684",
+    "fetch_method": "RSS",
+    "original_title": "The Power of Power Law: Asymmetry Enables Compositional Reasoning",
+    "original_content": "arXiv:2604.22951v1 Announce Type: new \nAbstract: Natural language data follows a power-law distribution, with most knowledge and skills appearing at very low frequency. While a common intuition suggests that reweighting or curating data towards a uniform distribution may help models better learn the"
+  },
+  {
+    "title": "微软针对 macOS 和 Linux ASP.NET 威胁发布紧急更新",
+    "url": "https://arstechnica.com/security/2026/04/microsoft-issues-emergency-update-for-macos-and-linux-asp-net-threat/",
+    "content": "当身份验证失败时，事情可能会变得非常非常错误。",
+    "publish_time": "Wed, 22 Ap",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 7,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.3
+    },
+    "collection_time": "2026-04-29T12:23:09.432305",
+    "fetch_method": "RSS",
+    "original_title": "Microsoft issues emergency update for macOS and Linux ASP.NET threat",
+    "original_content": "When authentication fails, things can go very, very wrong."
+  },
+  {
+    "title": "GCA-BULF：使用分组关键设备进行短期负荷预测的自下而上框架",
+    "url": "https://arxiv.org/abs/2604.24766",
+    "content": "arXiv:2604.24766v1 公告类型：新 \n摘要：随着分时电价和阶梯电价的兴起，鼓励能源消费者通过自动控制大功率电器来采取错峰策略。这些有助于降低能源成本，同时增强电网的稳定性",
+    "publish_time": "Wed, 29 Ap",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.3
+    },
+    "collection_time": "2026-04-29T12:23:09.432448",
+    "fetch_method": "RSS",
+    "original_title": "GCA-BULF: A Bottom-Up Framework for Short-Term Load Forecasting Using Grouped Critical Appliances",
+    "original_content": "arXiv:2604.24766v1 Announce Type: new \nAbstract: With the rise of time-of-use and tiered electricity pricing, energy consumers are encouraged to adopt peak-shifting strategies by automatically controlling high-power appliances. These help lower energy costs while enhancing the power grid's stability"
+  },
+  {
+    "title": "亚马逊在产品页面推出人工智能驱动的音频问答体验",
+    "url": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
+    "content": "亚马逊的新“加入聊天”功能可让您提出有关产品的问题并接收人工智能驱动的音频回复。",
+    "publish_time": "Tue, 28 Ap",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-04-29T12:23:09.432154",
+    "fetch_method": "RSS",
+    "original_title": "Amazon launches an AI-powered audio Q&A experience on product pages",
+    "original_content": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses."
+  },
+  {
+    "title": "红帽的 OpenClaw 维护者刚刚使企业 Claw 部署更加安全",
+    "url": "https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/",
+    "content": "Tank OS 将 OpenClaw AI 代理放入容器中，使其运行更可靠、更安全，特别是对于那些运行它们的舰队的人来说。",
+    "publish_time": "Tue, 28 Ap",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-04-29T12:23:09.432207",
+    "fetch_method": "RSS",
+    "original_title": "Red Hat’s OpenClaw maintainer just made enterprise Claw deployments a lot safer",
+    "original_content": "Tank OS puts OpenClaw AI agents into a container that lets it run reliably and more safely, especially for those running fleets of them."
+  },
+  {
+    "title": "下载：DeepSeek 最新的人工智能突破以及构建世界模型的竞赛",
+    "url": "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/",
+    "content": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。 DeepSeek 新模型重要的三个原因周五，中国人工智能公司 DeepSeek 发布了其期待已久的新旗舰模型 V4 的预览。诺塔",
+    "publish_time": "Mon, 27 Ap",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-04-29T12:23:09.432389",
+    "fetch_method": "RSS",
+    "original_title": "The Download: DeepSeek’s latest AI breakthrough, and the race to build world models",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Three reasons why DeepSeek’s new model matters On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Nota"
+  }
+]
