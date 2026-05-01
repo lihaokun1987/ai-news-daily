@@ -1,0 +1,200 @@
+[
+  {
+    "title": "OpenAI 宣布为 ChatGPT 帐户提供新的高级安全性，包括与 Yubico 的合作",
+    "url": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/",
+    "content": "OpenAI 正在为 ChatGPT 帐户推出额外的选择加入保护。新的安全计划包括与安全密钥提供商 Yubico 建立新的合作伙伴关系。",
+    "publish_time": "Thu, 30 Ap",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 8,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 7.1
+    },
+    "collection_time": "2026-05-01T12:42:01.975610",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
+    "original_content": "OpenAI is launching additional opt-in protections for ChatGPT accounts. The new security initiative includes a new partnership with security key provider Yubico."
+  },
+  {
+    "title": "如果您的承诺提及“OpenClaw”，Claude Code 会拒绝请求或收取额外费用",
+    "url": "https://twitter.com/theo/status/2049645973350363168",
+    "content": "",
+    "publish_time": "2026-04-30",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 1027,
+      "comments": 573
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=47963204",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 10,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.95
+    },
+    "collection_time": "2026-05-01T12:42:16.188938",
+    "original_title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+    "original_content": ""
+  },
+  {
+    "title": "软银正在创建一家构建数据中心的机器人公司，并且已经考虑进行 1000 亿美元的 IPO",
+    "url": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
+    "content": "你需要基础设施来构建人工智能和机器人，但显然你也需要人工智能和机器人来构建基础设施。",
+    "publish_time": "Thu, 30 Ap",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 8,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.9
+    },
+    "collection_time": "2026-05-01T12:42:01.975712",
+    "fetch_method": "RSS",
+    "original_title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
+    "original_content": "You need infrastructure to build AI and robots, but apparently you also need AI and robots to build infrastructure."
+  },
+  {
+    "title": "共同演化的政策蒸馏",
+    "url": "https://arxiv.org/abs/2604.27083",
+    "content": "arXiv:2604.27083v1 公告类型：新 \n摘要：RLVR 和 OPD 已成为后期训练的标准范例。我们对这两种范式进行了统一分析，将多个专家能力整合到一个模型中，以不同的方式识别能力损失：混合 RLVR 遭受 fr",
+    "publish_time": "Fri, 01 Ma",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-05-01T12:42:01.976371",
+    "fetch_method": "RSS",
+    "original_title": "Co-Evolving Policy Distillation",
+    "original_content": "arXiv:2604.27083v1 Announce Type: new \nAbstract: RLVR and OPD have become standard paradigms for post-training. We provide a unified analysis of these two paradigms in consolidating multiple expert capabilities into a single model, identifying capability loss in different ways: mixed RLVR suffers fr"
+  },
+  {
+    "title": "西班牙议会将对西甲大规模知识产权封锁采取行动",
+    "url": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
+    "content": "",
+    "publish_time": "2026-04-30",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 431,
+      "comments": 176
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=47964034",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.35
+    },
+    "collection_time": "2026-05-01T12:42:16.188952",
+    "original_title": "Spain's parliament will act against massive IP blockages by LaLiga",
+    "original_content": ""
+  },
+  {
+    "title": "微软针对 macOS 和 Linux ASP.NET 威胁发布紧急更新",
+    "url": "https://arstechnica.com/security/2026/04/microsoft-issues-emergency-update-for-macos-and-linux-asp-net-threat/",
+    "content": "当身份验证失败时，事情可能会变得非常非常错误。",
+    "publish_time": "Wed, 22 Ap",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 7,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.3
+    },
+    "collection_time": "2026-05-01T12:42:01.975996",
+    "fetch_method": "RSS",
+    "original_title": "Microsoft issues emergency update for macOS and Linux ASP.NET threat",
+    "original_content": "When authentication fails, things can go very, very wrong."
+  },
+  {
+    "title": "Stripe 推出了 Link，这是一款可供自主人工智能代理使用的数字钱包",
+    "url": "https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/",
+    "content": "Link 允许用户连接卡、银行和订阅，然后授权 AI 代理通过审批流程安全地支出。",
+    "publish_time": "Thu, 30 Ap",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-05-01T12:42:01.975660",
+    "fetch_method": "RSS",
+    "original_title": "Stripe introduces Link, a digital wallet that autonomous AI agents can use, too",
+    "original_content": "Link lets users connect cards, banks, and subscriptions, then authorize AI agents to spend securely via approval flows."
+  },
+  {
+    "title": "X 宣布重建由人工智能驱动的广告平台",
+    "url": "https://techcrunch.com/2026/04/30/x-announces-a-rebuilt-ad-platform-powered-by-ai/",
+    "content": "X 正在推出一个由人工智能支持的重建广告平台，以再次增加收入。",
+    "publish_time": "Thu, 30 Ap",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-05-01T12:42:01.975684",
+    "fetch_method": "RSS",
+    "original_title": "X announces a rebuilt ad platform powered by AI",
+    "original_content": "X is rolling out a rebuilt ads platform powered by AI as it works to grow revenue again."
+  },
+  {
+    "title": "下载：DeepSeek 最新的人工智能突破以及构建世界模型的竞赛",
+    "url": "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/",
+    "content": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。 DeepSeek 新模型重要的三个原因周五，中国人工智能公司 DeepSeek 发布了其期待已久的新旗舰模型 V4 的预览。诺塔",
+    "publish_time": "Mon, 27 Ap",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-05-01T12:42:01.975838",
+    "fetch_method": "RSS",
+    "original_title": "The Download: DeepSeek’s latest AI breakthrough, and the race to build world models",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Three reasons why DeepSeek’s new model matters On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Nota"
+  },
+  {
+    "title": "OpenClaw 给用户带来了另一个对安全性感到恐惧的理由",
+    "url": "https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/",
+    "content": "这种病毒式 AI 代理工具让攻击者能够悄悄地获得未经身份验证的管理员访问权限。",
+    "publish_time": "Fri, 03 Ap",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-05-01T12:42:01.976019",
+    "fetch_method": "RSS",
+    "original_title": "OpenClaw gives users yet another reason to be freaked out about security",
+    "original_content": "The viral AI agentic tool let attackers silently gain admin unauthenticated access."
+  }
+]
