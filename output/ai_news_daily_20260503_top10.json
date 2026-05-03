@@ -1,0 +1,197 @@
+[
+  {
+    "title": "OpenAI 宣布为 ChatGPT 帐户提供新的高级安全性，包括与 Yubico 的合作",
+    "url": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/",
+    "content": "OpenAI 正在为 ChatGPT 帐户推出额外的选择加入保护。新的安全计划包括与安全密钥提供商 Yubico 建立新的合作伙伴关系。",
+    "publish_time": "Thu, 30 Ap",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 8,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 7.1
+    },
+    "collection_time": "2026-05-03T12:34:56.174879",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
+    "original_content": "OpenAI is launching additional opt-in protections for ChatGPT accounts. The new security initiative includes a new partnership with security key provider Yubico."
+  },
+  {
+    "title": "微软针对 macOS 和 Linux ASP.NET 威胁发布紧急更新",
+    "url": "https://arstechnica.com/security/2026/04/microsoft-issues-emergency-update-for-macos-and-linux-asp-net-threat/",
+    "content": "当身份验证失败时，事情可能会变得非常非常错误。",
+    "publish_time": "Wed, 22 Ap",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 7,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.3
+    },
+    "collection_time": "2026-05-03T12:34:56.175234",
+    "fetch_method": "RSS",
+    "original_title": "Microsoft issues emergency update for macOS and Linux ASP.NET threat",
+    "original_content": "When authentication fails, things can go very, very wrong."
+  },
+  {
+    "title": "紧急急救人员称 Waymos 情况变得更糟",
+    "url": "https://www.wired.com/story/emergency-first-responders-say-waymos-are-getting-worse/",
+    "content": "",
+    "publish_time": "2026-05-02",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 5,
+      "comments": 1
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=47986196",
+    "score": {
+      "importance": 7,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-05-03T12:35:12.209605",
+    "original_title": "Emergency First Responders Say Waymos Are Getting Worse",
+    "original_content": ""
+  },
+  {
+    "title": "OpenClaw 给用户带来了另一个对安全性感到恐惧的理由",
+    "url": "https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/",
+    "content": "这种病毒式 AI 代理工具让攻击者可以悄悄地获得未经身份验证的管理员访问权限。",
+    "publish_time": "Fri, 03 Ap",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-05-03T12:34:56.175256",
+    "fetch_method": "RSS",
+    "original_title": "OpenClaw gives users yet another reason to be freaked out about security",
+    "original_content": "The viral AI agentic tool let attackers silently gain admin unauthenticated access."
+  },
+  {
+    "title": "加州开始对违反交通法规的无人驾驶汽车开罚单",
+    "url": "https://www.reddit.com/r/artificial/comments/1t1xwmc/california_to_begin_ticketing_driverless_cars/",
+    "content": "我很惊讶他们还没有给他们开罚单，但为什么人工智能会违反交通法规，甚至有这种情况发生吗？ 32 提交者 32 uTheOnlyVibemaster 链接 32 条评论",
+    "publish_time": "2026-05-02",
+    "source": "Reddit r/artificial",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-05-03T12:35:12.209160",
+    "original_title": "California to begin ticketing driverless cars that violate traffic laws",
+    "original_content": "I was surprised they havent already been ticketing them, but alsowhy would an AI break traffic laws, and is there even a case of this happening? 32 submitted by 32 uTheOnlyVibemaster link 32 comments"
+  },
+  {
+    "title": "DevDay 发布的 AMA",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/",
+    "content": "这是历史上成为建设者的最好时代。在 DevDay 2025 上，我们推出了下一代工具和模型，以帮助开发人员更快地编码、更可靠地构建代理并扩展他们的应用程序",
+    "publish_time": "2026-05-02",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-05-03T12:35:12.209297",
+    "original_title": "AMA on our DevDay Launches",
+    "original_content": "Its the best time in history to be a builder. At DevDay 2025, we introduced the next generation of tools and models to help developers code faster, build agents more reliably, and scale their apps in "
+  },
+  {
+    "title": "五角大楼与 Nvidia、微软和 AWS 达成协议，在机密网络上部署人工智能",
+    "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+    "content": "这些交易达成之际，国防部在与 Anthropic 就其人工智能模型的使用条款发生争议后，加倍加大对人工智能供应商的投资多元化。",
+    "publish_time": "Fri, 01 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-05-03T12:34:56.174789",
+    "fetch_method": "RSS",
+    "original_title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+    "original_content": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models."
+  },
+  {
+    "title": "编辑部",
+    "source": "www.anthropic.com",
+    "content": "我们最新的 Opus 模型在编码、代理、愿景和多步骤任务方面带来了更强大的性能，并且在最重要的工作上具有更高的彻底性和一致性。今天，我们推出了 Claude Design，这是 Anthropic Labs 的一款新产品，可让您与 Claude 合作创建精美的 v",
+    "url": "https://www.anthropic.com/news",
+    "publish_time": "2026-05-02",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-05-03T12:35:12.209066",
+    "original_title": "Newsroom",
+    "original_content": "Our latest Opus model brings stronger performance across coding, agents, vision, and multi-step tasks, with greater thoroughness and consistency on the work that matters most. Today, were launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished v"
+  },
+  {
+    "title": "OpenAI 新闻 |开放人工智能",
+    "source": "openai.com",
+    "content": "",
+    "url": "https://openai.com/blog",
+    "publish_time": "2026-05-02",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-05-03T12:35:12.209082",
+    "original_title": "OpenAI News | OpenAI",
+    "original_content": ""
+  },
+  {
+    "title": "OpenAI 新闻 |开放人工智能",
+    "source": "openai.com",
+    "content": "",
+    "url": "https://openai.com/news",
+    "publish_time": "2026-05-02",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-05-03T12:35:12.209088",
+    "original_title": "OpenAI News | OpenAI",
+    "original_content": ""
+  }
+]
