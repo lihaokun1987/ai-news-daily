@@ -1,0 +1,197 @@
+[
+  {
+    "title": "在哈佛大学的研究中，人工智能比两名人类医生提供了更准确的急诊室诊断",
+    "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+    "content": "一项新的研究考察了大型语言模型在各种医疗环境中的表现，包括真实的急诊室病例，其中至少有一个模型似乎比人类医生更准确。",
+    "publish_time": "Sun, 03 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 7,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.55
+    },
+    "collection_time": "2026-05-05T12:11:33.652726",
+    "fetch_method": "RSS",
+    "original_title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+    "original_content": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors."
+  },
+  {
+    "title": "我们只需要工具吗？揭开LLM代理工具使用税的面纱",
+    "url": "https://arxiv.org/abs/2605.00136",
+    "content": "arXiv:2605.00136v1 公告类型：新 \n摘要：工具增强推理已成为基于 LLM 的智能体的流行方向，并且被广泛认为可以提高推理能力和可靠性。然而，我们证明这种共识并不总是成立：在存在语义干扰的情况下也是如此",
+    "publish_time": "Tue, 05 Ma",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-05-05T12:11:33.653310",
+    "fetch_method": "RSS",
+    "original_title": "Are Tools All We Need? Unveiling the Tool-Use Tax in LLM Agents",
+    "original_content": "arXiv:2605.00136v1 Announce Type: new \nAbstract: Tool-augmented reasoning has become a popular direction for LLM-based agents, and it is widely assumed to improve reasoning and reliability. However, we demonstrate that this consensus does not always hold: in the presence of semantic distractors, too"
+  },
+  {
+    "title": "微软针对 macOS 和 Linux ASP.NET 威胁发布紧急更新",
+    "url": "https://arstechnica.com/security/2026/04/microsoft-issues-emergency-update-for-macos-and-linux-asp-net-threat/",
+    "content": "当身份验证失败时，事情可能会变得非常非常错误。",
+    "publish_time": "Wed, 22 Ap",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 7,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.3
+    },
+    "collection_time": "2026-05-05T12:11:33.652857",
+    "fetch_method": "RSS",
+    "original_title": "Microsoft issues emergency update for macOS and Linux ASP.NET threat",
+    "original_content": "When authentication fails, things can go very, very wrong."
+  },
+  {
+    "title": "Anthropic 和 OpenAI 均成立合资企业提供企业人工智能服务",
+    "url": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/",
+    "content": "Anthropic 和 OpenAI 都与资产管理公司合作，更积极地营销其企业人工智能产品。",
+    "publish_time": "Mon, 04 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-05-05T12:11:33.652678",
+    "fetch_method": "RSS",
+    "original_title": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services",
+    "original_content": "Both Anthropic and OpenAI have partnered with asset managers to more aggressively market their enterprise AI products."
+  },
+  {
+    "title": "OpenClaw 给用户带来了另一个对安全性感到恐惧的理由",
+    "url": "https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/",
+    "content": "这种病毒式 AI 代理工具让攻击者能够悄悄地获得未经身份验证的管理员访问权限。",
+    "publish_time": "Fri, 03 Ap",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-05-05T12:11:33.652880",
+    "fetch_method": "RSS",
+    "original_title": "OpenClaw gives users yet another reason to be freaked out about security",
+    "original_content": "The viral AI agentic tool let attackers silently gain admin unauthenticated access."
+  },
+  {
+    "title": "Anthropic 与华尔街巨头成立企业人工智能公司",
+    "url": "https://www.reddit.com/r/artificial/comments/1t42w30/anthropic_launches_enterprise_ai_firm_with_wall/",
+    "content": "Anthropic 正在启动一家新企业，专注于向企业公司销售人工智能工具。华尔街银行 5 月 4 日星期一表示，这项工作是与高盛合作发起的。",
+    "publish_time": "2026-05-04",
+    "source": "Reddit r/artificial",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-05-05T12:11:47.528439",
+    "original_title": "Anthropic Launches Enterprise AI Firm With Wall Street Giants",
+    "original_content": "Anthropic is launching a new venture focused on selling AI tools to enterprise companies. This effort is being launched in partnership with Goldman Sachs, the Wall Street bank said Monday May 4, in co"
+  },
+  {
+    "title": "垂直与水平：谁赢得了银行业的 Agentic AI 竞赛？",
+    "url": "https://www.reddit.com/r/artificial/comments/1t3ulp7/vertical_vs_horizontal_who_wins_the_agentic_ai/",
+    "content": "我看到了大量的横向人工智能工具，但很少有针对信用社等利基行业的特定领域的“Agentic”解决方案。如果一家初创公司开发工具来帮助这些银行识别和自动化",
+    "publish_time": "2026-05-04",
+    "source": "Reddit r/artificial",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-05-05T12:11:47.528458",
+    "original_title": "Vertical vs. Horizontal: Who wins the Agentic AI race in banking?",
+    "original_content": "Im seeing tons of horizontal AI tools, but very few domain-specific quotAgenticquot solutions for niche industries like Credit Unions. If a startup builds tools to help these banks identify and automa"
+  },
+  {
+    "title": "DevDay 发布的 AMA",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/",
+    "content": "这是历史上成为建设者的最好时代。在 DevDay 2025 上，我们推出了下一代工具和模型，以帮助开发人员更快地编码、更可靠地构建代理并扩展他们的应用程序",
+    "publish_time": "2026-05-04",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-05-05T12:11:47.528590",
+    "original_title": "AMA on our DevDay Launches",
+    "original_content": "Its the best time in history to be a builder. At DevDay 2025, we introduced the next generation of tools and models to help developers code faster, build agents more reliably, and scale their apps in "
+  },
+  {
+    "title": "OpenAI 的亲密合作伙伴 Cerebras 有望实现重磅 IPO",
+    "url": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
+    "content": "AI 芯片制造商 Cerebras 即将进行重磅 IPO，估值可能达到 266 亿美元或更多。它与 OpenAI 的关系深厚而丰富。",
+    "publish_time": "Mon, 04 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-05-05T12:11:33.652609",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
+    "original_content": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich."
+  },
+  {
+    "title": "编辑部",
+    "source": "www.anthropic.com",
+    "content": "我们最新的 Opus 模型在编码、代理、愿景和多步骤任务方面带来了更强大的性能，并且在最重要的工作上具有更高的彻底性和一致性。今天，我们推出了 Claude Design，这是 Anthropic Labs 的一款新产品，可让您与 Claude 合作创建精美的 v",
+    "url": "https://www.anthropic.com/news",
+    "publish_time": "2026-05-04",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-05-05T12:11:47.528350",
+    "original_title": "Newsroom",
+    "original_content": "Our latest Opus model brings stronger performance across coding, agents, vision, and multi-step tasks, with greater thoroughness and consistency on the work that matters most. Today, were launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished v"
+  }
+]
