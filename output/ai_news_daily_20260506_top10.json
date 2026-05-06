@@ -1,0 +1,200 @@
+[
+  {
+    "title": "警告：Anthropic 的“Gift Max”漏洞耗尽了超过 800 欧元，毁掉了我的信用，并让我被禁止。",
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1t4atbx/warning_anthropics_gift_max_exploit_drained_800/",
+    "content": "请注意这里使用 ClaudeAnthropic 作为替代方案的任何人。如果您在他们的平台上保存了卡片，请立即将其删除。我是德国的一名数据科学学生。 4 月 27 日，我的帐户遭到攻击",
+    "publish_time": "2026-05-05",
+    "source": "Reddit r/ChatGPT",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 8,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.6
+    },
+    "collection_time": "2026-05-06T12:28:06.643679",
+    "original_title": "Warning: Anthropic's \"Gift Max\" exploit drained €800+, ruined my credit, and got me banned.",
+    "original_content": "Heads up to anyone here using ClaudeAnthropic as an alternative. If you have a card saved on their platform, remove it now. Im a data science student in Germany. On April 27th, my account was hit with"
+  },
+  {
+    "title": "OpenAI 发布 GPT-5.5 Instant，ChatGPT 的新默认模型",
+    "url": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+    "content": "该公司表示，该模型减少了法律、医学和金融等敏感领域的幻觉，同时保持了其前身的低延迟。",
+    "publish_time": "Tue, 05 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-05-06T12:27:51.709535",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+    "original_content": "The company said the model reduces hallucination in sensitive areas such as law, medicine, and finance, while maintaining the low latency of its predecessor."
+  },
+  {
+    "title": "人工智能的三个逆定律",
+    "url": "https://susam.net/inverse-laws-of-robotics.html",
+    "content": "",
+    "publish_time": "2026-05-05",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 391,
+      "comments": 265
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=48023861",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.35
+    },
+    "collection_time": "2026-05-06T12:28:06.643842",
+    "original_title": "Three Inverse Laws of AI",
+    "original_content": ""
+  },
+  {
+    "title": "微软针对 macOS 和 Linux ASP.NET 威胁发布紧急更新",
+    "url": "https://arstechnica.com/security/2026/04/microsoft-issues-emergency-update-for-macos-and-linux-asp-net-threat/",
+    "content": "当身份验证失败时，事情可能会变得非常非常错误。",
+    "publish_time": "Wed, 22 Ap",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 7,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.3
+    },
+    "collection_time": "2026-05-06T12:27:51.710179",
+    "fetch_method": "RSS",
+    "original_title": "Microsoft issues emergency update for macOS and Linux ASP.NET threat",
+    "original_content": "When authentication fails, things can go very, very wrong."
+  },
+  {
+    "title": "SAP 在成立 18 个月的德国人工智能实验室上押注 1.16B 美元，并对 NemoClaw 表示同意",
+    "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
+    "content": "SAP计划收购德国人工智能初创公司Prior Labs，并对其进行大力投资。它还禁止客户代理使用 Nvidia 的 NemoClaw 等少数产品。",
+    "publish_time": "Tue, 05 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-05-06T12:27:51.709465",
+    "fetch_method": "RSS",
+    "original_title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+    "original_content": "SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw."
+  },
+  {
+    "title": "Etsy 在 ChatGPT 中推出应用程序，继续推进人工智能",
+    "url": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/",
+    "content": "Etsy 在 ChatGPT 中的新本机应用程序旨在为用户提供对话式购物体验。",
+    "publish_time": "Tue, 05 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-05-06T12:27:51.709562",
+    "fetch_method": "RSS",
+    "original_title": "Etsy launches its app within ChatGPT as it continues its AI push",
+    "original_content": "Etsy's new native app within ChatGPT aims to be a conversational  shopping experience for users."
+  },
+  {
+    "title": "通过特征叠加几何理解紧急错位",
+    "url": "https://arxiv.org/abs/2605.00842",
+    "content": "arXiv:2605.00842v1 公告类型：新 \n摘要：紧急失调，即对狭隘的、无害的任务进行微调会引发有害行为，这对法学硕士的人工智能安全构成了关键挑战。尽管经验证据越来越多，但其潜在机制仍不清楚。揭开背后的原因",
+    "publish_time": "Wed, 06 Ma",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-05-06T12:27:51.710412",
+    "fetch_method": "RSS",
+    "original_title": "Understanding Emergent Misalignment via Feature Superposition Geometry",
+    "original_content": "arXiv:2605.00842v1 Announce Type: new \nAbstract: Emergent misalignment, where fine-tuning on narrow, non-harmful tasks induces harmful behaviors, poses a key challenge for AI safety in LLMs. Despite growing empirical evidence, its underlying mechanism remains unclear. To uncover the reason behind th"
+  },
+  {
+    "title": "ElevenLabs 将 BlackRock、Jamie Foxx 和 Eva Longoria 列为新投资者",
+    "url": "https://techcrunch.com/2026/05/05/elevenlabs-lists-blackrock-jamie-foxx-and-eva-longoria-as-new-investors/",
+    "content": "随着语音 AI 成为关键接口，ElevenLabs 公布了新投资者，实现了 5 亿美元的 ARR，并扩大了企业足迹。",
+    "publish_time": "Tue, 05 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.05
+    },
+    "collection_time": "2026-05-06T12:27:51.709597",
+    "fetch_method": "RSS",
+    "original_title": "ElevenLabs lists BlackRock, Jamie Foxx, and Eva Longoria as new investors",
+    "original_content": "ElevenLabs reveals new investors, hits $500M ARR, and expands enterprise footprint as voice AI becomes a critical interface."
+  },
+  {
+    "title": "德尔蒙破产后加州农民将毁掉 42 万棵桃树",
+    "url": "https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php",
+    "content": "文章网址：https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php\n评论网址：https://news.ycombinator.com/item?id=48026349\n积分：296\n# 评论：350",
+    "publish_time": "Tue, 05 Ma",
+    "source": "Hacker News Front Page",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-05-06T12:27:51.710685",
+    "fetch_method": "RSS",
+    "original_title": "California farmers to destroy 420k peach trees following Del Monte bankruptcy",
+    "original_content": "Article URL: https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php\nComments URL: https://news.ycombinator.com/item?id=48026349\nPoints: 296\n# Comments: 350"
+  },
+  {
+    "title": "Meta 遭遇大规模诉讼——出版商称人工智能是在“被盗”书籍上接受训练的",
+    "url": "https://www.reddit.com/r/artificial/comments/1t4m85o/meta_hit_with_massive_lawsuitpublishers_say_ai/",
+    "content": "32 提交者 32 uProfessional-Web954 链接 32 条评论",
+    "publish_time": "2026-05-05",
+    "source": "Reddit r/artificial",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-05-06T12:28:06.643551",
+    "original_title": "Meta Hit With Massive Lawsuit—Publishers Say AI Was Trained on “Stolen” Books",
+    "original_content": "32 submitted by 32 uProfessional-Web954 link 32 comments"
+  }
+]
