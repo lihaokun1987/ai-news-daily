@@ -1,0 +1,198 @@
+[
+  {
+    "title": "LAWS：从实际工作负载中象征性地学习——用于神经推理、机器人和边缘部署的自我认证参数化缓存架构",
+    "url": "https://arxiv.org/abs/2605.04069",
+    "content": "arXiv:2605.04069v1 公告类型：新 \n摘要：我们介绍了 LAWS（象征性地从实际工作负载中学习），这是一种自认证推理缓存架构，它根据部署观察构建了一个不断增长的经过认证的专家函数库。每个专家覆盖输入空间定义的一个区域",
+    "publish_time": "Thu, 07 Ma",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.65
+    },
+    "collection_time": "2026-05-07T12:28:28.804754",
+    "fetch_method": "RSS",
+    "original_title": "LAWS: Learning from Actual Workloads Symbolically -- A Self-Certifying Parametrized Cache Architecture for Neural Inference, Robotics, and Edge Deployment",
+    "original_content": "arXiv:2605.04069v1 Announce Type: new \nAbstract: We introduce LAWS (Learning from Actual Workloads Symbolically), a self-certifying inference caching architecture that builds a growing library of certified expert functions from deployment observations. Each expert covers a region of input space defi"
+  },
+  {
+    "title": "微软针对 macOS 和 Linux ASP.NET 威胁发布紧急更新",
+    "url": "https://arstechnica.com/security/2026/04/microsoft-issues-emergency-update-for-macos-and-linux-asp-net-threat/",
+    "content": "当身份验证失败时，事情可能会变得非常非常错误。",
+    "publish_time": "Wed, 22 Ap",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 7,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.3
+    },
+    "collection_time": "2026-05-07T12:28:28.804858",
+    "fetch_method": "RSS",
+    "original_title": "Microsoft issues emergency update for macOS and Linux ASP.NET threat",
+    "original_content": "When authentication fails, things can go very, very wrong."
+  },
+  {
+    "title": "苹果将​​支付 2.5 亿美元和解 Siri 延迟人工智能功能的诉讼",
+    "url": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
+    "content": "苹果公司同意支付 2.5 亿美元，以了结因过度承诺 Siri 人工智能功能的集体诉讼。",
+    "publish_time": "Wed, 06 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-05-07T12:28:28.803948",
+    "fetch_method": "RSS",
+    "original_title": "Apple to pay $250M to settle lawsuit over Siri’s delayed AI features",
+    "original_content": "Apple has agreed to pay $250 million to settle a class action lawsuit for overpromising the arrival of Siri's AI features."
+  },
+  {
+    "title": "苹果将​​支付 2.5 亿美元和解 Siri 人工智能功能诉讼",
+    "url": "https://www.wired.com/story/apple-will-pay-dollar250-million-to-settle-lawsuit-over-siris-ai-features/",
+    "content": "如果你在美国购买了 iPhone 15 或 16，作为和解的一部分，每台设备你最多可以获得 95 美元。",
+    "publish_time": "Wed, 06 Ma",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-05-07T12:28:28.804389",
+    "fetch_method": "RSS",
+    "original_title": "Apple Will Pay $250 Million to Settle Lawsuit Over Siri’s AI Features",
+    "original_content": "If you bought an iPhone 15 or 16 in the US, you could be set to pocket up to $95 per device as part of the settlement."
+  },
+  {
+    "title": "研究用于阿尔茨海默病进展分析的非参数深度生存模型的可信度",
+    "url": "https://arxiv.org/abs/2605.04063",
+    "content": "arXiv:2605.04063v1 公告类型：新 \n摘要：阿尔茨海默氏痴呆（AD）是一种进行性神经退行性疾病，其特征是不可逆转的衰退，因此对其进展的可靠建模对于有效的患者护理至关重要。因此，诸如生存分析之类的进展感知方法是值得信赖的。",
+    "publish_time": "Thu, 07 Ma",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-05-07T12:28:28.804719",
+    "fetch_method": "RSS",
+    "original_title": "Investigating Trustworthiness of Nonparametric Deep Survival Models for Alzheimer's Disease Progression Analysis",
+    "original_content": "arXiv:2605.04063v1 Announce Type: new \nAbstract: Alzheimer's Dementia (AD) is a progressive neurodegenerative disease marked by irreversible decline, making reliable modeling of its progression essential for effective patient care. Progression-aware methods such as survival analysis are therefore cr"
+  },
+  {
+    "title": "DeepSeek 第一轮投资估值可能达到 45B 美元",
+    "url": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
+    "content": "中国人工智能实验室在 2025 年初推出了一个大型语言模型，该模型的训练计算能力仅为 OpenAI 和 Anthropic 等美国大型模型的一小部分，成本也仅为美国大型模型的一小部分。",
+    "publish_time": "Wed, 06 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.05
+    },
+    "collection_time": "2026-05-07T12:28:28.803887",
+    "fetch_method": "RSS",
+    "original_title": "DeepSeek could hit $45B valuation from its first investment round",
+    "original_content": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models like those from OpenAI and Anthropic."
+  },
+  {
+    "title": "Claude 的更高使用限制以及与 SpaceX 的计算协议",
+    "url": "https://www.anthropic.com/news/higher-limits-spacex",
+    "content": "",
+    "publish_time": "2026-05-06",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 423,
+      "comments": 371
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=48037986",
+    "score": {
+      "importance": 5,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.0
+    },
+    "collection_time": "2026-05-07T12:28:44.686811",
+    "original_title": "Higher usage limits for Claude and a compute deal with SpaceX",
+    "original_content": ""
+  },
+  {
+    "title": "SQLite 是美国国会图书馆推荐的存储格式",
+    "url": "https://sqlite.org/locrsf.html",
+    "content": "文章网址：https://sqlite.org/locrsf.html\n评论网址：https://news.ycombinator.com/item?id=48042434\n积分：62\n# 评论: 18",
+    "publish_time": "Wed, 06 Ma",
+    "source": "Hacker News Front Page",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-05-07T12:28:28.804880",
+    "fetch_method": "RSS",
+    "original_title": "SQLite Is a Library of Congress Recommended Storage Format",
+    "original_content": "Article URL: https://sqlite.org/locrsf.html\nComments URL: https://news.ycombinator.com/item?id=48042434\nPoints: 62\n# Comments: 18"
+  },
+  {
+    "title": "德尔蒙破产后加州农民将毁掉 42 万棵桃树",
+    "url": "https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php",
+    "content": "文章网址：https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php\n评论网址：https://news.ycombinator.com/item?id=48026349\n积分：373\n# 评论：439",
+    "publish_time": "Tue, 05 Ma",
+    "source": "Hacker News Best",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-05-07T12:28:28.804964",
+    "fetch_method": "RSS",
+    "original_title": "California farmers to destroy 420k peach trees following Del Monte bankruptcy",
+    "original_content": "Article URL: https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php\nComments URL: https://news.ycombinator.com/item?id=48026349\nPoints: 373\n# Comments: 439"
+  },
+  {
+    "title": "DevDay 发布的 AMA",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/",
+    "content": "这是历史上成为建设者的最好时代。在 DevDay 2025 上，我们推出了下一代工具和模型，以帮助开发人员更快地编码、更可靠地构建代理并扩展他们的应用程序",
+    "publish_time": "2026-05-06",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-05-07T12:28:44.686682",
+    "original_title": "AMA on our DevDay Launches",
+    "original_content": "Its the best time in history to be a builder. At DevDay 2025, we introduced the next generation of tools and models to help developers code faster, build agents more reliably, and scale their apps in "
+  }
+]
