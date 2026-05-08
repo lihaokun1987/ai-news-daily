@@ -1,0 +1,194 @@
+[
+  {
+    "title": "了解具有可解释性的注释器安全策略",
+    "url": "https://arxiv.org/abs/2605.05329",
+    "content": "arXiv:2605.05329v1 公告类型：新 \n摘要：安全策略定义了安全和不安全的人工智能输出的构成，指导数据注释和模型开发。然而，注释分歧很普遍，并且可能源于多种原因，例如操作失败（注释者误解",
+    "publish_time": "Fri, 08 Ma",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-05-08T12:11:36.602420",
+    "fetch_method": "RSS",
+    "original_title": "Understanding Annotator Safety Policy with Interpretability",
+    "original_content": "arXiv:2605.05329v1 Announce Type: new \nAbstract: Safety policies define what constitutes safe and unsafe AI outputs, guiding data annotation and model development. However, annotation disagreement is pervasive and can stem from multiple sources such as operational failures (annotators misunderstand "
+  },
+  {
+    "title": "用于城市设计的智能闭路电视：基于人工智能的交叉口软基础设施分析",
+    "url": "https://arxiv.org/abs/2605.05402",
+    "content": "arXiv:2605.05402v1 公告类型：新 \n摘要：人工智能（AI）和计算机视觉正在改变交通数据收集。本研究引入了一个支持人工智能的分析框架，利用现有的闭路电视基础设施来评估软干预的影响，例如TEM",
+    "publish_time": "Fri, 08 Ma",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-05-08T12:11:36.602461",
+    "fetch_method": "RSS",
+    "original_title": "Intelligent CCTV for Urban Design: AI-Based Analysis of Soft Infrastructure at Intersections",
+    "original_content": "arXiv:2605.05402v1 Announce Type: new \nAbstract: Artificial intelligence (AI) and computer vision are transforming transportation data collection. This study introduces an AI-enabled analytics framework leveraging existing CCTV infrastructure to evaluate the impact of soft interventions, such as tem"
+  },
+  {
+    "title": "OpenAI 在其 API 中推出新的语音智能功能",
+    "url": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+    "content": "这些新功能对于客户服务系统来说可能很方便，但 OpenAI 表示，他们的应用程序可以跨其他各种领域使用，包括教育和创作者平台。",
+    "publish_time": "Thu, 07 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-05-08T12:11:36.601675",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI launches new voice intelligence features in its API",
+    "original_content": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms."
+  },
+  {
+    "title": "OpenAI 为可能的自残案件引入了新的“可信联系人”保护措施",
+    "url": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
+    "content": "该公司正在加大力度保护 ChatGPT 用户，以防对话可能演变为自残。",
+    "publish_time": "Thu, 07 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-05-08T12:11:36.601755",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
+    "original_content": "The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm."
+  },
+  {
+    "title": "微软针对 macOS 和 Linux ASP.NET 威胁发布紧急更新",
+    "url": "https://arstechnica.com/security/2026/04/microsoft-issues-emergency-update-for-macos-and-linux-asp-net-threat/",
+    "content": "当身份验证失败时，事情可能会变得非常非常错误。",
+    "publish_time": "Wed, 22 Ap",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 7,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.3
+    },
+    "collection_time": "2026-05-08T12:11:36.602399",
+    "fetch_method": "RSS",
+    "original_title": "Microsoft issues emergency update for macOS and Linux ASP.NET threat",
+    "original_content": "When authentication fails, things can go very, very wrong."
+  },
+  {
+    "title": "埃隆·马斯克的诉讼将 OpenAI 的安全记录置于显微镜下",
+    "url": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
+    "content": "埃隆·马斯克 (Elon Musk) 拆除 OpenAI 的法律努力可能取决于其营利性子公司如何增强或削弱前沿实验室的创始使命，即确保人类从通用人工智能中受益。",
+    "publish_time": "Thu, 07 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-05-08T12:11:36.601786",
+    "fetch_method": "RSS",
+    "original_title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
+    "original_content": "Elon Musk's legal effort to dismantle OpenAI may hinge on how its for-profit subsidiary enhances or detracts from the frontier lab's founding mission of ensuring that humanity benefits from artificial general intelligence."
+  },
+  {
+    "title": "特朗普关注人工智能监管、被 DOGE 解雇的工人竞选公职以及汉坦病毒的解释",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-trump-pivots-ai-regulation-worker-ousted-by-doge-runs-for-office-hantavirus-explained/",
+    "content": "今天在《恐怖谷》中，我们将深入研究最近的报道，称特朗普政府正在考虑一项行政命令，该命令将对新的人工智能模型建立某种形式的联邦监督。",
+    "publish_time": "Thu, 07 Ma",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-05-08T12:11:36.601965",
+    "fetch_method": "RSS",
+    "original_title": "Trump Pivots on AI Regulation, Worker Ousted by DOGE Runs for Office, and Hantavirus Explained",
+    "original_content": "Today on Uncanny Valley, we’re diving into recent reports that the Trump administration is considering an executive order that would establish some sort of federal oversight over new AI models."
+  },
+  {
+    "title": "这个雷鬼乐队正在与 AI Slop Remix 进行一场噩梦般的战斗",
+    "url": "https://www.wired.com/story/this-reggae-band-is-in-a-nightmare-battle-against-ai-slop-remixes/",
+    "content": "当 Stick Figure 的七年前的歌曲在排行榜上飙升时，乐队感到非常兴奋。但它的病毒式传播是由未经授权的人工智能混音推动的。",
+    "publish_time": "Thu, 07 Ma",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-05-08T12:11:36.602012",
+    "fetch_method": "RSS",
+    "original_title": "This Reggae Band Is in a Nightmare Battle Against AI Slop Remixes",
+    "original_content": "When Stick Figure’s seven-year-old song shot up the charts, the band was thrilled. But its viral moment was spurred by unauthorized AI remixes."
+  },
+  {
+    "title": "沃尔兹州长颁布首部此类法律，阻止人工智能用于 CSAM",
+    "url": "https://www.reddit.com/r/artificial/comments/1t6rmvc/governor_walz_sings_firstofitskind_law_to_stop_ai/",
+    "content": "32 提交者 32 uDenicce01 链接 32 条评论",
+    "publish_time": "2026-05-07",
+    "source": "Reddit r/artificial",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-05-08T12:11:50.666520",
+    "original_title": "Governor Walz sings first-of-its-kind law to stop AI being used for CSAM",
+    "original_content": "32 submitted by 32 uDenicce01 link 32 comments"
+  },
+  {
+    "title": "SQLite 是美国国会图书馆推荐的存储格式",
+    "url": "https://sqlite.org/locrsf.html",
+    "content": "文章网址：https://sqlite.org/locrsf.html\n评论网址：https://news.ycombinator.com/item?id=48042434\n积分：609\n# 评论: 182",
+    "publish_time": "Wed, 06 Ma",
+    "source": "Hacker News Best",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-05-08T12:11:36.602809",
+    "fetch_method": "RSS",
+    "original_title": "SQLite Is a Library of Congress Recommended Storage Format",
+    "original_content": "Article URL: https://sqlite.org/locrsf.html\nComments URL: https://news.ycombinator.com/item?id=48042434\nPoints: 609\n# Comments: 182"
+  }
+]
