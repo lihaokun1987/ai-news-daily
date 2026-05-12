@@ -1,0 +1,202 @@
+[
+  {
+    "title": "镜子中的攻击者：通过锚定双策略自我博弈打破安全方面的自我一致性",
+    "url": "https://arxiv.org/abs/2605.08427",
+    "content": "arXiv:2605.08427v1 公告类型：新 \n摘要：自博红队是一种提高人工智能安全性的既定方法，其中同一模型的不同实例在零和博弈中扮演攻击者和防御者角色，即攻击者试图越狱防御者；如果自博弈收敛 t",
+    "publish_time": "Tue, 12 Ma",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 8,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 7.15
+    },
+    "collection_time": "2026-05-12T12:29:41.234335",
+    "fetch_method": "RSS",
+    "original_title": "The Attacker in the Mirror: Breaking Self-Consistency in Safety via Anchored Bipolicy Self-Play",
+    "original_content": "arXiv:2605.08427v1 Announce Type: new \nAbstract: Self-play red team is an established approach to improving AI safety in which different instances of the same model play attacker and defender roles in a zero-sum game, i.e., where the attacker tries to jailbreak the defender; if self-play converges t"
+  },
+  {
+    "title": "谷歌称犯罪黑客利用人工智能发现重大软件缺陷",
+    "url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
+    "content": "",
+    "publish_time": "2026-05-11",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 139,
+      "comments": 108
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=48094641",
+    "score": {
+      "importance": 8,
+      "authority": 5,
+      "spread": 7,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.75
+    },
+    "collection_time": "2026-05-12T12:29:58.800317",
+    "original_title": "Google says criminal hackers used AI to find a major software flaw",
+    "original_content": ""
+  },
+  {
+    "title": "GitLab 宣布裁员并终止 CREDIT 值",
+    "url": "https://about.gitlab.com/blog/gitlab-act-2/",
+    "content": "",
+    "publish_time": "2026-05-11",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 390,
+      "comments": 394
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=48100500",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.35
+    },
+    "collection_time": "2026-05-12T12:29:58.800248",
+    "original_title": "GitLab announces workforce reduction and end of their CREDIT values",
+    "original_content": ""
+  },
+  {
+    "title": "微软针对 macOS 和 Linux ASP.NET 威胁发布紧急更新",
+    "url": "https://arstechnica.com/security/2026/04/microsoft-issues-emergency-update-for-macos-and-linux-asp-net-threat/",
+    "content": "当身份验证失败时，事情可能会变得非常非常错误。",
+    "publish_time": "Wed, 22 Ap",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 7,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.3
+    },
+    "collection_time": "2026-05-12T12:29:41.232641",
+    "fetch_method": "RSS",
+    "original_title": "Microsoft issues emergency update for macOS and Linux ASP.NET threat",
+    "original_content": "When authentication fails, things can go very, very wrong."
+  },
+  {
+    "title": "特朗普关注人工智能监管、被 DOGE 解雇的工人竞选公职以及汉坦病毒的解释",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-trump-pivots-ai-regulation-worker-ousted-by-doge-runs-for-office-hantavirus-explained/",
+    "content": "今天在《恐怖谷》中，我们将深入研究最近的报道，称特朗普政府正在考虑一项行政命令，该命令将对新的人工智能模型建立某种形式的联邦监督。",
+    "publish_time": "Thu, 07 Ma",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-05-12T12:29:41.233447",
+    "fetch_method": "RSS",
+    "original_title": "Trump Pivots on AI Regulation, Worker Ousted by DOGE Runs for Office, and Hantavirus Explained",
+    "original_content": "Today on Uncanny Valley, we’re diving into recent reports that the Trump administration is considering an executive order that would establish some sort of federal oversight over new AI models."
+  },
+  {
+    "title": "通过客户支持工程促进突破性人工智能创新",
+    "url": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
+    "content": "麦肯锡的研究表明，尽管数字化已经进行了多年，但组织从数字投资中获得的价值还不到预期的三分之一。这是因为大多数大公司都是从技术能力开始，然后将应用程序附加到这些能力上，而不是从客户需求开始",
+    "publish_time": "Mon, 11 Ma",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-05-12T12:29:41.233185",
+    "fetch_method": "RSS",
+    "original_title": "Fostering breakthrough AI innovation through customer-back engineering",
+    "original_content": "Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research. That’s because most big companies begin with technological capabilities and bolt applications onto them, rather than starting with customer needs a"
+  },
+  {
+    "title": "人工智能。记录员让律师感到紧张",
+    "url": "https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html",
+    "content": "文章网址：https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html\n评论网址：https://news.ycombinator.com/item?id=48093043\n积分：239\n# 评论: 172",
+    "publish_time": "Mon, 11 Ma",
+    "source": "Hacker News Best",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-05-12T12:29:41.233718",
+    "fetch_method": "RSS",
+    "original_title": "A.I. note takers are making lawyers nervous",
+    "original_content": "Article URL: https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html\nComments URL: https://news.ycombinator.com/item?id=48093043\nPoints: 239\n# Comments: 172"
+  },
+  {
+    "title": "DevDay 发布的 AMA",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/",
+    "content": "这是历史上成为建设者的最好时代。在 DevDay 2025 上，我们推出了下一代工具和模型，以帮助开发人员更快地编码、更可靠地构建代理并扩展他们的应用程序",
+    "publish_time": "2026-05-11",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-05-12T12:29:58.800050",
+    "original_title": "AMA on our DevDay Launches",
+    "original_content": "Its the best time in history to be a builder. At DevDay 2025, we introduced the next generation of tools and models to help developers code faster, build agents more reliably, and scale their apps in "
+  },
+  {
+    "title": "EMO：针对紧急模块化的专家预培训组合",
+    "url": "https://huggingface.co/blog/allenai/emo",
+    "content": "",
+    "publish_time": "Fri, 08 Ma",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-05-12T12:29:41.232685",
+    "fetch_method": "RSS",
+    "original_title": "EMO: Pretraining mixture of experts for emergent modularity",
+    "original_content": ""
+  },
+  {
+    "title": "Robinhood 乘着人工智能的浪潮准备第二次零售企业 IPO",
+    "url": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
+    "content": "Robinhood 秘密提交了第二个风险基金的申请，这次的目标是成长型企业和早期初创企业。",
+    "publish_time": "Tue, 12 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-05-12T12:29:41.232940",
+    "fetch_method": "RSS",
+    "original_title": "Riding an AI rally, Robinhood preps second retail venture IPO",
+    "original_content": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups."
+  }
+]
