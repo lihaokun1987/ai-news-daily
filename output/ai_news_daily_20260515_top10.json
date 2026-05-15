@@ -1,0 +1,197 @@
+[
+  {
+    "title": "OpenAI ChatGPT 推出可信联系人功能，可能会拯救人们并避免人工智能心理健康诉讼",
+    "url": "https://www.bing.com/news/search?q=ChatGPT+OpenAI+2026-05-14",
+    "content": "OpenAI 为 ChatGPT 推出可信联系人功能，旨在拯救人们并避免人工智能心理健康诉讼。 AI Insider 分析和独家新闻。",
+    "publish_time": "2026-05-14",
+    "source": "AI News",
+    "score": {
+      "importance": 9,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.7
+    },
+    "collection_time": "2026-05-15T12:41:30.171547",
+    "original_title": "OpenAI ChatGPT Launches Trusted Contacts Feature That Might Save People And Stave Off AI Mental Health Lawsuits",
+    "original_content": "OpenAI launches trusted contacts feature for ChatGPT, aiming to save people and also stave of AI mental health lawsuits. An AI Insider analysis and scoop."
+  },
+  {
+    "title": "Clawdmeter 将您的 Claude Code 使用统计数据变成一个小型桌面仪表板",
+    "url": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
+    "content": "一款名为 Clawdmeter 的新开源小工具将 Claude Code 使用统计数据转变为供 AI 编码高级用户使用的小型桌面仪表板。",
+    "publish_time": "Thu, 14 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-05-15T12:41:15.265294",
+    "fetch_method": "RSS",
+    "original_title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
+    "original_content": "A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users."
+  },
+  {
+    "title": "通过混合潜在空间建模对结构连接体的采集变异性进行无监督学习",
+    "url": "https://arxiv.org/abs/2605.13933",
+    "content": "arXiv:2605.13933v1 公告类型：新 \n摘要：dMRI 中不同部位、扫描仪和协议的采集差异引入了变异性，使结构连接组分析变得复杂。这激发了深度学习模型可以在低维空间中表示高维连接组",
+    "publish_time": "Fri, 15 Ma",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-05-15T12:41:15.265856",
+    "fetch_method": "RSS",
+    "original_title": "Unsupervised learning of acquisition variability in structural connectomes via hybrid latent space modeling",
+    "original_content": "arXiv:2605.13933v1 Announce Type: new \nAbstract: Acquisition differences across sites, scanners, and protocols in dMRI introduce variability that complicates structural connectome analysis. This motivates deep learning models that can represent high-dimensional connectomes in a low-dimensional space"
+  },
+  {
+    "title": "Cerebras 融资 5.5B 美元，股价上涨 108%，这是 2026 年首次大型科技 IPO",
+    "url": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
+    "content": "一年前，Cerebras 似乎永远不会有这一天。",
+    "publish_time": "Thu, 14 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.05
+    },
+    "collection_time": "2026-05-15T12:41:15.265305",
+    "fetch_method": "RSS",
+    "original_title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
+    "original_content": "A year ago, it looked like this day would never happen for Cerebras."
+  },
+  {
+    "title": "Rust 编译器的 LLM 政策",
+    "url": "https://github.com/rust-lang/rust-forge/pull/1040",
+    "content": "文章网址：https://github.com/rust-lang/rust-forge/pull/1040\n评论网址：https://news.ycombinator.com/item?id=48142650\n积分：28\n# 评论: 12",
+    "publish_time": "Thu, 14 Ma",
+    "source": "Hacker News Front Page",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-05-15T12:41:15.266173",
+    "fetch_method": "RSS",
+    "original_title": "LLM Policy for Rust Compiler",
+    "original_content": "Article URL: https://github.com/rust-lang/rust-forge/pull/1040\nComments URL: https://news.ycombinator.com/item?id=48142650\nPoints: 28\n# Comments: 12"
+  },
+  {
+    "title": "arXiv 对包含无可争议的未经检查的 LLM 生成错误证据的论文实施 1 年禁令，例如幻觉的参考文献或结果。 [N]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1tdje2d/arxiv_implements_1year_ban_for_papers_containing/",
+    "content": "来自 𝕏 线程上 cs.LG 的 Thomas G. Dietterich arXiv 版主 httpsx.comtdietterichstatus2055000956144935055 httpsxcancel.comtdietterichstatus2055000956144935055 quotAttention arXiv 作者 我们的代码",
+    "publish_time": "2026-05-14",
+    "source": "Reddit r/MachineLearning",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-05-15T12:41:30.171758",
+    "original_title": "arXiv implements 1-year ban for papers containing incontrovertible evidence of unchecked LLM-generated errors, such as hallucinated references or results. [N]",
+    "original_content": "From Thomas G. Dietterich arXiv moderator for cs.LG on 𝕏 thread httpsx.comtdietterichstatus2055000956144935055 httpsxcancel.comtdietterichstatus2055000956144935055 quotAttention arXiv authors Our Code"
+  },
+  {
+    "title": "DevDay 发布的 AMA",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/",
+    "content": "这是历史上成为建设者的最好时代。在 DevDay 2025 上，我们推出了下一代工具和模型，以帮助开发人员更快地编码、更可靠地构建代理并扩展他们的应用程序",
+    "publish_time": "2026-05-14",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-05-15T12:41:30.171850",
+    "original_title": "AMA on our DevDay Launches",
+    "original_content": "Its the best time in history to be a builder. At DevDay 2025, we introduced the next generation of tools and models to help developers code faster, build agents more reliably, and scale their apps in "
+  },
+  {
+    "title": "OpenAI 因与 Google 和 Meta 共享 ChatGPT 数据而遭遇集体隐私诉讼",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1tdegtc/openai_hit_with_classaction_privacy_lawsuit_for/",
+    "content": "32 条提交者 32 udancing_swordfish 链接 32 条评论",
+    "publish_time": "2026-05-14",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-05-15T12:41:30.171881",
+    "original_title": "OpenAI Hit with Class-Action Privacy Lawsuit for Sharing ChatGPT Data with Google and Meta",
+    "original_content": "32 submitted by 32 udancing_swordfish link 32 comments"
+  },
+  {
+    "title": "EMO：针对紧急模块化的专家预培训组合",
+    "url": "https://huggingface.co/blog/allenai/emo",
+    "content": "",
+    "publish_time": "Fri, 08 Ma",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-05-15T12:41:15.265099",
+    "fetch_method": "RSS",
+    "original_title": "EMO: Pretraining mixture of experts for emergent modularity",
+    "original_content": ""
+  },
+  {
+    "title": "埃隆·马斯克 (Elon Musk) 的 SpaceXAI 自合并以来一直在裁员",
+    "url": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
+    "content": "据报道，自 2 月份以来，已有 50 多名员工离开了埃隆·马斯克 (Elon Musk) 新合并的 SpaceXAI，引发了有关倦怠、领导层变动、人才挖角以及流动性事件是否削弱了保留激励等问题。",
+    "publish_time": "Thu, 14 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-05-15T12:41:15.265247",
+    "fetch_method": "RSS",
+    "original_title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
+    "original_content": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incentives."
+  }
+]
