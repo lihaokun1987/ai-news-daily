@@ -1,0 +1,198 @@
+[
+  {
+    "title": "OpenAI 推出个人理财 ChatGPT，让你连接银行账户",
+    "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+    "content": "一旦用户连接他们的帐户，他们将看到他们的投资组合绩效、支出、订阅和即将付款的仪表板。",
+    "publish_time": "Fri, 15 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 9,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 7.25
+    },
+    "collection_time": "2026-05-16T12:22:36.486337",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+    "original_content": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments."
+  },
+  {
+    "title": "OpenAI 推出个人理财 ChatGPT，让你连接银行账户",
+    "url": "https://www.bing.com/news/search?q=ChatGPT+OpenAI+2026-05-15",
+    "content": "一旦用户连接他们的帐户，他们将看到他们的投资组合绩效、支出、订阅和即将付款的仪表板。",
+    "publish_time": "2026-05-15",
+    "source": "AI News",
+    "score": {
+      "importance": 9,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.7
+    },
+    "collection_time": "2026-05-16T12:22:51.494104",
+    "original_title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+    "original_content": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments."
+  },
+  {
+    "title": "Clawdmeter 将您的 Claude Code 使用统计数据变成一个小型桌面仪表板",
+    "url": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
+    "content": "一款名为 Clawdmeter 的新开源小工具将 Claude Code 使用统计数据转变为供 AI 编码高级用户使用的小型桌面仪表板。",
+    "publish_time": "Thu, 14 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-05-16T12:22:36.486455",
+    "fetch_method": "RSS",
+    "original_title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
+    "original_content": "A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users."
+  },
+  {
+    "title": "Cerebras 融资 5.5B 美元，股价上涨 108%，这是 2026 年首次大型科技 IPO",
+    "url": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
+    "content": "一年前，Cerebras 似乎永远不会有这一天。",
+    "publish_time": "Thu, 14 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.05
+    },
+    "collection_time": "2026-05-16T12:22:36.486467",
+    "fetch_method": "RSS",
+    "original_title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
+    "original_content": "A year ago, it looked like this day would never happen for Cerebras."
+  },
+  {
+    "title": "arXiv 对包含无可争议的未经检查的 LLM 生成错误证据的论文实施 1 年禁令，例如幻觉的参考文献或结果。 [N]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1tdje2d/arxiv_implements_1year_ban_for_papers_containing/",
+    "content": "来自 𝕏 线程上 cs.LG 的 Thomas G. Dietterich arXiv 版主 httpsx.comtdietterichstatus2055000956144935055 httpsxcancel.comtdietterichstatus2055000956144935055 quotAttention arXiv 作者 我们的代码",
+    "publish_time": "2026-05-15",
+    "source": "Reddit r/MachineLearning",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-05-16T12:22:51.494336",
+    "original_title": "arXiv implements 1-year ban for papers containing incontrovertible evidence of unchecked LLM-generated errors, such as hallucinated references or results. [N]",
+    "original_content": "From Thomas G. Dietterich arXiv moderator for cs.LG on 𝕏 thread httpsx.comtdietterichstatus2055000956144935055 httpsxcancel.comtdietterichstatus2055000956144935055 quotAttention arXiv authors Our Code"
+  },
+  {
+    "title": "DevDay 发布的 AMA",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/",
+    "content": "这是历史上成为建设者的最好时代。在 DevDay 2025 上，我们推出了下一代工具和模型，以帮助开发人员更快地编码、更可靠地构建代理并扩展他们的应用程序",
+    "publish_time": "2026-05-15",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-05-16T12:22:51.494470",
+    "original_title": "AMA on our DevDay Launches",
+    "original_content": "Its the best time in history to be a builder. At DevDay 2025, we introduced the next generation of tools and models to help developers code faster, build agents more reliably, and scale their apps in "
+  },
+  {
+    "title": "埃隆·马斯克 (Elon Musk) 的 SpaceXAI 自合并以来一直在裁员",
+    "url": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
+    "content": "据报道，自 2 月份以来，已有 50 多名员工离开了埃隆·马斯克 (Elon Musk) 新合并的 SpaceXAI，引发了有关倦怠、领导层变动、人才挖角以及流动性事件是否削弱了保留激励等问题。",
+    "publish_time": "Thu, 14 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-05-16T12:22:36.486383",
+    "fetch_method": "RSS",
+    "original_title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
+    "original_content": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incentives."
+  },
+  {
+    "title": "EMO：针对紧急模块化的专家预培训组合",
+    "url": "https://huggingface.co/blog/allenai/emo",
+    "content": "",
+    "publish_time": "Fri, 08 Ma",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-05-16T12:22:36.486735",
+    "fetch_method": "RSS",
+    "original_title": "EMO: Pretraining mixture of experts for emergent modularity",
+    "original_content": ""
+  },
+  {
+    "title": "OpenAI 刚刚为 ChatGPT 客户发布了新的个人理财功能",
+    "url": "https://www.bing.com/news/search?q=ChatGPT+OpenAI+2026-05-15",
+    "content": "OpenAI 正在追赶一些竞争对手，并在 ChatGPT 内提供新的个人理财功能。新的个人理财...",
+    "publish_time": "2026-05-15",
+    "source": "AI News",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-05-16T12:22:51.494113",
+    "original_title": "OpenAI just released new personal finance features for ChatGPT customers",
+    "original_content": "OpenAI is catching up with some competitors and offering new personal finance features inside ChatGPT. The new personal finance ..."
+  },
+  {
+    "title": "OpenAI 正在通过 Plaid 将 ChatGPT 连接到银行账户",
+    "url": "https://firethering.com/chatgpt-bank-account-plaid-openai/",
+    "content": "",
+    "publish_time": "2026-05-15",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 72,
+      "comments": 112
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=48150723",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 6,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-05-16T12:22:51.494691",
+    "original_title": "OpenAI is connecting ChatGPT to bank accounts via Plaid",
+    "original_content": ""
+  }
+]
