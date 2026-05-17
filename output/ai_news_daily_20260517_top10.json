@@ -1,0 +1,204 @@
+[
+  {
+    "title": "OpenAI 推出个人理财 ChatGPT，让你连接银行账户",
+    "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+    "content": "一旦用户连接他们的帐户，他们将看到他们的投资组合绩效、支出、订阅和即将付款的仪表板。",
+    "publish_time": "Fri, 15 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 9,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 7.25
+    },
+    "collection_time": "2026-05-17T12:45:19.822340",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+    "original_content": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments."
+  },
+  {
+    "title": "如果作者让人工智能完成所有工作，研究存储库 ArXiv 将禁止作者一年",
+    "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+    "content": "ArXiv 正在采取更多措施来打击科学论文中粗心使用大型语言模型的行为。",
+    "publish_time": "Sat, 16 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-05-17T12:45:19.822294",
+    "fetch_method": "RSS",
+    "original_title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+    "original_content": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers."
+  },
+  {
+    "title": "Clawdmeter 将您的 Claude Code 使用统计数据变成一个小型桌面仪表板",
+    "url": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
+    "content": "一款名为 Clawdmeter 的新开源小工具将 Claude Code 使用统计数据转变为供 AI 编码高级用户使用的小型桌面仪表板。",
+    "publish_time": "Thu, 14 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-05-17T12:45:19.822422",
+    "fetch_method": "RSS",
+    "original_title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
+    "original_content": "A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users."
+  },
+  {
+    "title": "Cerebras 融资 5.5B 美元，股价上涨 108%，这是 2026 年首次大型科技 IPO",
+    "url": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
+    "content": "一年前，对于 Cerebras 来说，这一天似乎永远不会发生。",
+    "publish_time": "Thu, 14 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.05
+    },
+    "collection_time": "2026-05-17T12:45:19.822432",
+    "fetch_method": "RSS",
+    "original_title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
+    "original_content": "A year ago, it looked like this day would never happen for Cerebras."
+  },
+  {
+    "title": "OpenAI 和马耳他政府合作向所有公民推出 ChatGPT Plus",
+    "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
+    "content": "",
+    "publish_time": "2026-05-16",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 121,
+      "comments": 106
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=48163392",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 7,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.05
+    },
+    "collection_time": "2026-05-17T12:45:38.395580",
+    "original_title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
+    "original_content": ""
+  },
+  {
+    "title": "对 Arxiv 提议的一年禁令的强烈反对确实令人困惑。 [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1tens5n/backlash_against_arxivs_proposed_1_year_ban_is/",
+    "content": "其他人对 Arxiv39 提出的禁止作者和合著者发表带有幻觉参考和其他明显的 LLMGen AI 技术的论文一年禁令的强烈反对感到惊讶",
+    "publish_time": "2026-05-16",
+    "source": "Reddit r/MachineLearning",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-05-17T12:45:38.395355",
+    "original_title": "Backlash against Arxiv's proposed 1 year ban is genuinely perplexing. [D]",
+    "original_content": "Anyone else surprised at the enormous amount of backlash against Arxiv39s proposed 1 year ban for authors and coauthors publishing papers with hallucinated reference and other obvious LLMGen AI artifa"
+  },
+  {
+    "title": "DevDay 发布的 AMA",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/",
+    "content": "这是历史上成为建设者的最好时代。在 DevDay 2025 上，我们推出了下一代工具和模型，以帮助开发人员更快地编码、更可靠地构建代理并扩展他们的应用程序",
+    "publish_time": "2026-05-16",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-05-17T12:45:38.395432",
+    "original_title": "AMA on our DevDay Launches",
+    "original_content": "Its the best time in history to be a builder. At DevDay 2025, we introduced the next generation of tools and models to help developers code faster, build agents more reliably, and scale their apps in "
+  },
+  {
+    "title": "我相信现在整个公司都处于人工智能精神病状态",
+    "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+    "content": "",
+    "publish_time": "2026-05-16",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 1918,
+      "comments": 1111
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=48153379",
+    "score": {
+      "importance": 3,
+      "authority": 5,
+      "spread": 10,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-05-17T12:45:38.395525",
+    "original_title": "I believe there are entire companies right now under AI psychosis",
+    "original_content": ""
+  },
+  {
+    "title": "埃隆·马斯克 (Elon Musk) 的 SpaceXAI 自合并以来一直在裁员",
+    "url": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
+    "content": "据报道，自 2 月份以来，已有 50 多名员工离开了埃隆·马斯克 (Elon Musk) 新合并的 SpaceXAI，引发了有关倦怠、领导层变动、人才挖角以及流动性事件是否削弱了保留激励等问题。",
+    "publish_time": "Thu, 14 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-05-17T12:45:19.822379",
+    "fetch_method": "RSS",
+    "original_title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
+    "original_content": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incentives."
+  },
+  {
+    "title": "EMO：针对紧急模块化的专家预培训组合",
+    "url": "https://huggingface.co/blog/allenai/emo",
+    "content": "",
+    "publish_time": "Fri, 08 Ma",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-05-17T12:45:19.822554",
+    "fetch_method": "RSS",
+    "original_title": "EMO: Pretraining mixture of experts for emergent modularity",
+    "original_content": ""
+  }
+]
