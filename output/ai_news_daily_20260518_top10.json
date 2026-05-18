@@ -1,0 +1,191 @@
+[
+  {
+    "title": "OpenAI 推出个人理财 ChatGPT，让你连接银行账户",
+    "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+    "content": "一旦用户连接他们的帐户，他们将看到他们的投资组合绩效、支出、订阅和即将付款的仪表板。",
+    "publish_time": "Fri, 15 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 9,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 7.25
+    },
+    "collection_time": "2026-05-18T13:00:14.543196",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+    "original_content": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments."
+  },
+  {
+    "title": "通过合规自我蒸馏降低法学硕士安全调整中的安全税",
+    "url": "https://arxiv.org/abs/2605.15239",
+    "content": "arXiv:2605.15239v1 公告类型：新 \n摘要：安全对齐通常会以推理能力为代价来提高对有害查询的鲁棒性，这种权衡称为安全税。一个常见的原因是分布不匹配：监督微调在安全演示产品上训练目标模型",
+    "publish_time": "Mon, 18 Ma",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-05-18T13:00:14.543376",
+    "fetch_method": "RSS",
+    "original_title": "Reducing the Safety Tax in LLM Safety Alignment with On-Policy Self-Distillation",
+    "original_content": "arXiv:2605.15239v1 Announce Type: new \nAbstract: Safety alignment often improves robustness to harmful queries at the cost of reasoning ability, a tradeoff known as the safety tax. A common cause is distributional mismatch: supervised fine-tuning trains the target model on safety demonstrations prod"
+  },
+  {
+    "title": "OpenAI 投资 40 亿美元推出专业服务业务",
+    "url": "https://www.bing.com/news/search?q=ChatGPT+OpenAI+2026-05-17",
+    "content": "OpenAI 部署公司计划利用其 40 亿轮融资扩大其业务运营。它将加快进行收购的力度。 OpenAI 部门披露了其第一个此类...",
+    "publish_time": "2026-05-17",
+    "source": "AI News",
+    "score": {
+      "importance": 8,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.35
+    },
+    "collection_time": "2026-05-18T13:00:30.318831",
+    "original_title": "OpenAI launches professional services business with $4B investment",
+    "original_content": "The OpenAI Deployment Company plans to use its 4 billion funding round to expand its business operations. It will make acquisitions to speed up the effort. The OpenAI unit disclosed its first such ..."
+  },
+  {
+    "title": "如果作者让人工智能完成所有工作，研究存储库 ArXiv 将禁止作者一年",
+    "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+    "content": "ArXiv 正在采取更多措施来打击科学论文中粗心使用大型语言模型的行为。",
+    "publish_time": "Sat, 16 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-05-18T13:00:14.543154",
+    "fetch_method": "RSS",
+    "original_title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+    "original_content": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers."
+  },
+  {
+    "title": "量化破坏一致性：压缩法学硕士在模型和精度水平上出现偏差",
+    "url": "https://arxiv.org/abs/2605.15208",
+    "content": "arXiv:2605.15208v1 公告类型：新 \n摘要：大型语言模型通常通过训练后量化进行压缩，以减少云和边缘部署的推理成本和内存占用，但这种压缩对模型质量的影响仍然知之甚少。现有研究",
+    "publish_time": "Mon, 18 Ma",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-05-18T13:00:14.543345",
+    "fetch_method": "RSS",
+    "original_title": "Quantization Undoes Alignment: Bias Emergence in Compressed LLMs Across Models and Precision Levels",
+    "original_content": "arXiv:2605.15208v1 Announce Type: new \nAbstract: Large Language Models are routinely compressed via post-training quantization to reduce inference costs and memory footprint for cloud and edge deployment, yet the impact of this compression on model quality remains poorly understood. Existing studies"
+  },
+  {
+    "title": "DevDay 发布的 AMA",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/",
+    "content": "这是历史上成为建设者的最好时代。在 DevDay 2025 上，我们推出了下一代工具和模型，以帮助开发人员更快地编码、更可靠地构建代理并扩展他们的应用程序",
+    "publish_time": "2026-05-17",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-05-18T13:00:30.319091",
+    "original_title": "AMA on our DevDay Launches",
+    "original_content": "Its the best time in history to be a builder. At DevDay 2025, we introduced the next generation of tools and models to help developers code faster, build agents more reliably, and scale their apps in "
+  },
+  {
+    "title": "埃隆·马斯克 (Elon Musk) 的 SpaceXAI 自合并以来一直在裁员",
+    "url": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
+    "content": "据报道，自 2 月份以来，已有 50 多名员工离开了埃隆·马斯克 (Elon Musk) 新合并的 SpaceXAI，引发了有关倦怠、领导层变动、人才挖角以及流动性事件是否削弱了保留激励等问题。",
+    "publish_time": "Thu, 14 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-05-18T13:00:14.543228",
+    "fetch_method": "RSS",
+    "original_title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
+    "original_content": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incentives."
+  },
+  {
+    "title": "EMO：针对紧急模块化的专家预培训组合",
+    "url": "https://huggingface.co/blog/allenai/emo",
+    "content": "",
+    "publish_time": "Fri, 08 Ma",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-05-18T13:00:14.543598",
+    "fetch_method": "RSS",
+    "original_title": "EMO: Pretraining mixture of experts for emergent modularity",
+    "original_content": ""
+  },
+  {
+    "title": "受害者家属在新诉讼中称 ChatGPT 鼓励 FSU 枪手",
+    "url": "https://www.bing.com/news/search?q=ChatGPT+OpenAI+2026-05-17",
+    "content": "去年佛罗里达州立大学大规模枪击案受害者的家人周日对 OpenAI 提起诉讼，指控 ChatGPT 煽动并助长了被指控的枪击者的妄想。 ...",
+    "publish_time": "2026-05-17",
+    "source": "AI News",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-05-18T13:00:30.318856",
+    "original_title": "ChatGPT encouraged FSU shooter, victim’s family alleges in new lawsuit",
+    "original_content": "The family of a victim of last years Florida State University mass shooting filed a lawsuit Sunday against OpenAI, alleging ChatGPT inflamed and encouraged the accused shooters delusions. ..."
+  },
+  {
+    "title": "编辑部",
+    "source": "www.anthropic.com",
+    "content": "我们最新的 Opus 模型在编码、代理、愿景和多步骤任务方面带来了更强大的性能，并且在最重要的工作上具有更高的彻底性和一致性。今天，我们推出了 Claude Design，这是 Anthropic Labs 的一款新产品，可让您与 Claude 合作创建精美的 v",
+    "url": "https://www.anthropic.com/news",
+    "publish_time": "2026-05-17",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-05-18T13:00:30.318881",
+    "original_title": "Newsroom",
+    "original_content": "Our latest Opus model brings stronger performance across coding, agents, vision, and multi-step tasks, with greater thoroughness and consistency on the work that matters most. Today, were launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished v"
+  }
+]
