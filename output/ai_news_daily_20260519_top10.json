@@ -1,0 +1,206 @@
+[
+  {
+    "title": "OpenAI 推出个人理财 ChatGPT，让你连接银行账户",
+    "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+    "content": "一旦用户连接他们的帐户，他们将看到他们的投资组合绩效、支出、订阅和即将付款的仪表板。",
+    "publish_time": "Fri, 15 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 9,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 7.25
+    },
+    "collection_time": "2026-05-19T12:52:14.067630",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+    "original_content": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments."
+  },
+  {
+    "title": "埃隆·马斯克 (Elon Musk) 输掉了对萨姆·奥尔特曼 (Sam Altman) 和 OpenAI 的诉讼",
+    "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+    "content": "",
+    "publish_time": "2026-05-18",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 862,
+      "comments": 434
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=48182754",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 10,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.75
+    },
+    "collection_time": "2026-05-19T12:52:28.180524",
+    "original_title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+    "original_content": ""
+  },
+  {
+    "title": "PRISMat：策略驱动、排列不变的自回归材料生成",
+    "url": "https://arxiv.org/abs/2605.16612",
+    "content": "arXiv:2605.16612v1 公告类型：新 \n摘要：快速识别具有目标特性的候选材料已成为材料科学的关键任务。机器学习已经成为基于物理的模拟的替代方案，提供了一种更快、更便宜的方法来过滤基于物理的材料。",
+    "publish_time": "Tue, 19 Ma",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-05-19T12:52:14.068240",
+    "fetch_method": "RSS",
+    "original_title": "PRISMat: Policy-Driven, Permutation-Invariant Autoregressive Material Generation",
+    "original_content": "arXiv:2605.16612v1 Announce Type: new \nAbstract: Rapid identification of candidate materials with target properties has become a key task in materials science. Machine learning has emerged as an alternative to physics-based simulation, offering a faster and cheaper way to filter materials based on t"
+  },
+  {
+    "title": "如果作者让人工智能完成所有工作，研究存储库 ArXiv 将禁止作者一年",
+    "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+    "content": "ArXiv 正在采取更多措施来打击科学论文中粗心使用大型语言模型的行为。",
+    "publish_time": "Sat, 16 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-05-19T12:52:14.067579",
+    "fetch_method": "RSS",
+    "original_title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+    "original_content": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers."
+  },
+  {
+    "title": "埃隆·马斯克 (Elon Musk) 在针对 OpenAI 的具有里程碑意义的诉讼中败诉",
+    "url": "https://www.wired.com/story/musk-v-altman-jury-verdict/",
+    "content": "周一，由九名成员组成的陪审团仅用了两个小时就做出了有利于 OpenAI 的裁决，法官很快将这一裁决作为自己的最终决定。",
+    "publish_time": "Mon, 18 Ma",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-05-19T12:52:14.067744",
+    "fetch_method": "RSS",
+    "original_title": "Elon Musk Loses Landmark Lawsuit Against OpenAI",
+    "original_content": "The nine-member panel took only two hours to return a verdict in favor of OpenAI on Monday, which the judge quickly adopted as her own final decision."
+  },
+  {
+    "title": "研究强化学习中循环神经网络的动作编码",
+    "url": "https://arxiv.org/abs/2605.16318",
+    "content": "arXiv:2605.16318v1 公告类型：新 \n摘要：构建和维护状态来学习策略和价值函数对于在现实世界中部署强化学习（RL）代理至关重要。循环神经网络（RNN）已成为状态构建问题的一个关键点，",
+    "publish_time": "Tue, 19 Ma",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-05-19T12:52:14.068444",
+    "fetch_method": "RSS",
+    "original_title": "Investigating Action Encodings in Recurrent Neural Networks in Reinforcement Learning",
+    "original_content": "arXiv:2605.16318v1 Announce Type: new \nAbstract: Building and maintaining state to learn policies and value functions is critical for deploying reinforcement learning (RL) agents in the real world. Recurrent neural networks (RNNs) have become a key point of interest for the state-building problem, a"
+  },
+  {
+    "title": "Anthropic 收购不锈钢",
+    "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+    "content": "",
+    "publish_time": "2026-05-18",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 397,
+      "comments": 273
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=48182281",
+    "score": {
+      "importance": 5,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.0
+    },
+    "collection_time": "2026-05-19T12:52:28.180563",
+    "original_title": "Anthropic acquires Stainless",
+    "original_content": ""
+  },
+  {
+    "title": "陪审团裁定埃隆·马斯克与 OpenAI 不和，称他提起诉讼为时已晚",
+    "url": "https://www.reddit.com/r/artificial/comments/1tgv85s/jury_rules_against_elon_musk_in_his_feud_with/",
+    "content": "周一，一家联邦法院驳回了埃隆·马斯克针对 OpenAI 及其高管提出的指控，后者指控他们背叛了其指导人工智能发展的共同愿景",
+    "publish_time": "2026-05-18",
+    "source": "Reddit r/artificial",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-05-19T12:52:28.180225",
+    "original_title": "Jury rules against Elon Musk in his feud with OpenAI, saying he filed his lawsuit too late",
+    "original_content": "A federal court on Monday dismissed claims filed against OpenAI and its top executives by Elon Musk, who accused them of betraying a shared vision for it to guide artificial intelligences development "
+  },
+  {
+    "title": "发布了免费的 980 万文档印度语多语言语料库 — 印地语、孟加拉语、泰米尔语、泰卢固语 + 7 个以上（CC0、HuggingFace）[P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1th4po3/released_a_free_98m_doc_indic_multilingual_corpus/",
+    "content": "作为多语言研究项目的一部分，它是在过去几周内构建的。我想我会在这里分享它。一探究竟！ 980 万个网络文档，涵盖 11 种语言 hi、bn、ta、te、mr、gu、kn、ml、pa、ur、",
+    "publish_time": "2026-05-18",
+    "source": "Reddit r/MachineLearning",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-05-19T12:52:28.180353",
+    "original_title": "Released a free 9.8M doc Indic multilingual corpus — Hindi, Bengali, Tamil, Telugu + 7 more (CC0, HuggingFace) [P]",
+    "original_content": "Built this over the past few weeks as part of a multilingual research project. Figured I39d share it here. Check it out! 9.8M web documents across 11 languages hi, bn, ta, te, mr, gu, kn, ml, pa, ur, "
+  },
+  {
+    "title": "DevDay 发布的 AMA",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/",
+    "content": "这是历史上成为建设者的最好时代。在 DevDay 2025 上，我们推出了下一代工具和模型，以帮助开发人员更快地编码、更可靠地构建代理并扩展他们的应用程序",
+    "publish_time": "2026-05-18",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-05-19T12:52:28.180428",
+    "original_title": "AMA on our DevDay Launches",
+    "original_content": "Its the best time in history to be a builder. At DevDay 2025, we introduced the next generation of tools and models to help developers code faster, build agents more reliably, and scale their apps in "
+  }
+]
