@@ -1,0 +1,193 @@
+[
+  {
+    "title": "HealthCraft：急诊医学的强化学习安全环境",
+    "url": "https://arxiv.org/abs/2605.21496",
+    "content": "arXiv:2605.21496v1 公告类型：新 \n摘要：前沿语言模型被部署到临床工作流程中的速度快于安全评估它们的基础设施。静态医疗 QA 基准忽略了急诊医学中重要的故障模式：轨迹级安全崩溃、工具 m",
+    "publish_time": "Fri, 22 Ma",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 7,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.8
+    },
+    "collection_time": "2026-05-22T12:54:15.539307",
+    "fetch_method": "RSS",
+    "original_title": "HealthCraft: A Reinforcement Learning Safety Environment for Emergency Medicine",
+    "original_content": "arXiv:2605.21496v1 Announce Type: new \nAbstract: Frontier language models are being deployed into clinical workflows faster than the infrastructure to evaluate them safely. Static medical-QA benchmarks miss the failure modes that matter in emergency medicine: trajectory-level safety collapse, tool m"
+  },
+  {
+    "title": "我给了我的 OpenClaw 特工一个实体",
+    "url": "https://www.wired.com/story/i-gave-my-openclaw-agent-physical-body-robot/",
+    "content": "人工智能模型的编码技能将使机器人的构建和部署变得更加容易。",
+    "publish_time": "Wed, 20 Ma",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-05-22T12:54:15.538563",
+    "fetch_method": "RSS",
+    "original_title": "I Gave My OpenClaw Agent a Physical Body",
+    "original_content": "The coding skills of AI models are about to make it much easier to build and deploy robots."
+  },
+  {
+    "title": "Google I/O 2026 上公布的一切：Gemini、搜索、智能眼镜",
+    "url": "https://www.wired.com/story/everything-google-announced-at-google-io-2026/",
+    "content": "谷歌正在完善其 Gemini 模型，改进搜索，并在一切领域启用人工智能代理。今年秋天还将推出一些漂亮的新型智能眼镜。",
+    "publish_time": "Tue, 19 Ma",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-05-22T12:54:15.538584",
+    "fetch_method": "RSS",
+    "original_title": "Everything Announced at Google I/O 2026: Gemini, Search, Smart Glasses",
+    "original_content": "Google is sprucing up its Gemini models, revamping search, and enabling AI agents in everything. There are also some spiffy new smart glasses coming this fall."
+  },
+  {
+    "title": "Spotify 推出 ElevenLabs 支持的有声读物创作工具",
+    "url": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
+    "content": "由人工智能驱动的有声读物生成不会将作者束缚于独家合同，这意味着他们可以在任何地方自由发布生成的有声读物。",
+    "publish_time": "Thu, 21 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-05-22T12:54:15.538685",
+    "fetch_method": "RSS",
+    "original_title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
+    "original_content": "The AI-powered audiobook generation won't bind authors to an exclusive contract, meaning they are free to publish their generated audiobooks anywhere."
+  },
+  {
+    "title": "绿色钢铁初创公司 Boston Metal 正在加倍投资关键金属",
+    "url": "https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/",
+    "content": "据《麻省理工科技评论》独家报道，初创公司 Boston Metal 已筹集 7500 万美元资金用于生产关键金属。该公司主要因其在清理钢铁生产方面所做的努力而闻名，该行业约占全球温室气体排放量的 8%",
+    "publish_time": "Wed, 20 Ma",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-05-22T12:54:15.538437",
+    "fetch_method": "RSS",
+    "original_title": "Green steel startup Boston Metal is doubling down on critical metals",
+    "original_content": "The startup Boston Metal has raised a $75 million funding round to produce critical metals, MIT Technology Review can exclusively report.&#160;&#160; The company has been known largely for its efforts to clean up steel production, an industry that&#8217;s responsible for about 8% of global greenhous"
+  },
+  {
+    "title": "OpenAI 的 ChatGPT Edu 与缅因州公立大学签订了重要合同",
+    "url": "https://www.bing.com/news/search?q=ChatGPT+OpenAI+2026-05-21",
+    "content": "这份为期两年的合同将耗资约 139 万美元，为该系统估计 25,200 名学生和 5,600 名员工提供服务。",
+    "publish_time": "2026-05-21",
+    "source": "AI News",
+    "score": {
+      "importance": 7,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.0
+    },
+    "collection_time": "2026-05-22T12:54:29.569073",
+    "original_title": "OpenAI’s ChatGPT Edu secures major contract with Maine public universities",
+    "original_content": "The two-year contract will cost about 1.39 million and serve the systems estimated 25,200 students and 5,600 employees."
+  },
+  {
+    "title": "DevDay 发布的 AMA",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/",
+    "content": "这是历史上成为建设者的最好时代。在 DevDay 2025 上，我们推出了下一代工具和模型，以帮助开发人员更快地编码、更可靠地构建代理并扩展他们的应用程序",
+    "publish_time": "2026-05-21",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-05-22T12:54:29.569349",
+    "original_title": "AMA on our DevDay Launches",
+    "original_content": "Its the best time in history to be a builder. At DevDay 2025, we introduced the next generation of tools and models to help developers code faster, build agents more reliably, and scale their apps in "
+  },
+  {
+    "title": "OpenAI的“灾难大师”能否修复AI的声誉危机？",
+    "url": "https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/",
+    "content": "全球事务主管 Chris Lehane 希望缓和有关人工智能社会影响的争论，并让各州通过不会阻碍 OpenAI 迅速崛起的法律。",
+    "publish_time": "Fri, 22 Ma",
+    "source": "Wired AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-05-22T12:54:15.538497",
+    "fetch_method": "RSS",
+    "original_title": "Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?",
+    "original_content": "Global affairs chief Chris Lehane wants to tone down the debate over AI’s societal impacts—and get states to pass laws that won’t derail OpenAI’s meteoric rise."
+  },
+  {
+    "title": "Meta 陷入危机、谷歌搜索大变身、人工智能遭到毕业生嘘声",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-meta-in-crisis-google-search-makeover-ai-booed-by-graduates/",
+    "content": "在这一集中的《恐怖谷》中，我们将揭秘 Meta 的大规模裁员、Google I/O 大会上的重大公告以及针对人工智能的最新抵制。",
+    "publish_time": "Thu, 21 Ma",
+    "source": "Wired AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-05-22T12:54:15.538513",
+    "fetch_method": "RSS",
+    "original_title": "Meta Is in Crisis, Google Search’s Makeover, and AI Gets Booed by Graduates",
+    "original_content": "In this episode of Uncanny Valley, we unpack the mass layoffs at Meta, big announcements at Google I/O, and the latest backlash against AI."
+  },
+  {
+    "title": "SpaceX 在 IPO 文件中将 Grok 的“辣”模式列为风险",
+    "url": "https://www.wired.com/story/spacex-ipo-grok-spicy-mode-risks/",
+    "content": "该火箭公司已拨出超过 5 亿美元用于潜在的诉讼损失，部分原因是为了应对指控 Grok 制作色情图片的投诉。",
+    "publish_time": "Thu, 21 Ma",
+    "source": "Wired AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-05-22T12:54:15.538541",
+    "fetch_method": "RSS",
+    "original_title": "SpaceX Listed Grok’s ‘Spicy’ Mode as a Risk in Its IPO Filing",
+    "original_content": "The rocket company has set aside more than $500 million for potential litigation losses, in part to account for complaints alleging that Grok created sexualized images."
+  }
+]
