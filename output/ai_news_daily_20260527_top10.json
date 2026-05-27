@@ -1,0 +1,194 @@
+[
+  {
+    "title": "是时候解决初级工作中迫在眉睫的危机了。",
+    "url": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
+    "content": "迄今为止，人工智能还没有产生一个干净的大规模失业故事。发达国家的总就业保持大致稳定，最近的评估发现有限的证据表明人工智能已经改变了总体数据。但表面之下可能隐藏着令人不安的变化",
+    "publish_time": "Tue, 26 Ma",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-05-27T13:06:57.531524",
+    "fetch_method": "RSS",
+    "original_title": "It’s time to address the looming crisis in entry-level work.",
+    "original_content": "Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited evidence that AI has shifted the headline numbers. But a troubling change may be hiding beneath the surfac"
+  },
+  {
+    "title": "ARBITER：推理测试时采样中的轨迹盆地和多数投票失败",
+    "url": "https://arxiv.org/abs/2605.26172",
+    "content": "arXiv:2605.26172v1 公告类型：新 \n摘要：当语言模型使用测试时采样时，它们会生成多个推理轨迹并通过多数票选择答案。我们证明这些轨迹不是独立的：对于给定的问题，它们集中在少数簇中",
+    "publish_time": "Wed, 27 Ma",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-05-27T13:06:57.532327",
+    "fetch_method": "RSS",
+    "original_title": "ARBITER: Reasoning Trajectory Basins and Majority Vote Failures in Test-Time Sampling",
+    "original_content": "arXiv:2605.26172v1 Announce Type: new \nAbstract: When language models use test-time sampling, they generate multiple reasoning trajectories and select an answer by majority vote. We show that these trajectories are not independent: for a given question, they concentrate into a small number of cluste"
+  },
+  {
+    "title": "约束获取需要更好的基准",
+    "url": "https://arxiv.org/abs/2605.26279",
+    "content": "arXiv:2605.26279v1 公告类型：新 \n摘要：约束获取（CA）以及从领域知识工件验证和增强数学规划（MP）模型的相关研究目前受到基准不足的限制。这种缺陷阻碍了重现性和交叉",
+    "publish_time": "Wed, 27 Ma",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-05-27T13:06:57.532442",
+    "fetch_method": "RSS",
+    "original_title": "Constraint acquisition needs better benchmarks",
+    "original_content": "arXiv:2605.26279v1 Announce Type: new \nAbstract: Constraint Acquisition (CA) and related research on the validation and enhancement of Mathematical Programming (MP) models from domain knowledge artifacts are currently limited by inadequate benchmarks. This deficiency impedes reproducibility and cros"
+  },
+  {
+    "title": "DevDay 发布的 AMA",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/",
+    "content": "这是历史上成为建设者的最好时代。在 DevDay 2025 上，我们推出了下一代工具和模型，以帮助开发人员更快地编码、更可靠地构建代理并扩展他们的应用程序",
+    "publish_time": "2026-05-26",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-05-27T13:07:13.728950",
+    "original_title": "AMA on our DevDay Launches",
+    "original_content": "Its the best time in history to be a builder. At DevDay 2025, we introduced the next generation of tools and models to help developers code faster, build agents more reliably, and scale their apps in "
+  },
+  {
+    "title": "数以百万计的人工智能代理受到开源包中严重漏洞的威胁",
+    "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
+    "content": "“BadHost”是在 Starlette 中发现的，该软件包每周下载量为 3.25 亿次。",
+    "publish_time": "Tue, 26 Ma",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 5,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-05-27T13:06:57.531630",
+    "fetch_method": "RSS",
+    "original_title": "Millions of AI agents imperiled by critical vulnerability in open source package",
+    "original_content": "\"BadHost\" was found in Starlette, a package with 325 million weekly downloads."
+  },
+  {
+    "title": "编辑部",
+    "source": "www.anthropic.com",
+    "content": "我们最新的 Opus 模型在编码、代理、愿景和多步骤任务方面带来了更强大的性能，并且在最重要的工作上具有更高的彻底性和一致性。今天，我们推出了 Claude Design，这是 Anthropic Labs 的一款新产品，可让您与 Claude 合作创建精美的 v",
+    "url": "https://www.anthropic.com/news",
+    "publish_time": "2026-05-26",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-05-27T13:07:13.728655",
+    "original_title": "Newsroom",
+    "original_content": "Our latest Opus model brings stronger performance across coding, agents, vision, and multi-step tasks, with greater thoroughness and consistency on the work that matters most. Today, were launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished v"
+  },
+  {
+    "title": "OpenAI 新闻 |开放人工智能",
+    "source": "openai.com",
+    "content": "",
+    "url": "https://openai.com/blog",
+    "publish_time": "2026-05-26",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-05-27T13:07:13.728675",
+    "original_title": "OpenAI News | OpenAI",
+    "original_content": ""
+  },
+  {
+    "title": "OpenAI 新闻 |开放人工智能",
+    "source": "openai.com",
+    "content": "",
+    "url": "https://openai.com/news",
+    "publish_time": "2026-05-26",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-05-27T13:07:13.728682",
+    "original_title": "OpenAI News | OpenAI",
+    "original_content": ""
+  },
+  {
+    "title": "消息",
+    "source": "deepmind.google",
+    "content": "发现我们最新的人工智能突破、项目和更新 我接受 Google 的条款和条件，并确认我的信息将按照 Google 的隐私政策使用。",
+    "url": "https://deepmind.google/blog/",
+    "publish_time": "2026-05-26",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-05-27T13:07:13.728705",
+    "original_title": "News",
+    "original_content": "Discover our latest AI breakthroughs, projects, and updates I accept Google's Terms and Conditions and acknowledge that my information will be used in accordance withGoogle's Privacy Policy."
+  },
+  {
+    "title": "西班牙因缺乏赌博许可证而封锁Polymarket、Kalshi预测市场",
+    "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
+    "content": "",
+    "publish_time": "2026-05-26",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 835,
+      "comments": 383
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=48279316",
+    "score": {
+      "importance": 3,
+      "authority": 5,
+      "spread": 10,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.7
+    },
+    "collection_time": "2026-05-27T13:07:13.729065",
+    "original_title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
+    "original_content": ""
+  }
+]
