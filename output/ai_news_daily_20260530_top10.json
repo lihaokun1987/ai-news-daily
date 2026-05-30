@@ -1,0 +1,193 @@
+[
+  {
+    "title": "伊利诺伊州立法者刚刚通过了美国最强有力的人工智能安全法案",
+    "url": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
+    "content": "该法案要求 OpenAI、Anthropic 和 Google 等公司让第三方确认他们遵守安全标准。伊利诺伊州州长 JB Pritzker 表示他将签署该协议。",
+    "publish_time": "Thu, 28 Ma",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-05-30T12:42:41.278850",
+    "fetch_method": "RSS",
+    "original_title": "Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill",
+    "original_content": "The bill requires companies like OpenAI, Anthropic, and Google to have third parties confirm they’re following safety standards. Illinois governor JB Pritzker says he’ll sign it."
+  },
+  {
+    "title": "前谷歌和苹果研究人员创办了一家初创公司来构建人工智能缺失的反馈循环",
+    "url": "https://www.wired.com/story/ex-google-apple-ai-researchers-want-to-make-ai-that-gets-smarter-as-you-use-it/",
+    "content": "Trajectory 押注于快速迭代周期，增强的振动编码可以帮助各类公司构建持续学习的人工智能产品。",
+    "publish_time": "Wed, 27 Ma",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-05-30T12:42:41.278860",
+    "fetch_method": "RSS",
+    "original_title": "Former Google and Apple Researchers Launch a Startup to Build AI’s Missing Feedback Loop",
+    "original_content": "Trajectory is betting the rapid iteration cycle that supercharged vibe-coding can help all kinds of companies build AI products that learn continuously."
+  },
+  {
+    "title": "下载：气候技术上市，人工智能炒作指数回归",
+    "url": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/",
+    "content": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。气候技术公司正在上市。接下来是什么？太阳能和电池公司Solv Energy于2月份上市，估值达到60亿美元。 X",
+    "publish_time": "Thu, 28 Ma",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-05-30T12:42:41.278551",
+    "fetch_method": "RSS",
+    "original_title": "The Download: climate tech goes public and the AI Hype Index returns",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Climate tech companies are going public. What’s next? Solar and battery company Solv Energy went public in February, hitting a $6 billion valuation. X"
+  },
+  {
+    "title": "诉讼称，旧金山初创公司正在 Airbnb 中测试机器人，然后将其扔掉",
+    "url": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/",
+    "content": "文章网址：https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/\n评论网址：https://news.ycombinator.com/item?id=48317093\n积分：260\n# 评论: 144",
+    "publish_time": "Thu, 28 Ma",
+    "source": "Hacker News Best",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-05-30T12:42:41.279072",
+    "fetch_method": "RSS",
+    "original_title": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
+    "original_content": "Article URL: https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/\nComments URL: https://news.ycombinator.com/item?id=48317093\nPoints: 260\n# Comments: 144"
+  },
+  {
+    "title": "DevDay 发布的 AMA",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/",
+    "content": "这是历史上成为建设者的最好时代。在 DevDay 2025 上，我们推出了下一代工具和模型，以帮助开发人员更快地编码、更可靠地构建代理并扩展他们的应用程序",
+    "publish_time": "2026-05-29",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-05-30T12:42:56.084773",
+    "original_title": "AMA on our DevDay Launches",
+    "original_content": "Its the best time in history to be a builder. At DevDay 2025, we introduced the next generation of tools and models to help developers code faster, build agents more reliably, and scale their apps in "
+  },
+  {
+    "title": "随着 AI 预算削减成为其主要卖点，Glean 的营收突破 3 亿美元",
+    "url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+    "content": "即使科技巨头进入该领域，这家企业人工智能搜索初创公司的年收入仍增加了两倍。",
+    "publish_time": "Fri, 29 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-05-30T12:42:41.278463",
+    "fetch_method": "RSS",
+    "original_title": "Glean’s top line crosses $300M as AI budget cutting becomes its major selling point",
+    "original_content": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category."
+  },
+  {
+    "title": "Asana 收购无代码代理构建器 StackAI",
+    "url": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
+    "content": "Asana 将把 StackAI 纳入其不断增长的人工智能工作流程工具套件中。",
+    "publish_time": "Thu, 28 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-05-30T12:42:41.278481",
+    "fetch_method": "RSS",
+    "original_title": "Asana acquires no-code agent-builder StackAI",
+    "original_content": "Asana will incorporate StackAI into its growing suite of AI workflow tools."
+  },
+  {
+    "title": "Anthropic 融资 650 亿美元，IPO 前估值接近 1T 美元",
+    "url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
+    "content": "Anthropic 已完成 650 亿美元的 H 轮融资，投后估值为 9650 亿美元，这可能是这家人工智能初创公司在备受期待的 IPO 之前进行的最后一次私募融资。",
+    "publish_time": "Thu, 28 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-05-30T12:42:41.278491",
+    "fetch_method": "RSS",
+    "original_title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
+    "original_content": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO."
+  },
+  {
+    "title": "数以百万计的人工智能代理受到开源包中严重漏洞的威胁",
+    "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
+    "content": "“BadHost”是在 Starlette 中发现的，该软件包每周下载量为 3.25 亿次。",
+    "publish_time": "Tue, 26 Ma",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 5,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-05-30T12:42:41.278746",
+    "fetch_method": "RSS",
+    "original_title": "Millions of AI agents imperiled by critical vulnerability in open source package",
+    "original_content": "\"BadHost\" was found in Starlette, a package with 325 million weekly downloads."
+  },
+  {
+    "title": "编辑部",
+    "source": "www.anthropic.com",
+    "content": "升级到我们的 Opus 类模型，在编码、代理任务和专业工作方面具有更强的性能，以及处理长时间运行工作的一致性。今天，我们推出了 Claude Design，这是 Anthropic Labs 的一款新产品，可让您与 Claude 合作创造精美的视觉效果",
+    "url": "https://www.anthropic.com/news",
+    "publish_time": "2026-05-29",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-05-30T12:42:56.084566",
+    "original_title": "Newsroom",
+    "original_content": "An upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work. Today, were launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual wo"
+  }
+]
