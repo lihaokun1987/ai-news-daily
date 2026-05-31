@@ -1,0 +1,190 @@
+[
+  {
+    "title": "软银表示将投资高达750亿欧元建设法国数据中心",
+    "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+    "content": "该公司表示，目标是开发和运营高达 5 吉瓦的额外数据中心容量。",
+    "publish_time": "Sat, 30 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 8,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.9
+    },
+    "collection_time": "2026-05-31T13:11:20.746667",
+    "fetch_method": "RSS",
+    "original_title": "SoftBank says it will invest up to €75 billion to build French data centers",
+    "original_content": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity."
+  },
+  {
+    "title": "伊利诺伊州立法者刚刚通过了美国最强有力的人工智能安全法案",
+    "url": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
+    "content": "该法案要求 OpenAI、Anthropic 和 Google 等公司让第三方确认他们遵守安全标准。伊利诺伊州州长 JB Pritzker 表示他将签署该协议。",
+    "publish_time": "Thu, 28 Ma",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-05-31T13:11:20.747090",
+    "fetch_method": "RSS",
+    "original_title": "Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill",
+    "original_content": "The bill requires companies like OpenAI, Anthropic, and Google to have third parties confirm they’re following safety standards. Illinois governor JB Pritzker says he’ll sign it."
+  },
+  {
+    "title": "下载：气候技术上市，人工智能炒作指数回归",
+    "url": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/",
+    "content": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。气候技术公司正在上市。接下来是什么？太阳能和电池公司Solv Energy于2月份上市，估值达到60亿美元。 X",
+    "publish_time": "Thu, 28 Ma",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-05-31T13:11:20.746912",
+    "fetch_method": "RSS",
+    "original_title": "The Download: climate tech goes public and the AI Hype Index returns",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Climate tech companies are going public. What’s next? Solar and battery company Solv Energy went public in February, hitting a $6 billion valuation. X"
+  },
+  {
+    "title": "DevDay 发布的 AMA",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/",
+    "content": "这是历史上成为建设者的最好时代。在 DevDay 2025 上，我们推出了下一代工具和模型，以帮助开发人员更快地编码、更可靠地构建代理并扩展他们的应用程序",
+    "publish_time": "2026-05-30",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-05-31T13:11:35.403792",
+    "original_title": "AMA on our DevDay Launches",
+    "original_content": "Its the best time in history to be a builder. At DevDay 2025, we introduced the next generation of tools and models to help developers code faster, build agents more reliably, and scale their apps in "
+  },
+  {
+    "title": "数以百万计的人工智能代理受到开源包中严重漏洞的威胁",
+    "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
+    "content": "“BadHost”是在 Starlette 中发现的，该软件包每周下载量为 3.25 亿次。",
+    "publish_time": "Tue, 26 Ma",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 5,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-05-31T13:11:20.747113",
+    "fetch_method": "RSS",
+    "original_title": "Millions of AI agents imperiled by critical vulnerability in open source package",
+    "original_content": "\"BadHost\" was found in Starlette, a package with 325 million weekly downloads."
+  },
+  {
+    "title": "拟议的美国新资助规则：我们可以随时取消任何资助",
+    "url": "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/",
+    "content": "文章网址：https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/\n评论网址：https://news.ycombinator.com/item?id=48335135\nPoints: 313\n# 评论: 3",
+    "publish_time": "Sat, 30 Ma",
+    "source": "Hacker News Best",
+    "score": {
+      "importance": 5,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-05-31T13:11:20.747522",
+    "fetch_method": "RSS",
+    "original_title": "Proposed new US funding rules: We can cancel any grant at any time",
+    "original_content": "Article URL: https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/\nComments URL: https://news.ycombinator.com/item?id=48335135\nPoints: 313\n# Comments: 3"
+  },
+  {
+    "title": "编辑部",
+    "source": "www.anthropic.com",
+    "content": "升级到我们的 Opus 类模型，在编码、代理任务和专业工作方面具有更强的性能，以及处理长时间运行工作的一致性。今天，我们推出了 Claude Design，这是 Anthropic Labs 的一款新产品，可让您与 Claude 合作创造精美的视觉效果",
+    "url": "https://www.anthropic.com/news",
+    "publish_time": "2026-05-30",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-05-31T13:11:35.403561",
+    "original_title": "Newsroom",
+    "original_content": "An upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work. Today, were launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual wo"
+  },
+  {
+    "title": "OpenAI 新闻 |开放人工智能",
+    "source": "openai.com",
+    "content": "",
+    "url": "https://openai.com/blog",
+    "publish_time": "2026-05-30",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-05-31T13:11:35.403575",
+    "original_title": "OpenAI News | OpenAI",
+    "original_content": ""
+  },
+  {
+    "title": "OpenAI 新闻 |开放人工智能",
+    "source": "openai.com",
+    "content": "",
+    "url": "https://openai.com/news",
+    "publish_time": "2026-05-30",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-05-31T13:11:35.403581",
+    "original_title": "OpenAI News | OpenAI",
+    "original_content": ""
+  },
+  {
+    "title": "消息",
+    "source": "deepmind.google",
+    "content": "发现我们最新的人工智能突破、项目和更新 我接受 Google 的条款和条件，并确认我的信息将按照 Google 的隐私政策使用。",
+    "url": "https://deepmind.google/blog/",
+    "publish_time": "2026-05-30",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-05-31T13:11:35.403602",
+    "original_title": "News",
+    "original_content": "Discover our latest AI breakthroughs, projects, and updates I accept Google's Terms and Conditions and acknowledge that my information will be used in accordance withGoogle's Privacy Policy."
+  }
+]
