@@ -1,0 +1,200 @@
+[
+  {
+    "title": "软银表示将投资高达750亿欧元建设法国数据中心",
+    "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+    "content": "该公司表示，目标是开发和运营高达 5 吉瓦的额外数据中心容量。",
+    "publish_time": "Sat, 30 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 8,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.9
+    },
+    "collection_time": "2026-06-01T13:51:33.761223",
+    "fetch_method": "RSS",
+    "original_title": "SoftBank says it will invest up to €75 billion to build French data centers",
+    "original_content": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity."
+  },
+  {
+    "title": "战略提供商响应下的政策即代码搜索的医疗保健机制",
+    "url": "https://arxiv.org/abs/2605.30680",
+    "content": "arXiv:2605.30680v1 公告类型：新 \n摘要：医疗保健机制与其引发的战略提供商响应密不可分：现有的医疗保健人工智能基准将这种响应固定下来，因此无法通过它们产生的均衡来评估机制。我们重塑医院机制设计",
+    "publish_time": "Mon, 01 Ju",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-06-01T13:51:33.762300",
+    "fetch_method": "RSS",
+    "original_title": "Healthcare Mechanisms from Policy-as-Code Search under Strategic Provider Response",
+    "original_content": "arXiv:2605.30680v1 Announce Type: new \nAbstract: Healthcare mechanisms are inseparable from the strategic provider response they induce: existing healthcare AI benchmarks hold this response fixed and so cannot evaluate mechanisms by the equilibrium they produce. We recast hospital mechanism design a"
+  },
+  {
+    "title": "前提：政策细则作为法学硕士法官的衡量规范",
+    "url": "https://arxiv.org/abs/2605.30803",
+    "content": "arXiv:2605.30803v1 公告类型：新 \n摘要：法学硕士法官越来越多地用于评估开放式回答，但他们的分数在很大程度上取决于限制他们的评分标准。要求回答“有帮助且真实”的模糊标题可以奖励那些发明事实或事实的完美答案",
+    "publish_time": "Mon, 01 Ju",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-06-01T13:51:33.762344",
+    "fetch_method": "RSS",
+    "original_title": "PReMISE: Policy Rubrics as Measurement Specifications for LLM Judges",
+    "original_content": "arXiv:2605.30803v1 Announce Type: new \nAbstract: LLM judges are increasingly used to evaluate open-ended responses, but their scores depend strongly on the rubrics that condition them. A vague rubric asking for a response to be ``helpful and factual'' can reward polished answers that invent facts or"
+  },
+  {
+    "title": "伊利诺伊州立法者刚刚通过了美国最强有力的人工智能安全法案",
+    "url": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
+    "content": "该法案要求 OpenAI、Anthropic 和 Google 等公司让第三方确认他们遵守安全标准。伊利诺伊州州长 JB Pritzker 表示他将签署该协议。",
+    "publish_time": "Thu, 28 Ma",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-06-01T13:51:33.761664",
+    "fetch_method": "RSS",
+    "original_title": "Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill",
+    "original_content": "The bill requires companies like OpenAI, Anthropic, and Google to have third parties confirm they’re following safety standards. Illinois governor JB Pritzker says he’ll sign it."
+  },
+  {
+    "title": "蓝牙名称引发警报后，联合航空 767 重返纽瓦克",
+    "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
+    "content": "",
+    "publish_time": "2026-05-31",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 320,
+      "comments": 552
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=48345248",
+    "score": {
+      "importance": 5,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-06-01T13:51:54.941408",
+    "original_title": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
+    "original_content": ""
+  },
+  {
+    "title": "下载：气候技术上市，人工智能炒作指数回归",
+    "url": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/",
+    "content": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。气候技术公司正在上市。接下来是什么？太阳能和电池公司Solv Energy于2月份上市，估值达到60亿美元。 X",
+    "publish_time": "Thu, 28 Ma",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-06-01T13:51:33.761438",
+    "fetch_method": "RSS",
+    "original_title": "The Download: climate tech goes public and the AI Hype Index returns",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Climate tech companies are going public. What’s next? Solar and battery company Solv Energy went public in February, hitting a $6 billion valuation. X"
+  },
+  {
+    "title": "NumLeak：公共数值基准作为基础模型中的潜在标签",
+    "url": "https://arxiv.org/abs/2605.30393",
+    "content": "arXiv:2605.30393v1 公告类型：新 \n摘要：公共数字基准出现在预训练中，因此对日期条件的评估可能是衡量记忆的回忆，而不是样本外的技能。我们引入 NumLeak，一个结合了生产环境上的 API 边界探针的测量框架",
+    "publish_time": "Mon, 01 Ju",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-06-01T13:51:33.762111",
+    "fetch_method": "RSS",
+    "original_title": "NumLeak: Public Numeric Benchmarks as Latent Labels in Foundation Models",
+    "original_content": "arXiv:2605.30393v1 Announce Type: new \nAbstract: Public numeric benchmarks appear in pretraining, so an evaluation that conditions on a date may be measuring memorized recall rather than out-of-sample skill. We introduce NumLeak, a measurement framework that combines API-boundary probes on productio"
+  },
+  {
+    "title": "Meta 推出 Instagram、Facebook 和 WhatsApp 订阅",
+    "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+    "content": "文章网址：https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-include-ai-plans/\n评论网址：https://news.ycombinator.com/item?id=48347354\n积分：179\n# 评论：272",
+    "publish_time": "Sun, 31 Ma",
+    "source": "Hacker News Front Page",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-06-01T13:51:33.761914",
+    "fetch_method": "RSS",
+    "original_title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions",
+    "original_content": "Article URL: https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/\nComments URL: https://news.ycombinator.com/item?id=48347354\nPoints: 179\n# Comments: 272"
+  },
+  {
+    "title": "DevDay 发布的 AMA",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/",
+    "content": "这是历史上成为建设者的最好时代。在 DevDay 2025 上，我们推出了下一代工具和模型，以帮助开发人员更快地编码、更可靠地构建代理并扩展他们的应用程序",
+    "publish_time": "2026-05-31",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-06-01T13:51:54.941277",
+    "original_title": "AMA on our DevDay Launches",
+    "original_content": "Its the best time in history to be a builder. At DevDay 2025, we introduced the next generation of tools and models to help developers code faster, build agents more reliably, and scale their apps in "
+  },
+  {
+    "title": "Openclaws，Openclaw 特工的配件",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1tssw2a/openclaws_an_accessory_for_openclaw_agents/",
+    "content": "32 提交者 32 utatooinex 链接 32 条评论",
+    "publish_time": "2026-05-31",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-06-01T13:51:54.941287",
+    "original_title": "Openclaws, an accessory for openclaw agents",
+    "original_content": "32 submitted by 32 utatooinex link 32 comments"
+  }
+]
