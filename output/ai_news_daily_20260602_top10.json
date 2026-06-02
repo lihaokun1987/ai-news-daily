@@ -1,0 +1,200 @@
+[
+  {
+    "title": "通过重试探索策略梯度强化学习的出现",
+    "url": "https://arxiv.org/abs/2606.00151",
+    "content": "arXiv:2606.00151v1 公告类型：新 \n摘要：在强化学习（RL）中，智能体从探索中受益只是因为它们反复遇到相似的状态：尝试不同的动作可以提高性能或减少不确定性；如果没有这样的重试，贪婪的策略是最优的。我们正式",
+    "publish_time": "Tue, 02 Ju",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 8,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 7.15
+    },
+    "collection_time": "2026-06-02T13:19:52.536866",
+    "fetch_method": "RSS",
+    "original_title": "Emergence of Exploration in Policy Gradient Reinforcement Learning via Retrying",
+    "original_content": "arXiv:2606.00151v1 Announce Type: new \nAbstract: In reinforcement learning (RL), agents benefit from exploration only because they repeatedly encounter similar states: trying different actions can improve performance or reduce uncertainty; without such retries, a greedy policy is optimal. We formali"
+  },
+  {
+    "title": "软银表示将投资高达 75B 欧元建设法国数据中心",
+    "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+    "content": "该公司表示，目标是开发和运营高达 5 吉瓦的额外数据中心容量。",
+    "publish_time": "Sat, 30 Ma",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 8,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.9
+    },
+    "collection_time": "2026-06-02T13:19:52.535957",
+    "fetch_method": "RSS",
+    "original_title": "SoftBank says it will invest up to €75B to build French data centers",
+    "original_content": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity."
+  },
+  {
+    "title": "佛罗里达州首次就暴力事件起诉 OpenAI 的 Sam Altman",
+    "url": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+    "content": "该诉讼部分围绕去年佛罗里达州立大学发生的枪击事件以及 ChatGPT 在该事件中所扮演的角色。",
+    "publish_time": "Mon, 01 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-06-02T13:19:52.535866",
+    "fetch_method": "RSS",
+    "original_title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+    "original_content": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident."
+  },
+  {
+    "title": "这家人工智能天气初创公司的预测能力超过了政府机构",
+    "url": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
+    "content": "WindBorne 受益于其模型构建和数据收集的独特组合。该公司目前有约 400 个气球在飞行中，从全球 15 个地点发射，随时收集传感器读数。当前模型的进步来自于数据收集方式的改进",
+    "publish_time": "Mon, 01 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-06-02T13:19:52.535890",
+    "fetch_method": "RSS",
+    "original_title": "This AI weather startup is out-forecasting government agencies",
+    "original_content": "WindBorne benefits from its unique combination of model-building and data collection. The company now has about 400 balloons in flight gathering sensor readings at any given time, launched from 15 sites around the globe. The advances in its current model come from improvements in how the data collec"
+  },
+  {
+    "title": "下载：气候技术上市，人工智能炒作指数回归",
+    "url": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/",
+    "content": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。气候技术公司正在上市。接下来是什么？太阳能和电池公司Solv Energy于2月份上市，估值达到60亿美元。 X",
+    "publish_time": "Thu, 28 Ma",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-06-02T13:19:52.536232",
+    "fetch_method": "RSS",
+    "original_title": "The Download: climate tech goes public and the AI Hype Index returns",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Climate tech companies are going public. What’s next? Solar and battery company Solv Energy went public in February, hitting a $6 billion valuation. X"
+  },
+  {
+    "title": "多模型人工智能系统中的紧急协作审议：一种 BFT 派生的认知合成协议",
+    "url": "https://arxiv.org/abs/2606.00005",
+    "content": "arXiv:2606.00005v1 公告类型：新 \n摘要：我们提出了 Consilium 协议，这是一种拜占庭容错衍生的架构，用于结构化多模型人工智能审议，将模型间的分歧视为认知信号而不是错误。该协议分配了工程认知人员",
+    "publish_time": "Tue, 02 Ju",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-06-02T13:19:52.536501",
+    "fetch_method": "RSS",
+    "original_title": "Emergent Collaborative Deliberation in Multi-Model AI Systems: A BFT-Derived Protocol for Epistemic Synthesis",
+    "original_content": "arXiv:2606.00005v1 Announce Type: new \nAbstract: We present the Consilium Protocol, a Byzantine Fault Tolerance-derived architecture for structured multi-model AI deliberation that treats inter-model disagreement as epistemic signal rather than error. The protocol assigns engineered cognitive person"
+  },
+  {
+    "title": "Alphabet 宣布筹集 80B 美元股权资本以扩大人工智能基础设施和计算",
+    "url": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx",
+    "content": "",
+    "publish_time": "2026-06-01",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 146,
+      "comments": 139
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=48362515",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 7,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.05
+    },
+    "collection_time": "2026-06-02T13:20:06.009449",
+    "original_title": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
+    "original_content": ""
+  },
+  {
+    "title": "1993年，《X》的一集在美国被禁。生成该剧集的屏幕截图",
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1tu2ruf/in_1993_an_episode_of_x_was_banned_in_america/",
+    "content": "32 条提交者 32 uNumerous_Worker_1941 链接 32 条评论",
+    "publish_time": "2026-06-01",
+    "source": "Reddit r/ChatGPT",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-06-02T13:20:06.009261",
+    "original_title": "In 1993 an episode of “X” was banned in America. Generate a screenshot from that episode",
+    "original_content": "32 submitted by 32 uNumerous_Worker_1941 link 32 comments"
+  },
+  {
+    "title": "DevDay 发布的 AMA",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/",
+    "content": "这是历史上成为建设者的最好时代。在 DevDay 2025 上，我们推出了下一代工具和模型，以帮助开发人员更快地编码、更可靠地构建代理并扩展他们的应用程序",
+    "publish_time": "2026-06-01",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-06-02T13:20:06.009279",
+    "original_title": "AMA on our DevDay Launches",
+    "original_content": "Its the best time in history to be a builder. At DevDay 2025, we introduced the next generation of tools and models to help developers code faster, build agents more reliably, and scale their apps in "
+  },
+  {
+    "title": "人为文件将公开",
+    "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
+    "content": "Anthropic 现在是一家人工智能巨头，已经赢得了顶级企业客户，但它曾经被认为是新兴的大型语言模型领域的失败者。",
+    "publish_time": "Mon, 01 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-06-02T13:19:52.535878",
+    "fetch_method": "RSS",
+    "original_title": "Anthropic files to go public",
+    "original_content": "Anthropic, now an AI powerhouse that has landed top-tier enterprise customers, was once considered an underdog in the emerging world of large language models."
+  }
+]
