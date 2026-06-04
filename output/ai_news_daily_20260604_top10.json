@@ -1,0 +1,198 @@
+[
+  {
+    "title": "微软推出 Scout，一款受 OpenClaw 启发的个人助理",
+    "url": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
+    "content": "Microsoft Scout 在 Build 大会上推出，是一款新的 AI 助手，旨在将 OpenClaw 的强大功能和灵活性带入 Microsoft 365 系统。",
+    "publish_time": "Tue, 02 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 9,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 7.25
+    },
+    "collection_time": "2026-06-04T13:48:03.206650",
+    "fetch_method": "RSS",
+    "original_title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant",
+    "original_content": "Launched at Build, Microsoft Scout is a new AI assistant meant to bring the power and flexibility of OpenClaw into the Microsoft 365 system."
+  },
+  {
+    "title": "自蒸馏政策梯度",
+    "url": "https://arxiv.org/abs/2606.04036",
+    "content": "arXiv:2606.04036v1 公告类型：新 \n摘要：在策略自蒸馏，即语言模型以特权上下文为条件来监督自己的一代，是稀疏奖励强化学习的密集监督的有前途的来源。实际上，它可以被实例化为辅助",
+    "publish_time": "Thu, 04 Ju",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-06-04T13:48:03.207405",
+    "fetch_method": "RSS",
+    "original_title": "Self-Distilled Policy Gradient",
+    "original_content": "arXiv:2606.04036v1 Announce Type: new \nAbstract: On-policy self-distillation, where a language model conditions on privileged context to supervise its own generations, is a promising source of dense supervision for sparse-reward reinforcement learning. Actually, it can be instantiated as an auxiliar"
+  },
+  {
+    "title": "μ 子的光谱缩放定律",
+    "url": "https://arxiv.org/abs/2606.04058",
+    "content": "arXiv:2606.04058v1 公告类型：新 \n摘要：随着最近开源最先进的模型采用 Muon，正交归一化更新规则已迅速成为训练大型语言模型的优化器的主要选择。为了保持这些更新易于处理，Muon 执行正交归一化",
+    "publish_time": "Thu, 04 Ju",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-06-04T13:48:03.207474",
+    "fetch_method": "RSS",
+    "original_title": "Spectral Scaling Laws of Muon",
+    "original_content": "arXiv:2606.04058v1 Announce Type: new \nAbstract: Orthonormalized update rules have rapidly become a leading choice of optimizer for training large language models, with recent open-source state-of-the-art models adopting Muon. To keep these updates tractable, Muon performs the orthonormalization wit"
+  },
+  {
+    "title": "由于新规定，出版商将能够选择退出人工智能搜索",
+    "url": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
+    "content": "英国监管机构要求谷歌提供一种工具，允许网站发布者选择退出生成人工智能搜索功能。该选项将在英国进行测试，然后在全球范围内推广。",
+    "publish_time": "Wed, 03 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-06-04T13:48:03.206528",
+    "fetch_method": "RSS",
+    "original_title": "Publishers will be able to opt out of AI Search, thanks to new regulation",
+    "original_content": "U.K. regulators are requiring Google offer a tool allowing website publishers to opt-out of generative AI search features. The option will be tested in the U.K. then rolled out globally."
+  },
+  {
+    "title": "通过梯度优化和基于多组注意的神经网络架构进行逆临界实验设计",
+    "url": "https://arxiv.org/abs/2606.04033",
+    "content": "arXiv:2606.04033v1 公告类型：新 \n摘要：先进核反应堆设计和燃料概念的验证需要与目标技术具有高度中子相似性的关键实验。中子相似度通过相关系数 $c_k$ 进行量化，该系数捕获了 sha",
+    "publish_time": "Thu, 04 Ju",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.3
+    },
+    "collection_time": "2026-06-04T13:48:03.207396",
+    "fetch_method": "RSS",
+    "original_title": "Inverse Critical Experiment Design via Gradient Optimization and a Multigroup Attention-Based Neural Network Architecture",
+    "original_content": "arXiv:2606.04033v1 Announce Type: new \nAbstract: The validation of advanced nuclear reactor designs and fuel concepts requires critical experiments with high neutronic similarity to the target technology. Neutronic similarity is quantified by the correlation coefficient $c_k$, which captures the sha"
+  },
+  {
+    "title": "特朗普政府因人工智能监管而自相矛盾",
+    "url": "https://www.wired.com/story/the-white-house-is-at-war-with-itself-over-ai-regulation/",
+    "content": "唐纳德·特朗普否决了一项监管人工智能的行政命令。现在，政府官员和人工智能高管正在试图弄清楚是否还有什么可以重新拼凑起来的。",
+    "publish_time": "Tue, 02 Ju",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-06-04T13:48:03.207635",
+    "fetch_method": "RSS",
+    "original_title": "The Trump Administration Is at War With Itself Over AI Regulation",
+    "original_content": "Donald Trump killed an executive order to regulate AI. Now, administration officials and AI executives are trying to figure out if there’s anything left to piece back together."
+  },
+  {
+    "title": "随着人工智能迅速普及，数学家发出警告",
+    "url": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
+    "content": "",
+    "publish_time": "2026-06-03",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 209,
+      "comments": 251
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=48382052",
+    "score": {
+      "importance": 5,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.0
+    },
+    "collection_time": "2026-06-04T13:48:17.527003",
+    "original_title": "Mathematicians issue warning as AI rapidly gains ground",
+    "original_content": ""
+  },
+  {
+    "title": "斯坦福大学法学院研究中人工智能表现优于法学教授",
+    "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+    "content": "https://law.stanford.edu/wp-content/uploads/2026/06/salinas_...\n\n评论网址：https://news.ycombinator.com/item?id=48377761\n积分：399\n# 评论: 355",
+    "publish_time": "Tue, 02 Ju",
+    "source": "Hacker News Best",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-06-04T13:48:03.207064",
+    "fetch_method": "RSS",
+    "original_title": "AI outperforms law professors in Stanford Law study",
+    "original_content": "https://law.stanford.edu/wp-content/uploads/2026/06/salinas_...\n\nComments URL: https://news.ycombinator.com/item?id=48377761\nPoints: 399\n# Comments: 355"
+  },
+  {
+    "title": "DevDay 发布的 AMA",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/",
+    "content": "这是历史上成为建设者的最好时代。在 DevDay 2025 上，我们推出了下一代工具和模型，以帮助开发人员更快地编码、更可靠地构建代理并扩展他们的应用程序",
+    "publish_time": "2026-06-03",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-06-04T13:48:17.526855",
+    "original_title": "AMA on our DevDay Launches",
+    "original_content": "Its the best time in history to be a builder. At DevDay 2025, we introduced the next generation of tools and models to help developers code faster, build agents more reliably, and scale their apps in "
+  },
+  {
+    "title": "消息人士称，Lovable 与 Google Cloud 签署多年协议，将使用量提高 5 倍",
+    "url": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+    "content": "Lovable 和 Google 签署了一项扩大的多年期协议，其中涉及将 Lovable 在 Google Cloud 上的足迹扩大 5 倍，并扩大了对 Anthropic Claude 的访问范围。",
+    "publish_time": "Wed, 03 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-06-04T13:48:03.206438",
+    "fetch_method": "RSS",
+    "original_title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
+    "original_content": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude."
+  }
+]
