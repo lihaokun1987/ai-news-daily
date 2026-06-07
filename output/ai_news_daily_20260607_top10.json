@@ -1,0 +1,202 @@
+[
+  {
+    "title": "美国众议院议员发布禁止国家人工智能规则的法案草案",
+    "url": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/",
+    "content": "",
+    "publish_time": "2026-06-06",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 115,
+      "comments": 74
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=48425031",
+    "score": {
+      "importance": 9,
+      "authority": 5,
+      "spread": 7,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 7.1
+    },
+    "collection_time": "2026-06-07T13:14:56.916900",
+    "original_title": "US House lawmakers release draft bill to prohibit state AI rules",
+    "original_content": ""
+  },
+  {
+    "title": "下载：人工智能生成的诉讼和数据中心的虚拟发电厂",
+    "url": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/",
+    "content": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。法院如何应对人工智能引发的大量诉讼 科罗拉多州联邦治安法官 Maritza Braswell 法官大部分时间都待在法庭上，",
+    "publish_time": "Thu, 04 Ju",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-06-07T13:14:34.106925",
+    "fetch_method": "RSS",
+    "original_title": "The Download: AI-generated lawsuits and virtual power plants for data centers",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How courts are coping with a flood of AI-generated lawsuits Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado,"
+  },
+  {
+    "title": "法院如何应对人工智能引发的大量诉讼",
+    "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+    "content": "科罗拉多州联邦治安法官玛丽扎·布拉斯韦尔(Maritza Braswell)法官大部分时间都待在自己的办公室里，仔细审查由没有律师帮助的人撰写的成堆文件。他们中的许多人聘请不起律师，而另一些人的案件太弱或太小而无法引起人们的兴趣。她仔细地阅读每一本，记住",
+    "publish_time": "Thu, 04 Ju",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-06-07T13:14:34.106935",
+    "fetch_method": "RSS",
+    "original_title": "How courts are coping with a flood of AI-generated lawsuits",
+    "original_content": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can’t afford to hire a lawyer, and others have cases too weak or too small to interest one. She reads each one carefully, mind"
+  },
+  {
+    "title": "Airbnb 的布莱恩·切斯基 (Brian Chesky) 计划推出新的人工智能实验室",
+    "url": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+    "content": "这位 Airbnb 首席执行官去年表示，由于现有产品还没有完全准备好，因此尚未达成法学硕士合作伙伴关系。",
+    "publish_time": "Thu, 04 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-06-07T13:14:34.106862",
+    "fetch_method": "RSS",
+    "original_title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+    "original_content": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready."
+  },
+  {
+    "title": "OpenAI 推出锁定模式以保护敏感数据免受即时注入攻击",
+    "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+    "content": "即使使用锁定模式，ChatGPT 仍然可能容易受到提示注入的攻击，但目标是减少敏感数据在此过程中共享的可能性。",
+    "publish_time": "Sat, 06 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-06-07T13:14:34.106703",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+    "original_content": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process."
+  },
+  {
+    "title": "Meta 不断推迟向开发者发布新的人工智能模型",
+    "url": "https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c",
+    "content": "",
+    "publish_time": "2026-06-06",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 63,
+      "comments": 22
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=48424252",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 6,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 6.05
+    },
+    "collection_time": "2026-06-07T13:14:56.916934",
+    "original_title": "Meta Keeps Delaying the Release of Its New AI Model to Developers",
+    "original_content": ""
+  },
+  {
+    "title": "OpenAI、Anthropic 和微软的人工智能首席执行官搁置了竞争，警告国会人工智能使设计和制造生物武器变得太容易了",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1typovl/ai_ceos_from_openai_anthropic_and_microsoft_set/",
+    "content": "32 提交者 32 uEchoOfOppenheimer 链接 32 条评论",
+    "publish_time": "2026-06-06",
+    "source": "Reddit r/OpenAI",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-06-07T13:14:56.916705",
+    "original_title": "AI CEOs from OpenAI, Anthropic, and Microsoft set aside their rivalry to warn Congress AI is making it too easy to design and create bioweapons",
+    "original_content": "32 submitted by 32 uEchoOfOppenheimer link 32 comments"
+  },
+  {
+    "title": "OpenAI 和 Anthropic 可能是竞争对手，但投资者并没有选边站",
+    "url": "https://www.wired.com/story/openai-and-anthropic-may-be-rivals-but-their-investors-arent-choosing-sides/",
+    "content": "“你为什么不想同时加入百事可乐和可口可乐呢？”一位风险投资家说道。 “这里也一样。”",
+    "publish_time": "Fri, 05 Ju",
+    "source": "Wired AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-06-07T13:14:34.106466",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI and Anthropic May Be Rivals, but Investors Aren’t Picking Sides",
+    "original_content": "“Why wouldn’t you want to be in both Pepsi and Coke?” says one venture capitalist. “It’s the same here.”"
+  },
+  {
+    "title": "AI IPO 竞赛升温，DOGE 举报人起诉埃隆·马斯克，Instagram 遭到黑客攻击",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-ai-ipo-race-elon-musk-doge-whistleblower-instagram-hacking-incident/",
+    "content": "在《恐怖谷》中，我们深入探讨了顶级人工智能公司正在进行的 IPO 热潮，以至于一些房地产上市公司不仅寻找常规的旧现金，还寻找 Anthropic 股票。",
+    "publish_time": "Thu, 04 Ju",
+    "source": "Wired AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-06-07T13:14:34.106497",
+    "fetch_method": "RSS",
+    "original_title": "The AI IPO Race Heats Up, DOGE Whistleblower Sues Elon Musk, and Instagram Gets Hacked",
+    "original_content": "On Uncanny Valley, we dive into the IPO bonanza that the top AI companies are embarking on to the point where some real estate listings are looking for not just regular old cash, but Anthropic stock."
+  },
+  {
+    "title": "杰夫·贝佐斯正在资助一场对大脑“核心算法”的疯狂搜寻",
+    "url": "https://www.wired.com/story/jeff-bezos-is-funding-a-wild-hunt-for-the-brains-core-algorithm/",
+    "content": "Flourish 拥有 5 亿美元的资金和据报道的 25 亿美元的估值，希望通过将真实的神经元置于显微镜下来重塑人工智能。",
+    "publish_time": "Thu, 04 Ju",
+    "source": "Wired AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-06-07T13:14:34.106511",
+    "fetch_method": "RSS",
+    "original_title": "Jeff Bezos Is Funding a Wild Hunt for the Brain’s ‘Core Algorithm’",
+    "original_content": "With $500 million in funding and a reported $2.5 billion valuation, Flourish wants to reinvent AI by putting real neurons under the microscope."
+  }
+]
