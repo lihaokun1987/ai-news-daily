@@ -1,0 +1,208 @@
+[
+  {
+    "title": "通过视觉反馈进行自蒸馏策略优化：桥接代码和视觉工件",
+    "url": "https://arxiv.org/abs/2606.10334",
+    "content": "arXiv:2606.10334v1 公告类型：新 \n摘要：代码生成大型语言模型（LLM）通过编写由不可微分渲染器执行的程序，在观察渲染之前提交代码，越来越多地生成图表、网页和幻灯片等视觉工件。因此",
+    "publish_time": "Wed, 10 Ju",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-06-10T13:08:34.016019",
+    "fetch_method": "RSS",
+    "original_title": "Self-Distillation Policy Optimization via Visual Feedback: Bridging Code and Visual Artifacts",
+    "original_content": "arXiv:2606.10334v1 Announce Type: new \nAbstract: Code-generating large language models (LLMs) increasingly produce visual artifacts such as charts, web pages, and slides by writing programs that are executed by non-differentiable renderers, committing to code before observing the render. As a result"
+  },
+  {
+    "title": "下载：人工智能生成的诉讼和数据中心的虚拟发电厂",
+    "url": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/",
+    "content": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。法院如何应对人工智能引发的大量诉讼 科罗拉多州联邦治安法官 Maritza Braswell 法官大部分时间都待在法庭上，",
+    "publish_time": "Thu, 04 Ju",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-06-10T13:08:34.016121",
+    "fetch_method": "RSS",
+    "original_title": "The Download: AI-generated lawsuits and virtual power plants for data centers",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How courts are coping with a flood of AI-generated lawsuits Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado,"
+  },
+  {
+    "title": "GPT-2：发布太危险（2019）",
+    "url": "https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/",
+    "content": "",
+    "publish_time": "2026-06-09",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 263,
+      "comments": 110
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=48465269",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.35
+    },
+    "collection_time": "2026-06-10T13:08:51.305708",
+    "original_title": "GPT-2: Too Dangerous To Release (2019)",
+    "original_content": ""
+  },
+  {
+    "title": "WWDC 2026：有关 Siri AI、iOS 27、Apple Intelligence 等的所有内容均已公布",
+    "url": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+    "content": "苹果主要通过其长期存在的 Siri 助手来改善体验，与大多数其他公告一样，它也得到了人工智能的大力帮助。",
+    "publish_time": "Tue, 09 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-06-10T13:08:34.015362",
+    "fetch_method": "RSS",
+    "original_title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
+    "original_content": "Apple primarily made the case for an improved experience with its long-standing Siri assistant, which like most other announcements had a hefty helping of AI."
+  },
+  {
+    "title": "Anthropic 发行的《克劳德寓言与神话》",
+    "url": "https://www.reddit.com/r/artificial/comments/1u1e9e4/claude_fable_mythos_released_by_anthropic/",
+    "content": "今天我们推出了 Claude Fable 5，这是一款神话级 1 级型号，我们已将其打造为适合一般用途的安全产品。 《神鬼寓言 5s》的功能超过了我们推出的任何型号",
+    "publish_time": "2026-06-09",
+    "source": "Reddit r/artificial",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-06-10T13:08:51.305354",
+    "original_title": "Claude Fable & Mythos released by Anthropic",
+    "original_content": "From the press release Today were launching Claude Fable 5 a Mythos-class1 model that weve made safe for general use. Fable 5s capabilities exceed those of any model weve ever made generally available"
+  },
+  {
+    "title": "我要求 ChatGPT 给我看一张 60 年代《星际迷航》被禁剧集的屏幕截图，它提供了。",
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1u1m9vt/i_asked_chatgpt_to_show_me_a_screenshot_from_a/",
+    "content": "32 提交者 32 u755goodmorning 链接 32 条评论",
+    "publish_time": "2026-06-09",
+    "source": "Reddit r/ChatGPT",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-06-10T13:08:51.305459",
+    "original_title": "I asked ChatGPT to show me a screenshot from a banned episode of Star Trek the 60s and it delivered.",
+    "original_content": "32 submitted by 32 u755goodmorning link 32 comments"
+  },
+  {
+    "title": "克劳德寓言5",
+    "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+    "content": "",
+    "publish_time": "2026-06-09",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 1963,
+      "comments": 1524
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=48463808",
+    "score": {
+      "importance": 3,
+      "authority": 5,
+      "spread": 10,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-06-10T13:08:51.305629",
+    "original_title": "Claude Fable 5",
+    "original_content": ""
+  },
+  {
+    "title": "微软开源工具被黑客窃取AI开发者密码",
+    "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+    "content": "",
+    "publish_time": "2026-06-09",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 532,
+      "comments": 183
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=48457830",
+    "score": {
+      "importance": 3,
+      "authority": 5,
+      "spread": 10,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-06-10T13:08:51.305665",
+    "original_title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+    "original_content": ""
+  },
+  {
+    "title": "谷歌刚刚在人工智能订阅价格战中发出警告",
+    "url": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
+    "content": "谷歌刚刚大幅降低了享受其预算人工智能订阅套餐的价格。",
+    "publish_time": "Wed, 10 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-06-10T13:08:34.015282",
+    "fetch_method": "RSS",
+    "original_title": "Google just fired a warning shot in the AI subscription price wars",
+    "original_content": "Google just made it significantly cheaper to enjoy its budget AI subscription tier."
+  },
+  {
+    "title": "Justin Ernest 如何在没有传统风险投资基金的情况下向热门初创企业投资近 5 亿美元",
+    "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
+    "content": "这位 Sabertooth VC 创始人没有花一年的时间筹集正式的风险基金，而是利用有限合伙人网络来投资 Anthropic、Anduril 和 SpaceX 等初创公司。",
+    "publish_time": "Tue, 09 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-06-10T13:08:34.015304",
+    "fetch_method": "RSS",
+    "original_title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
+    "original_content": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX."
+  }
+]
