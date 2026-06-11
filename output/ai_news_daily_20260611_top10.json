@@ -1,0 +1,206 @@
+[
+  {
+    "title": "具有不完美二进制反馈的不安强强盗：PCL 可转位性分析和计算",
+    "url": "https://arxiv.org/abs/2606.11192",
+    "content": "arXiv:2606.11192v1 公告类型：新 \n摘要：我们研究了具有二元潜态和不完美二元反馈的不安强强盗，其动机是具有传感误差的机会主义频谱访问。对于相关的信念状态模型，我们开发了基于部分守恒定律（PCL）的分析和",
+    "publish_time": "Thu, 11 Ju",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-06-11T13:18:20.672161",
+    "fetch_method": "RSS",
+    "original_title": "Restless bandits with imperfect binary feedback: PCL-indexability analysis and computation",
+    "original_content": "arXiv:2606.11192v1 Announce Type: new \nAbstract: We study restless bandits with binary latent states and imperfect binary feedback, motivated by opportunistic spectrum access with sensing errors. For the associated belief-state model, we develop a partial conservation laws (PCL)-based analytical and"
+  },
+  {
+    "title": "新诉讼称，xAI 解雇了一名对 Grok 安全发出警报的工程师",
+    "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+    "content": "一名前 xAI 工程师正在起诉该公司和 SpaceX，声称他因在 SpaceX 历史性 IPO 前几天提出对 Grok 的人工智能安全担忧而被解雇。",
+    "publish_time": "Wed, 10 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-06-11T13:18:20.671623",
+    "fetch_method": "RSS",
+    "original_title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+    "original_content": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO."
+  },
+  {
+    "title": "Claude Desktop 在每次启动时都会生成 1.8 GB Hyper-V 虚拟机，甚至仅用于聊天用途",
+    "url": "https://github.com/anthropics/claude-code/issues/29045",
+    "content": "",
+    "publish_time": "2026-06-10",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 376,
+      "comments": 262
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=48479452",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.35
+    },
+    "collection_time": "2026-06-11T13:18:35.516535",
+    "original_title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
+    "original_content": ""
+  },
+  {
+    "title": "随着人工智能支出的继续，刚完成债券发行，亚马逊从银行借了 17.5B 美元",
+    "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+    "content": "为了跟上人工智能军备竞赛的步伐，公司正在耗费巨额资金。债务正在攀升。",
+    "publish_time": "Wed, 10 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-06-11T13:18:20.671635",
+    "fetch_method": "RSS",
+    "original_title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+    "original_content": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing."
+  },
+  {
+    "title": "Datadog 资深人士推出 AI 编码初创公司 Niteshift，以对抗大 AI 锁定",
+    "url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
+    "content": "AI 编码代理初创公司 Niteshift 已从天使投资人那里筹集了 700 万美元种子轮资金。它押注公司将希望获得权力，而不是与模型制造商锁定。",
+    "publish_time": "Wed, 10 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-06-11T13:18:20.671684",
+    "fetch_method": "RSS",
+    "original_title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
+    "original_content": "AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock-in with model makers."
+  },
+  {
+    "title": "人类撤回可能“破坏”人工智能研究人员的政策",
+    "url": "https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/",
+    "content": "在研究人员公开反对该政策后，该公司改变了方向，因为该政策将暗中限制克劳德开发竞争性人工智能模型的能力。",
+    "publish_time": "Thu, 11 Ju",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-06-11T13:18:20.672005",
+    "fetch_method": "RSS",
+    "original_title": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
+    "original_content": "The company changed course after researchers spoke out against the policy, which would have covertly limited Claude’s ability to develop competing AI models."
+  },
+  {
+    "title": "Anthropic 的新模型 Fable 将默默地阻碍法学硕士的工作 [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1u23f8p/anthropics_new_model_fable_will_silently_handicap/",
+    "content": "似乎他们设计了一些被广泛引用的具体限制，如下所示。鉴于最新模型加速自身发展的能力，我们实施了新的干预措施",
+    "publish_time": "2026-06-10",
+    "source": "Reddit r/MachineLearning",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-06-11T13:18:35.516347",
+    "original_title": "Anthropic's new model Fable will silently handicap work on LLMs [D]",
+    "original_content": "Seems like they have engineered some specific limitations that are widely cited as follows In light of the ability of recent models to accelerate their own development, weve implemented new interventi"
+  },
+  {
+    "title": "Meta 与 Reliance 签署印度首个人工智能数据中心协议",
+    "url": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
+    "content": "这个 168 兆瓦的设施将支持 Meta 的全球人工智能计算需求，并且可以随着时间的推移进行扩展。",
+    "publish_time": "Wed, 10 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.05
+    },
+    "collection_time": "2026-06-11T13:18:20.671732",
+    "fetch_method": "RSS",
+    "original_title": "Meta signs first AI data center deal in India with Reliance",
+    "original_content": "The 168-megawatt facility will support Meta's global AI computing needs and can be expanded over time."
+  },
+  {
+    "title": "0.01 欧元的银行转账可能会危及银行人工智能代理的安全",
+    "url": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/",
+    "content": "",
+    "publish_time": "2026-06-10",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 172,
+      "comments": 163
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=48476136",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 7,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.05
+    },
+    "collection_time": "2026-06-11T13:18:35.516607",
+    "original_title": "A €0.01 bank transfer could compromise a banking AI agent",
+    "original_content": ""
+  },
+  {
+    "title": "人工智能指数政策",
+    "url": "https://darioamodei.com/post/policy-on-the-ai-exponential",
+    "content": "",
+    "publish_time": "2026-06-10",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 145,
+      "comments": 201
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=48480719",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 7,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.05
+    },
+    "collection_time": "2026-06-11T13:18:35.516615",
+    "original_title": "Policy on the AI Exponential",
+    "original_content": ""
+  }
+]
