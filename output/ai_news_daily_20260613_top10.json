@@ -1,0 +1,204 @@
+[
+  {
+    "title": "Anthropic 的安全警告可能适得其反——政府已经终止了其最强大的人工智能",
+    "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+    "content": "Anthropic 并没有掩饰自己的挫败感。该公司在一篇博客文章中写道：“我们不同意，小范围潜在越狱的发现应该成为召回部署到数亿人的商业模式的理由。”",
+    "publish_time": "Sat, 13 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 8,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.9
+    },
+    "collection_time": "2026-06-13T13:12:47.195688",
+    "fetch_method": "RSS",
+    "original_title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+    "original_content": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a blog post."
+  },
+  {
+    "title": "Anthropic 表示，为了遵守美国政府的命令，《克劳德寓言 5》将下线",
+    "url": "https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/",
+    "content": "该公司在一篇博客文章中表示：“政府相信它已经意识到一种绕过或‘越狱’《神鬼寓言 5》的方法。”",
+    "publish_time": "Sat, 13 Ju",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-06-13T13:12:47.195558",
+    "fetch_method": "RSS",
+    "original_title": "Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order",
+    "original_content": "“The government believes it has become aware of a method of bypassing, or ‘jailbreaking’ Fable 5,” the company said in a blog post."
+  },
+  {
+    "title": "人类撤回可能“破坏”人工智能研究人员的政策",
+    "url": "https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/",
+    "content": "在研究人员公开反对该政策后，该公司改变了方向，因为该政策将暗中限制克劳德开发竞争性人工智能模型的能力。",
+    "publish_time": "Thu, 11 Ju",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-06-13T13:12:47.195670",
+    "fetch_method": "RSS",
+    "original_title": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
+    "original_content": "The company changed course after researchers spoke out against the policy, which would have covertly limited Claude’s ability to develop competing AI models."
+  },
+  {
+    "title": "Palantir 在针对瑞士调查杂志的法律诉讼中败诉",
+    "url": "https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979",
+    "content": "",
+    "publish_time": "2026-06-12",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 248,
+      "comments": 53
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=48509182",
+    "score": {
+      "importance": 5,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.0
+    },
+    "collection_time": "2026-06-13T13:13:02.878191",
+    "original_title": "Palantir loses legal challenge against Swiss investigative magazine",
+    "original_content": ""
+  },
+  {
+    "title": "根据美国政府指令，我们将暂停访问《神鬼寓言 5》",
+    "url": "https://twitter.com/ClaudeDevs/status/2065597942602531163",
+    "content": "文章网址：https://twitter.com/ClaudeDevs/status/2065597942602531163\n评论网址：https://news.ycombinator.com/item?id=48511168\n积分：82\n# 评论: 20",
+    "publish_time": "Sat, 13 Ju",
+    "source": "Hacker News Front Page",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-06-13T13:12:47.195254",
+    "fetch_method": "RSS",
+    "original_title": "As a result of a US Government directive, we are suspending access to Fable 5",
+    "original_content": "Article URL: https://twitter.com/ClaudeDevs/status/2065597942602531163\nComments URL: https://news.ycombinator.com/item?id=48511168\nPoints: 82\n# Comments: 20"
+  },
+  {
+    "title": "关于美国政府指示暂停访问《神鬼寓言 5》和《神话 5》的声明",
+    "url": "https://www.anthropic.com/news/fable-mythos-access",
+    "content": "文章网址：https://www.anthropic.com/news/fable-mythos-access\n评论网址：https://news.ycombinator.com/item?id=48511072\n积分：1528\n#评论：1165",
+    "publish_time": "Sat, 13 Ju",
+    "source": "Hacker News Front Page",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-06-13T13:12:47.195270",
+    "fetch_method": "RSS",
+    "original_title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
+    "original_content": "Article URL: https://www.anthropic.com/news/fable-mythos-access\nComments URL: https://news.ycombinator.com/item?id=48511072\nPoints: 1528\n# Comments: 1165"
+  },
+  {
+    "title": "AI 特工在尝试扫描 DN42 时让他们的运营商破产",
+    "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+    "content": "文章网址：https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/\n评论网址：https://news.ycombinator.com/item?id=48500012\n积分：1402\n#评论：508",
+    "publish_time": "Fri, 12 Ju",
+    "source": "Hacker News Best",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-06-13T13:12:47.195402",
+    "fetch_method": "RSS",
+    "original_title": "AI agent bankrupted their operator while trying to scan DN42",
+    "original_content": "Article URL: https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/\nComments URL: https://news.ycombinator.com/item?id=48500012\nPoints: 1402\n# Comments: 508"
+  },
+  {
+    "title": "在美国政府下令后，Anthropic 暂停所有用户对《克劳德寓言》和《神话》的访问",
+    "url": "https://www.reddit.com/r/artificial/comments/1u4ef3y/anthropic_suspends_access_to_claude_fable_and/",
+    "content": "httpswww.anthropic.comnewsfable-mythos-access 美国政府以国家安全当局为由，发布了一项出口管制指令，暂停任何外国人对《神鬼寓言 5》和《神话 5》的所有访问",
+    "publish_time": "2026-06-12",
+    "source": "Reddit r/artificial",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-06-13T13:13:02.877989",
+    "original_title": "Anthropic suspends access to Claude Fable and Mythos for all users after US government order",
+    "original_content": "httpswww.anthropic.comnewsfable-mythos-access The US government, citing national security authorities, has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any forei"
+  },
+  {
+    "title": "美国政府杀死《寓言5》：这就是发生的事情",
+    "url": "https://www.reddit.com/r/artificial/comments/1u4gtk8/us_government_kills_fable_5_heres_what_happened/",
+    "content": "Anthropic39 的两个最强大的模型《神鬼寓言 5》和《神话 5》今晚就黑了。由于已经有很多猜测，以下是实际确认的内容与未确认的内容。已确认的 Anthropic39",
+    "publish_time": "2026-06-12",
+    "source": "Reddit r/artificial",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-06-13T13:13:02.878005",
+    "original_title": "US Government Kills Fable 5: Here's What Happened",
+    "original_content": "Anthropic39s two most powerful models, Fable 5 and Mythos 5, went dark tonight. Since there39s a lot of speculation already, here39s what39s actually confirmed vs. what isn39t. Confirmed Anthropic39s "
+  },
+  {
+    "title": "开源人工智能必须获胜",
+    "url": "https://opensourceaimustwin.com/?share=v2",
+    "content": "",
+    "publish_time": "2026-06-12",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 509,
+      "comments": 165
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=48511908",
+    "score": {
+      "importance": 3,
+      "authority": 5,
+      "spread": 10,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-06-13T13:13:02.878157",
+    "original_title": "Open source AI must win",
+    "original_content": ""
+  }
+]
