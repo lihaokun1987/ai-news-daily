@@ -1,0 +1,200 @@
+[
+  {
+    "title": "Anthropic 的安全警告可能适得其反——政府已经终止了其最强大的人工智能",
+    "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+    "content": "Anthropic 并没有掩饰自己的挫败感。该公司在一篇博客文章中写道：“我们不同意，小范围潜在越狱的发现应该成为召回部署到数亿人的商业模式的理由。”",
+    "publish_time": "Sat, 13 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 8,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.9
+    },
+    "collection_time": "2026-06-14T13:22:37.025342",
+    "fetch_method": "RSS",
+    "original_title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+    "original_content": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a blog post."
+  },
+  {
+    "title": "由于 Anthropic 暂停使用新模型，印度对其人工智能的未来展开争论",
+    "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+    "content": "科技领袖们争论“人择事件”是否为印度的人工智能野心敲响了警钟。",
+    "publish_time": "Sun, 14 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-06-14T13:22:37.025292",
+    "fetch_method": "RSS",
+    "original_title": "As Anthropic suspends access to new models, India debates its AI future",
+    "original_content": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions."
+  },
+  {
+    "title": "Anthropic 表示，为了遵守美国政府的命令，《克劳德寓言 5》将下线",
+    "url": "https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/",
+    "content": "该公司在一篇博客文章中表示：“政府相信它已经意识到一种绕过或‘越狱’《神鬼寓言 5》的方法。”",
+    "publish_time": "Sat, 13 Ju",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-06-14T13:22:37.025183",
+    "fetch_method": "RSS",
+    "original_title": "Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order",
+    "original_content": "“The government believes it has become aware of a method of bypassing, or ‘jailbreaking’ Fable 5,” the company said in a blog post."
+  },
+  {
+    "title": "据报道，亚马逊首席执行官在政府镇压之前提出了人择模型担忧",
+    "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+    "content": "亚马逊首席执行官安迪·贾西 (Andy Jassy) 可能是安全担忧的根源，导致 Anthropic 于周五切断了两种模型的全球访问权限。",
+    "publish_time": "Sat, 13 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-06-14T13:22:37.025316",
+    "fetch_method": "RSS",
+    "original_title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+    "original_content": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday."
+  },
+  {
+    "title": "警察因在多起案件中使用人工智能“创造证据”而受到调查",
+    "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
+    "content": "",
+    "publish_time": "2026-06-13",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 274,
+      "comments": 133
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=48520807",
+    "score": {
+      "importance": 5,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.0
+    },
+    "collection_time": "2026-06-14T13:22:52.142142",
+    "original_title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
+    "original_content": ""
+  },
+  {
+    "title": "人口普查局发布的统计产品禁止注入噪音",
+    "url": "https://desfontain.es/blog/banning-noise.html",
+    "content": "文章网址：https://desfontain.es/blog/banning-noise.html\n评论网址：https://news.ycombinator.com/item?id=48517377\n积分：780\n# 评论: 482",
+    "publish_time": "Sat, 13 Ju",
+    "source": "Hacker News Best",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-06-14T13:22:37.025683",
+    "fetch_method": "RSS",
+    "original_title": "Noise infusion banned from statistical products published by Census Bureau",
+    "original_content": "Article URL: https://desfontain.es/blog/banning-noise.html\nComments URL: https://news.ycombinator.com/item?id=48517377\nPoints: 780\n# Comments: 482"
+  },
+  {
+    "title": "美国政府杀死《寓言5》：这就是发生的事情",
+    "url": "https://www.reddit.com/r/artificial/comments/1u4gtk8/us_government_kills_fable_5_heres_what_happened/",
+    "content": "Anthropic39 的两个最强大的模型《神鬼寓言 5》和《神话 5》今晚就黑了。由于已经有很多猜测，以下是实际确认的内容与未确认的内容。已确认的 Anthropic39",
+    "publish_time": "2026-06-13",
+    "source": "Reddit r/artificial",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-06-14T13:22:52.141959",
+    "original_title": "US Government Kills Fable 5: Here's What Happened",
+    "original_content": "Anthropic39s two most powerful models, Fable 5 and Mythos 5, went dark tonight. Since there39s a lot of speculation already, here39s what39s actually confirmed vs. what isn39t. Confirmed Anthropic39s "
+  },
+  {
+    "title": "在美国政府下令后，Anthropic 暂停所有用户对《克劳德寓言》和《神话》的访问",
+    "url": "https://www.reddit.com/r/artificial/comments/1u4ef3y/anthropic_suspends_access_to_claude_fable_and/",
+    "content": "httpswww.anthropic.comnewsfable-mythos-access 美国政府以国家安全当局为由，发布了一项出口管制指令，暂停任何外国人对《神鬼寓言 5》和《神话 5》的所有访问",
+    "publish_time": "2026-06-13",
+    "source": "Reddit r/artificial",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-06-14T13:22:52.141987",
+    "original_title": "Anthropic suspends access to Claude Fable and Mythos for all users after US government order",
+    "original_content": "httpswww.anthropic.comnewsfable-mythos-access The US government, citing national security authorities, has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any forei"
+  },
+  {
+    "title": "你可能不会从 SpaceX IPO 中致富",
+    "url": "https://www.wired.com/story/you-probably-wont-get-rich-off-the-spacex-ipo/",
+    "content": "该公司为散户投资者预留了异常多的股票。不过，专家表示，你只是得到了面包屑。",
+    "publish_time": "Fri, 12 Ju",
+    "source": "Wired AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-06-14T13:22:37.025235",
+    "fetch_method": "RSS",
+    "original_title": "You Probably Won’t Get Rich Off the SpaceX IPO",
+    "original_content": "The company has set aside an unusually high number of shares for retail investors. Still, experts say, you’re just getting the crumbs."
+  },
+  {
+    "title": "OpenAI 面临州总检察长的调查",
+    "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+    "content": "目前尚不清楚哪些州参与其中，但他们询问了从 OpenAI 的广告政策到健康数据处理的所有信息。",
+    "publish_time": "Sat, 13 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-06-14T13:22:37.025327",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI faces investigation from state attorneys general",
+    "original_content": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data."
+  }
+]
