@@ -1,0 +1,200 @@
+[
+  {
+    "title": "Anthropic 的安全警告可能适得其反——政府已经终止了其最强大的人工智能",
+    "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+    "content": "Anthropic 并没有掩饰自己的挫败感。该公司在一篇博客文章中写道：“我们不同意，小范围潜在越狱的发现应该成为召回部署到数亿人的商业模式的理由。”",
+    "publish_time": "Sat, 13 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 8,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.9
+    },
+    "collection_time": "2026-06-15T14:11:41.853661",
+    "fetch_method": "RSS",
+    "original_title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+    "original_content": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a blog post."
+  },
+  {
+    "title": "斯塔默宣布社交媒体宵禁和青少年聊天机器人禁令",
+    "url": "https://www.thetimes.com/uk/politics/article/social-media-ban-keir-starmer-qcmskxc5z",
+    "content": "",
+    "publish_time": "2026-06-14",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 15,
+      "comments": 1
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=48527826",
+    "score": {
+      "importance": 9,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.7
+    },
+    "collection_time": "2026-06-15T14:12:01.778456",
+    "original_title": "Starmer to announce social media curfew and chatbot ban for teenagers",
+    "original_content": ""
+  },
+  {
+    "title": "体重标准设定了摸索时间尺度：因果延迟定律",
+    "url": "https://arxiv.org/abs/2606.13753",
+    "content": "arXiv:2606.13753v1 公告类型：新 \n摘要：Grokking 是神经网络泛化的延迟开始，在神经网络拟合训练数据很久之后才出现。体重标准是否会导致这种延迟存在争议：一些研究报告了过渡时的关键标准，另一些研究则观察到",
+    "publish_time": "Mon, 15 Ju",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-06-15T14:11:41.854423",
+    "fetch_method": "RSS",
+    "original_title": "The Weight Norm Sets the Grokking Timescale: A Causal Delay Law",
+    "original_content": "arXiv:2606.13753v1 Announce Type: new \nAbstract: Grokking is the delayed onset of generalization in neural networks, arising long after they fit the training data. Whether the weight norm causes this delay is disputed: some studies report a critical norm at the transition, others observe grokking wi"
+  },
+  {
+    "title": "扩散策略优化而不偏离",
+    "url": "https://arxiv.org/abs/2606.13795",
+    "content": "arXiv:2606.13795v1 公告类型：新 \n摘要：强化学习后训练对于改进扩散策略变得越来越关键，但现有的扩散策略梯度方法往往不稳定，无法实现可靠的策略改进。我们将原因确定为双漂移现象：",
+    "publish_time": "Mon, 15 Ju",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-06-15T14:11:41.854458",
+    "fetch_method": "RSS",
+    "original_title": "Diffusion Policy Optimization without Drifting Apart",
+    "original_content": "arXiv:2606.13795v1 Announce Type: new \nAbstract: RL post-training has become increasingly pivotal for improving diffusion policies, but existing diffusion policy-gradient methods are often unstable and cannot achieve reliable policy improvement. We identify the cause as the double-drift phenomenon: "
+  },
+  {
+    "title": "UP-NRPA：基于用户画像的嵌套推出策略适应，用于在面向目标的对话系统中使用大型语言模型进行规划",
+    "url": "https://arxiv.org/abs/2606.13683",
+    "content": "arXiv:2606.13683v1 公告类型：新 \n摘要：为了解决当前对话策略规划方法难以动态适应不同用户特征的挑战，本文提出了一种基于用户画像的嵌套滚出策略适应（UP-NRPA）在线框架，具有Large Lang",
+    "publish_time": "Mon, 15 Ju",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-06-15T14:11:41.854557",
+    "fetch_method": "RSS",
+    "original_title": "UP-NRPA: User Portrait based Nested Rollout Policy Adaptation for Planning with Large Language Models in Goal-oriented Dialogue Systems",
+    "original_content": "arXiv:2606.13683v1 Announce Type: new \nAbstract: To address the challenge that current dialogue policy planning methods struggle to dynamically adapt to diverse user characteristics, this paper proposes a User Portrait based Nested Rollout Policy Adaptation (UP-NRPA) online framework with Large Lang"
+  },
+  {
+    "title": "由于 Anthropic 暂停使用新模型，印度对其人工智能的未来展开争论",
+    "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+    "content": "科技领袖们争论“人择事件”是否为印度的人工智能野心敲响了警钟。",
+    "publish_time": "Sun, 14 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-06-15T14:11:41.853600",
+    "fetch_method": "RSS",
+    "original_title": "As Anthropic suspends access to new models, India debates its AI future",
+    "original_content": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions."
+  },
+  {
+    "title": "据报道，亚马逊首席执行官在政府镇压之前提出了人择模型担忧",
+    "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+    "content": "亚马逊首席执行官安迪·贾西 (Andy Jassy) 可能是安全担忧的根源，导致 Anthropic 于周五切断了两种模型的全球访问权限。",
+    "publish_time": "Sat, 13 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-06-15T14:11:41.853629",
+    "fetch_method": "RSS",
+    "original_title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+    "original_content": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday."
+  },
+  {
+    "title": "Anthropic 表示，为了遵守美国政府的命令，《克劳德寓言 5》将下线",
+    "url": "https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/",
+    "content": "该公司在一篇博客文章中表示：“政府相信它已经意识到一种绕过或‘越狱’《神鬼寓言 5》的方法。”",
+    "publish_time": "Sat, 13 Ju",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-06-15T14:11:41.853995",
+    "fetch_method": "RSS",
+    "original_title": "Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order",
+    "original_content": "“The government believes it has become aware of a method of bypassing, or ‘jailbreaking’ Fable 5,” the company said in a blog post."
+  },
+  {
+    "title": "里约热内卢的“本土”法学硕士似乎是现有模式的合并",
+    "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+    "content": "",
+    "publish_time": "2026-06-14",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 322,
+      "comments": 178
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=48528371",
+    "score": {
+      "importance": 5,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.0
+    },
+    "collection_time": "2026-06-15T14:12:01.778364",
+    "original_title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+    "original_content": ""
+  },
+  {
+    "title": "当人工智能公司竞相上市时，还有谁参与其中？",
+    "url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+    "content": "初创公司正试图“乘上 SpaceX IPO 的浪潮”。",
+    "publish_time": "Sun, 14 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-06-15T14:11:41.853579",
+    "fetch_method": "RSS",
+    "original_title": "As AI companies race to go public, who else is along for the ride?",
+    "original_content": "Startups are trying to \"ride that SpaceX IPO wave.\""
+  }
+]
