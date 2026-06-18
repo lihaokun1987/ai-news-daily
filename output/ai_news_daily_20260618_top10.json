@@ -1,0 +1,205 @@
+[
+  {
+    "title": "DRIFT：通过符合策略的数据归因来细化指令数据",
+    "url": "https://arxiv.org/abs/2606.18307",
+    "content": "arXiv:2606.18307v1 公告类型：新 \n摘要：优化监督微调（SFT）的训练数据分布决定了大型语言模型（LLM）的能力。虽然现有的数据管理方法擅长在预算有限的情况下加速培训，但它们不太适合",
+    "publish_time": "Thu, 18 Ju",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-06-18T13:26:17.863268",
+    "fetch_method": "RSS",
+    "original_title": "DRIFT: Refining Instruction Data via On-Policy Data Attribution",
+    "original_content": "arXiv:2606.18307v1 Announce Type: new \nAbstract: Optimizing the training data distribution for Supervised Fine-Tuning (SFT) dictates the capability of Large Language Models (LLMs). While existing data curation methods excel at accelerating training under constrained budgets, they are less suited to "
+  },
+  {
+    "title": "美联社独家报道：伯尼·桑德斯公布了让公众直接拥有人工智能公司的计划",
+    "url": "https://www.bing.com/news/search?q=artificial+intelligence+2026-06-17",
+    "content": "参议员伯尼·桑德斯提出一项计划，让美国人拥有该国最大的人工智能公司的所有权股份……",
+    "publish_time": "2026-06-17",
+    "source": "AI News",
+    "score": {
+      "importance": 8,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.35
+    },
+    "collection_time": "2026-06-18T13:26:33.066284",
+    "original_title": "AP Exclusive: Bernie Sanders unveils plan to give the public direct ownership of AI companies",
+    "original_content": "Sen. Bernie Sanders is proposing a plan to give Americans ownership stakes in the countrys largest artificial intelligence companies ..."
+  },
+  {
+    "title": "在推出昂贵的 AR 眼镜后，Snap 的股价暴跌",
+    "url": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
+    "content": "Snap 期待已久的智能眼镜首次亮相并没有给该公司的股票带来奇迹。",
+    "publish_time": "Wed, 17 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-06-18T13:26:17.862047",
+    "fetch_method": "RSS",
+    "original_title": "After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive",
+    "original_content": "Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock."
+  },
+  {
+    "title": "美国司法部律师在全国有色人种协进会诉讼中辩称 xAI 对国家安全“至关重要”",
+    "url": "https://www.wired.com/story/doj-lawyers-argue-xai-vital-national-security-naacp-lawsuit/",
+    "content": "为了驳回有关 xAI 污染燃气轮机的诉讼，司法部声称该公司是包括伊朗战争在内的军事行动不可或缺的一部分。",
+    "publish_time": "Tue, 16 Ju",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-06-18T13:26:17.862646",
+    "fetch_method": "RSS",
+    "original_title": "DOJ Lawyers Argue xAI Is ‘Vital’ for National Security in NAACP Lawsuit",
+    "original_content": "In a bid to dismiss a lawsuit over xAI’s polluting gas turbines, the Justice Department claimed the company is integral to military operations—including the Iran War."
+  },
+  {
+    "title": "在共享工作空间中寻找人机协作的协同作用",
+    "url": "https://arxiv.org/abs/2606.18413",
+    "content": "arXiv:2606.18413v1 公告类型：新 \n摘要：自动化人工智能代理的能力越来越强，但许多科学和专业任务需要人类判断和背景专业知识。我们研究共享工作空间的人类人工智能团队，其中人工智能代理和人类协作者必须协调职责",
+    "publish_time": "Thu, 18 Ju",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-06-18T13:26:17.862701",
+    "fetch_method": "RSS",
+    "original_title": "Searching for Synergy in Shared Workspace Human-AI Collaboration",
+    "original_content": "arXiv:2606.18413v1 Announce Type: new \nAbstract: Automated AI agents are increasingly capable, yet many scientific and professional tasks require human judgment and contextual expertise. We study shared-workspace human-AI teams, where AI agents and human collaborators must coordinate responsibilitie"
+  },
+  {
+    "title": "推出 HN：Adam (YC W25) – 开源 AI CAD",
+    "url": "https://github.com/Adam-CAD/CADAM",
+    "content": "",
+    "publish_time": "2026-06-17",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 172,
+      "comments": 84
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=48572553",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 7,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.05
+    },
+    "collection_time": "2026-06-18T13:26:33.066844",
+    "original_title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+    "original_content": ""
+  },
+  {
+    "title": "尽管有 130 万个签名，“停止杀戮游戏”仍未能获得欧盟法律的支持",
+    "url": "https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/",
+    "content": "文章网址：https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/\n评论网址：https://news.ycombinator.com/item?id=48564696\n积分：351\n# 评论：285",
+    "publish_time": "Wed, 17 Ju",
+    "source": "Hacker News Best",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-06-18T13:26:17.863511",
+    "fetch_method": "RSS",
+    "original_title": "Stop Killing Games fails to secure EU law despite 1.3M signatures",
+    "original_content": "Article URL: https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/\nComments URL: https://news.ycombinator.com/item?id=48564696\nPoints: 351\n# Comments: 285"
+  },
+  {
+    "title": "有人还记得 Sunbuddy AI 在因 OpenAI 诉讼而从互联网上完全消失之前吗？",
+    "url": "https://www.reddit.com/r/artificial/comments/1u8v3r0/anyone_remember_sunbuddy_ai_before_it_completely/",
+    "content": "我清楚地记得去年年底大约 2025 年 12 月访问了像 sunbuddy.ai 这样的网站，它是淡黄色的。它得到了我所有的代码、文档的样式等等，对吧。与其他人工智能系统不同，",
+    "publish_time": "2026-06-17",
+    "source": "Reddit r/artificial",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-06-18T13:26:33.066654",
+    "original_title": "Anyone remember Sunbuddy AI before it completely vanished from the internet from the OpenAI lawsuit?",
+    "original_content": "I vividly remember going to a website like sunbuddy.ai late last year at like December 2025 and it being yellowish. It got all my code, style for documents, and so on, right. Unlike other AI systems, "
+  },
+  {
+    "title": "百分之六十的美国消费者表示品牌信息中的“人工智能”令人厌烦",
+    "url": "https://wpvip.com/future-of-the-web-2026/",
+    "content": "",
+    "publish_time": "2026-06-17",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 1025,
+      "comments": 535
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=48569278",
+    "score": {
+      "importance": 3,
+      "authority": 5,
+      "spread": 10,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-06-18T13:26:33.066780",
+    "original_title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
+    "original_content": ""
+  },
+  {
+    "title": "GLM-5.2 是人工分析领域新的领先开放权重模型",
+    "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
+    "content": "",
+    "publish_time": "2026-06-17",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 826,
+      "comments": 400
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=48567759",
+    "score": {
+      "importance": 3,
+      "authority": 5,
+      "spread": 10,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-06-18T13:26:33.066792",
+    "original_title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+    "original_content": ""
+  }
+]
