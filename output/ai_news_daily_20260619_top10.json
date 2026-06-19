@@ -1,0 +1,190 @@
+[
+  {
+    "title": "DeXposure-Claw：一款 DeFi 风险监管代理系统",
+    "url": "https://arxiv.org/abs/2606.19501",
+    "content": "arXiv:2606.19501v1 公告类型：新 \n摘要：去中心化金融使监管者面临快速变化的网络信用风险。通用的法学硕士代理人不太适合这种环境：他们过度阅读了薄弱的证据并建议采取高风险的干预措施，而现有的评估没有提供监管机构",
+    "publish_time": "Fri, 19 Ju",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-06-19T14:05:09.968845",
+    "fetch_method": "RSS",
+    "original_title": "DeXposure-Claw: An Agentic System for DeFi Risk Supervision",
+    "original_content": "arXiv:2606.19501v1 Announce Type: new \nAbstract: Decentralized finance exposes supervisors to fast-moving, networked credit risks. General-purpose LLM agents fit this setting poorly: they over-read weak evidence and recommend high-stakes interventions, while existing evaluations offer no regulator-a"
+  },
+  {
+    "title": "Welkruvozan 于 2026 年推出先进的人工智能交易平台，打造智能投资的未来",
+    "url": "https://www.bing.com/news/search?q=AI+machine+learning+2026-06-18",
+    "content": "随着人工智能继续改变全球各行各业，金融技术行业正在经历迄今为止最重大的变革之一。 2026年，投资者越来越...",
+    "publish_time": "2026-06-18",
+    "source": "AI News",
+    "score": {
+      "importance": 8,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.35
+    },
+    "collection_time": "2026-06-19T14:05:25.121510",
+    "original_title": "Welkruvozan Launches Advanced AI Trading Platform for the Future of Intelligent Investing in 2026",
+    "original_content": "As artificial intelligence continues to transform industries worldwide, the financial technology sector is experiencing one of its most significant evolutions yet. In 2026, investors are increasingly ..."
+  },
+  {
+    "title": "人工智能数据中心刚刚获得了政府规定的通往电网的快速通道",
+    "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
+    "content": "FERC 要求电网运营商为数据中心提供互连的快速通道，但未能解决电力供应短缺问题。",
+    "publish_time": "Thu, 18 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-06-19T14:05:09.968261",
+    "fetch_method": "RSS",
+    "original_title": "AI data centers just got a government-mandated fast lane to the grid",
+    "original_content": "FERC told grid operators to give data centers a fast lane for interconnections, but it failed to address electricity supply shortages."
+  },
+  {
+    "title": "“粉雄救兵”生活教练卡拉莫·布朗推出了 Kē，一款以他的人工智能数字克隆为特色的健康应用程序",
+    "url": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
+    "content": "在花了一年半的时间专注于自己的旅程——从健身和营养到冥想、清醒、人际关系和个人成长——布朗希望帮助其他人也做同样的事情。",
+    "publish_time": "Thu, 18 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-06-19T14:05:09.968290",
+    "fetch_method": "RSS",
+    "original_title": "‘Queer Eye’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
+    "original_content": "After spending a year and a half focusing on his own journey — from fitness and nutrition to meditation, sobriety, relationships, and personal growth — Brown wants to help others do the same."
+  },
+  {
+    "title": "在推出昂贵的 AR 眼镜后，Snap 的股价暴跌",
+    "url": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
+    "content": "Snap 期待已久的智能眼镜首次亮相并没有给该公司的股票带来奇迹。",
+    "publish_time": "Wed, 17 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-06-19T14:05:09.968344",
+    "fetch_method": "RSS",
+    "original_title": "After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive",
+    "original_content": "Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock."
+  },
+  {
+    "title": "紧急调整",
+    "url": "https://arxiv.org/abs/2606.19527",
+    "content": "arXiv:2606.19527v1 公告类型：新 \n摘要：大型语言模型（LLM）能否辨别自己的输出何时与人类道德不一致？他们能自我纠正吗？我们赋予 LLM 良心一步，审查其自身的推理和输出，并用 ali 来扩展训练损失",
+    "publish_time": "Fri, 19 Ju",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-06-19T14:05:09.968882",
+    "fetch_method": "RSS",
+    "original_title": "Emergent Alignment",
+    "original_content": "arXiv:2606.19527v1 Announce Type: new \nAbstract: Can Large Language Models (LLMs) discern when their own outputs are misaligned with human ethics? And can they self-correct? We endow an LLM with a conscience step that reviews its own reasoning and outputs, and we extend the training loss with an ali"
+  },
+  {
+    "title": "类人的自主性源于自我游戏和少量人类数据",
+    "url": "https://arxiv.org/abs/2606.19370",
+    "content": "arXiv:2606.19370v1 公告类型：新 \n摘要：自对弈强化学习最近成为一种在没有任何人类数据的情况下训练驾驶策略的方法。它使用廉价的大规模模拟来替代昂贵的大规模人类驾驶演示。这种方法的一个关键限制",
+    "publish_time": "Fri, 19 Ju",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-06-19T14:05:09.969063",
+    "fetch_method": "RSS",
+    "original_title": "Human-like autonomy emerges from self-play and a pinch of human data",
+    "original_content": "arXiv:2606.19370v1 Announce Type: new \nAbstract: Self-play reinforcement learning has recently emerged as a way to train driving policies without any human data. It uses cheap, large-scale simulations to substitute expensive, large-scale human driving demonstrations. A key limitation of this approac"
+  },
+  {
+    "title": "OpenAI 在 IPO 前夕带来了一些重磅炸弹",
+    "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+    "content": "OpenAI 在 IPO 之前不断壮大，同一周引进了来自 Google DeepMind 的 Transformer 联合发明人 Noam Shazeer 和前特朗普人工智能政策官员 Dean Ball。",
+    "publish_time": "Thu, 18 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-06-19T14:05:09.968223",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+    "original_content": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week."
+  },
+  {
+    "title": "3 名亚马逊员工表示，他们因公开谈论数据中心而受到调查",
+    "url": "https://www.wired.com/story/amazon-workers-under-internal-investigation-after-speaking-out-about-data-centers/",
+    "content": "这些软件工程师向西雅图民权办公室提出投诉，指责亚马逊对他们表达个人政治信仰进行非法报复。",
+    "publish_time": "Thu, 18 Ju",
+    "source": "Wired AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-06-19T14:05:09.968652",
+    "fetch_method": "RSS",
+    "original_title": "3 Amazon Workers Say They’re Under Investigation for Speaking Out About Data Centers",
+    "original_content": "The software engineers filed a complaint with Seattle’s civil rights office accusing Amazon of illegally retaliating against them for expressing their personal political beliefs."
+  },
+  {
+    "title": "在明尼苏达州国会大厦，由于工会的反对，行业停止了对大型数据中心的新规定",
+    "url": "https://www.mprnews.org/story/2026/06/12/new-data-center-regulations-in-minnesota-halted-after-pushback-from-unions-industry",
+    "content": "",
+    "publish_time": "2026-06-18",
+    "source": "The Verge AI",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-06-19T14:05:25.121398",
+    "original_title": "At Minnesota Capitol, pushback from unions, industry halted new regulations on massive data centers",
+    "original_content": ""
+  }
+]
