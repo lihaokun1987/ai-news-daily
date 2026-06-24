@@ -1,0 +1,195 @@
+[
+  {
+    "title": "超越轨迹模仿：LLM 推理的策略引导策略优化",
+    "url": "https://arxiv.org/abs/2606.24064",
+    "content": "arXiv:2606.24064v1 公告类型：新 \n摘要：从强语言模型到弱语言模型提炼推理能力通常涉及模仿特定的解决方案轨迹，有效地转移要回答的内容而不是如何推理。这种轨迹级模仿鼓励记忆",
+    "publish_time": "Wed, 24 Ju",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-06-24T12:56:35.275905",
+    "fetch_method": "RSS",
+    "original_title": "Beyond Trajectory Imitation: Strategy-Guided Policy Optimization for LLM Reasoning",
+    "original_content": "arXiv:2606.24064v1 Announce Type: new \nAbstract: Distilling reasoning capabilities from strong to weak language models typically involves imitating specific solution trajectories, effectively transferring what to answer rather than how to reason. This trajectory-level imitation encourages memorizati"
+  },
+  {
+    "title": "OpenAI 推出新举措帮助查找和修补开源错误",
+    "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+    "content": "OpenAI 正在利用人工智能帮助开源社区更好地保护自己。",
+    "publish_time": "Tue, 23 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-06-24T12:56:35.275162",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI launches new initiative to help find and patch open source bugs",
+    "original_content": "OpenAI is using AI to help the open source community better protect itself."
+  },
+  {
+    "title": "Quantrate 推出免费人工智能交易机器人，以简化 2026 年自动化股票和加密货币投资",
+    "url": "https://www.bing.com/news/search?q=AI+machine+learning+2026-06-23",
+    "content": "Quantrate 于 2026 年推出免费 AI 交易机器人，以简化自动化股票和加密货币投资。QuantRate 于 2026 年推出免费 AI 交易机器人，以简化自动化股票和加密货币...",
+    "publish_time": "2026-06-23",
+    "source": "AI News",
+    "score": {
+      "importance": 8,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.35
+    },
+    "collection_time": "2026-06-24T12:56:50.378194",
+    "original_title": "Quantrate Launches Free AI Trading Bot To Simplify Automated Stock And Crypto Investing In 2026",
+    "original_content": "Quantrate Launches Free AI Trading Bot To Simplify Automated Stock And Crypto Investing In 2026. QuantRate launches a free AI trading bot in 2026 to simplify automated stock and cryptocurrency ..."
+  },
+  {
+    "title": "我们有本地模型免费对 OpenClaw 存储库进行分类！*",
+    "url": "https://huggingface.co/blog/local-models-pr-triage",
+    "content": "",
+    "publish_time": "Mon, 22 Ju",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-06-24T12:56:35.275330",
+    "fetch_method": "RSS",
+    "original_title": "We got local models to triage the OpenClaw repo for FREE!*",
+    "original_content": ""
+  },
+  {
+    "title": "OpenAI 全面致力于修补开源漏洞，挑战 Anthropic 的神话",
+    "url": "https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/",
+    "content": "出于对 AI 模型网络安全能力的担忧，OpenAI 发布了 GPT-5.5-Cyber​​ 的改进版本及其修复开源软件错误的“修补地球”计划。",
+    "publish_time": "Mon, 22 Ju",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-06-24T12:56:35.275471",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic’s Mythos",
+    "original_content": "Amid concerns about AI models’ cybersecurity capabilities, OpenAI revealed an improved version of GPT-5.5-Cyber and its “Patch the Planet” initiative to fix open-source software bugs."
+  },
+  {
+    "title": "SpaceX 与开源人工智能实验室 Reflection AI 签署计算协议",
+    "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
+    "content": "从 2026 年 7 月 1 日到 2029 年，Reflection AI 每月支付 1.5 亿美元，以便立即使用 Nvidia 最新的 GB300 AI 芯片以及位于田纳西州孟菲斯附近的 SpaceX Colossus 2 数据中心的支持硬件。",
+    "publish_time": "Mon, 22 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.05
+    },
+    "collection_time": "2026-06-24T12:56:35.275246",
+    "fetch_method": "RSS",
+    "original_title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
+    "original_content": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colossus 2 data center near Memphis, Tennessee."
+  },
+  {
+    "title": "人工智能的负担能力危机",
+    "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
+    "content": "",
+    "publish_time": "2026-06-23",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 269,
+      "comments": 355
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=48646276",
+    "score": {
+      "importance": 5,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.0
+    },
+    "collection_time": "2026-06-24T12:56:50.378523",
+    "original_title": "AI's Affordability Crisis",
+    "original_content": ""
+  },
+  {
+    "title": "最新清单：2026 年主要科技公司裁员，雇主提到人工智能",
+    "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+    "content": "按时间倒序顺序观察今年宣布大幅裁员的大型科技公司，其中人工智能是一个明确的因素。",
+    "publish_time": "Tue, 23 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-06-24T12:56:35.275150",
+    "fetch_method": "RSS",
+    "original_title": "The running list: major tech layoffs in 2026 where employers cited AI",
+    "original_content": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor."
+  },
+  {
+    "title": "AI 芯片制造商 Groq 确认筹集 6.5 亿美元资金，并在 Nvidia 完成 200 亿美元非收购聘用交易后进行人员重组",
+    "url": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+    "content": "在完成一项非收购雇佣交易后，人工智能公司会做什么？ Groq 筹集了资金，正在向 Neocloud 业务倾斜，并正在招聘新的高管。",
+    "publish_time": "Mon, 22 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-06-24T12:56:35.275193",
+    "fetch_method": "RSS",
+    "original_title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
+    "original_content": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs."
+  },
+  {
+    "title": "谷歌 DeepMind 通过 A24 交易押注 7500 万美元押注好莱坞人工智能的未来",
+    "url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+    "content": "Google DeepMind 和 A24 正在联手打造人工智能电影制作工具。",
+    "publish_time": "Mon, 22 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-06-24T12:56:35.275223",
+    "fetch_method": "RSS",
+    "original_title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
+    "original_content": "Google DeepMind and A24 are teaming up to build AI filmmaking tools."
+  }
+]
