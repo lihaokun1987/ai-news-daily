@@ -1,0 +1,198 @@
+[
+  {
+    "title": "OpenAI 推出首款定制芯片，由 Broadcom 制造",
+    "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+    "content": "",
+    "publish_time": "2026-06-24",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 621,
+      "comments": 356
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=48663324",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 10,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 6.95
+    },
+    "collection_time": "2026-06-25T12:56:05.331745",
+    "original_title": "OpenAI unveils its first custom chip, built by Broadcom",
+    "original_content": ""
+  },
+  {
+    "title": "OpenAI 推出首款芯片，作为 Broadcom 交易的一部分，致力于“构建完整堆栈”",
+    "url": "https://www.bing.com/news/search?q=ChatGPT+OpenAI+2026-06-24",
+    "content": "在宣布定制芯片交易八个月后，OpenAI 和 Broadcom 公布了他们的第一个联合项目 Jalapeo。",
+    "publish_time": "2026-06-24",
+    "source": "AI News",
+    "score": {
+      "importance": 8,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 6.55
+    },
+    "collection_time": "2026-06-25T12:56:05.331483",
+    "original_title": "OpenAI unveils first chip as part of Broadcom deal in effort to 'build the full stack'",
+    "original_content": "Eight months after announcing a custom chip deal, OpenAI and Broadcom are revealing their first joint project Jalapeño."
+  },
+  {
+    "title": "超越轨迹模仿：LLM 推理的策略引导策略优化",
+    "url": "https://arxiv.org/abs/2606.24064",
+    "content": "arXiv:2606.24064v1 公告类型：新 \n摘要：从强语言模型到弱语言模型提炼推理能力通常涉及模仿特定的解决方案轨迹，有效地转移要回答的内容而不是如何推理。这种轨迹级模仿鼓励记忆",
+    "publish_time": "Thu, 25 Ju",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-06-25T12:55:49.111984",
+    "fetch_method": "RSS",
+    "original_title": "Beyond Trajectory Imitation: Strategy-Guided Policy Optimization for LLM Reasoning",
+    "original_content": "arXiv:2606.24064v1 Announce Type: new \nAbstract: Distilling reasoning capabilities from strong to weak language models typically involves imitating specific solution trajectories, effectively transferring what to answer rather than how to reason. This trajectory-level imitation encourages memorizati"
+  },
+  {
+    "title": "守恒定律何时能超越习得的表征？潜在世界模型的认证视野",
+    "url": "https://arxiv.org/abs/2606.24945",
+    "content": "arXiv:2606.24945v1 公告类型：新 \n摘要：我们提出一个关于物理世界模型的表示学习问题：在模型学习潜在表示后，守恒定律何时仍然是可证明的？经过认证的地平线范围——提前从可测量的模型缺陷中得出——有多少st",
+    "publish_time": "Thu, 25 Ju",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-06-25T12:55:49.112159",
+    "fetch_method": "RSS",
+    "original_title": "When Do Conservation Laws Survive Learned Representations? Certified Horizons for Latent World Models",
+    "original_content": "arXiv:2606.24945v1 Announce Type: new \nAbstract: We ask a representation-learning question about physical world models: when does a conservation law remain certifiable after a model learns a latent representation? A certified horizon bounds -- in advance, from measurable model defects -- how many st"
+  },
+  {
+    "title": "OpenAI 全面致力于修补开源漏洞，挑战 Anthropic 的神话",
+    "url": "https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/",
+    "content": "出于对 AI 模型网络安全能力的担忧，OpenAI 发布了 GPT-5.5-Cyber​​ 的改进版本及其修复开源软件错误的“修补地球”计划。",
+    "publish_time": "Mon, 22 Ju",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-06-25T12:55:49.111725",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic’s Mythos",
+    "original_content": "Amid concerns about AI models’ cybersecurity capabilities, OpenAI revealed an improved version of GPT-5.5-Cyber and its “Patch the Planet” initiative to fix open-source software bugs."
+  },
+  {
+    "title": "我们有本地模型免费对 OpenClaw 存储库进行分类！*",
+    "url": "https://huggingface.co/blog/local-models-pr-triage",
+    "content": "",
+    "publish_time": "Mon, 22 Ju",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-06-25T12:55:49.111812",
+    "fetch_method": "RSS",
+    "original_title": "We got local models to triage the OpenClaw repo for FREE!*",
+    "original_content": ""
+  },
+  {
+    "title": "人工智能网络数据基础设施层的出现",
+    "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+    "content": "人工智能正在蓬勃发展。每天都会出现新的用例。为了充分利用该技术的潜力，企业需要大规模数据。但在许多情况下，相关信息是被屏蔽或非结构化的，这限制了人工智能模型的使用。”要理解这一挑战，请考虑以下基础：",
+    "publish_time": "Wed, 24 Ju",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-06-25T12:55:49.111405",
+    "fetch_method": "RSS",
+    "original_title": "The emergence of the web data infrastructure layer for AI",
+    "original_content": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models.&#160; To understand this challenge, consider the foundati"
+  },
+  {
+    "title": "OpenAI 和 Broadcom 推出 LLM 优化的推理芯片",
+    "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/",
+    "content": "",
+    "publish_time": "2026-06-24",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 141,
+      "comments": 1
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=48659257",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 7,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.05
+    },
+    "collection_time": "2026-06-25T12:56:05.331824",
+    "original_title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+    "original_content": ""
+  },
+  {
+    "title": "Agility Robotics 计划通过 SPAC 以 2.5B 美元的交易上市",
+    "url": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
+    "content": "Agility Robotics 是一家人形机器人初创公司，于 2015 年从俄勒冈州立大学分离出来，预计将产生 6.2 亿美元的收益。",
+    "publish_time": "Wed, 24 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-06-25T12:55:49.111544",
+    "fetch_method": "RSS",
+    "original_title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
+    "original_content": "Agility Robotics, the humanoid robotics startup that spun out of Oregon State University in 2015, expects to generate $620 million in proceeds."
+  },
+  {
+    "title": "OpenAI 刚刚宣布推出首款定制芯片，帮助 ChatGPT 更好地运行",
+    "url": "https://www.bing.com/news/search?q=ChatGPT+OpenAI+2026-06-24",
+    "content": "OpenAI 周三宣布推出首款定制人工智能芯片，此举旨在超越消费产品，成为人工智能基础设施领域的参与者。",
+    "publish_time": "2026-06-24",
+    "source": "AI News",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-06-25T12:56:05.331470",
+    "original_title": "OpenAI just announced its first custom chip to help ChatGPT run better",
+    "original_content": "OpenAI on Wednesday announced its first custom AI chip in a step towards expanding beyond consumer products to become a player in AI infrastructure."
+  }
+]
