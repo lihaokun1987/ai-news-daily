@@ -1,0 +1,196 @@
+[
+  {
+    "title": "IBM 推出芯片技术，有助于将摩尔定律再延长十年",
+    "url": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
+    "content": "IBM 在指甲盖大小的区域上构建了一种新型原型芯片，其中包含约 1000 亿个晶体管，其密度是该公司之前于 2021 年宣布的最先进技术的两倍。该设计可能为未来几年更快、更节能的计算机铺平道路。",
+    "publish_time": "Thu, 25 Ju",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 9,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 7.5
+    },
+    "collection_time": "2026-06-26T13:00:52.039552",
+    "fetch_method": "RSS",
+    "original_title": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
+    "original_content": "IBM has built a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company’s previous state-of-the-art technology announced in 2021. The design could pave the way for faster and more energy efficient computers for years to co"
+  },
+  {
+    "title": "OpenAI 应美国政府要求错开发布 GPT 5.6",
+    "url": "https://velo.xyz/news/1908",
+    "content": "",
+    "publish_time": "2026-06-25",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 43,
+      "comments": 19
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=48678789",
+    "score": {
+      "importance": 9,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.7
+    },
+    "collection_time": "2026-06-26T13:01:07.043285",
+    "original_title": "OpenAI to Stagger Release of GPT 5.6 at Request of U.S. Government",
+    "original_content": ""
+  },
+  {
+    "title": "下载：欧洲热浪袭击电网，IBM 芯片瞄准摩尔定律",
+    "url": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/",
+    "content": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。 Europe’s extreme heat is shutting down power plants Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits",
+    "publish_time": "Thu, 25 Ju",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-06-26T13:00:52.039538",
+    "fetch_method": "RSS",
+    "original_title": "The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Europe’s extreme heat is shutting down power plants Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits"
+  },
+  {
+    "title": "出于安全考虑，白宫要求 OpenAI 放慢新模型的发布速度",
+    "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+    "content": "据报道，penAI 计划与一组选定的合作伙伴而不是向更广泛的公众分享其最新模型 GPT 5.6。原因是：特朗普政府告诉它这样做。",
+    "publish_time": "Thu, 25 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-06-26T13:00:52.039117",
+    "fetch_method": "RSS",
+    "original_title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+    "original_content": "penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason: the Trump administration told it to."
+  },
+  {
+    "title": "生成对抗网络的神经架构搜索：全面回顾和批判性分析",
+    "url": "https://arxiv.org/abs/2606.26169",
+    "content": "arXiv:2606.26169v1 公告类型：新 \n摘要：神经架构搜索（NAS）已成为优化生成对抗网络（GAN）设计的关键技术，可自动搜索有效架构，同时解决手动设计中固有的挑战。这个p",
+    "publish_time": "Fri, 26 Ju",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.3
+    },
+    "collection_time": "2026-06-26T13:00:52.039884",
+    "fetch_method": "RSS",
+    "original_title": "Neural Architecture Search for Generative Adversarial Networks: A Comprehensive Review and Critical Analysis",
+    "original_content": "arXiv:2606.26169v1 Announce Type: new \nAbstract: Neural Architecture Search (NAS) has emerged as a pivotal technique in optimizing the design of Generative Adversarial Networks (GANs), automating the search for effective architectures while addressing the challenges inherent in manual design. This p"
+  },
+  {
+    "title": "我们有本地模型免费对 OpenClaw 存储库进行分类！*",
+    "url": "https://huggingface.co/blog/local-models-pr-triage",
+    "content": "",
+    "publish_time": "Mon, 22 Ju",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-06-26T13:00:52.039719",
+    "fetch_method": "RSS",
+    "original_title": "We got local models to triage the OpenClaw repo for FREE!*",
+    "original_content": ""
+  },
+  {
+    "title": "OpenAI 推出首款定制芯片，由 Broadcom 制造",
+    "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+    "content": "公告：https://openai.com/index/openai-broadcom-jalapeno-inference-...https://decrypt.co/371971/openai-broadcom-jalapeno-first-cus...https://www.cnn.com/2026/06/24/tech/openai-broadcom-jalapeno...\n\n评论网址：https://news.ycombinator.com/item?id=48663324\n积分：806\n# 评论：459",
+    "publish_time": "Wed, 24 Ju",
+    "source": "Hacker News Best",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.15
+    },
+    "collection_time": "2026-06-26T13:00:52.039832",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI unveils its first custom chip, built by Broadcom",
+    "original_content": "Announcement: https://openai.com/index/openai-broadcom-jalapeno-inference-...https://decrypt.co/371971/openai-broadcom-jalapeno-first-cus...https://www.cnn.com/2026/06/24/tech/openai-broadcom-jalapeno...\n\nComments URL: https://news.ycombinator.com/item?id=48663324\nPoints: 806\n# Comments: 459"
+  },
+  {
+    "title": "人工智能网络数据基础设施层的出现",
+    "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+    "content": "人工智能正在蓬勃发展。每天都会出现新的用例。为了充分利用该技术的潜力，企业需要大规模数据。 In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models.&#160; To understand this challenge, consider the foundati",
+    "publish_time": "Wed, 24 Ju",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-06-26T13:00:52.039598",
+    "fetch_method": "RSS",
+    "original_title": "The emergence of the web data infrastructure layer for AI",
+    "original_content": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models.&#160; To understand this challenge, consider the foundati"
+  },
+  {
+    "title": "Adobe 收购图像和视频增强工具制造商 Topaz Labs",
+    "url": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
+    "content": "Adobe 表示，它将在其应用程序中集成 Topaz Labs 的工具。",
+    "publish_time": "Thu, 25 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-06-26T13:00:52.039226",
+    "fetch_method": "RSS",
+    "original_title": "Adobe acquires image and video enhancement tool maker Topaz Labs",
+    "original_content": "Adobe said that it will integrate Topaz Labs' tools across its apps."
+  },
+  {
+    "title": "亚马逊加大对印度的投资，投资 13B 美元人工智能基础设施",
+    "url": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
+    "content": "亚马逊在印度的最新投资正值全球科技公司竞相扩大印度的人工智能基础设施之际。",
+    "publish_time": "Thu, 25 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-06-26T13:00:52.039245",
+    "fetch_method": "RSS",
+    "original_title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
+    "original_content": "Amazon’s latest India investment comes as global tech companies race to expand AI infrastructure in the country."
+  }
+]
