@@ -1,0 +1,199 @@
+[
+  {
+    "title": "IBM 推出芯片技术，有助于将摩尔定律再延长十年",
+    "url": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
+    "content": "IBM 在指甲盖大小的区域上构建了一种新型原型芯片，其中包含约 1000 亿个晶体管，其密度是该公司之前于 2021 年宣布的最先进技术的两倍。该设计可能为未来几年更快、更节能的计算机铺平道路。",
+    "publish_time": "Thu, 25 Ju",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 9,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 7.5
+    },
+    "collection_time": "2026-06-27T12:42:48.046452",
+    "fetch_method": "RSS",
+    "original_title": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
+    "original_content": "IBM has built a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company’s previous state-of-the-art technology announced in 2021. The design could pave the way for faster and more energy efficient computers for years to co"
+  },
+  {
+    "title": "美国政府将决定谁可以使用 GPT-5.6",
+    "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+    "content": "",
+    "publish_time": "2026-06-26",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 909,
+      "comments": 979
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=48690101",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 10,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 6.95
+    },
+    "collection_time": "2026-06-27T12:43:03.990990",
+    "original_title": "U.S. government will decide who gets to use GPT-5.6",
+    "original_content": ""
+  },
+  {
+    "title": "下载：烧脑的热浪和前所未有的 OpenAI 限制",
+    "url": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
+    "content": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。热浪扰乱你的大脑。科学家们正在试图找出原因。 —Jessica Hamzelou 本周伦敦很热。真的很热。一个危险的",
+    "publish_time": "Fri, 26 Ju",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-06-27T12:42:48.046392",
+    "fetch_method": "RSS",
+    "original_title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figure out why. —Jessica Hamzelou It’s been hot in London this week. Really hot. A dangerous"
+  },
+  {
+    "title": "下载：欧洲热浪袭击电网，IBM 芯片瞄准摩尔定律",
+    "url": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/",
+    "content": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。欧洲极端高温导致发电厂关闭 欧洲正处于破纪录的热浪之中，电网正面临极限",
+    "publish_time": "Thu, 25 Ju",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-06-27T12:42:48.046436",
+    "fetch_method": "RSS",
+    "original_title": "The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Europe’s extreme heat is shutting down power plants Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits"
+  },
+  {
+    "title": "OpenAI 应政府要求限制 GPT-5.6 的推出，表示限制不应成为常态",
+    "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+    "content": "OpenAI 表示：“我们认为这种政府准入流程不应成为长期默认做法。” “它为用户、开发者、企业、网络防御者和需要它们的全球合作伙伴保留了最好的工具。”",
+    "publish_time": "Fri, 26 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-06-27T12:42:48.046179",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+    "original_content": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”"
+  },
+  {
+    "title": "出于安全考虑，白宫要求 OpenAI 放慢新模型的发布速度",
+    "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+    "content": "据报道，OpenAI 计划与一组选定的合作伙伴而不是与更广泛的公众分享其最新模型 GPT 5.6。原因是：特朗普政府告诉它这样做。",
+    "publish_time": "Thu, 25 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-06-27T12:42:48.046262",
+    "fetch_method": "RSS",
+    "original_title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+    "original_content": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to."
+  },
+  {
+    "title": "OpenAI IPO 延迟报道后软银股价暴跌",
+    "url": "https://www.bing.com/news/search?q=ChatGPT+OpenAI+2026-06-26",
+    "content": "由于担心 OpenAI 可能将首次公开募股推迟到明年并推迟其日本支持者的回报，软银集团股价下跌 12 点。",
+    "publish_time": "2026-06-26",
+    "source": "AI News",
+    "score": {
+      "importance": 8,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.35
+    },
+    "collection_time": "2026-06-27T12:43:03.990704",
+    "original_title": "SoftBank Shares Tumble After Report of OpenAI’s IPO Delay",
+    "original_content": "SoftBank Group Corp.s stock fell by 12 on concerns that OpenAI may hold off on an initial public offering until next year and delay returns for its Japanese backer."
+  },
+  {
+    "title": "美国允许 Anthropic 向“值得信赖”的美国组织发布 Mythos AI",
+    "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+    "content": "",
+    "publish_time": "2026-06-26",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 303,
+      "comments": 310
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=48692995",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.35
+    },
+    "collection_time": "2026-06-27T12:43:03.991021",
+    "original_title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+    "original_content": ""
+  },
+  {
+    "title": "特朗普政府发布人择神话供 100 多家美国公司、机构使用",
+    "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+    "content": "据报道，超过 100 家公司和政府机构被授权使用 Mythos 5，其中包括其非美国员工。",
+    "publish_time": "Sat, 27 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-06-27T12:42:48.046145",
+    "fetch_method": "RSS",
+    "original_title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+    "original_content": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees."
+  },
+  {
+    "title": "我们有本地模型免费对 OpenClaw 存储库进行分类！*",
+    "url": "https://huggingface.co/blog/local-models-pr-triage",
+    "content": "",
+    "publish_time": "Mon, 22 Ju",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-06-27T12:42:48.046611",
+    "fetch_method": "RSS",
+    "original_title": "We got local models to triage the OpenClaw repo for FREE!*",
+    "original_content": ""
+  }
+]
