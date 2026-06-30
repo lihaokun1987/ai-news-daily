@@ -1,0 +1,202 @@
+[
+  {
+    "title": "IBM 推出芯片技术，有助于将摩尔定律再延长十年",
+    "url": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
+    "content": "IBM 在指甲盖大小的区域上构建了一种新的原型芯片，其中包含约 1000 亿个晶体管，其密度是该公司之前于 2021 年宣布的最先进技术的两倍。该设计可能为未来几年更快、更节能的计算机铺平道路。",
+    "publish_time": "Thu, 25 Ju",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 9,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 7.5
+    },
+    "collection_time": "2026-06-30T12:55:43.844843",
+    "fetch_method": "RSS",
+    "original_title": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
+    "original_content": "IBM has built a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company’s previous state-of-the-art technology announced in 2021. The design could pave the way for faster and more energy efficient computers for years to co"
+  },
+  {
+    "title": "Anthropic 与州长 Newsom 达成协议，允许加州政府半价使用 Claude",
+    "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+    "content": "随着 Anthropic 与加利福尼亚州建立更密切的关系，联邦政府已经将 OpenAI 竞争对手视为敌人。",
+    "publish_time": "Mon, 29 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 8,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 7.1
+    },
+    "collection_time": "2026-06-30T12:55:43.844923",
+    "fetch_method": "RSS",
+    "original_title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+    "original_content": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival."
+  },
+  {
+    "title": "Palantir 和 Nvidia 扩大美国政府主权人工智能合作伙伴关系",
+    "url": "https://www.reddit.com/r/artificial/comments/1uismgu/palantir_and_nvidia_expand_sovereign_ai/",
+    "content": "32 提交者 32 uandix3 链接 32 条评论",
+    "publish_time": "2026-06-29",
+    "source": "Reddit r/artificial",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 8,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.6
+    },
+    "collection_time": "2026-06-30T12:55:58.972643",
+    "original_title": "Palantir and Nvidia Expand Sovereign AI Partnership for US Government",
+    "original_content": "32 submitted by 32 uandix3 link 32 comments"
+  },
+  {
+    "title": "下载：烧脑的热浪和前所未有的 OpenAI 限制",
+    "url": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
+    "content": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。热浪扰乱你的大脑。科学家们正在试图找出原因。 —Jessica Hamzelou 本周伦敦很热。真的很热。一个危险的",
+    "publish_time": "Fri, 26 Ju",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-06-30T12:55:43.844725",
+    "fetch_method": "RSS",
+    "original_title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figure out why. —Jessica Hamzelou It’s been hot in London this week. Really hot. A dangerous"
+  },
+  {
+    "title": "下载：欧洲热浪袭击电网，IBM 芯片瞄准摩尔定律",
+    "url": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/",
+    "content": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。欧洲极端高温导致发电厂关闭 欧洲正处于破纪录的热浪之中，电网正面临极限",
+    "publish_time": "Thu, 25 Ju",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-06-30T12:55:43.844773",
+    "fetch_method": "RSS",
+    "original_title": "The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Europe’s extreme heat is shutting down power plants Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits"
+  },
+  {
+    "title": "潮汐人工智能政策",
+    "url": "https://tidal.com/ai-policy",
+    "content": "",
+    "publish_time": "2026-06-29",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 296,
+      "comments": 328
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=48718840",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.35
+    },
+    "collection_time": "2026-06-30T12:55:58.972742",
+    "original_title": "Tidal AI Policy",
+    "original_content": ""
+  },
+  {
+    "title": "韩国宣布超过 1T 美元的人工智能、芯片投资驱动",
+    "url": "https://www.aljazeera.com/news/2026/6/29/south-korea-announces-more-than-1-trillion-ai-chip-investment-drive",
+    "content": "",
+    "publish_time": "2026-06-29",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 14,
+      "comments": 0
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=48721373",
+    "score": {
+      "importance": 8,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.35
+    },
+    "collection_time": "2026-06-30T12:55:58.972866",
+    "original_title": "South Korea announces more than $1T AI, chip investment drive",
+    "original_content": ""
+  },
+  {
+    "title": "随着人工智能初创公司寻求防御性，Vibe 编码平台 Base44 推出自己的模型",
+    "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+    "content": "Wix 旗下的氛围编码平台 Base44 已开始推出自己的人工智能模型，希望它最终能超越前沿模型。",
+    "publish_time": "Tue, 30 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-06-30T12:55:43.844892",
+    "fetch_method": "RSS",
+    "original_title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+    "original_content": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models."
+  },
+  {
+    "title": "机器人手公司就特斯拉商业秘密诉讼达成和解并宣布融资 1100 万美元",
+    "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+    "content": "这家初创公司 Proception 正在采用一种独特的方法来收集训练数据，以解决机器人技术中最困难的问题之一：手。",
+    "publish_time": "Mon, 29 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-06-30T12:55:43.844993",
+    "fetch_method": "RSS",
+    "original_title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+    "original_content": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands."
+  },
+  {
+    "title": "特朗普政府允许 Anthropic 向选定的美国组织发布神话",
+    "url": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
+    "content": "经过数周的谈判，白宫允许 Anthropic 向选定的一组美国公司和政府机构授予其最先进的人工智能模型的访问权限。",
+    "publish_time": "Sat, 27 Ju",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-06-30T12:55:43.845116",
+    "fetch_method": "RSS",
+    "original_title": "Trump Administration Allows Anthropic to Release  Mythos to Select US Organizations",
+    "original_content": "After weeks of negotiations, the White House permitted Anthropic to grant access to its most advanced AI model to a select group of US companies and government agencies."
+  }
+]
