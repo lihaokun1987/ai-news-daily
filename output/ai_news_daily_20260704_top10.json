@@ -1,0 +1,196 @@
+[
+  {
+    "title": "英国的代际烟草禁令可能行不通。无论如何我都支持它。",
+    "url": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
+    "content": "作为两个小女孩的父母，我经常思考她们的童年与我的童年有何不同。这个七岁的孩子正在学校学习人工智能。这个五岁的孩子每周都会有网上作业。他们都完全排斥吸烟的想法。那不是流行的",
+    "publish_time": "Fri, 03 Ju",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-07-04T12:26:04.658302",
+    "fetch_method": "RSS",
+    "original_title": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
+    "original_content": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework every week. And they are both absolutely repulsed by the idea of smoking. That was not the prevaili"
+  },
+  {
+    "title": "下载：Anthropic 推出克劳德科学和加州碳肥数学",
+    "url": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
+    "content": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。 Claude Science 是 Anthropic 的最新旗舰产品 在昨天为制药公司高管、生物技术创始人和研究人员举办的活动中，Anthropi",
+    "publish_time": "Wed, 01 Ju",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-07-04T12:26:04.658370",
+    "fetch_method": "RSS",
+    "original_title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Claude Science is Anthropic’s newest flagship product At an event for pharmaceutical executives, biotech founders, and researchers yesterday, Anthropi"
+  },
+  {
+    "title": "阿什顿·库彻 (Ashton Kutcher) 离开 Sound Ventures，与摩根·贝勒 (Morgan Beller) 共同创办新的风险投资公司",
+    "url": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+    "content": "Sound 的声誉建立在对领先的人工智能实验室的集中、高度确信的押注之上，而库彻的新基金似乎正在追逐这些公司的底层——为它们提供动力的基础设施和能源。",
+    "publish_time": "Wed, 01 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-07-04T12:26:04.658242",
+    "fetch_method": "RSS",
+    "original_title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+    "original_content": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies — the infrastructure and energy that power them."
+  },
+  {
+    "title": "Cloudflare新政策推动AI公司为出版商的内容付费",
+    "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+    "content": "Cloudflare 要求 AI 公司在 9 月 15 日之前将用于搜索的网络爬虫与用于 AI 训练和代理的网络爬虫分开，否则可能会在许多发布商网站上被默认屏蔽。",
+    "publish_time": "Wed, 01 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-07-04T12:26:04.658254",
+    "fetch_method": "RSS",
+    "original_title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
+    "original_content": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites."
+  },
+  {
+    "title": "针对欧洲议会的间谍活动",
+    "url": "https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/",
+    "content": "",
+    "publish_time": "2026-07-03",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 301,
+      "comments": 71
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=48779683",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.35
+    },
+    "collection_time": "2026-07-04T12:26:19.525680",
+    "original_title": "Espionage Against the European Parliament",
+    "original_content": ""
+  },
+  {
+    "title": "Meta 悄然推出 vivi 编码游戏应用程序 Pocket",
+    "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+    "content": "Meta 悄然推出了 Pocket，这是一款实验性人工智能应用程序，可让用户使用文本提示生成和共享交互式迷你游戏。",
+    "publish_time": "Thu, 02 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-07-04T12:26:04.658168",
+    "fetch_method": "RSS",
+    "original_title": "Meta quietly launches vibe-coded gaming app Pocket",
+    "original_content": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts."
+  },
+  {
+    "title": "微软承诺投入 25 亿美元成立自己的人工智能部署公司",
+    "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+    "content": "继亚马逊、OpenAI 和 Anthropic 之后，微软也推出了新的人工智能部署团队。",
+    "publish_time": "Thu, 02 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-07-04T12:26:04.658201",
+    "fetch_method": "RSS",
+    "original_title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+    "original_content": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group."
+  },
+  {
+    "title": "是的，我们现在正在使用 OpenClaw",
+    "url": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+    "content": "Ben Guez “在他的私信中拥有一群潜在的国际妻子”，这要归功于他使用 OpenClaw、Claude 代码和 Instagram 试验设置的自动化脚本。",
+    "publish_time": "Thu, 02 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-07-04T12:26:04.658212",
+    "fetch_method": "RSS",
+    "original_title": "Yep, we’re using OpenClaw to date now",
+    "original_content": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials."
+  },
+  {
+    "title": "我们有本地模型免费对 OpenClaw 存储库进行分类！*",
+    "url": "https://huggingface.co/blog/local-models-pr-triage",
+    "content": "",
+    "publish_time": "Mon, 22 Ju",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-07-04T12:26:04.658539",
+    "fetch_method": "RSS",
+    "original_title": "We got local models to triage the OpenClaw repo for FREE!*",
+    "original_content": ""
+  },
+  {
+    "title": "Claude Mythos 预览版发布后新的严重漏洞激增",
+    "url": "https://epoch.ai/data-insights/cve-severity-spike",
+    "content": "文章网址：https://epoch.ai/data-insights/cve-severity-spike\n评论网址：https://news.ycombinator.com/item?id=48780056\n积分：68\n# 评论: 15",
+    "publish_time": "Fri, 03 Ju",
+    "source": "Hacker News Front Page",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.15
+    },
+    "collection_time": "2026-07-04T12:26:04.658730",
+    "fetch_method": "RSS",
+    "original_title": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
+    "original_content": "Article URL: https://epoch.ai/data-insights/cve-severity-spike\nComments URL: https://news.ycombinator.com/item?id=48780056\nPoints: 68\n# Comments: 15"
+  }
+]
