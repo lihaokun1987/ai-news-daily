@@ -1,0 +1,191 @@
+[
+  {
+    "title": "英国的代际烟草禁令可能行不通。无论如何我都支持它。",
+    "url": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
+    "content": "作为两个小女孩的父母，我经常思考她们的童年与我的童年有何不同。这个七岁的孩子正在学校学习人工智能。这个五岁的孩子每周都会有网上作业。他们都完全排斥吸烟的想法。那不是流行的",
+    "publish_time": "Fri, 03 Ju",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-07-06T13:01:09.492800",
+    "fetch_method": "RSS",
+    "original_title": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
+    "original_content": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework every week. And they are both absolutely repulsed by the idea of smoking. That was not the prevaili"
+  },
+  {
+    "title": "下载：Anthropic 推出克劳德科学和加州碳肥数学",
+    "url": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
+    "content": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。 Claude Science 是 Anthropic 的最新旗舰产品 在昨天为制药公司高管、生物技术创始人和研究人员举办的活动中，Anthropi",
+    "publish_time": "Wed, 01 Ju",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-07-06T13:01:09.492907",
+    "fetch_method": "RSS",
+    "original_title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Claude Science is Anthropic’s newest flagship product At an event for pharmaceutical executives, biotech founders, and researchers yesterday, Anthropi"
+  },
+  {
+    "title": "据报道，阿里巴巴禁止员工使用克劳德代码",
+    "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+    "content": "据报道，阿里巴巴已将 Claude Code 列为高风险软件。",
+    "publish_time": "Sat, 04 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-07-06T13:01:09.492961",
+    "fetch_method": "RSS",
+    "original_title": "Alibaba reportedly bans employees from using Claude Code",
+    "original_content": "Alibaba has reportedly classified Claude Code as high-risk software."
+  },
+  {
+    "title": "Meta 悄然推出 vivi 编码游戏应用程序 Pocket",
+    "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+    "content": "Meta 悄然推出了 Pocket，这是一款实验性人工智能应用程序，可让用户使用文本提示生成和共享交互式迷你游戏。",
+    "publish_time": "Thu, 02 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-07-06T13:01:09.493039",
+    "fetch_method": "RSS",
+    "original_title": "Meta quietly launches vibe-coded gaming app Pocket",
+    "original_content": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts."
+  },
+  {
+    "title": "微软承诺投入 25 亿美元成立自己的人工智能部署公司",
+    "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+    "content": "继亚马逊、OpenAI 和 Anthropic 之后，微软也推出了新的人工智能部署团队。",
+    "publish_time": "Thu, 02 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-07-06T13:01:09.493070",
+    "fetch_method": "RSS",
+    "original_title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+    "original_content": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group."
+  },
+  {
+    "title": "是的，我们现在正在使用 OpenClaw",
+    "url": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+    "content": "Ben Guez “在他的私信中拥有一群潜在的国际妻子”，这要归功于他使用 OpenClaw、Claude 代码和 Instagram 试验设置的自动化脚本。",
+    "publish_time": "Thu, 02 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-07-06T13:01:09.493084",
+    "fetch_method": "RSS",
+    "original_title": "Yep, we’re using OpenClaw to date now",
+    "original_content": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials."
+  },
+  {
+    "title": "我们有本地模型免费对 OpenClaw 存储库进行分类！*",
+    "url": "https://huggingface.co/blog/local-models-pr-triage",
+    "content": "",
+    "publish_time": "Mon, 22 Ju",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-07-06T13:01:09.493320",
+    "fetch_method": "RSS",
+    "original_title": "We got local models to triage the OpenClaw repo for FREE!*",
+    "original_content": ""
+  },
+  {
+    "title": "泽西·迈克 (Jersey Mike) 的 IPO 表明人工智能炒作已变得多么糟糕",
+    "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+    "content": "为了好玩，我看了一下 Jersey Mike 的 IPO 文件。一家三明治店当然不需要提到人工智能。但你瞧。",
+    "publish_time": "Thu, 02 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-07-06T13:01:09.493028",
+    "fetch_method": "RSS",
+    "original_title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
+    "original_content": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold."
+  },
+  {
+    "title": "🤗 内核：主要更新",
+    "url": "https://huggingface.co/blog/revamped-kernels",
+    "content": "",
+    "publish_time": "Mon, 06 Ju",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-07-06T13:01:09.493190",
+    "fetch_method": "RSS",
+    "original_title": "🤗 Kernels: Major Updates",
+    "original_content": ""
+  },
+  {
+    "title": "Cloudflare新政策推动AI公司为出版商内容付费 | TechCrunch",
+    "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+    "content": "",
+    "publish_time": "2026-07-05",
+    "source": "The Verge AI",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-07-06T13:01:23.235340",
+    "original_title": "Cloudflare's new policy pushes AI companies to pay for publishers' content | TechCrunch",
+    "original_content": ""
+  }
+]
