@@ -1,0 +1,200 @@
+[
+  {
+    "title": "OpenAI 发布新的语音模型，实现更自然的实时对话",
+    "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+    "content": "OpenAI 表示，其新的语音模式可以同时说和听，这是实时翻译的关键能力。",
+    "publish_time": "Wed, 08 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-07-09T12:39:55.630646",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI releases new voice models for more natural live conversations",
+    "original_content": "OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation."
+  },
+  {
+    "title": "Meta 刚刚推出了一款新的人工智能生成器 Muse Image，用户已经开始拒绝使用他们的照片",
+    "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+    "content": "新的图像生成模型有许多用例，包括广告和装饰以及基于创作者的机会。",
+    "publish_time": "Tue, 07 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-07-09T12:39:55.630728",
+    "fetch_method": "RSS",
+    "original_title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
+    "original_content": "The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities."
+  },
+  {
+    "title": "Show HN：微软发布 Flint，一种用于 AI 代理的可视化语言",
+    "url": "https://microsoft.github.io/flint-chart/#/",
+    "content": "",
+    "publish_time": "2026-07-08",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 235,
+      "comments": 88
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=48834924",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.35
+    },
+    "collection_time": "2026-07-09T12:40:11.869046",
+    "original_title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+    "original_content": ""
+  },
+  {
+    "title": "SpaceXAI 发布了 Grok 4.5，Elon 将其描述为“Opus 级模型”",
+    "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+    "content": "埃隆·马斯克 (Elon Musk) 的科技公司周三发布了最新版本的 Grok，承诺提供比其他强大人工智能模型更便宜、更高效的替代方案。",
+    "publish_time": "Wed, 08 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-07-09T12:39:55.630552",
+    "fetch_method": "RSS",
+    "original_title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
+    "original_content": "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models."
+  },
+  {
+    "title": "法国热门初创公司 ZML 发布免费产品，以加快多种人工智能芯片的推理速度",
+    "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+    "content": "ZML 是一家热门的法国人工智能初创公司，得到了图灵奖得主 Yann LeCun 的认可，现在发布了 ZML/LLMD 软件，可以降低运行人工智能的成本。",
+    "publish_time": "Wed, 08 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-07-09T12:39:55.630706",
+    "fetch_method": "RSS",
+    "original_title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+    "original_content": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly."
+  },
+  {
+    "title": "AI 芯片制造商 SambaNova 在上一轮大型融资 5 个月后以 11B 美元估值筹集 10 亿美元",
+    "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+    "content": "AI 芯片制造商 SambaNova 的估值达到 110 亿美元，而几个月前，有传言称英特尔试图以约 16 亿美元的价格收购该公司。",
+    "publish_time": "Wed, 08 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-07-09T12:39:55.630717",
+    "fetch_method": "RSS",
+    "original_title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
+    "original_content": "AI chip maker SambaNova has raised at an $11 billion valuation months after Intel was rumored to be trying to buy it for about $1.6 billion."
+  },
+  {
+    "title": "英国太空初创公司将长寿实验室送入轨道",
+    "url": "https://www.wired.com/story/british-space-startup-launches-longevity-lab-into-orbit/",
+    "content": "该实验室将传回数据来训练人工智能模型，以预测阿尔茨海默病和某些癌症等与年龄相关的疾病背后的蛋白质如何表现。",
+    "publish_time": "Tue, 07 Ju",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-07-09T12:39:55.631010",
+    "fetch_method": "RSS",
+    "original_title": "British Space Startup Launches Longevity Lab Into Orbit",
+    "original_content": "The lab will beam back data to train AI models to predict how proteins behind age-related diseases like Alzheimer’s and certain cancers behave."
+  },
+  {
+    "title": "下载：您在 OpenAI 中的股份以及财政部的人工智能警告",
+    "url": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
+    "content": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。你的家族持有 OpenAI 300 美元的股份 Sam Altman 提出美国人应该分享人工智能创造的财富的提议再次成为人们关注的焦点",
+    "publish_time": "Tue, 07 Ju",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-07-09T12:39:55.630436",
+    "fetch_method": "RSS",
+    "original_title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Altman’s proposal that Americans should share in the wealth created by AI is back in the spotlight, with report"
+  },
+  {
+    "title": "Chatto 现已开源",
+    "url": "https://www.hmans.dev/blog/chatto-is-open-source",
+    "content": "",
+    "publish_time": "2026-07-08",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 823,
+      "comments": 217
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=48833116",
+    "score": {
+      "importance": 3,
+      "authority": 5,
+      "spread": 10,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-07-09T12:40:11.868978",
+    "original_title": "Chatto is now open source",
+    "original_content": ""
+  },
+  {
+    "title": "🤗 内核：主要更新",
+    "url": "https://huggingface.co/blog/revamped-kernels",
+    "content": "",
+    "publish_time": "Mon, 06 Ju",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-07-09T12:39:55.631321",
+    "fetch_method": "RSS",
+    "original_title": "🤗 Kernels: Major Updates",
+    "original_content": ""
+  }
+]
