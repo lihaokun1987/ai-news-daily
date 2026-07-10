@@ -1,0 +1,192 @@
+[
+  {
+    "title": "政府如何决定 OpenAI 的前沿模型可以安全发布？",
+    "url": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
+    "content": "“政府与 Anthropic 和 OpenAI 之间的对话到底是什么样子还不清楚。”",
+    "publish_time": "Thu, 09 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 9,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 7.25
+    },
+    "collection_time": "2026-07-10T12:41:46.498839",
+    "fetch_method": "RSS",
+    "original_title": "How did the government decide OpenAI’s frontier model was safe to release?",
+    "original_content": "\"Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear.\""
+  },
+  {
+    "title": "OpenAI 推出采用 GPT-5.6 的新模型系列",
+    "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+    "content": "OpenAI 的最新模型系列有望在包括网络安全在内的一系列领域得到改进。",
+    "publish_time": "Thu, 09 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-07-10T12:41:46.498736",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI launches its new family of models with GPT-5.6",
+    "original_content": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity."
+  },
+  {
+    "title": "下载：您在 OpenAI 中的股份以及财政部的人工智能警告",
+    "url": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
+    "content": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。你的家族持有 OpenAI 300 美元的股份 Sam Altman 提出美国人应该分享人工智能创造的财富的提议再次成为人们关注的焦点",
+    "publish_time": "Tue, 07 Ju",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-07-10T12:41:46.498275",
+    "fetch_method": "RSS",
+    "original_title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Altman’s proposal that Americans should share in the wealth created by AI is back in the spotlight, with report"
+  },
+  {
+    "title": "GPT-5.6",
+    "url": "https://openai.com/index/gpt-5-6/",
+    "content": "",
+    "publish_time": "2026-07-09",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 1141,
+      "comments": 817
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=48849066",
+    "score": {
+      "importance": 3,
+      "authority": 5,
+      "spread": 10,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-07-10T12:42:02.319831",
+    "original_title": "GPT-5.6",
+    "original_content": ""
+  },
+  {
+    "title": "开发人工智能模型来预测创伤患者的早期死亡......Lee Jae-myung 教授和 Baek Seung-min 教授的团队表示该模型可用于紧急护理",
+    "url": "https://www.bing.com/news/search?q=AI+machine+learning+2026-07-09",
+    "content": "人工智能机器学习模型已经开发出来，可以高精度预测创伤患者过早死亡的风险。",
+    "publish_time": "2026-07-09",
+    "source": "AI News",
+    "score": {
+      "importance": 7,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.0
+    },
+    "collection_time": "2026-07-10T12:42:02.319576",
+    "original_title": "AI Model Developed to Predict Early Death in Trauma Patients... Professors Lee Jae-myung and Baek Seung-min's Team Says It Could Be Used in Emergency Care",
+    "original_content": "An artificial intelligence AI machine-learning model has been developed that can predict the risk of early death in trauma patients with high accuracy."
+  },
+  {
+    "title": "启动 HN：Context.dev (YC S26) – 用于从任何网站获取结构化数据的 API",
+    "url": "https://www.context.dev",
+    "content": "嗨，黑客新闻，我是 Yahia。我构建了 Context.dev (https://www.context.dev/)，以便能够轻松地将 Web 数据集成到您的产品和代理中。这里有一个演示视频：https://www.tella.tv/video/build-faster-with-context-dev-api...由于它是一个 API，因此以下是文档：https://docs.context.dev/quic",
+    "publish_time": "Thu, 09 Ju",
+    "source": "Hacker News Front Page",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-07-10T12:41:46.499318",
+    "fetch_method": "RSS",
+    "original_title": "Launch HN: Context.dev (YC S26) – API to get structured data from any website",
+    "original_content": "Hi Hacker News, I’m Yahia. I built Context.dev (https://www.context.dev/) to make it really easy to integrate web data into your products and agents.Here’s a demo video: https://www.tella.tv/video/build-faster-with-context-dev-api...Since it’s an API, here are the docs: https://docs.context.dev/quic"
+  },
+  {
+    "title": "🤗 内核：主要更新",
+    "url": "https://huggingface.co/blog/revamped-kernels",
+    "content": "",
+    "publish_time": "Mon, 06 Ju",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-07-10T12:41:46.498508",
+    "fetch_method": "RSS",
+    "original_title": "🤗 Kernels: Major Updates",
+    "original_content": ""
+  },
+  {
+    "title": "ENvue Medical 推出首款机器人辅助人工智能饲管自动化工具",
+    "url": "https://www.bing.com/news/search?q=artificial+intelligence+2026-07-09",
+    "content": "ENvue 瞄准 100 亿肠内喂养和血管通路市场机遇 ENvue 驱动演示标志着迈向新一代智能的第一步...",
+    "publish_time": "2026-07-09",
+    "source": "AI News",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-07-10T12:42:02.319524",
+    "original_title": "ENvue Medical Unveils Its First Robotic-Assisted, Artificial Intelligence, Feeding Tube Automation Tool",
+    "original_content": "ENvue Targeting Combined 10 Billion Enteral Feeding and Vascular Access Market Opportunity ENvue Drive Demonstration Marks First Step Toward a New Generation of Intelligent ..."
+  },
+  {
+    "title": "OpenAI 首次推出采用 GPT-5.6 的 ChatGPT Work 工作场所人工智能代理",
+    "url": "https://www.bing.com/news/search?q=ChatGPT+OpenAI+2026-07-09",
+    "content": "新的人工智能代理旨在自动化工作场所任务，为企业客户升级 OpenAI 与微软、Anthropic 和谷歌的竞争。",
+    "publish_time": "2026-07-09",
+    "source": "AI News",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-07-10T12:42:02.319631",
+    "original_title": "OpenAI Debuts ChatGPT Work Workplace AI Agent With GPT-5.6",
+    "original_content": "The new AI agent is designed to automate workplace tasks, escalating OpenAIs battle with Microsoft, Anthropic and Google for enterprise customers."
+  },
+  {
+    "title": "编辑部",
+    "source": "www.anthropic.com",
+    "content": "我们向公众询问有关人工智能的最棘手的问题，并承诺在解决这些问题时展示我们的工作。研究人员、工程师和构建 Claude Code 的早期用户讲述了 Claude Code 如何从内部 CLI 转变为 Anthropic 的编码代理的内幕故事。 《神鬼寓言 5》将于 7 月 1 日全球回归。",
+    "url": "https://www.anthropic.com/news",
+    "publish_time": "2026-07-09",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-07-10T12:42:02.319642",
+    "original_title": "Newsroom",
+    "original_content": "Were asking the public for their hardest questions about AI, and committing to show our work as we address them. The inside story of how Claude Code went from an internal CLI to Anthropic's coding agent, told by researchers, engineers and early users who built it. Fable 5 returns globally July 1. We"
+  }
+]
