@@ -1,0 +1,186 @@
+[
+  {
+    "title": "OpenAI 推出采用 GPT-5.6 的新模型系列",
+    "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+    "content": "OpenAI 的最新模型系列有望在包括网络安全在内的一系列领域得到改进。",
+    "publish_time": "Thu, 09 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-07-12T12:19:04.483194",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI launches its new family of models with GPT-5.6",
+    "original_content": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity."
+  },
+  {
+    "title": "下载：您在 OpenAI 中的股份以及财政部的人工智能警告",
+    "url": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
+    "content": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。你的家族持有 OpenAI 300 美元的股份 Sam Altman 提出美国人应该分享人工智能创造的财富的提议再次成为人们关注的焦点",
+    "publish_time": "Tue, 07 Ju",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-07-12T12:19:04.483391",
+    "fetch_method": "RSS",
+    "original_title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Altman’s proposal that Americans should share in the wealth created by AI is back in the spotlight, with report"
+  },
+  {
+    "title": "SK海力士在美国历史上最大的海外IPO中筹集了26.5亿美元，敦促在美国建造新的晶圆厂",
+    "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+    "content": "人工智能芯片的繁荣刚刚带来了华尔街迄今为止最大的时刻。现在SK海力士和三星被要求在美国建工厂。",
+    "publish_time": "Fri, 10 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.05
+    },
+    "collection_time": "2026-07-12T12:19:04.483127",
+    "fetch_method": "RSS",
+    "original_title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+    "original_content": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories."
+  },
+  {
+    "title": "🤗 内核：主要更新",
+    "url": "https://huggingface.co/blog/revamped-kernels",
+    "content": "",
+    "publish_time": "Mon, 06 Ju",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-07-12T12:19:04.483593",
+    "fetch_method": "RSS",
+    "original_title": "🤗 Kernels: Major Updates",
+    "original_content": ""
+  },
+  {
+    "title": "编辑部",
+    "source": "www.anthropic.com",
+    "content": "我们向公众询问有关人工智能的最棘手的问题，并承诺在解决这些问题时展示我们的工作。研究人员、工程师和构建 Claude Code 的早期用户讲述了 Claude Code 如何从内部 CLI 转变为 Anthropic 的编码代理的内幕故事。 《神鬼寓言 5》将于 7 月 1 日全球回归。",
+    "url": "https://www.anthropic.com/news",
+    "publish_time": "2026-07-11",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-07-12T12:19:18.697980",
+    "original_title": "Newsroom",
+    "original_content": "Were asking the public for their hardest questions about AI, and committing to show our work as we address them. The inside story of how Claude Code went from an internal CLI to Anthropic's coding agent, told by researchers, engineers and early users who built it. Fable 5 returns globally July 1. We"
+  },
+  {
+    "title": "OpenAI 新闻 |开放人工智能",
+    "source": "openai.com",
+    "content": "",
+    "url": "https://openai.com/blog",
+    "publish_time": "2026-07-11",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-07-12T12:19:18.697996",
+    "original_title": "OpenAI News | OpenAI",
+    "original_content": ""
+  },
+  {
+    "title": "OpenAI 新闻 |开放人工智能",
+    "source": "openai.com",
+    "content": "",
+    "url": "https://openai.com/news",
+    "publish_time": "2026-07-11",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-07-12T12:19:18.698002",
+    "original_title": "OpenAI News | OpenAI",
+    "original_content": ""
+  },
+  {
+    "title": "消息",
+    "source": "deepmind.google",
+    "content": "发现我们最新的人工智能突破、项目和更新 我接受 Google 的条款和条件，并确认我的信息将按照 Google 的隐私政策使用。",
+    "url": "https://deepmind.google/blog/",
+    "publish_time": "2026-07-11",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-07-12T12:19:18.698024",
+    "original_title": "News",
+    "original_content": "Discover our latest AI breakthroughs, projects, and updates I accept Google's Terms and Conditions and acknowledge that my information will be used in accordance withGoogle's Privacy Policy."
+  },
+  {
+    "title": "随着人工智能在金融市场的日益普及，EX DeFi 推出人工智能驱动的交易技术",
+    "url": "https://www.bing.com/news/search?q=artificial+intelligence+2026-07-11",
+    "content": "随着市场参与者监测经济数据、企业盈利和人工智能的发展，全球金融市场继续受到投资者的高度关注。",
+    "publish_time": "2026-07-11",
+    "source": "AI News",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.65
+    },
+    "collection_time": "2026-07-12T12:19:18.697838",
+    "original_title": "EX DeFi Introduces AI-Powered Trading Technology Amid Growing Adoption of Artificial Intelligence in Financial Markets",
+    "original_content": "Global financial markets continued to experience heightened attention from investors as market participants monitored economic data, corporate earnings, and developments in artificial intelligence AI ..."
+  },
+  {
+    "title": "Alpha Compute Corp. 宣布将于 2026 年 7 月 15 日召开 2026 年第二季度收益电话会议",
+    "url": "https://www.bing.com/news/search?q=artificial+intelligence+2026-07-11",
+    "content": "Alpha Compute Corp. 纳斯达克 ALP “Alpha Compute”或“公司”，一家服务于人工智能经济的领先 GPU 基础设施和机密计算技术公司，今天...",
+    "publish_time": "2026-07-11",
+    "source": "AI News",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.65
+    },
+    "collection_time": "2026-07-12T12:19:18.697849",
+    "original_title": "Alpha Compute Corp. Announces Second Quarter 2026 Earnings Conference Call for July 15th, 2026",
+    "original_content": "Alpha Compute Corp. Nasdaq ALP 'Alpha Compute or the 'Company, a leading GPU infrastructure and confidential-compute technology company serving the artificial intelligence economy, today ..."
+  }
+]
