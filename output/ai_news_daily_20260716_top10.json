@@ -1,0 +1,196 @@
+[
+  {
+    "title": "政府、公司、非营利组织应该投资免费、开源的人工智能 [pdf]",
+    "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+    "content": "",
+    "publish_time": "2026-07-15",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 117,
+      "comments": 48
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=48927095",
+    "score": {
+      "importance": 8,
+      "authority": 5,
+      "spread": 7,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 6.95
+    },
+    "collection_time": "2026-07-16T11:53:39.763375",
+    "original_title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+    "original_content": ""
+  },
+  {
+    "title": "用于极端临床代码预测的图约束策略学习",
+    "url": "https://arxiv.org/abs/2607.11954",
+    "content": "arXiv:2607.11954v1 公告类型：新 \n摘要：临床代码预测将非结构化出院摘要映射到大、稀疏且深度分层的标签空间中的 ICD-10-CM 叶代码。大多数系统将任务视为平面多标签分类，独立地对代码进行评分并提供 l",
+    "publish_time": "Wed, 15 Ju",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-07-16T11:53:24.330162",
+    "fetch_method": "RSS",
+    "original_title": "Graph-Constrained Policy Learning for Extreme Clinical Code Prediction",
+    "original_content": "arXiv:2607.11954v1 Announce Type: new \nAbstract: Clinical code prediction maps unstructured discharge summaries to ICD-10-CM leaf codes in a large, sparse, and deeply hierarchical label space. Most systems treat the task as flat multi-label classification, scoring codes independently and providing l"
+  },
+  {
+    "title": "DOGE 将人工智能用于住房政策。政府不会透露如何做",
+    "url": "https://www.wired.com/story/doge-deployed-ai-housing-policy/",
+    "content": "为了响应公共记录请求，HUD 扣留了有关 DOGE 使用人工智能的文件，部分原因是引用了不存在的特权。",
+    "publish_time": "Tue, 14 Ju",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-07-16T11:53:24.329428",
+    "fetch_method": "RSS",
+    "original_title": "DOGE Used AI for Housing Policy. The Government Won’t Say How",
+    "original_content": "In response to a public records request, HUD has withheld documents about DOGE’s use of AI—in part by citing a privilege that doesn’t exist."
+  },
+  {
+    "title": "在硬件法律战中，OpenAI 为 Codex 发布了售价 230 美元的键盘",
+    "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+    "content": "OpenAI 正因硬件贸易盗窃指控与苹果公司打官司，该公司刚刚发布了一款发光键盘，旨在与其代理编码应用程序搭配使用。",
+    "publish_time": "Wed, 15 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-07-16T11:53:24.329824",
+    "fetch_method": "RSS",
+    "original_title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+    "original_content": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app."
+  },
+  {
+    "title": "Apple Intelligence 获准与阿里巴巴 Qwen AI 一起在中国推出",
+    "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+    "content": "据传去年正在进行的这项交易标志着苹果在关键市场的人工智能雄心迈出了重要一步。",
+    "publish_time": "Wed, 15 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-07-16T11:53:24.329927",
+    "fetch_method": "RSS",
+    "original_title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
+    "original_content": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market."
+  },
+  {
+    "title": "OpenAI 研究员 Miles Wang 正在洽谈创办估值 20 亿美元的人工智能药物发现初创公司",
+    "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+    "content": "融资讨论表明投资者有兴趣应用人工智能在生命科学领域取得突破。",
+    "publish_time": "Wed, 15 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-07-16T11:53:24.330001",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+    "original_content": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences."
+  },
+  {
+    "title": "美国政府警告俄罗斯国家黑客正在攻击你的路由器",
+    "url": "https://arstechnica.com/security/2026/07/the-us-government-warns-that-russia-state-hackers-are-coming-after-your-router/",
+    "content": "随着住宅代理风靡一时，CISA 敦促路由器用户保持警惕。",
+    "publish_time": "Mon, 13 Ju",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-07-16T11:53:24.330314",
+    "fetch_method": "RSS",
+    "original_title": "The US government warns that Russia state hackers are coming after your router",
+    "original_content": "With residential proxies all the rage, CISA urges router users to be vigilant."
+  },
+  {
+    "title": "OpenAI 员工正在资助一个竞争对手超级政治行动委员会来对抗他们的老板",
+    "url": "https://www.wired.com/story/openai-employees-donations-guardrails-alliance-leading-the-future/",
+    "content": "OpenAI 员工已向反对“引领未来”的政治活动捐赠了超过 215,000 美元，该组织由公司总裁格雷格·布罗克曼 (Greg Brockman) 支持。",
+    "publish_time": "Wed, 15 Ju",
+    "source": "Wired AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-07-16T11:53:24.329403",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI Staffers Are Funding a Rival Super PAC to Take on Their Boss",
+    "original_content": "OpenAI employees have donated more than $215,000 to a political effort opposing Leading the Future, a group backed by the company’s president, Greg Brockman."
+  },
+  {
+    "title": "🤗 内核：主要更新",
+    "url": "https://huggingface.co/blog/revamped-kernels",
+    "content": "",
+    "publish_time": "Mon, 06 Ju",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-07-16T11:53:24.329592",
+    "fetch_method": "RSS",
+    "original_title": "🤗 Kernels: Major Updates",
+    "original_content": ""
+  },
+  {
+    "title": "Whatnot 收购 Shaped 以支持实时购物推荐",
+    "url": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
+    "content": "直播购物平台 Whatnot 收购了人工智能初创公司 Shaped，这是一家专注于实时推荐和搜索的机器学习公司。随着 Whatnot 扩展到新的产品类别，这笔交易将增强 Whatnot 的个性化和发现功能。",
+    "publish_time": "Wed, 15 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-07-16T11:53:24.329858",
+    "fetch_method": "RSS",
+    "original_title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
+    "original_content": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and discovery features as it expands into new product categories."
+  }
+]
