@@ -1,0 +1,192 @@
+[
+  {
+    "title": "苹果的大诉讼如何扰乱 OpenAI 的 IPO 计划",
+    "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+    "content": "苹果公司上周五对 OpenAI 提起了商业秘密诉讼，而且它并没有闲着。起诉书称，OpenAI 的不当行为一直蔓延到首席硬件官，并声称有 400 多名前苹果员工现在在 OpenAI 工作。",
+    "publish_time": "Fri, 17 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 8,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.9
+    },
+    "collection_time": "2026-07-18T11:46:58.294006",
+    "fetch_method": "RSS",
+    "original_title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+    "original_content": "Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI&#8217;s chief hardware officer and claims more than 400 former Apple employees now work at the c"
+  },
+  {
+    "title": "下载：OpenAI 推出 GPT-Red，热泵在美国崛起",
+    "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
+    "content": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。认识 GPT-Red：LLM 超级黑客 OpenAI 旨在使其模型更安全 OpenAI 构建了一个名为 GPT-Red 的 LLM 超级黑客，将其用作陪练",
+    "publish_time": "Thu, 16 Ju",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-07-18T11:46:58.293783",
+    "fetch_method": "RSS",
+    "original_title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring"
+  },
+  {
+    "title": "分支策略优化：沙箱-母语代理强化学习",
+    "url": "https://arxiv.org/abs/2607.14171",
+    "content": "arXiv:2607.14171v1 公告类型：新 \n摘要：强化学习已成为训练与可执行沙箱交互的大型语言模型（LLM）代理的主导范例。 PPO、RLOO 和 GRPO 等最先进的算法继承了 RLHF 的推出拓扑：对于 e",
+    "publish_time": "Fri, 17 Ju",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-07-18T11:46:58.294357",
+    "fetch_method": "RSS",
+    "original_title": "Branching Policy Optimization: Sandbox-Native Language Agent Reinforcement Learning",
+    "original_content": "arXiv:2607.14171v1 Announce Type: new \nAbstract: Reinforcement learning has emerged as the dominant paradigm for training large language model (LLM) agents that interact with executable sandboxes. State-of-the-art algorithms such as PPO, RLOO, and GRPO inherit their rollout topology from RLHF: for e"
+  },
+  {
+    "title": "对于 OpenAI 来说，苹果的诉讼来得正是时候",
+    "url": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
+    "content": "苹果公司上周五对 OpenAI 提起了商业秘密诉讼，而且它并没有闲着。起诉书称，OpenAI 的不当行为一直蔓延到首席硬件官，并声称有 400 多名前苹果员工现在在 OpenAI 工作。",
+    "publish_time": "Fri, 17 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-07-18T11:46:58.294031",
+    "fetch_method": "RSS",
+    "original_title": "Apple’s lawsuit couldn’t come at a worse time for OpenAI",
+    "original_content": "Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI&#8217;s chief hardware officer and claims more than 400 former Apple employees now work at the c"
+  },
+  {
+    "title": "Roblox 在其移动应用程序中推出了人工智能驱动的游戏创建功能",
+    "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+    "content": "Roblox 的新“构建”功能允许用户使用单个文本提示生成基本游戏。",
+    "publish_time": "Thu, 16 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-07-18T11:46:58.294064",
+    "fetch_method": "RSS",
+    "original_title": "Roblox launches an AI-powered game-creation feature in its mobile app",
+    "original_content": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt."
+  },
+  {
+    "title": "前 DeepMind 研究员如何在推出产品之前筹集 3 亿美元的种子前估值",
+    "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
+    "content": "Andrew Dai 凭借十多年来帮助构建一些世界上最具影响力的人工智能系统的经验，包括后来为 ChatGPT 的开发提供信息的研究，解释了为什么他认为视觉人工智能是人工智能的下一个主要前沿领域之一。",
+    "publish_time": "Thu, 16 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-07-18T11:46:58.294109",
+    "fetch_method": "RSS",
+    "original_title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
+    "original_content": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believes visual AI is one of the next major frontiers in artificial intelligence."
+  },
+  {
+    "title": "TEDDY：根据 ICD 编码的诊断历史进行风险预警的儿科基础模型",
+    "url": "https://arxiv.org/abs/2607.14191",
+    "content": "arXiv:2607.14191v1 公告类型：新 \n摘要：儿科电子健康记录捕获了发育结构的临床轨迹，但其在生成医疗保健基础模型方面的潜力在很大程度上尚未被开发。在这里，我们介绍 TEDDY（青年疾病时间事件解码器）",
+    "publish_time": "Fri, 17 Ju",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-07-18T11:46:58.294426",
+    "fetch_method": "RSS",
+    "original_title": "TEDDY: A Pediatric Foundation Model for Risk Forewarning from ICD-Coded Diagnostic Histories",
+    "original_content": "arXiv:2607.14191v1 Announce Type: new \nAbstract: Pediatric electronic health records capture developmentally structured clinical trajectories, yet their potential for generative healthcare foundation models remains largely unexplored. Here we present TEDDY (Temporal Event Decoder for Disease in Yout"
+  },
+  {
+    "title": "为什么第一批 GPU 金融家在 4 亿美元的交易中转向推理芯片",
+    "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+    "content": "4 亿美元的芯片支持贷款预示着下一波人工智能基础设施交易。",
+    "publish_time": "Fri, 17 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.05
+    },
+    "collection_time": "2026-07-18T11:46:58.294043",
+    "fetch_method": "RSS",
+    "original_title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+    "original_content": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals."
+  },
+  {
+    "title": "美国政府警告俄罗斯国家黑客正在攻击你的路由器",
+    "url": "https://arstechnica.com/security/2026/07/the-us-government-warns-that-russia-state-hackers-are-coming-after-your-router/",
+    "content": "随着住宅代理风靡一时，CISA 敦促路由器用户保持警惕。",
+    "publish_time": "Mon, 13 Ju",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-07-18T11:46:58.294660",
+    "fetch_method": "RSS",
+    "original_title": "The US government warns that Russia state hackers are coming after your router",
+    "original_content": "With residential proxies all the rage, CISA urges router users to be vigilant."
+  },
+  {
+    "title": "🤗 内核：主要更新",
+    "url": "https://huggingface.co/blog/revamped-kernels",
+    "content": "",
+    "publish_time": "Mon, 06 Ju",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-07-18T11:46:58.294616",
+    "fetch_method": "RSS",
+    "original_title": "🤗 Kernels: Major Updates",
+    "original_content": ""
+  }
+]
