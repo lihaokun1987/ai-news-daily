@@ -1,0 +1,191 @@
+[
+  {
+    "title": "苹果的大诉讼如何扰乱 OpenAI 的 IPO 计划",
+    "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+    "content": "苹果公司上周五对 OpenAI 提起了商业秘密诉讼，而且它并没有闲着。起诉书称，OpenAI 的不当行为一直蔓延到首席硬件官，并声称有 400 多名前苹果员工现在在 OpenAI 工作。",
+    "publish_time": "Fri, 17 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 8,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.9
+    },
+    "collection_time": "2026-07-20T12:29:16.613958",
+    "fetch_method": "RSS",
+    "original_title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+    "original_content": "Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI&#8217;s chief hardware officer and claims more than 400 former Apple employees now work at the c"
+  },
+  {
+    "title": "下载：OpenAI 推出 GPT-Red，热泵在美国崛起",
+    "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
+    "content": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。认识 GPT-Red：LLM 超级黑客 OpenAI 旨在使其模型更安全 OpenAI 构建了一个名为 GPT-Red 的 LLM 超级黑客，将其用作陪练",
+    "publish_time": "Thu, 16 Ju",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-07-20T12:29:16.614230",
+    "fetch_method": "RSS",
+    "original_title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring"
+  },
+  {
+    "title": "随机重置寻路：图路径上级联强盗的路径级遗憾",
+    "url": "https://arxiv.org/abs/2607.15440",
+    "content": "arXiv:2607.15440v1 公告类型：新 \n摘要：我们介绍随机重置寻路（SRP），这是一个已知有向图上的情景学习问题，具有未知的固定边成功概率。在每一集中，代理都会承诺从源到目标的路径，以及执行期间的任何边缘故障",
+    "publish_time": "Mon, 20 Ju",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-07-20T12:29:16.614559",
+    "fetch_method": "RSS",
+    "original_title": "Stochastic Reset Pathfinding: Path-Level Regret for Cascading Bandits over Graph Paths",
+    "original_content": "arXiv:2607.15440v1 Announce Type: new \nAbstract: We introduce Stochastic Reset Pathfinding (SRP), an episodic learning problem on a known directed graph with unknown stationary edge success probabilities. In each episode, the agent commits to a source-to-goal path, and any edge failure during execut"
+  },
+  {
+    "title": "对值得信赖的人工智能工具、标记框架和实施鸿沟的批判性分析",
+    "url": "https://arxiv.org/abs/2607.15480",
+    "content": "arXiv:2607.15480v1 公告类型：新 \n摘要：随着人工智能（AI）系统对社会的影响越来越大，确保其道德和值得信赖的部署已成为全球优先事项。尽管已经出现了无数高水平的道德准则，但批评仍然存在，认为这些框架",
+    "publish_time": "Mon, 20 Ju",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.3
+    },
+    "collection_time": "2026-07-20T12:29:16.614406",
+    "fetch_method": "RSS",
+    "original_title": "A Critical Analysis of Trustworthy AI Tools, Mark Frameworks, and the Implementation Chasms",
+    "original_content": "arXiv:2607.15480v1 Announce Type: new \nAbstract: As artificial intelligence (AI) systems increasingly impact society, ensuring their ethical and trustworthy deployment has become a global priority. While a myriad of high-level ethical guidelines have emerged, criticism persists that these frameworks"
+  },
+  {
+    "title": "苹果的诉讼会破坏 OpenAI 的硬件计划吗？",
+    "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+    "content": "在最新一期的《Equity》节目中，我们讨论了苹果的诉讼是否会影响 OpenAi 备受讨论的进军硬件和上市的计划。",
+    "publish_time": "Sun, 19 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-07-20T12:29:16.613811",
+    "fetch_method": "RSS",
+    "original_title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+    "original_content": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public."
+  },
+  {
+    "title": "对于 OpenAI 来说，苹果的诉讼来得正是时候",
+    "url": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
+    "content": "苹果公司上周五对 OpenAI 提起了商业秘密诉讼，而且它并没有闲着。起诉书称，OpenAI 的不当行为一直蔓延到首席硬件官，并声称有 400 多名前苹果员工现在在 OpenAI 工作。",
+    "publish_time": "Fri, 17 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-07-20T12:29:16.613984",
+    "fetch_method": "RSS",
+    "original_title": "Apple’s lawsuit couldn’t come at a worse time for OpenAI",
+    "original_content": "Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI&#8217;s chief hardware officer and claims more than 400 former Apple employees now work at the c"
+  },
+  {
+    "title": "为什么第一批 GPU 金融家在 4 亿美元的交易中转向推理芯片",
+    "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+    "content": "4 亿美元的芯片支持贷款预示着下一波人工智能基础设施交易。",
+    "publish_time": "Fri, 17 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.05
+    },
+    "collection_time": "2026-07-20T12:29:16.613995",
+    "fetch_method": "RSS",
+    "original_title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+    "original_content": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals."
+  },
+  {
+    "title": "美国政府警告俄罗斯国家黑客正在攻击你的路由器",
+    "url": "https://arstechnica.com/security/2026/07/the-us-government-warns-that-russia-state-hackers-are-coming-after-your-router/",
+    "content": "随着住宅代理风靡一时，CISA 敦促路由器用户保持警惕。",
+    "publish_time": "Mon, 13 Ju",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-07-20T12:29:16.614147",
+    "fetch_method": "RSS",
+    "original_title": "The US government warns that Russia state hackers are coming after your router",
+    "original_content": "With residential proxies all the rage, CISA urges router users to be vigilant."
+  },
+  {
+    "title": "🤗 内核：主要更新",
+    "url": "https://huggingface.co/blog/revamped-kernels",
+    "content": "",
+    "publish_time": "Mon, 06 Ju",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-07-20T12:29:16.614829",
+    "fetch_method": "RSS",
+    "original_title": "🤗 Kernels: Major Updates",
+    "original_content": ""
+  },
+  {
+    "title": "OpenAI 在 GPT-5.6 广泛发布之前推出 GPT-Live 语音模型系列",
+    "url": "https://www.bing.com/news/search?q=ChatGPT+OpenAI+2026-07-19",
+    "content": "Live，一系列经过优化以处理语音指令的人工智能模型。该模型系列将为 ChatGPT 语音模式提供支持。此外，OpenAI 计划将其提供给......",
+    "publish_time": "2026-07-19",
+    "source": "AI News",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-07-20T12:29:33.362817",
+    "original_title": "OpenAI launches GPT-Live voice model series ahead of broad GPT-5.6 release",
+    "original_content": "Live, a family of artificial intelligence models optimized to process spoken instructions. The model series will power ChatGPTs voice mode. Additionally, OpenAI plans to make it available to ..."
+  }
+]
