@@ -1,0 +1,190 @@
+[
+  {
+    "title": "诉讼称 ChatGPT 导致一名男子近乎致命的健康危机",
+    "url": "https://www.bing.com/news/search?q=ChatGPT+OpenAI+2026-07-22",
+    "content": "该案件似乎是第一个认为聊天机器人的建议伤害了寻求医疗状况指导的人的案件。",
+    "publish_time": "2026-07-22",
+    "source": "AI News",
+    "score": {
+      "importance": 8,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.35
+    },
+    "collection_time": "2026-07-23T12:01:01.824026",
+    "original_title": "ChatGPT Led to a Man’s Near-Fatal Health Crisis, Lawsuit Claims",
+    "original_content": "The case appears to be the first to argue that a chatbots advice harmed someone seeking guidance about a medical condition."
+  },
+  {
+    "title": "ChatGPT 在青少年暴力政策停用后提醒家长",
+    "url": "https://www.bing.com/news/search?q=ChatGPT+OpenAI+2026-07-22",
+    "content": "OpenAI 宣布了家长警报，将在任何青少年 ChatGPT 帐户暴力政策停用后发出家长警报，与家长共享政策类别，但不进行私人聊天。",
+    "publish_time": "2026-07-22",
+    "source": "AI News",
+    "score": {
+      "importance": 8,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.35
+    },
+    "collection_time": "2026-07-23T12:01:01.824063",
+    "original_title": "ChatGPT to Alert Parents After Teen Violence-Policy Deactivation",
+    "original_content": "OpenAI has announced parent alerts that will follow any teen ChatGPT account violence-policy deactivations, sharing the policy category with parents but no private chats."
+  },
+  {
+    "title": "这位英特尔前首席执行官希望用光来推动摩尔定律",
+    "url": "https://www.wired.com/story/pat-gelsinger-moores-law-light-chips/",
+    "content": "帕特·基辛格希望利用微小光束为更强大的人工智能铺平道路。",
+    "publish_time": "Tue, 21 Ju",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-07-23T12:00:45.998147",
+    "fetch_method": "RSS",
+    "original_title": "This Former Intel CEO Wants to Jumpstart Moore’s Law With Light",
+    "original_content": "Pat Gelsinger wants to pave the way to ever more powerful artificial intelligence using tiny beams of light."
+  },
+  {
+    "title": "美国政府警告俄罗斯国家黑客正在攻击你的路由器",
+    "url": "https://arstechnica.com/security/2026/07/the-us-government-warns-that-russia-state-hackers-are-coming-after-your-router/",
+    "content": "随着住宅代理风靡一时，CISA 敦促路由器用户保持警惕。",
+    "publish_time": "Mon, 13 Ju",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-07-23T12:00:45.998269",
+    "fetch_method": "RSS",
+    "original_title": "The US government warns that Russia state hackers are coming after your router",
+    "original_content": "With residential proxies all the rage, CISA urges router users to be vigilant."
+  },
+  {
+    "title": "Glow 以 1.2B 美元估值脱颖而出，挑战人工智能时代的端点安全",
+    "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
+    "content": "Glow 的目标是企业内部快速采用人工智能代理和开发工具而产生的一类新型端点风险。",
+    "publish_time": "Wed, 22 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-07-23T12:00:45.998531",
+    "fetch_method": "RSS",
+    "original_title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
+    "original_content": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises."
+  },
+  {
+    "title": "OpenAI 称其人工智能失控并发起“前所未有”的网络攻击",
+    "url": "https://www.bbc.com/news/articles/c3ek3gvdnj3o",
+    "content": "",
+    "publish_time": "2026-07-22",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 75,
+      "comments": 99
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=49005398",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 6,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-07-23T12:01:01.824530",
+    "original_title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
+    "original_content": ""
+  },
+  {
+    "title": "编辑部",
+    "source": "www.anthropic.com",
+    "content": "我们向公众询问有关人工智能的最棘手的问题，并承诺在解决这些问题时展示我们的工作。研究人员、工程师和构建 Claude Code 的早期用户讲述了 Claude Code 如何从内部 CLI 转变为 Anthropic 的编码代理的内幕故事。 《神鬼寓言 5》将于 7 月 1 日全球回归。",
+    "url": "https://www.anthropic.com/news",
+    "publish_time": "2026-07-22",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-07-23T12:01:01.824096",
+    "original_title": "Newsroom",
+    "original_content": "Were asking the public for their hardest questions about AI, and committing to show our work as we address them. The inside story of how Claude Code went from an internal CLI to Anthropic's coding agent, told by researchers, engineers and early users who built it. Fable 5 returns globally July 1. We"
+  },
+  {
+    "title": "OpenAI 新闻 |开放人工智能",
+    "source": "openai.com",
+    "content": "",
+    "url": "https://openai.com/blog",
+    "publish_time": "2026-07-22",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-07-23T12:01:01.824125",
+    "original_title": "OpenAI News | OpenAI",
+    "original_content": ""
+  },
+  {
+    "title": "OpenAI 新闻 |开放人工智能",
+    "source": "openai.com",
+    "content": "",
+    "url": "https://openai.com/news",
+    "publish_time": "2026-07-22",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-07-23T12:01:01.824138",
+    "original_title": "OpenAI News | OpenAI",
+    "original_content": ""
+  },
+  {
+    "title": "消息",
+    "source": "deepmind.google",
+    "content": "发现我们最新的人工智能突破、项目和更新 我接受 Google 的条款和条件，并确认我的信息将按照 Google 的隐私政策使用。",
+    "url": "https://deepmind.google/blog/",
+    "publish_time": "2026-07-22",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-07-23T12:01:01.824180",
+    "original_title": "News",
+    "original_content": "Discover our latest AI breakthroughs, projects, and updates I accept Google's Terms and Conditions and acknowledge that my information will be used in accordance withGoogle's Privacy Policy."
+  }
+]
