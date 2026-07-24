@@ -1,0 +1,196 @@
+[
+  {
+    "title": "初创公司创始人敦促美国政府不要关闭中国开放重量人工智能",
+    "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+    "content": "",
+    "publish_time": "2026-07-23",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 778,
+      "comments": 689
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=49023016",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 10,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.75
+    },
+    "collection_time": "2026-07-24T11:59:23.659621",
+    "original_title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+    "original_content": ""
+  },
+  {
+    "title": "诉讼试图阻止 OpenAI 在 ChatGPT 中推出 Health 一天后",
+    "url": "https://www.bing.com/news/search?q=ChatGPT+OpenAI+2026-07-23",
+    "content": "OpenAI Group PBC 今天在 ChatGPT 中推出了 Health，这一功能可以让人们将他们的医疗记录和 Apple Health 数据连接到聊天机器人，一天前，一场诉讼指控该公司向聊天机器人提供了...",
+    "publish_time": "2026-07-23",
+    "source": "AI News",
+    "score": {
+      "importance": 9,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.7
+    },
+    "collection_time": "2026-07-24T11:59:23.659328",
+    "original_title": "OpenAI launches Health in ChatGPT a day after lawsuit seeks to block it",
+    "original_content": "OpenAI Group PBC today launched Health in ChatGPT, a feature that lets people connect their medical records and Apple Health data to the chatbot, one day after a lawsuit accused the company of handing ..."
+  },
+  {
+    "title": "东北伊利诺伊大学成为芝加哥第一所开设人工智能理学学士学位的公立大学",
+    "url": "https://www.bing.com/news/search?q=artificial+intelligence+2026-07-23",
+    "content": "芝加哥，2026 年 7 月 23 日 美通社 -- 东北伊利诺伊大学将于 2026 年秋季开始开设新的人工智能理学学士学位课程，成为美国第一所公立大学。",
+    "publish_time": "2026-07-23",
+    "source": "AI News",
+    "score": {
+      "importance": 8,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 6.55
+    },
+    "collection_time": "2026-07-24T11:59:23.659250",
+    "original_title": "Northeastern Illinois University Becomes First Public University in Chicago to Launch Bachelor of Science Degree in Artificial Intelligence",
+    "original_content": "CHICAGO, July 23, 2026 PRNewswire -- Northeastern Illinois University will launch a new Bachelor of Science in Artificial Intelligence beginning in Fall 2026, becoming the first public university in ..."
+  },
+  {
+    "title": "Meta 推出了新的人工智能乐观广告，广告背景是一首有关人类灭绝的歌曲",
+    "url": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
+    "content": "大卫·鲍伊 (David Bowie) 的歌曲《五年》(Five Years) 被 Meta 用于一则据称鼓舞人心的广告中，歌曲讲述的是人类得知在世界末日到来之前他们还剩五年的生命。",
+    "publish_time": "Thu, 23 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-07-24T11:59:09.352122",
+    "fetch_method": "RSS",
+    "original_title": "Meta launched a new AI optimism ad set to a song about human extinction",
+    "original_content": "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse."
+  },
+  {
+    "title": "随着生成媒体变得拥挤，Runway 推出 AI 模型路由器",
+    "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+    "content": "媒体路由器是一种工具，可根据开发人员是否优先考虑质量、速度或成本来自动为请求选择最佳图像、视频或音频生成模型。",
+    "publish_time": "Thu, 23 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-07-24T11:59:09.352106",
+    "fetch_method": "RSS",
+    "original_title": "Runway launches AI model router as generative media gets crowded",
+    "original_content": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost."
+  },
+  {
+    "title": "ServiceNow 向印度银行软件专家押注 4000 万美元，以扩大其金融服务业务",
+    "url": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
+    "content": "ServiceNow 的投资为 BusinessNext 提供了一个战略合作伙伴，以在全球范围内扩展其人工智能驱动的银行软件。",
+    "publish_time": "Thu, 23 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-07-24T11:59:09.352161",
+    "fetch_method": "RSS",
+    "original_title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
+    "original_content": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally."
+  },
+  {
+    "title": "这位英特尔前首席执行官希望用光来推动摩尔定律",
+    "url": "https://www.wired.com/story/pat-gelsinger-moores-law-light-chips/",
+    "content": "帕特·基辛格希望利用微小光束为更强大的人工智能铺平道路。",
+    "publish_time": "Tue, 21 Ju",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-07-24T11:59:09.352248",
+    "fetch_method": "RSS",
+    "original_title": "This Former Intel CEO Wants to Jumpstart Moore’s Law With Light",
+    "original_content": "Pat Gelsinger wants to pave the way to ever more powerful artificial intelligence using tiny beams of light."
+  },
+  {
+    "title": "美国政府警告俄罗斯国家黑客正在攻击你的路由器",
+    "url": "https://arstechnica.com/security/2026/07/the-us-government-warns-that-russia-state-hackers-are-coming-after-your-router/",
+    "content": "随着住宅代理风靡一时，CISA 敦促路由器用户保持警惕。",
+    "publish_time": "Mon, 13 Ju",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-07-24T11:59:09.352027",
+    "fetch_method": "RSS",
+    "original_title": "The US government warns that Russia state hackers are coming after your router",
+    "original_content": "With residential proxies all the rage, CISA urges router users to be vigilant."
+  },
+  {
+    "title": "启动 HN：Screenpipe (YC S26) – 记录您的工作方式并将其转化为代理",
+    "url": "https://news.ycombinator.com/item?id=49024620",
+    "content": "嗨，黑客新闻，我是路易斯。我构建了 Screenpipe (https://screenpipe.com)，这是一款可以在本地记录您的屏幕和音频（仅！）的应用程序，并为 AI 代理提供您所见、所说和所听内容的可搜索记忆。这使得您可以更轻松地自动执行重复性任务，将其转化为 SOP（标准 Opera",
+    "publish_time": "Thu, 23 Ju",
+    "source": "Hacker News Front Page",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-07-24T11:59:09.352385",
+    "fetch_method": "RSS",
+    "original_title": "Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents",
+    "original_content": "Hi Hacker News, I'm Louis. I built Screenpipe (https://screenpipe.com), an app that records your screen and audio locally (only!), and gives AI agents a searchable memory of what you've seen, said, and heard. This makes it easier to automate your repetitive tasks, turn them into SOPs (Standard Opera"
+  },
+  {
+    "title": "Substack 推出了“人工智能制造”仪表。人们正在失去理智。",
+    "url": "https://www.reddit.com/r/artificial/comments/1v4kf7w/substack_launched_a_made_with_ai_meter_people_are/",
+    "content": "本周早些时候，Substack 与 AI 检测工具 Pangram 合作，在其平台上推出了一项新功能。该目标提醒读者注意完全由其他人编写或与其他人一起编写的内容",
+    "publish_time": "2026-07-23",
+    "source": "Reddit r/artificial",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-07-24T11:59:23.659488",
+    "original_title": "Substack launched a 'made with AI' meter. People are losing their minds.",
+    "original_content": "Earlier this week, Substack launched a new feature on its platform in partnership with Pangram, an AI-detection tool. The goal alert readers to content that39s been written entirely by, or with the as"
+  }
+]
