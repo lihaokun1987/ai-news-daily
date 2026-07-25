@@ -1,0 +1,200 @@
+[
+  {
+    "title": "政府命令 GitHub 删除基于蓝牙的聊天应用程序 Bitchat：Jack Dorsey",
+    "url": "https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece",
+    "content": "",
+    "publish_time": "2026-07-24",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 403,
+      "comments": 294
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=49036433",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.35
+    },
+    "collection_time": "2026-07-25T11:56:09.986765",
+    "original_title": "Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey",
+    "original_content": ""
+  },
+  {
+    "title": "这位英特尔前首席执行官希望用光来推动摩尔定律",
+    "url": "https://www.wired.com/story/pat-gelsinger-moores-law-light-chips/",
+    "content": "帕特·基辛格希望利用微小光束为更强大的人工智能铺平道路。",
+    "publish_time": "Tue, 21 Ju",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-07-25T11:55:54.537179",
+    "fetch_method": "RSS",
+    "original_title": "This Former Intel CEO Wants to Jumpstart Moore’s Law With Light",
+    "original_content": "Pat Gelsinger wants to pave the way to ever more powerful artificial intelligence using tiny beams of light."
+  },
+  {
+    "title": "Anthropic 推出 Opus 5",
+    "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+    "content": "Opus 5 比《神鬼寓言》更便宜，限制更少，这可能使其在大多数用例中更受欢迎。",
+    "publish_time": "Fri, 24 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-07-25T11:55:54.537343",
+    "fetch_method": "RSS",
+    "original_title": "Anthropic launches Opus 5",
+    "original_content": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases."
+  },
+  {
+    "title": "随着美国权衡对中国人工智能的反应，业界敦促不要广泛的开放权重限制",
+    "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+    "content": "在华盛顿就如何应对中国人工智能和所谓的模型蒸馏进行辩论之际，包括英伟达和米斯特拉尔在内的人工智能公司敦促政策制定者避免对开放权重人工智能模型进行广泛限制。",
+    "publish_time": "Fri, 24 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-07-25T11:55:54.537356",
+    "fetch_method": "RSS",
+    "original_title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+    "original_content": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation."
+  },
+  {
+    "title": "随着生成媒体变得拥挤，Runway 推出 AI 模型路由器",
+    "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+    "content": "媒体路由器是一种工具，可根据开发人员是否优先考虑质量、速度或成本来自动为请求选择最佳图像、视频或音频生成模型。",
+    "publish_time": "Thu, 23 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-07-25T11:55:54.537463",
+    "fetch_method": "RSS",
+    "original_title": "Runway launches AI model router as generative media gets crowded",
+    "original_content": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost."
+  },
+  {
+    "title": "下载：器官移植突破和国产芯片",
+    "url": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
+    "content": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。过冷肾脏已被移植到猪体内，这是一项“里程碑式的成就”——对于器官捐献来说，时间就是一切。立刻",
+    "publish_time": "Fri, 24 Ju",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-07-25T11:55:54.537220",
+    "fetch_method": "RSS",
+    "original_title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Supercooled kidneys have been transplanted into pigs in a “landmark achievement”&#160; When it comes to organ donation, time is everything. As soon as"
+  },
+  {
+    "title": "扎根投资者观点：Black-Litterman 模型中的神经谓词",
+    "url": "https://arxiv.org/abs/2607.20533",
+    "content": "arXiv:2607.20533v1 公告类型：新 \n摘要：Black-Litterman 模型下的投资组合构建要求投资者明确对资产回报的看法以及明确的不确定性估计，这一过程在很大程度上仍然是主观的且难以扩展。我们提出了一种正式的方法",
+    "publish_time": "Fri, 24 Ju",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-07-25T11:55:54.537790",
+    "fetch_method": "RSS",
+    "original_title": "Grounding Investor Views: Neural Predicates in the Black-Litterman Model",
+    "original_content": "arXiv:2607.20533v1 Announce Type: new \nAbstract: Portfolio construction under the Black-Litterman model requires investors to specify views on asset returns alongside explicit uncertainty estimates -- a process that remains largely subjective and difficult to scale. We propose a formal approach in w"
+  },
+  {
+    "title": "美国政府警告俄罗斯国家黑客正在攻击你的路由器",
+    "url": "https://arstechnica.com/security/2026/07/the-us-government-warns-that-russia-state-hackers-are-coming-after-your-router/",
+    "content": "随着住宅代理风靡一时，CISA 敦促路由器用户保持警惕。",
+    "publish_time": "Mon, 13 Ju",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-07-25T11:55:54.537882",
+    "fetch_method": "RSS",
+    "original_title": "The US government warns that Russia state hackers are coming after your router",
+    "original_content": "With residential proxies all the rage, CISA urges router users to be vigilant."
+  },
+  {
+    "title": "近距离工作5",
+    "url": "https://www.anthropic.com/news/claude-opus-5",
+    "content": "",
+    "publish_time": "2026-07-24",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 1378,
+      "comments": 746
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=49038433",
+    "score": {
+      "importance": 3,
+      "authority": 5,
+      "spread": 10,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-07-25T11:56:09.986673",
+    "original_title": "Claude Opus 5",
+    "original_content": ""
+  },
+  {
+    "title": "Midjourney 收购占星应用 Co-Star",
+    "url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
+    "content": "人工智能实验室 Midjourney 继续将其范围扩展到图像和视频生成之外。",
+    "publish_time": "Fri, 24 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-07-25T11:55:54.537382",
+    "fetch_method": "RSS",
+    "original_title": "Midjourney acquired the astrology app Co-Star",
+    "original_content": "The AI lab Midjourney continues to expand its purview beyond image and video generation."
+  }
+]
