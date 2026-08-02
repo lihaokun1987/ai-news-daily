@@ -1,0 +1,191 @@
+[
+  {
+    "title": "一个根本性的缺陷使得法学硕士极易受到攻击",
+    "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+    "content": "一个研究小组在本月顶级人工智能会议国际机器学习会议上发表的一篇论文中指出，大型语言模型不可能完全免受黑客攻击，因为它们的工作方式存在根本缺陷。该索赔对安全部队具有巨大影响",
+    "publish_time": "Thu, 30 Ju",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-08-02T12:17:36.354000",
+    "fetch_method": "RSS",
+    "original_title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+    "original_content": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the saf"
+  },
+  {
+    "title": "法官驳回 xAI 阻止明尼苏达州禁止“裸体”应用程序的请求",
+    "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+    "content": "尽管 xAI 提起诉讼，但明尼苏达州禁止允许用户“裸体”图像的应用程序的禁令仍然可以继续推进。",
+    "publish_time": "Sat, 01 Au",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-08-02T12:17:36.354351",
+    "fetch_method": "RSS",
+    "original_title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+    "original_content": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward."
+  },
+  {
+    "title": "谷歌在推出一天后取消了其地球人工智能功能，因批评该功能会传播错误信息",
+    "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+    "content": "一种允许任何人生成人工智能生成的假图像并将其叠加在真实的谷歌地球地图上的工具很快引发了强烈反对。",
+    "publish_time": "Fri, 31 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-08-02T12:17:36.354392",
+    "fetch_method": "RSS",
+    "original_title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+    "original_content": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash."
+  },
+  {
+    "title": "微软推出人工智能安全工具，称其性能优于竞争平台",
+    "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+    "content": "微软表示，工具的成本低于竞争对手，而且性能也优于竞争对手。",
+    "publish_time": "Mon, 27 Ju",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-08-02T12:17:36.354108",
+    "fetch_method": "RSS",
+    "original_title": "Microsoft unveils AI security tools it says outperform competing platforms",
+    "original_content": "Microsoft says tools cost less than competing ones and outperform them, too."
+  },
+  {
+    "title": "美国政府警告俄罗斯国家黑客正在攻击你的路由器",
+    "url": "https://arstechnica.com/security/2026/07/the-us-government-warns-that-russia-state-hackers-are-coming-after-your-router/",
+    "content": "随着住宅代理风靡一时，CISA 敦促路由器用户保持警惕。",
+    "publish_time": "Mon, 13 Ju",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-08-02T12:17:36.354191",
+    "fetch_method": "RSS",
+    "original_title": "The US government warns that Russia state hackers are coming after your router",
+    "original_content": "With residential proxies all the rage, CISA urges router users to be vigilant."
+  },
+  {
+    "title": "法官驳回埃隆·马斯克 xAI 暂停明尼苏达州裸露禁令的请求",
+    "url": "https://www.reddit.com/r/artificial/comments/1vcglab/judge_denies_request_by_elon_musks_xai_to_pause/",
+    "content": "32 提交者 32 uFcking_Chuck 链接 32 条评论",
+    "publish_time": "2026-08-01",
+    "source": "Reddit r/artificial",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-08-02T12:17:50.331481",
+    "original_title": "Judge denies request by Elon Musk's xAI to pause Minnesota nudification ban",
+    "original_content": "32 submitted by 32 uFcking_Chuck link 32 comments"
+  },
+  {
+    "title": "AI 对冲基金 Situation Awareness 可能已出售其公开投资组合，但仍持有 Anthropic 股票",
+    "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+    "content": "在杠杆公开押注暴跌后，这位前 OpenAI 研究人员的基金被迫抛售公开股票。但他还有牌可打。",
+    "publish_time": "Thu, 30 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-08-02T12:17:36.354474",
+    "fetch_method": "RSS",
+    "original_title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+    "original_content": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play."
+  },
+  {
+    "title": "编辑部",
+    "source": "www.anthropic.com",
+    "content": "Opus 5 是 Opus 层的一步变革改进，为长期运行的代理提供支持，同时改进编码和专业工作。我们向公众询问有关人工智能的最棘手的问题，并承诺在解决这些问题时展示我们的工作。克劳德·科德的去向内幕",
+    "url": "https://www.anthropic.com/news",
+    "publish_time": "2026-08-01",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-08-02T12:17:50.331392",
+    "original_title": "Newsroom",
+    "original_content": "Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work. Were asking the public for their hardest questions about AI, and committing to show our work as we address them. The inside story of how Claude Code went "
+  },
+  {
+    "title": "OpenAI 新闻 |开放人工智能",
+    "source": "openai.com",
+    "content": "",
+    "url": "https://openai.com/blog",
+    "publish_time": "2026-08-01",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-08-02T12:17:50.331414",
+    "original_title": "OpenAI News | OpenAI",
+    "original_content": ""
+  },
+  {
+    "title": "OpenAI 新闻 |开放人工智能",
+    "source": "openai.com",
+    "content": "",
+    "url": "https://openai.com/news",
+    "publish_time": "2026-08-01",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-08-02T12:17:50.331422",
+    "original_title": "OpenAI News | OpenAI",
+    "original_content": ""
+  }
+]
