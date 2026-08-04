@@ -1,0 +1,196 @@
+[
+  {
+    "title": "一个根本性的缺陷使得法学硕士极易受到攻击",
+    "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+    "content": "一个研究小组在本月顶级人工智能会议国际机器学习会议上发表的一篇论文中指出，大型语言模型不可能完全免受黑客攻击，因为它们的工作方式存在根本缺陷。该索赔对安全部队具有巨大影响",
+    "publish_time": "Thu, 30 Ju",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-08-04T11:56:06.683265",
+    "fetch_method": "RSS",
+    "original_title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+    "original_content": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the saf"
+  },
+  {
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "url": "https://arxiv.org/abs/2607.28670",
+    "content": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "publish_time": "Mon, 03 Au",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-08-04T11:56:06.683689",
+    "fetch_method": "RSS",
+    "original_title": "Hierarchical Copula-Gumbel-Top-\\texorpdfstring{$K$}{K} Routing: Two-Sided Dependence Control for Frozen Mixture-of-Experts at Fixed Per-Token Routing Laws",
+    "original_content": "arXiv:2607.28670v1 Announce Type: new \nAbstract: A stochastic Gumbel-Top-$K$ router defines, for every token of a mixture-of-experts (MoE) model, a \\emph{routing law}: a distribution over ordered expert lists and mixture weights. We ask which \\emph{joint} distributions over the routing choices of di"
+  },
+  {
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "url": "https://arxiv.org/abs/2607.28672",
+    "content": "arXiv:2607.28672v1 公告类型：新 \n摘要：当神经网络准确地预测物理系统时，它是否将控制法则学习为形式化、结构化的知识？如果是，网络的内部计算实际上是否在整个法则的有效范围内使用该表示形式？",
+    "publish_time": "Mon, 03 Au",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-08-04T11:56:06.683699",
+    "fetch_method": "RSS",
+    "original_title": "LAWFUL: Law-Aligned Witness for Faithful Use of Latents",
+    "original_content": "arXiv:2607.28672v1 Announce Type: new \nAbstract: When a neural network predicts a physical system accurately, has it learned the governing law as formal, structured knowledge, and if so, does the network's internal computation actually use that representation throughout the law's domain of validity?"
+  },
+  {
+    "title": "代理人工智能中的 OpenClaw 和 Ollama：迈向完全自主和可扩展的人工智能代理系统",
+    "url": "https://arxiv.org/abs/2607.28629",
+    "content": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "publish_time": "Mon, 03 Au",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-08-04T11:56:06.683814",
+    "fetch_method": "RSS",
+    "original_title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
+    "original_content": "arXiv:2607.28629v1 Announce Type: new \nAbstract: The rapid transition from reactive large language models (LLMs) to persistent, action-capable systems has exposed critical gaps in the architectural understanding of Agentic AI, particularly in separating inference, orchestration, and execution layers"
+  },
+  {
+    "title": "SQLite 关键 CVE 还是 LLM Slop？",
+    "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+    "content": "",
+    "publish_time": "2026-08-03",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 702,
+      "comments": 352
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=49154332",
+    "score": {
+      "importance": 5,
+      "authority": 5,
+      "spread": 10,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-08-04T11:56:25.650482",
+    "original_title": "SQLite Critical CVEs or LLM Slop?",
+    "original_content": ""
+  },
+  {
+    "title": "发现重大数学猜想的法学硕士框架：人工智能对下一个黎曼假设的探索",
+    "url": "https://arxiv.org/abs/2607.28632",
+    "content": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "publish_time": "Mon, 03 Au",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.3
+    },
+    "collection_time": "2026-08-04T11:56:06.683839",
+    "fetch_method": "RSS",
+    "original_title": "LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the Next Riemann Hypothesis",
+    "original_content": "arXiv:2607.28632v1 Announce Type: new \nAbstract: Major mathematical conjectures still depend heavily on expert intuition, so a unified method for the systematic generation and validation of conjectures with substantial mathematical potential remains unavailable. We present a three stage pipeline for"
+  },
+  {
+    "title": "国会最喜欢的人工智能工具？聊天GPT",
+    "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+    "content": "众议院支出记录显示，OpenAI 的 ChatGPT 在国会山的付费人工智能使用中占据主导地位，国会办公室依靠聊天机器人起草备忘录、总结立法并协助选民沟通。",
+    "publish_time": "Mon, 03 Au",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-08-04T11:56:06.682896",
+    "fetch_method": "RSS",
+    "original_title": "Congress’ favorite AI tool? ChatGPT",
+    "original_content": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications."
+  },
+  {
+    "title": "法官驳回 xAI 阻止明尼苏达州禁止“裸体”应用程序的请求",
+    "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+    "content": "尽管 xAI 提起诉讼，但明尼苏达州禁止允许用户“裸体”图像的应用程序的禁令仍然可以继续推进。",
+    "publish_time": "Sat, 01 Au",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-08-04T11:56:06.682946",
+    "fetch_method": "RSS",
+    "original_title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+    "original_content": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward."
+  },
+  {
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+    "content": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "publish_time": "Fri, 31 Ju",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-08-04T11:56:06.682999",
+    "fetch_method": "RSS",
+    "original_title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+    "original_content": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash."
+  },
+  {
+    "title": "SciToolAgent-Evo：用于获取开放世界科学工具的本体感知自我进化代理",
+    "url": "https://arxiv.org/abs/2607.28692",
+    "content": "arXiv:2607.28692v1 公告类型：新 \n摘要：大型语言模型（LLM）代理在科学研究中越来越多地采用来组织和调用专门的计算工具。然而，它们对具有静态语义的预定义工具空间的依赖限制了它们的适用性",
+    "publish_time": "Mon, 03 Au",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-08-04T11:56:06.683967",
+    "fetch_method": "RSS",
+    "original_title": "SciToolAgent-Evo: An Ontology-Aware Self-Evolving Agent for Open-World Scientific Tool Acquisition",
+    "original_content": "arXiv:2607.28692v1 Announce Type: new \nAbstract: Large language model (LLM) agents have been increasingly adopted in scientific research for organizing and invoking specialized computational tools. However, their reliance on predefined tool spaces with static semantics limits their applicability to "
+  }
+]
