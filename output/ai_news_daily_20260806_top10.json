@@ -1,0 +1,198 @@
+[
+  {
+    "title": "下载：美国机器人限制和 ICE 的 DNA 抓取",
+    "url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
+    "content": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。特朗普的人工智能保护主义针对的是机器人技术——詹姆斯·奥唐纳 (James O’Donnell)人形机器人通常会引起更多的畏缩而不是敬畏：它们会绊倒，”k",
+    "publish_time": "Tue, 04 Au",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-08-06T11:56:02.716289",
+    "fetch_method": "RSS",
+    "original_title": "The Download: US robot restrictions and ICE’s DNA grab",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Trump’s AI protectionism has come for robotics   —James O’Donnell&#160; Humanoid robots usually elicit more cringe than awe: They&#160;stumble,&#160;k"
+  },
+  {
+    "title": "欧盟解释权的可解释人工智能：对法律-XAI 翻译差距的系统审查",
+    "url": "https://arxiv.org/abs/2608.02699",
+    "content": "arXiv:2608.02699v1 公告类型：新 \n摘要：当算法做出或影响有关贷款资格、雇用或医疗保健的后续决策时，欧盟法律授予受影响的个人解释权。然而，可解释的人工智能（XAI）是否（以及如何）在实践中能够满足这一权利仍然存在",
+    "publish_time": "Wed, 05 Au",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-08-06T11:56:02.716998",
+    "fetch_method": "RSS",
+    "original_title": "Explainable AI for the EU Right to Explanation: A Systematic Review of the Law-XAI Translation Gap",
+    "original_content": "arXiv:2608.02699v1 Announce Type: new \nAbstract: When algorithms make or influence consequential decisions---about loan eligibility, hiring, or healthcare---EU law grants affected individuals a Right to Explanation. Yet whether (and how) Explainable AI (XAI) can satisfy this right in practice remain"
+  },
+  {
+    "title": "Meta 推出 Muse Code，一款适用于大型代码库的 AI 代理",
+    "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+    "content": "Meta 通过新的代理扩展了其人工智能编码产品，它承诺可以使用复杂的软件处理复杂的任务。",
+    "publish_time": "Wed, 05 Au",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-08-06T11:56:02.716059",
+    "fetch_method": "RSS",
+    "original_title": "Meta launches Muse Code, an AI agent for large code bases",
+    "original_content": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software."
+  },
+  {
+    "title": "杰夫·迪恩 (Jeff Dean) 和其他顶尖人工智能研究人员将离开谷歌，创办自己的初创公司",
+    "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+    "content": "这位传奇的谷歌高管与其他即将离任的谷歌高管一起执行一项联合任务，利用人工智能推动科学发现的进程。",
+    "publish_time": "Wed, 05 Au",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-08-06T11:56:02.716102",
+    "fetch_method": "RSS",
+    "original_title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+    "original_content": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery."
+  },
+  {
+    "title": "谷歌的顶级人工智能大脑将离开并推出Discovery Loop",
+    "url": "https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/",
+    "content": "Jeff Dean 和其他谷歌高管创立了 Discovery Loop，这是一家初创公司，致力于在从药物发现到芯片设计的各个领域寻求人工智能驱动的突破。",
+    "publish_time": "Wed, 05 Au",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-08-06T11:56:02.716712",
+    "fetch_method": "RSS",
+    "original_title": "Google’s Top AI Brains Are Leaving to Launch Discovery Loop",
+    "original_content": "Jeff Dean and other high-profile Google executives have founded Discovery Loop, a startup that will seek AI-powered breakthroughs in everything from drug discovery to chip design."
+  },
+  {
+    "title": "Rust-lang/rust 正在采用 LLM 政策",
+    "url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
+    "content": "",
+    "publish_time": "2026-08-05",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 109,
+      "comments": 70
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=49179039",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 7,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.05
+    },
+    "collection_time": "2026-08-06T11:56:16.468016",
+    "original_title": "Rust-lang/rust is adopting an LLM policy",
+    "original_content": ""
+  },
+  {
+    "title": "微软推出人工智能安全工具，称其性能优于竞争平台",
+    "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+    "content": "微软表示，工具的成本低于竞争对手，而且性能也优于竞争对手。",
+    "publish_time": "Mon, 27 Ju",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-08-06T11:56:02.716374",
+    "fetch_method": "RSS",
+    "original_title": "Microsoft unveils AI security tools it says outperform competing platforms",
+    "original_content": "Microsoft says tools cost less than competing ones and outperform them, too."
+  },
+  {
+    "title": "美国政府警告俄罗斯国家黑客正在攻击你的路由器",
+    "url": "https://arstechnica.com/security/2026/07/the-us-government-warns-that-russia-state-hackers-are-coming-after-your-router/",
+    "content": "随着住宅代理风靡一时，CISA 敦促路由器用户保持警惕。",
+    "publish_time": "Mon, 13 Ju",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-08-06T11:56:02.716435",
+    "fetch_method": "RSS",
+    "original_title": "The US government warns that Russia state hackers are coming after your router",
+    "original_content": "With residential proxies all the rage, CISA urges router users to be vigilant."
+  },
+  {
+    "title": "启动 HN：HyperProbe (YC S26) – 在产品中进行只读调试的代理",
+    "url": "https://www.hyperprobe.co",
+    "content": "你好，HN，我是 Shailendra 和 Karan。我们正在为编码代理构建一种快速、安全的方法来调试生产中的问题。当 prod 中断时，它可以让 Cursor、Claude 和其他人在运行的代码中安全地删除虚拟断点或探针，并提取日志中没有的确切变量值。",
+    "publish_time": "Wed, 05 Au",
+    "source": "Hacker News Front Page",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-08-06T11:56:02.717189",
+    "fetch_method": "RSS",
+    "original_title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod",
+    "original_content": "Hi HN, this is Shailendra and Karan here. We are building a fast and safe way for coding agents to debug issues live in production.When prod breaks, it lets Cursor, Claude, and others drop virtual breakpoints or probes safely in your running code, and extract the exact variable values that logs don’"
+  },
+  {
+    "title": "Cloudflare 宣布开源 Cloudflare OS 作为人工智能“操作系统”",
+    "url": "https://www.reddit.com/r/artificial/comments/1vgn96g/cloudflare_announces_opensource_cloudflare_os_as/",
+    "content": "32 提交者 32 uFcking_Chuck 链接 32 条评论",
+    "publish_time": "2026-08-05",
+    "source": "Reddit r/artificial",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-08-06T11:56:16.467856",
+    "original_title": "Cloudflare announces open-source Cloudflare OS as AI \"operating system\"",
+    "original_content": "32 submitted by 32 uFcking_Chuck link 32 comments"
+  }
+]
