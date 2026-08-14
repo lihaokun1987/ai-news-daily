@@ -1,0 +1,188 @@
+[
+  {
+    "title": "具有背包约束的上下文强盗的重新优化算法",
+    "url": "https://arxiv.org/abs/2608.11383",
+    "content": "arXiv:2608.11383v1 公告类型：新 \n摘要：我们研究了背包上下文强盗的新算法。在这些问题中，客户、产品和资源的类型是有限的。每个产品都是由固定的资源组合制成的，而资源的容量是有限的。十月",
+    "publish_time": "Thu, 13 Au",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-08-14T11:18:13.672808",
+    "fetch_method": "RSS",
+    "original_title": "Reoptimization Algorithms for Contextual Bandits with Knapsack Constraints",
+    "original_content": "arXiv:2608.11383v1 Announce Type: new \nAbstract: We study new algorithms for Contextual Bandits with Knapsack. In these problems, there are finitely many types of customers, products, and resources. Each product is made from a fixed combination of resources, and resources have finite capacity. A dec"
+  },
+  {
+    "title": "作者引入了新的人工智能模型和升级的工具来控制代币成本",
+    "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+    "content": "作为 Z.ai 开源模型 GLM-5.2 的训练后变体，Writer 表示新系统应该以低得多的价格提供部署就绪的功能。",
+    "publish_time": "Thu, 13 Au",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-08-14T11:18:13.672314",
+    "fetch_method": "RSS",
+    "original_title": "Writer introduces new AI model and upgraded harness to contain token costs",
+    "original_content": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price."
+  },
+  {
+    "title": "OpenAI 推出“超快”新模式，使 GPT-5.6 Sol 的工作速度提高 14 倍",
+    "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+    "content": "OpenAI 正在推出其最新、最强大模型的加速版本预览，以吸引企业用户。",
+    "publish_time": "Thu, 13 Au",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-08-14T11:18:13.672340",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+    "original_content": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users."
+  },
+  {
+    "title": "白宫将扩大其人工智能政策",
+    "url": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
+    "content": "消息人士告诉《连线》杂志，随着白宫继续努力解决如何监管其试图不监管的技术，开放模型可能很快就会被添加到更新的人工智能框架中。",
+    "publish_time": "Wed, 12 Au",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-08-14T11:18:13.672240",
+    "fetch_method": "RSS",
+    "original_title": "The White House Is Going to Expand Its AI Policy",
+    "original_content": "Open models may soon be added to an updated AI framework, sources tell WIRED, as the White House continues to grapple with how to regulate a technology it has tried not to regulate."
+  },
+  {
+    "title": "微软推出人工智能安全工具，称其性能优于竞争平台",
+    "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+    "content": "微软表示，工具的成本低于竞争对手，而且性能也优于竞争对手。",
+    "publish_time": "Mon, 27 Ju",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-08-14T11:18:13.672152",
+    "fetch_method": "RSS",
+    "original_title": "Microsoft unveils AI security tools it says outperform competing platforms",
+    "original_content": "Microsoft says tools cost less than competing ones and outperform them, too."
+  },
+  {
+    "title": "Databricks 想要筹集 1B 美元，投资者想要 15B 美元。其最终估值为 5B 美元，估值为 190B 美元。",
+    "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+    "content": "Ali Ghodsi 告诉 TechCrunch，人工智能很昂贵。由于有如此多的投资者想要参与他的最新一轮投资，他对超出计划的投资表示同意。",
+    "publish_time": "Thu, 13 Au",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-08-14T11:18:13.672326",
+    "fetch_method": "RSS",
+    "original_title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+    "original_content": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned."
+  },
+  {
+    "title": "编辑部",
+    "source": "www.anthropic.com",
+    "content": "Opus 5 是 Opus 层的一步变革改进，为长期运行的代理提供支持，同时改进编码和专业工作。我们向公众询问有关人工智能的最棘手的问题，并承诺在解决这些问题时展示我们的工作。克劳德·科德的去向内幕",
+    "url": "https://www.anthropic.com/news",
+    "publish_time": "2026-08-13",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-08-14T11:18:27.091430",
+    "original_title": "Newsroom",
+    "original_content": "Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work. Were asking the public for their hardest questions about AI, and committing to show our work as we address them. The inside story of how Claude Code went "
+  },
+  {
+    "title": "OpenAI 新闻 |开放人工智能",
+    "source": "openai.com",
+    "content": "",
+    "url": "https://openai.com/blog",
+    "publish_time": "2026-08-13",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-08-14T11:18:27.091445",
+    "original_title": "OpenAI News | OpenAI",
+    "original_content": ""
+  },
+  {
+    "title": "OpenAI 新闻 |开放人工智能",
+    "source": "openai.com",
+    "content": "",
+    "url": "https://openai.com/news",
+    "publish_time": "2026-08-13",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-08-14T11:18:27.091451",
+    "original_title": "OpenAI News | OpenAI",
+    "original_content": ""
+  },
+  {
+    "title": "消息",
+    "source": "deepmind.google",
+    "content": "发现我们最新的人工智能突破、项目和更新 我接受 Google 的条款和条件，并确认我的信息将按照 Google 的隐私政策使用。",
+    "url": "https://deepmind.google/blog/",
+    "publish_time": "2026-08-13",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-08-14T11:18:27.091464",
+    "original_title": "News",
+    "original_content": "Discover our latest AI breakthroughs, projects, and updates I accept Google's Terms and Conditions and acknowledge that my information will be used in accordance withGoogle's Privacy Policy."
+  }
+]
