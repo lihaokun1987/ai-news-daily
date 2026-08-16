@@ -1,0 +1,191 @@
+[
+  {
+    "title": "OpenAI 在新文件提交后公开反驳苹果诉讼",
+    "url": "https://www.bing.com/news/search?q=ChatGPT+OpenAI+2026-08-15",
+    "content": "OpenAI Group PBC 公开反驳了苹果公司上个月对其提起的诉讼。 ChatGPT 开发人员在周一发布的博客文章中概述了其论点。举动来了...",
+    "publish_time": "2026-08-15",
+    "source": "AI News",
+    "score": {
+      "importance": 8,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 6.55
+    },
+    "collection_time": "2026-08-16T10:13:53.236634",
+    "original_title": "OpenAI publicly pushes back against Apple lawsuit after new filing",
+    "original_content": "OpenAI Group PBC has publicly pushed back against a lawsuit that Apple Inc. filed against it last month. The ChatGPT developer outlined its arguments in a blog post published on Monday. The move came ..."
+  },
+  {
+    "title": "受控持久内存：长视野代理的源绑定状态语义和故障关闭释放",
+    "url": "https://arxiv.org/abs/2608.12476",
+    "content": "arXiv:2608.12476v1 公告类型：新 \n摘要：长期代理记忆通常被视为选择-存储-检索，但检索并不能决定矛盾的、被取代的、撤消的、删除的或过时的记录是否可以支持传出的声明。我们引入受管持久内存 (GPM)，",
+    "publish_time": "Sat, 15 Au",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-08-16T10:13:38.978013",
+    "fetch_method": "RSS",
+    "original_title": "Governed Persistent Memory: Source-Bound State Semantics and Fail-Closed Release for Long-Horizon Agents",
+    "original_content": "arXiv:2608.12476v1 Announce Type: new \nAbstract: Long-term agent memory is usually treated as select--store--retrieve, but retrieval does not decide whether contradictory, superseded, retracted, deleted, or stale records may support an outgoing claim. We introduce Governed Persistent Memory (GPM), a"
+  },
+  {
+    "title": "作者引入了新的人工智能模型和升级的工具来控制代币成本",
+    "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+    "content": "作为 Z.ai 开源模型 GLM-5.2 的训练后变体，Writer 表示新系统应该以低得多的价格提供部署就绪的功能。",
+    "publish_time": "Thu, 13 Au",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-08-16T10:13:38.977363",
+    "fetch_method": "RSS",
+    "original_title": "Writer introduces new AI model and upgraded harness to contain token costs",
+    "original_content": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price."
+  },
+  {
+    "title": "OpenAI 推出“超快”新模式，使 GPT-5.6 Sol 的工作速度提高 14 倍",
+    "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+    "content": "OpenAI 正在推出其最新、最强大模型的加速版本预览，以吸引企业用户。",
+    "publish_time": "Thu, 13 Au",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-08-16T10:13:38.977387",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+    "original_content": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users."
+  },
+  {
+    "title": "人们正在“嫁给”聊天机器人。这些立法者想要阻止他们",
+    "url": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/",
+    "content": "美国法律目前不承认人类与人工智能的婚姻。一些共和党州的政策制定者正在起草立法以保持这种状态。",
+    "publish_time": "Fri, 14 Au",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-08-16T10:13:38.977780",
+    "fetch_method": "RSS",
+    "original_title": "People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them",
+    "original_content": "Human-AI marriages are not currently recognized by US law. Some Republican state policymakers are drafting legislation to keep it that way."
+  },
+  {
+    "title": "白宫将扩大其人工智能政策",
+    "url": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
+    "content": "消息人士告诉《连线》杂志，随着白宫继续努力解决如何监管其试图不监管的技术，开放模型可能很快就会被添加到更新的人工智能框架中。",
+    "publish_time": "Wed, 12 Au",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-08-16T10:13:38.977823",
+    "fetch_method": "RSS",
+    "original_title": "The White House Is Going to Expand Its AI Policy",
+    "original_content": "Open models may soon be added to an updated AI framework, sources tell WIRED, as the White House continues to grapple with how to regulate a technology it has tried not to regulate."
+  },
+  {
+    "title": "法国最高法院驳回针对 15 岁以下青少年的社交媒体禁令",
+    "url": "https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/",
+    "content": "文章网址：https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/\n评论网址：https://news.ycombinator.com/item?id=49300671\n积分：226\n# 评论: 168",
+    "publish_time": "Fri, 14 Au",
+    "source": "Hacker News Best",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-08-16T10:13:38.977473",
+    "fetch_method": "RSS",
+    "original_title": "France's top court blocks social media ban for under-15s",
+    "original_content": "Article URL: https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/\nComments URL: https://news.ycombinator.com/item?id=49300671\nPoints: 226\n# Comments: 168"
+  },
+  {
+    "title": "微软推出人工智能安全工具，称其性能优于竞争平台",
+    "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+    "content": "微软表示，工具的成本低于竞争对手，而且性能也优于竞争对手。",
+    "publish_time": "Mon, 27 Ju",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-08-16T10:13:38.977718",
+    "fetch_method": "RSS",
+    "original_title": "Microsoft unveils AI security tools it says outperform competing platforms",
+    "original_content": "Microsoft says tools cost less than competing ones and outperform them, too."
+  },
+  {
+    "title": "SpaceX 正式完成 Cursor 收购",
+    "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+    "content": "AI 编码初创公司 Cursor 现已正式成为 SpaceX 的一部分。",
+    "publish_time": "Sat, 15 Au",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-08-16T10:13:38.977292",
+    "fetch_method": "RSS",
+    "original_title": "SpaceX officially closes its Cursor acquisition",
+    "original_content": "AI coding startup Cursor is now officially a part of SpaceX."
+  },
+  {
+    "title": "Meta 的“开放”人工智能，以及 2.5 亿美元的交易出了大问题",
+    "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+    "content": "Meta 本周发布了 Glimmer，这是一个开放式 AI 模型，任何人都可以下载并在自己的硬件上运行，这与该公司更强大的模型 Muse Spark 形成鲜明对比，该模型始终锁定在自己的 API 后面。该新闻稿与“马克·扎克伯格的一封信”一起发布",
+    "publish_time": "Fri, 14 Au",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-08-16T10:13:38.977353",
+    "fetch_method": "RSS",
+    "original_title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+    "original_content": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#16"
+  }
+]
