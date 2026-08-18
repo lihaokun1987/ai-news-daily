@@ -1,0 +1,199 @@
+[
+  {
+    "title": "Nvidia 向 OpenAI 项目背后的软银数据中心开发商投资 1.5B 美元",
+    "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+    "content": "英伟达对软银数据中心开发商的投资将保证其芯片为 OpenAI 数据中心提供动力。",
+    "publish_time": "Mon, 17 Au",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 8,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.9
+    },
+    "collection_time": "2026-08-18T10:07:24.867682",
+    "fetch_method": "RSS",
+    "original_title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+    "original_content": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center."
+  },
+  {
+    "title": "Synchrony 宣布与 OpenAI 进行企业合作，推动代理商务的下一个时代",
+    "url": "https://www.bing.com/news/search?q=ChatGPT+OpenAI+2026-08-17",
+    "content": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "publish_time": "2026-08-17",
+    "source": "AI News",
+    "score": {
+      "importance": 8,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.35
+    },
+    "collection_time": "2026-08-18T10:07:48.400957",
+    "original_title": "Synchrony Announces Enterprise Collaboration with OpenAI to Power the Next Era of Agentic Commerce",
+    "original_content": "As part of the collaboration, Synchrony will deploy the latest models from OpenAI like GPT-5.6 Sol, Terra, and Luna across its enterprise through ChatGPT Work, Codex, and AWS Bedrock, enabling deeper ..."
+  },
+  {
+    "title": "GPT 5.6 Sol是OpenAI有史以来发布的最好的“视觉”模型",
+    "url": "https://blog.roboflow.com/openai-gpt-5-6/",
+    "content": "",
+    "publish_time": "2026-08-17",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 303,
+      "comments": 154
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=49329575",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.35
+    },
+    "collection_time": "2026-08-18T10:07:48.401367",
+    "original_title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+    "original_content": ""
+  },
+  {
+    "title": "模块化认知架构出现在大型语言模型中",
+    "url": "https://arxiv.org/abs/2608.13567",
+    "content": "arXiv:2608.13567v1 公告类型：新 \n摘要：人类大脑表现出惊人的功能专业化程度，具有支持语言、形式推理、对他人思想的推理以及对物理世界的推理的独特网络。这种模块化组织是一个基本原则吗？",
+    "publish_time": "Mon, 17 Au",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.3
+    },
+    "collection_time": "2026-08-18T10:07:24.868495",
+    "fetch_method": "RSS",
+    "original_title": "Modular Cognitive Architecture Emerges in Large Language Models",
+    "original_content": "arXiv:2608.13567v1 Announce Type: new \nAbstract: The human brain exhibits a striking degree of functional specialization, with distinct networks supporting language, formal reasoning, reasoning about other minds, and reasoning about the physical world. Is this modular organization a fundamental prin"
+  },
+  {
+    "title": "人们正在“嫁给”聊天机器人。这些立法者想要阻止他们",
+    "url": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/",
+    "content": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "publish_time": "Fri, 14 Au",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-08-18T10:07:24.868221",
+    "fetch_method": "RSS",
+    "original_title": "People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them",
+    "original_content": "Human-AI marriages are not currently recognized by US law. Some Republican state policymakers are drafting legislation to keep it that way."
+  },
+  {
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "url": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
+    "content": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "publish_time": "Wed, 12 Au",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-08-18T10:07:24.868266",
+    "fetch_method": "RSS",
+    "original_title": "The White House Is Going to Expand Its AI Policy",
+    "original_content": "Open models may soon be added to an updated AI framework, sources tell WIRED, as the White House continues to grapple with how to regulate a technology it has tried not to regulate."
+  },
+  {
+    "title": "Cursor 推出 Origin、GitHub 替代品",
+    "url": "https://cursor.com/changelog/origin-code-hosting",
+    "content": "",
+    "publish_time": "2026-08-17",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 114,
+      "comments": 66
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=49334209",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 7,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.05
+    },
+    "collection_time": "2026-08-18T10:07:48.401482",
+    "original_title": "Cursor launches Origin, GitHub alternative",
+    "original_content": ""
+  },
+  {
+    "title": "微软推出人工智能安全工具，称其性能优于竞争平台",
+    "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+    "content": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "publish_time": "Mon, 27 Ju",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-08-18T10:07:24.868166",
+    "fetch_method": "RSS",
+    "original_title": "Microsoft unveils AI security tools it says outperform competing platforms",
+    "original_content": "Microsoft says tools cost less than competing ones and outperform them, too."
+  },
+  {
+    "title": "关于人工智能监管和消息传递",
+    "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
+    "content": "https://xcancel.com/DarioAmodei/status/2088758816376807762\n\n评论网址：https://news.ycombinator.com/item?id=49325789\n积分：234\n# 评论：498",
+    "publish_time": "Mon, 17 Au",
+    "source": "Hacker News Best",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-08-18T10:07:24.868817",
+    "fetch_method": "RSS",
+    "original_title": "On AI regulation and messaging",
+    "original_content": "https://xcancel.com/DarioAmodei/status/2088758816376807762\n\nComments URL: https://news.ycombinator.com/item?id=49325789\nPoints: 234\n# Comments: 498"
+  },
+  {
+    "title": "据报道，Stripe 将以 7B+ 美元收购人工智能网关初创公司 OpenRouter",
+    "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+    "content": "OpenRouter 的首席执行官最近将这家初创公司描述为“Stripe for AI”。",
+    "publish_time": "Sun, 16 Au",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-08-18T10:07:24.867704",
+    "fetch_method": "RSS",
+    "original_title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+    "original_content": "OpenRouter's CEO recently described the startup as Stripe for AI."
+  }
+]
