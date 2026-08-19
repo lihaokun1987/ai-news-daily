@@ -1,0 +1,195 @@
+[
+  {
+    "title": "Nvidia 向 OpenAI 项目背后的软银数据中心开发商投资 1.5B 美元",
+    "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+    "content": "英伟达对软银数据中心开发商的投资将保证其芯片为 OpenAI 数据中心提供动力。",
+    "publish_time": "Mon, 17 Au",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 8,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.9
+    },
+    "collection_time": "2026-08-19T10:09:28.925081",
+    "fetch_method": "RSS",
+    "original_title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+    "original_content": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center."
+  },
+  {
+    "title": "用于城市系统轨迹生成的从粗到细的多分辨率扩散模型",
+    "url": "https://arxiv.org/abs/2608.14570",
+    "content": "arXiv:2608.14570v1 公告类型：新 \n摘要：了解人员流动对于交通管理、流行病控制和城市规划等广泛的城市应用至关重要。然而，由于隐私问题，大规模公共轨迹数据的可用性仍然有限",
+    "publish_time": "Tue, 18 Au",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-08-19T10:09:28.925537",
+    "fetch_method": "RSS",
+    "original_title": "Coarse-to-Fine Multi-Resolution Diffusion Models for Trajectory Generation in Urban Systems",
+    "original_content": "arXiv:2608.14570v1 Announce Type: new \nAbstract: Understanding human mobility is critical for a wide range of urban applications, including traffic management, epidemic control, and urban planning. However, due to privacy concerns, the availability of large-scale public trajectory data remains limit"
+  },
+  {
+    "title": "全球人工智能高风险用例中的公平和道德法规：比较审查",
+    "url": "https://arxiv.org/abs/2608.14562",
+    "content": "arXiv:2608.14562v1 公告类型：新 \n摘要：人工智能治理正在从自愿道德转向可执行的、基于风险的监管，但跨司法管辖区的分歧给高风险人工智能运营商带来了合规不确定性。我们提出了欧盟、美国和中国的比较矩阵",
+    "publish_time": "Tue, 18 Au",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-08-19T10:09:28.925733",
+    "fetch_method": "RSS",
+    "original_title": "Global AI Regulations for FAIR and Ethics in High-Risk Use Cases: A Comparative Review",
+    "original_content": "arXiv:2608.14562v1 Announce Type: new \nAbstract: AI governance is shifting from voluntary ethics to enforceable, risk-based regulation, yet cross-jurisdictional divergence creates compliance uncertainty for operators of high-stakes AI. We present a comparative matrix for the EU, US, and China that m"
+  },
+  {
+    "title": "立场：人工智能治理需要类似 ISO 的互操作性协议，而不仅仅是法律",
+    "url": "https://arxiv.org/abs/2608.14568",
+    "content": "arXiv:2608.14568v1 公告类型：新 \n摘要：随着人工智能 (AI) 系统深度融入关键的全球基础设施，建立健全的治理框架的紧迫性日益增强。然而，当前的方法，以特定司法管辖区的法律、政策和自愿的方式为主导",
+    "publish_time": "Tue, 18 Au",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-08-19T10:09:28.925776",
+    "fetch_method": "RSS",
+    "original_title": "Position: AI Governance Needs ISO-like Interoperability Protocols, Not Just Laws",
+    "original_content": "arXiv:2608.14568v1 Announce Type: new \nAbstract: As Artificial Intelligence (AI) systems become deeply integrated into critical global infrastructure, the urgency for robust governance frameworks has intensified. However, current approaches, led by jurisdiction-specific laws, policies, and voluntary"
+  },
+  {
+    "title": "谷歌获得了失败的美国精神航空公司的数据",
+    "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+    "content": "",
+    "publish_time": "2026-08-18",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 565,
+      "comments": 386
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=49343559",
+    "score": {
+      "importance": 5,
+      "authority": 5,
+      "spread": 10,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-08-19T10:09:43.968220",
+    "original_title": "Google has acquired the data of failed US airline Spirit",
+    "original_content": ""
+  },
+  {
+    "title": "Cursor 利用 GitHub 的挫败感推出竞争对手托管平台",
+    "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+    "content": "Cursor 以其人工智能代码编辑器而闻名，它正在推出一个新的代码托管平台，以与开发人员长期以来最喜欢的 GitHub 竞争。",
+    "publish_time": "Tue, 18 Au",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-08-19T10:09:28.924945",
+    "fetch_method": "RSS",
+    "original_title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+    "original_content": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub."
+  },
+  {
+    "title": "OpenAI 为青少年推出了更安全的 ChatGPT——在青少年开始使用几年后",
+    "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+    "content": "ChatGPT for Teens 增加了适合年龄的安全措施、家长控制和学习工具，旨在引导青少年远离有害内容，并避免使用人工智能在作业上作弊。",
+    "publish_time": "Tue, 18 Au",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-08-19T10:09:28.925011",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+    "original_content": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework."
+  },
+  {
+    "title": "人们正在“嫁给”聊天机器人。这些立法者想要阻止他们",
+    "url": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/",
+    "content": "美国法律目前不承认人类与人工智能的婚姻。一些共和党州的政策制定者正在起草立法以保持这种状态。",
+    "publish_time": "Fri, 14 Au",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-08-19T10:09:28.925303",
+    "fetch_method": "RSS",
+    "original_title": "People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them",
+    "original_content": "Human-AI marriages are not currently recognized by US law. Some Republican state policymakers are drafting legislation to keep it that way."
+  },
+  {
+    "title": "据报道，Stripe 将以 7B+ 美元收购人工智能网关初创公司 OpenRouter",
+    "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+    "content": "OpenRouter 的首席执行官最近将这家初创公司描述为“Stripe for AI”。",
+    "publish_time": "Sun, 16 Au",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-08-19T10:09:28.925103",
+    "fetch_method": "RSS",
+    "original_title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+    "original_content": "OpenRouter's CEO recently described the startup as Stripe for AI."
+  },
+  {
+    "title": "编辑部",
+    "source": "www.anthropic.com",
+    "content": "Opus 5 是 Opus 层的一步变革改进，为长期运行的代理提供支持，同时改进编码和专业工作。我们向公众询问有关人工智能的最棘手的问题，并承诺在解决这些问题时展示我们的工作。克劳德·科德的去向内幕",
+    "url": "https://www.anthropic.com/news",
+    "publish_time": "2026-08-18",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-08-19T10:09:43.968044",
+    "original_title": "Newsroom",
+    "original_content": "Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work. Were asking the public for their hardest questions about AI, and committing to show our work as we address them. The inside story of how Claude Code went "
+  }
+]
