@@ -1,0 +1,188 @@
+[
+  {
+    "title": "Cursor 利用 GitHub 的挫败感推出竞争对手托管平台",
+    "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+    "content": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "publish_time": "Tue, 18 Au",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-08-20T10:08:50.749837",
+    "fetch_method": "RSS",
+    "original_title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+    "original_content": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub."
+  },
+  {
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "url": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/",
+    "content": "美国法律目前不承认人类与人工智能的婚姻。一些共和党州的政策制定者正在起草立法以保持这种状态。",
+    "publish_time": "Fri, 14 Au",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-08-20T10:08:50.750378",
+    "fetch_method": "RSS",
+    "original_title": "People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them",
+    "original_content": "Human-AI marriages are not currently recognized by US law. Some Republican state policymakers are drafting legislation to keep it that way."
+  },
+  {
+    "title": "可解码性标准可预测大型语言模型中隐藏状态选择何时击败多数投票",
+    "url": "https://arxiv.org/abs/2608.17124",
+    "content": "arXiv:2608.17124v1 公告类型：新 \n摘要：将一个问题的大型语言模型（LLM）样本的答案组合成一个决策是一个测试时信息融合问题，通常通过多数投票来解决。对于困难的问题，投票是不可靠的，其中抽样的答案共享正确的",
+    "publish_time": "Wed, 19 Au",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-08-20T10:08:50.750494",
+    "fetch_method": "RSS",
+    "original_title": "A decodability criterion predicts when hidden-state selection beats majority voting in large language models",
+    "original_content": "arXiv:2608.17124v1 Announce Type: new \nAbstract: Combining the answers a large language model (LLM) samples for a question into one decision is a test-time information fusion problem, usually solved by majority voting. Voting is unreliable on difficult questions, where the sampled answers share corr"
+  },
+  {
+    "title": "EMAN：通过多任务学习中的路径出现优化驱动的能力增长",
+    "url": "https://arxiv.org/abs/2608.16930",
+    "content": "arXiv:2608.16930v1 公告类型：新 \n摘要：现有的多任务学习方法依赖于硬共享、多路径或多专家、自适应共享和动态扩展。然而，他们的能力变化通常受到预定义结构的限制或由任务边界和冲突触发",
+    "publish_time": "Wed, 19 Au",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-08-20T10:08:50.750644",
+    "fetch_method": "RSS",
+    "original_title": "EMAN: Optimization-Driven Capacity Growth through Path Emergence in Multi-Task Learning",
+    "original_content": "arXiv:2608.16930v1 Announce Type: new \nAbstract: Existing multi-task learning methods rely on hard sharing, multiple paths or experts, adaptive sharing, and dynamic expansion. However, their capacity changes are usually constrained by predefined structures or triggered by task boundaries and conflic"
+  },
+  {
+    "title": "SW-ProxyCE：从公共脑电图编码器到私有下游模型的零查询对抗性传输",
+    "url": "https://arxiv.org/abs/2608.16931",
+    "content": "arXiv:2608.16931v1 公告类型：新 \n摘要：脑电图（EEG）基础模型最近已成为通过从大规模异构神经记录中学习可重用表示来进行脑电图解码的有前途的范例。然而，EEG 基础编码器的公开发布，",
+    "publish_time": "Wed, 19 Au",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-08-20T10:08:50.750656",
+    "fetch_method": "RSS",
+    "original_title": "SW-ProxyCE: Zero-Query Adversarial Transfer from Public EEG Encoders to Private Downstream Models",
+    "original_content": "arXiv:2608.16931v1 Announce Type: new \nAbstract: Electroencephalography (EEG) foundation models have recently emerged as a promising paradigm for EEG decoding by learning reusable representations from large-scale heterogeneous neural recordings. However, the open release of EEG foundation encoders, "
+  },
+  {
+    "title": "Cognition 首席执行官否认 SpaceX 试图收购这家初创公司的报道",
+    "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+    "content": "据报道，SpaceX 正在洽谈收购人工智能编码初创公司 Cognition。 SpaceX 已经收购了 Cursor，以期在企业人工智能领域追赶 OpenAI 和 Anthropic 等竞争对手。",
+    "publish_time": "Wed, 19 Au",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-08-20T10:08:50.749706",
+    "fetch_method": "RSS",
+    "original_title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+    "original_content": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI."
+  },
+  {
+    "title": "EMQQ Global 宣布推出专注于新兴市场人工智能机会的新 ETF 品牌 EMXETF",
+    "url": "https://www.bing.com/news/search?q=artificial+intelligence+2026-08-19",
+    "content": "专为现在的新兴市场而设计，而不是以前的新基金系列，将专注于整个人工智能价值链中有针对性且难以进入的新兴市场风险敞口......",
+    "publish_time": "2026-08-19",
+    "source": "AI News",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-08-20T10:09:04.776097",
+    "original_title": "EMQQ Global Announces Launch of EMXETF, a New ETF Brand Focused on Artificial Intelligence Opportunities in Emerging Markets",
+    "original_content": "Designed for what EM is now, not what it used to be new fund family will focus on targeted and difficult to access Emerging Markets exposures across the artificial intelligence value chain ..."
+  },
+  {
+    "title": "编辑部",
+    "source": "www.anthropic.com",
+    "content": "Opus 5 是 Opus 层的一步变革改进，为长期运行的代理提供支持，同时改进编码和专业工作。我们向公众询问有关人工智能的最棘手的问题，并承诺在解决这些问题时展示我们的工作。克劳德·科德的去向内幕",
+    "url": "https://www.anthropic.com/news",
+    "publish_time": "2026-08-19",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-08-20T10:09:04.776270",
+    "original_title": "Newsroom",
+    "original_content": "Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work. Were asking the public for their hardest questions about AI, and committing to show our work as we address them. The inside story of how Claude Code went "
+  },
+  {
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "source": "openai.com",
+    "content": "",
+    "url": "https://openai.com/blog",
+    "publish_time": "2026-08-19",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-08-20T10:09:04.776291",
+    "original_title": "OpenAI News | OpenAI",
+    "original_content": ""
+  },
+  {
+    "title": "OpenAI 新闻 |开放人工智能",
+    "source": "openai.com",
+    "content": "",
+    "url": "https://openai.com/news",
+    "publish_time": "2026-08-19",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-08-20T10:09:04.776298",
+    "original_title": "OpenAI News | OpenAI",
+    "original_content": ""
+  }
+]
