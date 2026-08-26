@@ -1,0 +1,192 @@
+[
+  {
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "url": "https://arxiv.org/abs/2608.20343",
+    "content": "arXiv:2608.20343v1 公告类型：新 \n摘要：本研究开发并评估了一种破产预测框架，该框架集成了基于共识的特征选择、混合重采样、堆叠集成和可解释的人工智能，以改善严重不公正的少数类别检测",
+    "publish_time": "Tue, 25 Au",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-08-26T10:16:30.377495",
+    "fetch_method": "RSS",
+    "original_title": "Bankruptcy Prediction via Hybrid Resampling and Stacking Ensemble Techniques with Explainable Artificial Intelligence (XAI)-Driven Analysis",
+    "original_content": "arXiv:2608.20343v1 Announce Type: new \nAbstract: This study develops and evaluates a bankruptcy prediction framework that integrates consensus-based feature selection, hybrid resampling, stacking ensembles, and explainable artificial intelligence to improve minority-class detection in severely imbal"
+  },
+  {
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "url": "https://arxiv.org/abs/2608.20445",
+    "content": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "publish_time": "Tue, 25 Au",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-08-26T10:16:30.377606",
+    "fetch_method": "RSS",
+    "original_title": "Amortized Bandwidth Learning for Kernel Density Estimation under Logarithmic Score",
+    "original_content": "arXiv:2608.20445v1 Announce Type: new \nAbstract: Kernel density estimation converts finite samples into probability densities, but its performance depends critically on bandwidth selection. Classical selectors prescribe the sample-to-bandwidth rule analytically or asymptotically, or solve a new opti"
+  },
+  {
+    "title": "用于自适应公共卫生预测的机器学习和 ARIMA 模型平均：比较评估和安大略省 COVID-19 案例研究",
+    "url": "https://arxiv.org/abs/2608.20406",
+    "content": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "publish_time": "Tue, 25 Au",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-08-26T10:16:30.377509",
+    "fetch_method": "RSS",
+    "original_title": "Machine Learning and ARIMA Model Averaging for Adaptive Public Health Forecasting: Comparative Evaluation and an Ontario COVID-19 Case Study",
+    "original_content": "arXiv:2608.20406v1 Announce Type: new \nAbstract: Public health forecasts must respond to abrupt changes in surveillance data without over-extrapolating noise, reporting artifacts, or temporary trends. We evaluated autoregressive integrated moving average (ARIMA), random forest, and extreme gradient "
+  },
+  {
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "url": "https://arxiv.org/abs/2608.21444",
+    "content": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "publish_time": "Tue, 25 Au",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-08-26T10:16:30.377915",
+    "fetch_method": "RSS",
+    "original_title": "Agentic AI for Safety-critical Multi-drone Systems: Challenges and Opportunities",
+    "original_content": "arXiv:2608.21444v1 Announce Type: new \nAbstract: Multi-drone systems are increasingly positioned for safety-critical missions such as search and rescue (SAR) and critical infrastructure monitoring. Yet, real-world adoption remains constrained not only by autonomy performance, but by the difficulty o"
+  },
+  {
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+    "content": "该公司新的融资总额目前已达 2.32 亿美元。",
+    "publish_time": "Tue, 25 Au",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-08-26T10:16:30.376960",
+    "fetch_method": "RSS",
+    "original_title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+    "original_content": "The company's new fundraising total now stands at $232 million."
+  },
+  {
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "source": "www.anthropic.com",
+    "content": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "url": "https://www.anthropic.com/news",
+    "publish_time": "2026-08-25",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-08-26T10:16:48.438926",
+    "original_title": "Newsroom",
+    "original_content": "Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work. In this article, we share answers to some of the questions weve received about how our chosen watermarking method works, whether it affects Claudes output"
+  },
+  {
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "source": "openai.com",
+    "content": "",
+    "url": "https://openai.com/blog",
+    "publish_time": "2026-08-25",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-08-26T10:16:48.438953",
+    "original_title": "OpenAI News | OpenAI",
+    "original_content": ""
+  },
+  {
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "source": "openai.com",
+    "content": "",
+    "url": "https://openai.com/news",
+    "publish_time": "2026-08-25",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-08-26T10:16:48.438963",
+    "original_title": "OpenAI News | OpenAI",
+    "original_content": ""
+  },
+  {
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "source": "deepmind.google",
+    "content": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "url": "https://deepmind.google/blog/",
+    "publish_time": "2026-08-25",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-08-26T10:16:48.439004",
+    "original_title": "News",
+    "original_content": "Discover our latest AI breakthroughs, projects, and updates I accept Google's Terms and Conditions and acknowledge that my information will be used in accordance withGoogle's Privacy Policy."
+  },
+  {
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "url": "https://kylemcgough.com/blogs/ripping-off-the-heycom-band-aid",
+    "content": "",
+    "publish_time": "2026-08-25",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 27,
+      "comments": 3
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=49441042",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.65
+    },
+    "collection_time": "2026-08-26T10:16:48.439226",
+    "original_title": "Ripping Off the Hey.com Band-Aid",
+    "original_content": ""
+  }
+]
