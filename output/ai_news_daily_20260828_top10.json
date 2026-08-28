@@ -1,0 +1,193 @@
+[
+  {
+    "title": "Stripe 表示将放弃 500 亿美元收购 PayPal",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-28/advent-stripe-consortium-is-said-to-drop-pursuit-of-paypal",
+    "content": "https://archive.ph/qdE54\n\n评论网址：https://news.ycombinator.com/item?id=49473483\n积分：165\n# 评论: 217",
+    "publish_time": "Fri, 28 Au",
+    "source": "Hacker News Front Page",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-08-28T20:20:18.092174",
+    "fetch_method": "RSS",
+    "original_title": "Stripe said to abandon $50B pursuit of PayPal",
+    "original_content": "https://archive.ph/qdE54\n\nComments URL: https://news.ycombinator.com/item?id=49473483\nPoints: 165\n# Comments: 217"
+  },
+  {
+    "title": "澳大利亚刚刚禁止其官方排行榜上完全由人工智能生成的歌曲。这公平吗？",
+    "url": "https://www.reddit.com/r/artificial/comments/1w0lfz8/australia_just_banned_fully_aigenerated_songs/",
+    "content": "人工智能辅助的音乐仍然有资格，但完全由人工智能创作的曲目不再符合澳大利亚官方排行榜的资格。我明白其中的道理，但线路可能会变得混乱。利用人工智能进行营销",
+    "publish_time": "2026-08-27",
+    "source": "Reddit r/artificial",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-08-28T20:20:31.252934",
+    "original_title": "Australia just banned fully AI-generated songs from its official charts. Is that fair?",
+    "original_content": "AI-assisted music can still qualify, but tracks created entirely by AI are no longer eligible for Australias official charts. I understand the reasoning, but the line could get messy. Using AI for mas"
+  },
+  {
+    "title": "Nvidia 即将完成对 Hugging Face 的收购",
+    "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+    "content": "据报道，英伟达已同意以 129 亿美元收购流行的开源人工智能中心 Hugging Face，此举将使英伟达既能保护其芯片帝国，又能重返云业务。",
+    "publish_time": "Thu, 27 Au",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-08-28T20:20:18.091428",
+    "fetch_method": "RSS",
+    "original_title": "Nvidia closes in on Hugging Face acquisition",
+    "original_content": "Nvidia has reportedly agreed to buy Hugging Face, the popular open source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business."
+  },
+  {
+    "title": "Anthropic 与 Nscale 达成 45B 美元交易，继续吞噬计算资源",
+    "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+    "content": "与基础设施提供商的新协议是 Anthropic 白热化的计算吞噬趋势的最新例子。",
+    "publish_time": "Wed, 26 Au",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-08-28T20:20:18.091449",
+    "fetch_method": "RSS",
+    "original_title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+    "original_content": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak."
+  },
+  {
+    "title": "编辑部",
+    "source": "www.anthropic.com",
+    "content": "我们正在向第一批科学研究实验室和先进制造商开放模型硬件标准 MHS 的研究预览，这是一种人工智能代理安全操作物理设备的共享规范。在这篇文章中，我们分享了我们收到的一些问题的答案，这些问题涉及我们如何",
+    "url": "https://www.anthropic.com/news",
+    "publish_time": "2026-08-27",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-08-28T20:20:31.252852",
+    "original_title": "Newsroom",
+    "original_content": "Were opening a research preview of the Model Hardware Standard MHS, a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers. In this article, we share answers to some of the questions weve received about how our"
+  },
+  {
+    "title": "OpenAI 新闻 |开放人工智能",
+    "source": "openai.com",
+    "content": "",
+    "url": "https://openai.com/blog",
+    "publish_time": "2026-08-27",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-08-28T20:20:31.252869",
+    "original_title": "OpenAI News | OpenAI",
+    "original_content": ""
+  },
+  {
+    "title": "OpenAI 新闻 |开放人工智能",
+    "source": "openai.com",
+    "content": "",
+    "url": "https://openai.com/news",
+    "publish_time": "2026-08-27",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-08-28T20:20:31.252878",
+    "original_title": "OpenAI News | OpenAI",
+    "original_content": ""
+  },
+  {
+    "title": "消息",
+    "source": "deepmind.google",
+    "content": "发现我们最新的人工智能突破、项目和更新 我接受 Google 的条款和条件，并确认我的信息将按照 Google 的隐私政策使用。",
+    "url": "https://deepmind.google/blog/",
+    "publish_time": "2026-08-27",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-08-28T20:20:31.252891",
+    "original_title": "News",
+    "original_content": "Discover our latest AI breakthroughs, projects, and updates I accept Google's Terms and Conditions and acknowledge that my information will be used in accordance withGoogle's Privacy Policy."
+  },
+  {
+    "title": "Show HN：克劳德的承重词汇",
+    "url": "https://louisabraham.github.io/load-bearing/",
+    "content": "",
+    "publish_time": "2026-08-27",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 567,
+      "comments": 275
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=49461817",
+    "score": {
+      "importance": 3,
+      "authority": 5,
+      "spread": 10,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.7
+    },
+    "collection_time": "2026-08-28T20:20:31.252987",
+    "original_title": "Show HN: The load-bearing vocabulary of Claude",
+    "original_content": ""
+  },
+  {
+    "title": "FSU 大规模枪击事件幸存者对 OpenAI 提起最新诉讼",
+    "url": "https://www.bing.com/news/search?q=ChatGPT+OpenAI+2026-08-27",
+    "content": "佛罗里达州立大学大规模枪击事件的一名幸存者正在起诉 OpenAI，指控枪手使用 ChatGPT 来最大化伤害和宣传。",
+    "publish_time": "2026-08-27",
+    "source": "AI News",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.65
+    },
+    "collection_time": "2026-08-28T20:20:31.252834",
+    "original_title": "FSU mass shooting survivor files latest lawsuit against OpenAI",
+    "original_content": "A survivor of the Florida State University mass shooting is suing OpenAI, alleging the gunman used ChatGPT to maximize harm and publicity."
+  }
+]
