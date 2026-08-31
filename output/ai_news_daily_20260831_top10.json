@@ -1,0 +1,196 @@
+[
+  {
+    "title": "俳句 R1/beta6 已发布",
+    "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+    "content": "",
+    "publish_time": "2026-08-30",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 288,
+      "comments": 85
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=49499867",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.35
+    },
+    "collection_time": "2026-08-31T14:20:37.793821",
+    "original_title": "Haiku R1/beta6 has been released",
+    "original_content": ""
+  },
+  {
+    "title": "OpenClaw 2.0，意外",
+    "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
+    "content": "文章网址：https://openclaw.ai/blog/openclaw-2-accidentally\n评论网址：https://news.ycombinator.com/item?id=49505310\n积分：30\n# 评论: 18",
+    "publish_time": "Mon, 31 Au",
+    "source": "Hacker News Front Page",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-08-31T14:20:22.857646",
+    "fetch_method": "RSS",
+    "original_title": "OpenClaw 2.0, Accidentally",
+    "original_content": "Article URL: https://openclaw.ai/blog/openclaw-2-accidentally\nComments URL: https://news.ycombinator.com/item?id=49505310\nPoints: 30\n# Comments: 18"
+  },
+  {
+    "title": "开放式人工智能公司是硅谷最热门的收购目标",
+    "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+    "content": "有大量资本涌入免费模型业务。",
+    "publish_time": "Fri, 28 Au",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-08-31T14:20:22.857175",
+    "fetch_method": "RSS",
+    "original_title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+    "original_content": "There's a lot of capital pouring into the business of giving models away."
+  },
+  {
+    "title": "编辑部",
+    "source": "www.anthropic.com",
+    "content": "我们向第一批科学研究实验室和先进制造商开放了模型硬件标准 MHS 的研究预览，这是一种人工智能代理安全操作物理设备的共享规范。在这篇文章中，我们分享了我们收到的一些问题的答案，这些问题涉及我们如何",
+    "url": "https://www.anthropic.com/news",
+    "publish_time": "2026-08-30",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-08-31T14:20:37.793660",
+    "original_title": "Newsroom",
+    "original_content": "Were opening a research preview of the Model Hardware Standard MHS, a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers. In this article, we share answers to some of the questions weve received about how our"
+  },
+  {
+    "title": "OpenAI 新闻 |开放人工智能",
+    "source": "openai.com",
+    "content": "",
+    "url": "https://openai.com/blog",
+    "publish_time": "2026-08-30",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-08-31T14:20:37.793676",
+    "original_title": "OpenAI News | OpenAI",
+    "original_content": ""
+  },
+  {
+    "title": "OpenAI 新闻 |开放人工智能",
+    "source": "openai.com",
+    "content": "",
+    "url": "https://openai.com/news",
+    "publish_time": "2026-08-30",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-08-31T14:20:37.793683",
+    "original_title": "OpenAI News | OpenAI",
+    "original_content": ""
+  },
+  {
+    "title": "消息",
+    "source": "deepmind.google",
+    "content": "发现我们最新的人工智能突破、项目和更新 我接受 Google 的条款和条件，并确认我的信息将按照 Google 的隐私政策使用。",
+    "url": "https://deepmind.google/blog/",
+    "publish_time": "2026-08-30",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-08-31T14:20:37.793712",
+    "original_title": "News",
+    "original_content": "Discover our latest AI breakthroughs, projects, and updates I accept Google's Terms and Conditions and acknowledge that my information will be used in accordance withGoogle's Privacy Policy."
+  },
+  {
+    "title": "AI Bro 被封禁后，DDoS 攻击破坏了深受喜爱的视频游戏 Wiki",
+    "url": "https://kotaku.com/ddos-attack-breaks-beloved-video-game-wiki-after-ai-bro-was-banned-2000729335",
+    "content": "",
+    "publish_time": "2026-08-30",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 27,
+      "comments": 0
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=49505006",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.65
+    },
+    "collection_time": "2026-08-31T14:20:37.793994",
+    "original_title": "DDoS Attack Breaks Beloved Video Game Wiki After AI Bro Was Banned",
+    "original_content": ""
+  },
+  {
+    "title": "RiskBlend：机器学习回归测试中测试输入优先级的多信号框架",
+    "url": "https://arxiv.org/abs/2608.27704",
+    "content": "arXiv:2608.27704v1 公告类型：新 \n摘要：当重新训练机器学习分类器时，由先前模型版本正确分类的输入可能会被更新版本错误分类，从而产生检测成本高昂的回归错误，因为要根据地面数据验证预测。",
+    "publish_time": "Mon, 31 Au",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 5.6
+    },
+    "collection_time": "2026-08-31T14:20:22.857467",
+    "fetch_method": "RSS",
+    "original_title": "RiskBlend: A Multi-Signal Framework for Test Input Prioritization in Machine Learning Regression Testing",
+    "original_content": "arXiv:2608.27704v1 Announce Type: new \nAbstract: When machine learning classifiers are retrained, inputs correctly classified by the previous model version may be misclassified by the updated version, creating regression faults that are costly to detect because verifying predictions against ground t"
+  },
+  {
+    "title": "下载：OpenAI 的 Hugging Face 黑客技术，以及一款新的电动汽车挑战美国",
+    "url": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
+    "content": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。 OpenAI 代理为何攻击 Hugging Face 的内幕 负责上个月代理攻击 Hugging Face 的模型已无意中被泄露",
+    "publish_time": "Thu, 27 Au",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 5.6
+    },
+    "collection_time": "2026-08-31T14:20:22.857517",
+    "fetch_method": "RSS",
+    "original_title": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The inside story on why OpenAI agents hacked Hugging Face The models responsible for last month’s agent hack of Hugging Face had been inadvertently tr"
+  }
+]
