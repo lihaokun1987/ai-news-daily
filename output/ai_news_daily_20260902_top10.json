@@ -1,0 +1,204 @@
+[
+  {
+    "title": "OpenAI 即将发布其首个具有“关键”网络能力的人工智能模型",
+    "url": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
+    "content": "该公司将让选定的合作伙伴尽早访问其 Astra AI 模型，以便他们有时间加强防御。",
+    "publish_time": "Tue, 01 Se",
+    "source": "Wired AI",
+    "score": {
+      "importance": 8,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 7.1
+    },
+    "collection_time": "2026-09-02T13:11:37.936597",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
+    "original_content": "The company will give select partners early access to its Astra AI model—so they have time to shore up their defenses."
+  },
+  {
+    "title": "Anthropic 的新《神鬼寓言》版本更便宜、限制更少",
+    "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+    "content": "Fable 5.1 包括旨在降低代币成本的更改以及模型保护措施的误报限制。",
+    "publish_time": "Tue, 01 Se",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-09-02T13:11:37.936056",
+    "fetch_method": "RSS",
+    "original_title": "Anthropic’s new Fable release is cheaper, less restrictive",
+    "original_content": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards."
+  },
+  {
+    "title": "Sonos Ace Ultra、Beam Ultra、Sonos Fabric 和新应用程序：Sonos 刚刚宣布的一切",
+    "url": "https://www.wired.com/story/sonos-has-new-devices-a-new-os-and-yes-a-new-app/",
+    "content": "Sonos 正在将人工智能塞进其软件中，因为它“现在非常热门”。包括代理自动化在内的新功能是可选的。",
+    "publish_time": "Tue, 01 Se",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-09-02T13:11:37.936607",
+    "fetch_method": "RSS",
+    "original_title": "Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced",
+    "original_content": "Sonos is cramming AI into its software because it’s “very hot these days.” The new features, which include agentic automation, are opt-in."
+  },
+  {
+    "title": "Fambot 为家庭推出“人工智能参谋长”",
+    "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
+    "content": "Fambot 正在构建人工智能“幕僚长”，帮助家庭管理电子邮件、日历、学校更新、体育赛事安排以及其他抚养孩子的后勤工作。",
+    "publish_time": "Tue, 01 Se",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-09-02T13:11:37.936125",
+    "fetch_method": "RSS",
+    "original_title": "Fambot introduces an ‘AI chief of staff’ for families",
+    "original_content": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids."
+  },
+  {
+    "title": "哈佛法学院辍学学生为 Blue Voice 筹集 600 万美元，用于建造“警察哈维”",
+    "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+    "content": "Blue Voice 接受了通用人工智能工具无法在公共互联网上访问的部门特定法律、地方法令、协议和指南的培训。",
+    "publish_time": "Mon, 31 Au",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-09-02T13:11:37.936182",
+    "fetch_method": "RSS",
+    "original_title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+    "original_content": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet."
+  },
+  {
+    "title": "人工智能自我完善的递归关键性",
+    "url": "https://arxiv.org/abs/2609.00137",
+    "content": "arXiv:2609.00137v1 公告类型：新 \n摘要：人工智能越来越多地应用于产生未来人工智能系统的研发过程中。我们研究这种反馈自我放大的条件。我们的模型描述了人工智能能力增长速度如何取决于基线研究生产力，",
+    "publish_time": "Wed, 02 Se",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-09-02T13:11:37.937054",
+    "fetch_method": "RSS",
+    "original_title": "Recursive Criticality of AI Self-Improvement",
+    "original_content": "arXiv:2609.00137v1 Announce Type: new \nAbstract: AI is increasingly used in the R\\&D process that produces future AI systems. We study the conditions under which this feedback becomes self-amplifying. Our model describes how the rate of AI capability growth depends on baseline research productivity,"
+  },
+  {
+    "title": "Anthropic 因涉嫌盗窃“数万首”歌曲而被起诉人工智能公司因滥用受版权保护的歌曲来训练克劳德模型而面临数十亿美元的诉讼",
+    "url": "https://www.reddit.com/r/artificial/comments/1w4bj01/anthropic_sued_over_alleged_theft_of_tens_of/",
+    "content": "32 提交者 32 uKeanuRave100 链接 32 条评论",
+    "publish_time": "2026-09-01",
+    "source": "Reddit r/artificial",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-09-02T13:11:51.985888",
+    "original_title": "Anthropic sued over alleged theft of 'tens of thousands' of songs | AI company faces multibillion dollar lawsuit over misuse of copyrighted songs to train Claude models",
+    "original_content": "32 submitted by 32 uKeanuRave100 link 32 comments"
+  },
+  {
+    "title": "World Labs 首次推出 Atlas，这是一个模拟空间、时间和物理交互的全方位世界模型",
+    "url": "https://www.reddit.com/r/artificial/comments/1w4mki0/world_labs_debuts_atlas_an_omni_world_model/",
+    "content": "World Labs 刚刚发布了 Atlas，这是一个全方位世界模型，旨在通过在单一架构中本地处理文本、图像、视频和 3D 几何来推进空间智能。而不是治疗",
+    "publish_time": "2026-09-01",
+    "source": "Reddit r/artificial",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-09-02T13:11:51.985924",
+    "original_title": "World Labs debuts Atlas, an omni world model simulating space, time, and physical interaction",
+    "original_content": "World Labs just announced Atlas, an omni world model aimed at advancing spatial intelligence by natively handling text, images, video, and 3D geometry within a single architecture. Rather than treatin"
+  },
+  {
+    "title": "克劳德寓言5.1和克劳德神话5.1",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+    "content": "",
+    "publish_time": "2026-09-01",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 1054,
+      "comments": 981
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=49525378",
+    "score": {
+      "importance": 3,
+      "authority": 5,
+      "spread": 10,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-09-02T13:11:51.985971",
+    "original_title": "Claude Fable 5.1 and Claude Mythos 5.1",
+    "original_content": ""
+  },
+  {
+    "title": "萨博推出A3协同战斗机概念",
+    "url": "https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept",
+    "content": "",
+    "publish_time": "2026-09-01",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 92,
+      "comments": 113
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=49522374",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 6,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-09-02T13:11:51.986064",
+    "original_title": "Saab has unveiled its A3 collaborative combat aircraft concept",
+    "original_content": ""
+  }
+]
