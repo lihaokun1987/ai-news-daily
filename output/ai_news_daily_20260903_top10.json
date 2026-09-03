@@ -1,0 +1,196 @@
+[
+  {
+    "title": "OpenAI 即将发布其首个具有“关键”网络能力的人工智能模型",
+    "url": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
+    "content": "该公司将让选定的合作伙伴尽早访问其 Astra AI 模型，以便他们有时间加强防御。",
+    "publish_time": "Tue, 01 Se",
+    "source": "Wired AI",
+    "score": {
+      "importance": 8,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 7.1
+    },
+    "collection_time": "2026-09-03T13:15:30.517046",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
+    "original_content": "The company will give select partners early access to its Astra AI model—so they have time to shore up their defenses."
+  },
+  {
+    "title": "用于碳信用价格预测的可解释和政策感知的人工智能：新兴碳市场的研究框架",
+    "url": "https://arxiv.org/abs/2609.01765",
+    "content": "arXiv:2609.01765v1 公告类型：新 \n摘要：碳市场对排放量定价，但该价格仍然难以预测。该领域的工作集中在欧盟和中国的计划上，将监管文本压缩为情绪评分，并在没有校准或解释的情况下报告准确性",
+    "publish_time": "Thu, 03 Se",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.65
+    },
+    "collection_time": "2026-09-03T13:15:30.517339",
+    "fetch_method": "RSS",
+    "original_title": "Toward Explainable and Policy-Aware AI for Carbon Credit Price Prediction: A Research Framework for Emerging Carbon Markets",
+    "original_content": "arXiv:2609.01765v1 Announce Type: new \nAbstract: Carbon markets put a price on emissions, yet that price remains hard to forecast. Work in this area clusters on the EU and Chinese schemes, compresses regulatory text into a sentiment score, and reports accuracy without calibration or explanation stab"
+  },
+  {
+    "title": "适用于太赫兹无线数据中心的三频通道测量多层数字孪生",
+    "url": "https://arxiv.org/abs/2609.01699",
+    "content": "arXiv:2609.01699v1 公告类型：新 \n摘要：人工智能计算的快速增长推动了对灵活、大容量数据中心互连的需求不断增长。太赫兹（THz）通信凭借其超宽带宽和高空间复用能力，已成为一种有前景的通信技术。",
+    "publish_time": "Thu, 03 Se",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-09-03T13:15:30.517285",
+    "fetch_method": "RSS",
+    "original_title": "Tri-Band Channel Measurement-Enabled Multi-Layer Digital Twin for Terahertz Wireless Data Centers",
+    "original_content": "arXiv:2609.01699v1 Announce Type: new \nAbstract: The rapid growth of AI computing has driven increasing demands for flexible and high-capacity data-center interconnections. Owing to its ultra-wide bandwidth and high spatial reuse capability, terahertz (THz) communication has emerged as a promising s"
+  },
+  {
+    "title": "特朗普政府在《纽约时报》版权诉讼中支持 OpenAI",
+    "url": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
+    "content": "美国政府写信支持 OpenAI 的论点，即利用他人知识产权训练人工智能属于合理使用。",
+    "publish_time": "Wed, 02 Se",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-09-03T13:15:30.517001",
+    "fetch_method": "RSS",
+    "original_title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
+    "original_content": "The US government wrote a letter in support of OpenAI’s argument that training AI on others' intellectual property is fair use."
+  },
+  {
+    "title": "Sonos Ace Ultra、Beam Ultra、Sonos Fabric 和新应用程序：Sonos 刚刚宣布的一切",
+    "url": "https://www.wired.com/story/sonos-has-new-devices-a-new-os-and-yes-a-new-app/",
+    "content": "Sonos 正在将人工智能塞进其软件中，因为它“现在非常热门”。包括代理自动化在内的新功能是可选的。",
+    "publish_time": "Tue, 01 Se",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-09-03T13:15:30.517055",
+    "fetch_method": "RSS",
+    "original_title": "Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced",
+    "original_content": "Sonos is cramming AI into its software because it’s “very hot these days.” The new features, which include agentic automation, are opt-in."
+  },
+  {
+    "title": "美国政府在对法学硕士进行版权材料培训问题上支持 OpenAI",
+    "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+    "content": "“美国对继续发展强大且有竞争力的人工智能产业有着浓厚的兴趣，该产业为人工智能使用的实践和程序设定了标准\n全球范围内，”简报写道。",
+    "publish_time": "Wed, 02 Se",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-09-03T13:15:30.516457",
+    "fetch_method": "RSS",
+    "original_title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+    "original_content": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" the brief reads."
+  },
+  {
+    "title": "OpenAI 面临 30 多起与 Tumbler Ridge 枪击事件相关的诉讼",
+    "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
+    "content": "Edelson PC 就 Tumbler Ridge 枪击事件向 OpenAI 提起 30 项新诉讼，升级了协助和教唆指控，并点名了 Chris Lehane，但证据尚未得到证实。",
+    "publish_time": "Wed, 02 Se",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-09-03T13:15:30.516581",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
+    "original_content": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed."
+  },
+  {
+    "title": "Mamdani 禁止纽约学校使用人工智能",
+    "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
+    "content": "",
+    "publish_time": "2026-09-02",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 155,
+      "comments": 126
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=49542443",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 7,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.05
+    },
+    "collection_time": "2026-09-03T13:15:45.246822",
+    "original_title": "Mamdani Bans AI in NYC Schools",
+    "original_content": ""
+  },
+  {
+    "title": "推出 HN：RonanRX (YC S26) – 个性化肽和 GLP-1",
+    "url": "https://news.ycombinator.com/item?id=49543530",
+    "content": "你好，HN，我是 Lloyd，RonanRx (https://ronanrx.com/) 的两位创始人之一。我们正在建立一家垂直整合的制药公司，提供处方、远程医疗、配制、制造和交付软件。我们从 GLP-1 和肽开始。通往 RonanRx 的道路相当不寻常",
+    "publish_time": "Wed, 02 Se",
+    "source": "Hacker News Front Page",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-09-03T13:15:30.517431",
+    "fetch_method": "RSS",
+    "original_title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
+    "original_content": "Hi HN,I’m Lloyd, one of two founders of RonanRx (https://ronanrx.com/). We are building a vertically integrated pharmaceutical company with software for prescribing, telehealth, compounding, manufacturing, and delivery. We are starting with GLP-1s and peptides.The path to RonanRx is fairly unconvent"
+  },
+  {
+    "title": "Adobe 收购印度市场情报初创公司 Rilo",
+    "url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
+    "content": "这是 Adob​​e 继 2023 年 Rephrase.ai 后在印度进行的第二次收购",
+    "publish_time": "Wed, 02 Se",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-09-03T13:15:30.516570",
+    "fetch_method": "RSS",
+    "original_title": "Adobe acquires Indian market intelligence startup Rilo",
+    "original_content": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023"
+  }
+]
