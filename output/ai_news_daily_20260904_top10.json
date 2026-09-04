@@ -1,0 +1,199 @@
+[
+  {
+    "title": "桑德斯提出法案禁止人工智能并暂停人工智能",
+    "url": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/",
+    "content": "",
+    "publish_time": "2026-09-03",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 56,
+      "comments": 66
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=49553463",
+    "score": {
+      "importance": 9,
+      "authority": 5,
+      "spread": 6,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.9
+    },
+    "collection_time": "2026-09-04T13:11:44.978701",
+    "original_title": "Sanders introduces bill to ban artificial superintelligence and pause AI",
+    "original_content": ""
+  },
+  {
+    "title": "蒸馏前验证：按策略蒸馏的提示级教师门控",
+    "url": "https://arxiv.org/abs/2609.02998",
+    "content": "arXiv:2609.02998v1 公告类型：新 \n摘要：在策略蒸馏（OPD）通过冻结教师对学生自己的部署提供密集的代币级监督来加速后期培训。 Vanilla OPD 在提示中统一应用这种监督，而不检查教师是否",
+    "publish_time": "Fri, 04 Se",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-09-04T13:11:31.816963",
+    "fetch_method": "RSS",
+    "original_title": "Verify Before You Distill: Prompt-Level Teacher Gating for On-Policy Distillation",
+    "original_content": "arXiv:2609.02998v1 Announce Type: new \nAbstract: On-policy distillation (OPD) accelerates post-training by providing dense token-level supervision from a frozen teacher on the student's own rollouts. Vanilla OPD applies this supervision uniformly across prompts, without checking whether the teacher "
+  },
+  {
+    "title": "PPO-STGNN：一种基于时空图神经网络的近端策略优化方法，用于云边端计算中的 DAG 任务调度",
+    "url": "https://arxiv.org/abs/2609.03503",
+    "content": "arXiv:2609.03503v1 公告类型：新 \n摘要：随着物联网的快速发展，计算密集型有向无环图（DAG）任务在云边端协作环境中变得越来越普遍。然而，云、边缘、端节点是高度异构的",
+    "publish_time": "Fri, 04 Se",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-09-04T13:11:31.817167",
+    "fetch_method": "RSS",
+    "original_title": "PPO-STGNN: A Proximal Policy Optimization Approach with Spatio-Temporal Graph Neural Networks for DAG Task Scheduling in Cloud-Edge-End Computing",
+    "original_content": "arXiv:2609.03503v1 Announce Type: new \nAbstract: With the rapid development of the Internet of Things, computation intensive directed acyclic graph (DAG) tasks have become increasingly common in cloud-edge-end collaborative environments. However, cloud, edge, and end nodes are highly heterogeneous i"
+  },
+  {
+    "title": "特朗普政府在《纽约时报》版权诉讼中支持 OpenAI",
+    "url": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
+    "content": "美国政府写信支持 OpenAI 的论点，即利用他人知识产权训练人工智能属于合理使用。",
+    "publish_time": "Wed, 02 Se",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-09-04T13:11:31.816326",
+    "fetch_method": "RSS",
+    "original_title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
+    "original_content": "The US government wrote a letter in support of OpenAI’s argument that training AI on others' intellectual property is fair use."
+  },
+  {
+    "title": "OpenAI 推出 Astra，其强大（且有争议）的新模型",
+    "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+    "content": "OpenAI 声称 Astra 代表了“计算机和浏览器使用的新领域”，并且它以无与伦比的“速度、准确性和安全性”处理任务。",
+    "publish_time": "Thu, 03 Se",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-09-04T13:11:31.816559",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI launches Astra, its powerful (and controversial) new model",
+    "original_content": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\""
+  },
+  {
+    "title": "预测市场投注导致人们被禁止和逮捕",
+    "url": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
+    "content": "本周，我们将在《恐怖谷》中深入探讨最新的预测市场热点、Flock 的人工智能警察搜索工具，以及科技兄弟如何不知道如何谈论“胭脂”人工智能代理",
+    "publish_time": "Thu, 03 Se",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-09-04T13:11:31.816223",
+    "fetch_method": "RSS",
+    "original_title": "Prediction Market Betting Is Getting People Banned and Arrested",
+    "original_content": "This week on Uncanny Valley, we dig into the latest prediction market buzz, Flock’s AI-powered police search tool, and how tech bros don’t know how to talk about “rouge” AI agents"
+  },
+  {
+    "title": "评估海事导航图中变化关键性分类的图神经网络",
+    "url": "https://arxiv.org/abs/2609.02996",
+    "content": "arXiv:2609.02996v1 公告类型：新 \n摘要：图神经网络（GNN）是一类适合在图结构数据上学习的神经网络。它们在空间数据上的应用是一种自然的扩展，但是相对不清楚哪些消息传递操作、架构配置",
+    "publish_time": "Fri, 04 Se",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-09-04T13:11:31.816952",
+    "fetch_method": "RSS",
+    "original_title": "Evaluating Graph Neural Networks for Change-Criticality Classification in Maritime Navigation Charts",
+    "original_content": "arXiv:2609.02996v1 Announce Type: new \nAbstract: Graph neural networks (GNNs) are a class of neural networks suitable for learning on graph-structured data. Their application to spatial data is a natural extension, however its relatively unclear which message-passing operations, architectural config"
+  },
+  {
+    "title": "GPT-6 阿斯特拉",
+    "url": "https://openai.com/index/gpt-6-astra/",
+    "content": "",
+    "publish_time": "2026-09-03",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 1528,
+      "comments": 1301
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=49554643",
+    "score": {
+      "importance": 3,
+      "authority": 5,
+      "spread": 10,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-09-04T13:11:44.978548",
+    "original_title": "GPT-6 Astra",
+    "original_content": ""
+  },
+  {
+    "title": "Nvidia 斥资 129 亿美元收购 Hugging Face 开源 AI",
+    "url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
+    "content": "这笔传闻已久的交易将使这家芯片巨头能够访问并帮助其推广庞大的开源人工智能模型和数据集存储库。",
+    "publish_time": "Thu, 03 Se",
+    "source": "Wired AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-09-04T13:11:31.816281",
+    "fetch_method": "RSS",
+    "original_title": "Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
+    "original_content": "The long-rumored deal will give the chip giant access to—and help it promote—a huge repository of open-source AI models and data sets."
+  },
+  {
+    "title": "编辑部",
+    "source": "www.anthropic.com",
+    "content": "我们最先进的编码和知识工作模型。他们的研究能力还让人们初步了解人工智能模型将如何促进科学进步。我们正在开放模型硬件标准 MHS 的研究预览，这是人工智能代理安全操作物理的共享规范",
+    "url": "https://www.anthropic.com/news",
+    "publish_time": "2026-09-03",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-09-04T13:11:44.978417",
+    "original_title": "Newsroom",
+    "original_content": "Our most advanced models for coding and knowledge work. Their research capabilities also offer an early glimpse of how AI models will contribute to scientific progress. Were opening a research preview of the Model Hardware Standard MHS, a shared specification for AI agents to safely operate physical"
+  }
+]
