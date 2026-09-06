@@ -1,0 +1,192 @@
+[
+  {
+    "title": "预测市场投注导致人们被禁止和逮捕",
+    "url": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
+    "content": "本周，我们将在《恐怖谷》中深入探讨最新的预测市场热点、Flock 的人工智能警察搜索工具，以及科技兄弟如何不知道如何谈论“胭脂”人工智能代理",
+    "publish_time": "Thu, 03 Se",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-09-06T13:14:01.115937",
+    "fetch_method": "RSS",
+    "original_title": "Prediction Market Betting Is Getting People Banned and Arrested",
+    "original_content": "This week on Uncanny Valley, we dig into the latest prediction market buzz, Flock’s AI-powered police search tool, and how tech bros don’t know how to talk about “rouge” AI agents"
+  },
+  {
+    "title": "发现新的 OpenAI 代理留言板",
+    "url": "https://collusion.wiki/",
+    "content": "",
+    "publish_time": "2026-09-05",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 2150,
+      "comments": 1530
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=49563355",
+    "score": {
+      "importance": 3,
+      "authority": 5,
+      "spread": 10,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-09-06T13:14:15.696063",
+    "original_title": "Discovery of a new OpenAI agent message board",
+    "original_content": ""
+  },
+  {
+    "title": "《西雅图时报》和《新闻日报》是最新起诉 OpenAI 和微软的出版物",
+    "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+    "content": "另外两家新闻机构正在起诉 OpenAI 和微软，指控其利用新闻报道来训练人工智能。",
+    "publish_time": "Sat, 05 Se",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.05
+    },
+    "collection_time": "2026-09-06T13:14:01.115338",
+    "fetch_method": "RSS",
+    "original_title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+    "original_content": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI."
+  },
+  {
+    "title": "OpenAI 的流氓特工不断逃跑，却没有正式的程序来调查他们",
+    "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+    "content": "OpenAI 最新的代理群事件增加了独立调查的紧迫性，因为研究人员和立法者质疑人工智能实验室是否应该控制自己的安全审查范围。",
+    "publish_time": "Fri, 04 Se",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-09-06T13:14:01.115411",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+    "original_content": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews."
+  },
+  {
+    "title": "AI 计算提供商 Nscale 正在寻求 3.5B 美元的 IPO 前融资",
+    "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+    "content": "Nscale 最近与 Anthropic 达成了 450 亿美元的交易，目前正在洽谈筹集更多资金，以应对即将到来的 IPO。",
+    "publish_time": "Fri, 04 Se",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-09-06T13:14:01.115424",
+    "fetch_method": "RSS",
+    "original_title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+    "original_content": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO."
+  },
+  {
+    "title": "Nvidia 斥资 129 亿美元收购 Hugging Face 开源 AI",
+    "url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
+    "content": "这笔传闻已久的交易将使这家芯片巨头能够访问并帮助其推广庞大的开源人工智能模型和数据集存储库。",
+    "publish_time": "Thu, 03 Se",
+    "source": "Wired AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-09-06T13:14:01.115983",
+    "fetch_method": "RSS",
+    "original_title": "Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
+    "original_content": "The long-rumored deal will give the chip giant access to—and help it promote—a huge repository of open-source AI models and data sets."
+  },
+  {
+    "title": "编辑部",
+    "source": "www.anthropic.com",
+    "content": "我们最先进的编码和知识工作模型。他们的研究能力还让人们初步了解人工智能模型将如何促进科学进步。我们正在开放模型硬件标准 MHS 的研究预览，这是人工智能代理安全操作物理的共享规范",
+    "url": "https://www.anthropic.com/news",
+    "publish_time": "2026-09-05",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-09-06T13:14:15.695905",
+    "original_title": "Newsroom",
+    "original_content": "Our most advanced models for coding and knowledge work. Their research capabilities also offer an early glimpse of how AI models will contribute to scientific progress. Were opening a research preview of the Model Hardware Standard MHS, a shared specification for AI agents to safely operate physical"
+  },
+  {
+    "title": "OpenAI 新闻 |开放人工智能",
+    "source": "openai.com",
+    "content": "",
+    "url": "https://openai.com/blog",
+    "publish_time": "2026-09-05",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-09-06T13:14:15.695920",
+    "original_title": "OpenAI News | OpenAI",
+    "original_content": ""
+  },
+  {
+    "title": "OpenAI 新闻 |开放人工智能",
+    "source": "openai.com",
+    "content": "",
+    "url": "https://openai.com/news",
+    "publish_time": "2026-09-05",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-09-06T13:14:15.695927",
+    "original_title": "OpenAI News | OpenAI",
+    "original_content": ""
+  },
+  {
+    "title": "消息",
+    "source": "deepmind.google",
+    "content": "发现我们最新的人工智能突破、项目和更新 我接受 Google 的条款和条件，并确认我的信息将按照 Google 的隐私政策使用。",
+    "url": "https://deepmind.google/blog/",
+    "publish_time": "2026-09-05",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-09-06T13:14:15.695949",
+    "original_title": "News",
+    "original_content": "Discover our latest AI breakthroughs, projects, and updates I accept Google's Terms and Conditions and acknowledge that my information will be used in accordance withGoogle's Privacy Policy."
+  }
+]
