@@ -1,0 +1,204 @@
+[
+  {
+    "title": "视觉和语言转换器的损伤感知强盗修剪",
+    "url": "https://arxiv.org/abs/2609.05448",
+    "content": "arXiv:2609.05448v1 公告类型：新 \n摘要：变压器的结构化训练后修剪需要选择完整的功能单元，其抑制会导致有限的退化。我们将语言和视觉转换器的结构化单元选择制定为损伤感知的多臂 Bandi",
+    "publish_time": "Thu, 10 Se",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-09-10T13:24:21.081515",
+    "fetch_method": "RSS",
+    "original_title": "Damage-Aware Bandit Pruning for Vision and Language Transformers",
+    "original_content": "arXiv:2609.05448v1 Announce Type: new \nAbstract: Structured post-training pruning of transformers requires selecting complete functional units whose suppression causes limited degradation. We formulate structured-unit selection for language and vision transformers as a damage-aware multi-armed bandi"
+  },
+  {
+    "title": "期权什么时候有用？ Option-Critic 中的策略坏死和冗余覆盖",
+    "url": "https://arxiv.org/abs/2609.05508",
+    "content": "arXiv:2609.05508v1 公告类型：新 \n摘要：选项批评家学习选项：子策略以及每个人何时交回控制权的学习规则。其总体结果是，随着选项的添加，性能得到提高。我们用理论和实验来解释这个结果。一、航站楼",
+    "publish_time": "Thu, 10 Se",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-09-10T13:24:21.081653",
+    "fetch_method": "RSS",
+    "original_title": "When Do Options Help? Policy Necrosis and Redundant Coverage in Option-Critic",
+    "original_content": "arXiv:2609.05508v1 Announce Type: new \nAbstract: Option-critic learns options: sub-policies together with a learned rule for when each one hands control back. Its headline result is that performance improves as options are added. We explain that result, with theory and experiment. First, the termina"
+  },
+  {
+    "title": "Shopify 收购 Tailwind",
+    "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+    "content": "",
+    "publish_time": "2026-09-09",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 966,
+      "comments": 378
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=49626190",
+    "score": {
+      "importance": 5,
+      "authority": 5,
+      "spread": 10,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-09-10T13:24:34.111474",
+    "original_title": "Shopify acquires Tailwind",
+    "original_content": ""
+  },
+  {
+    "title": "Muse 乐队失去了社交媒体账号，被 Meta 的新人工智能代理 Muse 取代",
+    "url": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/",
+    "content": "",
+    "publish_time": "2026-09-09",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 174,
+      "comments": 6
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=49636345",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 7,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 6.25
+    },
+    "collection_time": "2026-09-10T13:24:34.111556",
+    "original_title": "Muse, the band, lost its social media handles to Muse, Meta's new AI agent",
+    "original_content": ""
+  },
+  {
+    "title": "Apple 在秋季 iPhone 发布会上宣布的所有内容，从可折叠 iPhone Duo 到时刻聆听的 Apple Watch",
+    "url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+    "content": "主要活动是这家科技巨头备受期待的首款可折叠手机 iPhone Duo。",
+    "publish_time": "Wed, 09 Se",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-09-10T13:24:21.081251",
+    "fetch_method": "RSS",
+    "original_title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+    "original_content": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo."
+  },
+  {
+    "title": "IBM 发布具有商业友好许可证的 SOTA Granite Time Series PatchTST-FM-r2 模型",
+    "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+    "content": "",
+    "publish_time": "Wed, 09 Se",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-09-10T13:24:21.081815",
+    "fetch_method": "RSS",
+    "original_title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+    "original_content": ""
+  },
+  {
+    "title": "人工智能数学突破如何引发争议",
+    "url": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
+    "content": "",
+    "publish_time": "2026-09-09",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 213,
+      "comments": 228
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=49624163",
+    "score": {
+      "importance": 5,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.0
+    },
+    "collection_time": "2026-09-10T13:24:34.111522",
+    "original_title": "How An AI math breakthrough ignited a controversy",
+    "original_content": ""
+  },
+  {
+    "title": "为什么本月的微软补丁发布很精彩",
+    "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+    "content": "在人工智能辅助攻击预计将到来之前，安全专家们正在发布补丁。",
+    "publish_time": "Tue, 08 Se",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-09-10T13:24:21.081125",
+    "fetch_method": "RSS",
+    "original_title": "Why this month's Microsoft patch release is a doozy",
+    "original_content": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks."
+  },
+  {
+    "title": "DeepSeek 推出 v4.1 闪存，比 v4 pro 更便宜、功能更强大",
+    "url": "https://news.ycombinator.com/item?id=49624603",
+    "content": "DSeek计划于2026年9月10日（北京时间）左右正式发布V4.1 Flash模型。经过广泛的内部和外部测试，V4.1 Flash在性能、成本、速度和任务完成时间等所有关键指标上全面超越V4 Pro。与我们的合作一致",
+    "publish_time": "Wed, 09 Se",
+    "source": "Hacker News Best",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-09-10T13:24:21.082339",
+    "fetch_method": "RSS",
+    "original_title": "DeepSeek launching v4.1 flash cheaper and more capable than v4 pro",
+    "original_content": "DSeek plans to officially release the V4.1 Flash model around September 10, 2026 (Beijing Time). After extensive internal and external testing, V4.1 Flash has comprehensively surpassed V4 Pro across all key metrics, including performance, cost, speed, and task completion time. In keeping with our co"
+  },
+  {
+    "title": "人工智能研究初创公司 Listen Labs 取消了 Salesforce 谈判的 1.5 亿美元融资",
+    "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+    "content": "消息人士称，Listen Labs 放弃了 Menlo Ventures 签署的 C 轮投资意向书。",
+    "publish_time": "Thu, 10 Se",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-09-10T13:24:21.081212",
+    "fetch_method": "RSS",
+    "original_title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+    "original_content": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say."
+  }
+]
