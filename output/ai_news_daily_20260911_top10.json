@@ -1,0 +1,198 @@
+[
+  {
+    "title": "Cognition 推出新的 SWE-2 模型，与 Fable 5.1 和 GPT-Astra 相媲美",
+    "url": "https://cognition.com/blog/swe-2",
+    "content": "",
+    "publish_time": "2026-09-10",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 386,
+      "comments": 162
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=49645443",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 6.55
+    },
+    "collection_time": "2026-09-11T13:22:16.916139",
+    "original_title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+    "original_content": ""
+  },
+  {
+    "title": "CityPlanner：可执行城市规划的沙盒代理",
+    "url": "https://arxiv.org/abs/2609.09578",
+    "content": "arXiv:2609.09578v1 公告类型：新 \n摘要：城市规划是一个现实世界的空间优化问题，需要在成本和服务质量等实际目标下从大量候选空间中选择可行的行动。现有的优化和强化学习方法有",
+    "publish_time": "Fri, 11 Se",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-09-11T13:22:02.765002",
+    "fetch_method": "RSS",
+    "original_title": "CityPlanner: A Sandbox Agent for Executable Urban Planning",
+    "original_content": "arXiv:2609.09578v1 Announce Type: new \nAbstract: Urban planning is a real-world spatial optimization problem that requires selecting feasible actions from large candidate spaces under practical objectives such as cost and service quality. Existing optimization and reinforcement learning methods are "
+  },
+  {
+    "title": "Apple 在秋季 iPhone 发布会上宣布的所有内容，从可折叠 iPhone Duo 到时刻聆听的 Apple Watch",
+    "url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+    "content": "主要活动是这家科技巨头备受期待的首款可折叠手机 iPhone Duo。",
+    "publish_time": "Wed, 09 Se",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-09-11T13:22:02.764264",
+    "fetch_method": "RSS",
+    "original_title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+    "original_content": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo."
+  },
+  {
+    "title": "IBM 发布具有商业友好许可证的 SOTA Granite Time Series PatchTST-FM-r2 模型",
+    "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+    "content": "",
+    "publish_time": "Wed, 09 Se",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-09-11T13:22:02.764294",
+    "fetch_method": "RSS",
+    "original_title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+    "original_content": ""
+  },
+  {
+    "title": "以决策为中心的主动学习，用于规模感知的关键材料回收",
+    "url": "https://arxiv.org/abs/2609.09413",
+    "content": "arXiv:2609.09413v1 公告类型：新 \n摘要：选择用于放大的回收工艺需要将实验室结果与产品要求、工艺成本和规模效应联系起来。我们分析来自太平洋西北国家实验室的计算机智能关键元素记录的记录",
+    "publish_time": "Fri, 11 Se",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-09-11T13:22:02.764949",
+    "fetch_method": "RSS",
+    "original_title": "Decision-Focused Active Learning for Scale-Aware Critical-Materials Recovery",
+    "original_content": "arXiv:2609.09413v1 Announce Type: new \nAbstract: Choosing a recovery process for scale-up requires connecting laboratory results with product requirements, process costs, and scale effects. We analyze records from Pacific Northwest National Laboratory's Computer Intelligence for Critical Element Rec"
+  },
+  {
+    "title": "人工智能代理正在向公共服务提出新的要求",
+    "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+    "content": "研究人员告诉 TechCrunch：“我们发现的绝大多数案例都是有权对某物提出索赔的人。”",
+    "publish_time": "Thu, 10 Se",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.05
+    },
+    "collection_time": "2026-09-11T13:22:02.764201",
+    "fetch_method": "RSS",
+    "original_title": "AI agents are flooding public services with new requests",
+    "original_content": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch."
+  },
+  {
+    "title": "为什么本月的微软补丁发布很精彩",
+    "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+    "content": "在人工智能辅助攻击预计将到来之前，安全专家们正在发布补丁。",
+    "publish_time": "Tue, 08 Se",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-09-11T13:22:02.764453",
+    "fetch_method": "RSS",
+    "original_title": "Why this month's Microsoft patch release is a doozy",
+    "original_content": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks."
+  },
+  {
+    "title": "加州颁布法律限制聊天机器人并禁止青少年使用“上瘾”的社交媒体",
+    "url": "https://www.reddit.com/r/artificial/comments/1wd2r40/california_enacts_laws_restricting_chatbots_and/",
+    "content": "32 提交者 32 uFcking_Chuck 链接 32 条评论",
+    "publish_time": "2026-09-10",
+    "source": "Reddit r/artificial",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-09-11T13:22:16.916088",
+    "original_title": "California enacts laws restricting chatbots and banning teens from ‘addictive’ social media",
+    "original_content": "32 submitted by 32 uFcking_Chuck link 32 comments"
+  },
+  {
+    "title": "Maven Robotics 想要窃取您的机器人部署协议",
+    "url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
+    "content": "Maven Robotics 今天从隐秘状态中脱颖而出，获得 1 亿美元的 A 轮融资并进行积极部署。",
+    "publish_time": "Thu, 10 Se",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-09-11T13:22:02.764219",
+    "fetch_method": "RSS",
+    "original_title": "Maven Robotics wants to steal your robot deployment deal",
+    "original_content": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments."
+  },
+  {
+    "title": "人工智能研究初创公司 Listen Labs 取消了 Salesforce 谈判的 1.5 亿美元融资",
+    "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+    "content": "消息人士称，Listen Labs 放弃了 Menlo Ventures 签署的 C 轮投资意向书。",
+    "publish_time": "Thu, 10 Se",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-09-11T13:22:02.764231",
+    "fetch_method": "RSS",
+    "original_title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+    "original_content": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say."
+  }
+]
