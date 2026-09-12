@@ -1,0 +1,198 @@
+[
+  {
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "url": "https://www.reddit.com/r/artificial/comments/1wdnd3u/uk_lawmakers_urge_burnham_to_back_ban_on/",
+    "content": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "publish_time": "2026-09-11",
+    "source": "Reddit r/artificial",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 8,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.6
+    },
+    "collection_time": "2026-09-12T13:12:46.426458",
+    "original_title": "UK lawmakers urge Burnham to back ban on superintelligent AI after chilling warnings | AI (artificial intelligence)",
+    "original_content": "32 submitted by 32 uGenericNameRandomNum link 32 comments"
+  },
+  {
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "url": "https://arxiv.org/abs/2609.10657",
+    "content": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "publish_time": "Sat, 12 Se",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-09-12T13:12:31.480569",
+    "fetch_method": "RSS",
+    "original_title": "Quantifying the Memorization-to-Generalization Transition: Scaling Laws and Phase Structure in Grokking",
+    "original_content": "arXiv:2609.10657v1 Announce Type: new \nAbstract: Neural networks trained past memorization frequently undergo a delayed transition to generalization, a phenomenon known as grokking. Despite theoretical progress on \\emph{why} this transition occurs, the quantitative structure of \\emph{when} it occurs"
+  },
+  {
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "url": "https://arxiv.org/abs/2609.10964",
+    "content": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "publish_time": "Sat, 12 Se",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-09-12T13:12:31.480641",
+    "fetch_method": "RSS",
+    "original_title": "Decoupling Readiness from Release for Tail-Aware Scheduling of Agentic LLM Workflows",
+    "original_content": "arXiv:2609.10964v1 Announce Type: new \nAbstract: Agentic LLM workflows consist of sequences of model turns interleaved with tool interactions, so their end-to-end completion time depends not only on inference speed but also on when ready turns are released. Most runtimes release each turn immediatel"
+  },
+  {
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+    "content": "",
+    "publish_time": "Wed, 09 Se",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-09-12T13:12:31.480090",
+    "fetch_method": "RSS",
+    "original_title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+    "original_content": ""
+  },
+  {
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+    "content": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "publish_time": "Fri, 11 Se",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-09-12T13:12:31.479969",
+    "fetch_method": "RSS",
+    "original_title": "Roundtables: AI’s apocalypse crisis",
+    "original_content": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas H"
+  },
+  {
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+    "content": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "publish_time": "Tue, 08 Se",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-09-12T13:12:31.479877",
+    "fetch_method": "RSS",
+    "original_title": "Why this month's Microsoft patch release is a doozy",
+    "original_content": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks."
+  },
+  {
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "url": "https://news.ycombinator.com/item?id=49657850",
+    "content": "",
+    "publish_time": "2026-09-11",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 764,
+      "comments": 364
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=49657850",
+    "score": {
+      "importance": 3,
+      "authority": 5,
+      "spread": 10,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-09-12T13:12:46.426525",
+    "original_title": "Ask HN: Can we please limit the AI news flood?",
+    "original_content": ""
+  },
+  {
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+    "content": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "publish_time": "Fri, 11 Se",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-09-12T13:12:31.480251",
+    "fetch_method": "RSS",
+    "original_title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+    "original_content": "The round for the two-year-old startup is coming together months after Mecka announced its Series A."
+  },
+  {
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+    "content": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "publish_time": "Fri, 11 Se",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-09-12T13:12:31.480306",
+    "fetch_method": "RSS",
+    "original_title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
+    "original_content": "An Anthropic researcher resigned this week,&#160;warning in a post on X&#160;that the company is “racing straight to self-improving superintelligence and gambling with our lives”.&#160;The company&#8217;s own alignment&#160;lead&#160;even&#160;co-signed the message&#160;rather than walking it back.&"
+  },
+  {
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+    "content": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "publish_time": "Fri, 11 Se",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-09-12T13:12:31.480317",
+    "fetch_method": "RSS",
+    "original_title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+    "original_content": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023."
+  }
+]
