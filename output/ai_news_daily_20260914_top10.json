@@ -1,0 +1,200 @@
+[
+  {
+    "title": "GCC AI 政策 公告",
+    "url": "https://gcc.gnu.org/pipermail/gcc/2026-July/248628.html",
+    "content": "",
+    "publish_time": "2026-09-13",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 31,
+      "comments": 0
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=49682465",
+    "score": {
+      "importance": 9,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.7
+    },
+    "collection_time": "2026-09-14T13:32:11.087351",
+    "original_title": "GCC AI Policy Announcement",
+    "original_content": ""
+  },
+  {
+    "title": "IBM 发布 SOTA Granite 时间 系列 PatchTST-FM-r2 模型 与 商业-friendly 许可",
+    "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+    "content": "",
+    "publish_time": "Wed, 09 Se",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-09-14T13:31:56.579217",
+    "fetch_method": "RSS",
+    "original_title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+    "original_content": ""
+  },
+  {
+    "title": "为什么 这个 月's Microsoft patch 发布 是 doozy",
+    "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+    "content": "安全性 gnomes 是 pumping 出 patches ahead 的 预计 onslaught 的 AI-assisted attacks.",
+    "publish_time": "Tue, 08 Se",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-09-14T13:31:56.579815",
+    "fetch_method": "RSS",
+    "original_title": "Why this month's Microsoft patch release is a doozy",
+    "original_content": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks."
+  },
+  {
+    "title": "David Sacks:OpenAI 和 Anthropic Don't Need Regulations 到 Pace 前沿 模型",
+    "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+    "content": "文章 URL:https://twitter.com/DavidSacks/status/2098973625252708460 Comments URL:https://新闻.ycombinator.com/item?id=49685991 Points:288 # Comments:209",
+    "publish_time": "Sun, 13 Se",
+    "source": "Hacker News Best",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-09-14T13:31:56.580230",
+    "fetch_method": "RSS",
+    "original_title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+    "original_content": "Article URL: https://twitter.com/DavidSacks/status/2098973625252708460\nComments URL: https://news.ycombinator.com/item?id=49685991\nPoints: 288\n# Comments: 209"
+  },
+  {
+    "title": "什么’s behind AI 行业’s 最新 warnings 的 doom?",
+    "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+    "content": "在 Equity,我们 discussed AI 行业's 最新 debate 关于 whether 它 poses existential 威胁 到 humanity.",
+    "publish_time": "Sun, 13 Se",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-09-14T13:31:56.579662",
+    "fetch_method": "RSS",
+    "original_title": "What’s behind the AI industry’s latest warnings of doom?",
+    "original_content": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity."
+  },
+  {
+    "title": "OpenAI’s Sam Altman 表示 它 将会 be ‘ill-advised’ 到 去 公开 在 2026",
+    "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+    "content": "当 OpenAI 有 filed confidentially 为 上市,公司 将 not be going 公开 这个 年,根据 到 首席执行官 Sam Altman.",
+    "publish_time": "Sat, 12 Se",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-09-14T13:31:56.579688",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+    "original_content": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman."
+  },
+  {
+    "title": "Mecka AI nears $500M 估值 在 Sequoia-导致 交易 amid rush 为 机器人 训练 数据",
+    "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+    "content": "轮 为 two-年-旧的 初创公司 是 coming together 月 之后 Mecka 宣布 它的 系列.",
+    "publish_time": "Fri, 11 Se",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-09-14T13:31:56.579710",
+    "fetch_method": "RSS",
+    "original_title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+    "original_content": "The round for the two-year-old startup is coming together months after Mecka announced its Series A."
+  },
+  {
+    "title": "Anthropic 研究人员’s doomsday 警告 来 在 非常 interesting 时间",
+    "url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+    "content": "Anthropic 研究人员 resigned 这个 周,&#160;警告 在 帖子 在 X&#160;那个 公司 是 “racing straight 到 self-improving superintelligence 和 gambling 与 我们的 lives”.&#160;公司&#8217;s own 对齐&#160;导致&#160;甚至&#160;co-signed message&#160;宁愿 than walking 它 back.&",
+    "publish_time": "Fri, 11 Se",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-09-14T13:31:56.579762",
+    "fetch_method": "RSS",
+    "original_title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
+    "original_content": "An Anthropic researcher resigned this week,&#160;warning in a post on X&#160;that the company is “racing straight to self-improving superintelligence and gambling with our lives”.&#160;The company&#8217;s own alignment&#160;lead&#160;even&#160;co-signed the message&#160;rather than walking it back.&"
+  },
+  {
+    "title": "Nscale 添加 前 OpenAI exec Fidji Simo 到 它的 board ahead 的 potential 上市",
+    "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+    "content": "没有.2 exec 在 OpenAI 也 导致 Instacart 通过 它的 上市 在 2023.",
+    "publish_time": "Fri, 11 Se",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-09-14T13:31:56.579773",
+    "fetch_method": "RSS",
+    "original_title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+    "original_content": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023."
+  },
+  {
+    "title": "Due 到 担忧 关于 malicious 应用,GPT2 将 not be 发布 (2019)",
+    "url": "https://openai.com/index/better-language-models/",
+    "content": "",
+    "publish_time": "2026-09-13",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 66,
+      "comments": 31
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=49689706",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 6,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-09-14T13:32:11.087290",
+    "original_title": "Due to concerns about malicious applications, GPT2 will not be released (2019)",
+    "original_content": ""
+  }
+]
