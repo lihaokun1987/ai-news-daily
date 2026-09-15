@@ -1,0 +1,190 @@
+[
+  {
+    "title": "Generalized 智能体 Iteration:One Formal 框架 为 Iterative 政策 Improvement 和 Recursive Self-Improvement",
+    "url": "https://arxiv.org/abs/2609.13406",
+    "content": "arXiv:2609.13406v1 宣布 Type:新的 Abstract:当 我们 说 的 recursive self-improvement (RSI),是 我们 speaking 的 phenomenon,mechanism,或 prospect?Towards 自主 和 evolving 智能,RSI 是 being 声称 在 很多 规模,当 没有 single 框架 那个 formally 描述 这些",
+    "publish_time": "Tue, 15 Se",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.65
+    },
+    "collection_time": "2026-09-15T13:32:03.964828",
+    "fetch_method": "RSS",
+    "original_title": "Generalized Agent Iteration: One Formal Framework for Iterative Policy Improvement and Recursive Self-Improvement",
+    "original_content": "arXiv:2609.13406v1 Announce Type: new \nAbstract: When we speak of recursive self-improvement (RSI), are we speaking of a phenomenon, a mechanism, or a prospect? Towards autonomous and evolving intelligence, RSI is being claimed at many scales, while no single framework that formally describes these "
+  },
+  {
+    "title": "Governing 在 Machine 速度:Adaptive 智能 架构 为 实时 AI 政策 Enforcement",
+    "url": "https://arxiv.org/abs/2609.13466",
+    "content": "arXiv:2609.13466v1 宣布 Type:新的 Abstract:企业 AI adoption 有 达到 78% 的 组织 globally,还 infrastructure 到 govern 那个 adoption 有 not kept pace.这个 论文 identifies 和 characterizes attestation deficit,structural condition 在 哪个 组织 maintain",
+    "publish_time": "Tue, 15 Se",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.65
+    },
+    "collection_time": "2026-09-15T13:32:03.964870",
+    "fetch_method": "RSS",
+    "original_title": "Governing at Machine Speed: An Adaptive Intelligence Architecture for Real-Time AI Policy Enforcement",
+    "original_content": "arXiv:2609.13466v1 Announce Type: new \nAbstract: Enterprise AI adoption has reached 78% of organizations globally, yet the infrastructure to govern that adoption has not kept pace. This paper identifies and characterizes the attestation deficit, a structural condition in which organizations maintain"
+  },
+  {
+    "title": "IBM 发布 SOTA Granite 时间 系列 PatchTST-FM-r2 模型 与 商业-friendly 许可",
+    "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+    "content": "",
+    "publish_time": "Wed, 09 Se",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-09-15T13:32:03.964552",
+    "fetch_method": "RSS",
+    "original_title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+    "original_content": ""
+  },
+  {
+    "title": "Criticality 在 Dissimilar Decomposition 和 Undersampling 的 Random 数据集 与 Anomalies",
+    "url": "https://arxiv.org/abs/2609.13201",
+    "content": "arXiv:2609.13201v1 宣布 Type:新的 Abstract:训练 数据集 为 upcoming LLMs 将会 include 重大 amount 的 AI 文本/图像 数据 生成 从 当前 LLMs.在 如此 scenario,它 是 重要 到 understand 如何 这个 affects batch decompositions 和 thereby,性能 的 resul",
+    "publish_time": "Tue, 15 Se",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-09-15T13:32:03.964723",
+    "fetch_method": "RSS",
+    "original_title": "Criticality in Dissimilar Decomposition and Undersampling of Random Datasets with Anomalies",
+    "original_content": "arXiv:2609.13201v1 Announce Type: new \nAbstract: Training datasets for upcoming LLMs would include a significant amount of AI text/image data generated from current LLMs. In such a scenario, it is important to understand how this affects batch decompositions and thereby, the performance of the resul"
+  },
+  {
+    "title": "为什么 这个 月's Microsoft patch 发布 是 doozy",
+    "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+    "content": "安全性 gnomes 是 pumping 出 patches ahead 的 预计 onslaught 的 AI-assisted attacks.",
+    "publish_time": "Tue, 08 Se",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-09-15T13:32:03.964989",
+    "fetch_method": "RSS",
+    "original_title": "Why this month's Microsoft patch release is a doozy",
+    "original_content": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks."
+  },
+  {
+    "title": "Superhuman 收购 YC-backed notetaker Fathom 作为 productivity 平台 推动 为 agentic 工作",
+    "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+    "content": "notetaker 提供 generous 免费 计划,和 那个 有 导致 在 超过 400,000 monthly active 用户.公司 表示 那个 超过 1 百万 people 有 recorded 会议 直到 现在.",
+    "publish_time": "Mon, 14 Se",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-09-15T13:32:03.964483",
+    "fetch_method": "RSS",
+    "original_title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+    "original_content": "The notetaker offers a generous free plan, and that has resulted in over 400,000 monthly active users. The company said that over 1 million people have recorded meetings until now."
+  },
+  {
+    "title": "什么’s behind AI 行业’s 最新 warnings 的 doom?",
+    "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+    "content": "在 Equity,我们 discussed AI 行业's 最新 debate 关于 whether 它 poses existential 威胁 到 humanity.",
+    "publish_time": "Sun, 13 Se",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-09-15T13:32:03.964505",
+    "fetch_method": "RSS",
+    "original_title": "What’s behind the AI industry’s latest warnings of doom?",
+    "original_content": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity."
+  },
+  {
+    "title": "OpenAI’s Sam Altman 表示 它 将会 be ‘ill-advised’ 到 去 公开 在 2026",
+    "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+    "content": "当 OpenAI 有 filed confidentially 为 上市,公司 将 not be going 公开 这个 年,根据 到 首席执行官 Sam Altman.",
+    "publish_time": "Sat, 12 Se",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-09-15T13:32:03.964523",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+    "original_content": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman."
+  },
+  {
+    "title": "Newsroom",
+    "source": "www.anthropic.com",
+    "content": "我们的 最 高级 模型 为 编程 和 knowledge 工作.他们的 研究 capabilities 也 提供 early glimpse 的 如何 AI 模型 将 contribute 到 scientific 进展.超过 过去 八 月,我们的 威胁 智能 团队 identified 和 disrupted operations 在 哪个 威胁 actors tried 到 使用 Cl",
+    "url": "https://www.anthropic.com/news",
+    "publish_time": "2026-09-14",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-09-15T13:32:17.826913",
+    "original_title": "Newsroom",
+    "original_content": "Our most advanced models for coding and knowledge work. Their research capabilities also offer an early glimpse of how AI models will contribute to scientific progress. Over the past eight months, our Threat Intelligence team identified and disrupted operations in which threat actors tried to use Cl"
+  },
+  {
+    "title": "OpenAI 新闻 | OpenAI",
+    "source": "openai.com",
+    "content": "",
+    "url": "https://openai.com/blog",
+    "publish_time": "2026-09-14",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-09-15T13:32:17.826924",
+    "original_title": "OpenAI News | OpenAI",
+    "original_content": ""
+  }
+]
