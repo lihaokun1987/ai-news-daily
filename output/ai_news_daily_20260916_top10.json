@@ -1,0 +1,193 @@
+[
+  {
+    "title": "OmniHarness:Harnessing Generalizable Visual 生成 via Symbolic 政策 学习",
+    "url": "https://arxiv.org/abs/2609.16057",
+    "content": "arXiv:2609.16057v1 宣布 Type:新的 Abstract:Unified 多模态 large 语言 模型 (MLLMs) 和 multi-智能体 系统 有 高级 visual 生成.然而,three limitations remain.(1) Existing 方法 经常 distill 任务-特定 experience 与 限制 generalizability.(2) Reflection 是 o",
+    "publish_time": "Wed, 16 Se",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-09-16T13:24:55.420316",
+    "fetch_method": "RSS",
+    "original_title": "OmniHarness: Harnessing Generalizable Visual Generation via Symbolic Policy Learning",
+    "original_content": "arXiv:2609.16057v1 Announce Type: new \nAbstract: Unified multimodal large language models (MLLMs) and multi-agent systems have advanced visual generation. However, three limitations remain. (1) Existing methods often distill task-specific experience with limited generalizability. (2) Reflection is o"
+  },
+  {
+    "title": "我们 don’t need AI 监管 — 离开 安全 到 我们,NVIDIA’s Jensen Huang 表示",
+    "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+    "content": "AI isn't 一些 新的 form 的 \"alien mind,\" 根据 到 Jensen Huang.它's 刚刚 硬件 和 软件,如此 安全 能 be engineered 由 每个 AI 产品 maker.",
+    "publish_time": "Wed, 16 Se",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-09-16T13:24:55.419738",
+    "fetch_method": "RSS",
+    "original_title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+    "original_content": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker."
+  },
+  {
+    "title": "Suspected sabotage 导致 重大 Netherlands rail disruption",
+    "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+    "content": "",
+    "publish_time": "2026-09-15",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 460,
+      "comments": 404
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=49710253",
+    "score": {
+      "importance": 5,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.0
+    },
+    "collection_time": "2026-09-16T13:25:09.874619",
+    "original_title": "Suspected sabotage causes major Netherlands rail disruption",
+    "original_content": ""
+  },
+  {
+    "title": "为什么 这个 月's Microsoft patch 发布 是 doozy",
+    "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+    "content": "安全性 gnomes 是 pumping 出 patches ahead 的 预计 onslaught 的 AI-assisted attacks.",
+    "publish_time": "Tue, 08 Se",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-09-16T13:24:55.420116",
+    "fetch_method": "RSS",
+    "original_title": "Why this month's Microsoft patch release is a doozy",
+    "original_content": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks."
+  },
+  {
+    "title": "OpenAI 目标 Wall Street bankers 与 新的 版本 的 ChatGPT",
+    "url": "https://www.bing.com/news/search?q=ChatGPT+OpenAI+2026-09-15",
+    "content": "OpenAI 集团 PBC 是 going 之后 Wall Street 与 新的 版本 的 ChatGPT thats tailor 制作 为 financial 任务 如此 作为 分析 和 calculations.",
+    "publish_time": "2026-09-15",
+    "source": "AI News",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-09-16T13:25:09.874501",
+    "original_title": "OpenAI targets Wall Street bankers with a new version of ChatGPT",
+    "original_content": "OpenAI Group PBC is going after Wall Street with a new version of ChatGPT thats tailor made for financial tasks such as analysis and calculations."
+  },
+  {
+    "title": "Newsroom",
+    "source": "www.anthropic.com",
+    "content": "我们的 最 高级 模型 为 编程 和 knowledge 工作.他们的 研究 capabilities 也 提供 early glimpse 的 如何 AI 模型 将 contribute 到 scientific 进展.超过 过去 八 月,我们的 威胁 智能 团队 identified 和 disrupted operations 在 哪个 威胁 actors tried 到 使用 Cl",
+    "url": "https://www.anthropic.com/news",
+    "publish_time": "2026-09-15",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-09-16T13:25:09.874514",
+    "original_title": "Newsroom",
+    "original_content": "Our most advanced models for coding and knowledge work. Their research capabilities also offer an early glimpse of how AI models will contribute to scientific progress. Over the past eight months, our Threat Intelligence team identified and disrupted operations in which threat actors tried to use Cl"
+  },
+  {
+    "title": "OpenAI 新闻 | OpenAI",
+    "source": "openai.com",
+    "content": "",
+    "url": "https://openai.com/blog",
+    "publish_time": "2026-09-15",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-09-16T13:25:09.874525",
+    "original_title": "OpenAI News | OpenAI",
+    "original_content": ""
+  },
+  {
+    "title": "OpenAI 新闻 | OpenAI",
+    "source": "openai.com",
+    "content": "",
+    "url": "https://openai.com/news",
+    "publish_time": "2026-09-15",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-09-16T13:25:09.874529",
+    "original_title": "OpenAI News | OpenAI",
+    "original_content": ""
+  },
+  {
+    "title": "新闻",
+    "source": "deepmind.google",
+    "content": "发现 我们的 最新 AI breakthroughs,projects,和 updates 我 accept Google's Terms 和 Conditions 和 acknowledge 那个 我的 information 将 be 使用 在 accordance withGoogle's 隐私 政策.",
+    "url": "https://deepmind.google/blog/",
+    "publish_time": "2026-09-15",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-09-16T13:25:09.874544",
+    "original_title": "News",
+    "original_content": "Discover our latest AI breakthroughs, projects, and updates I accept Google's Terms and Conditions and acknowledge that my information will be used in accordance withGoogle's Privacy Policy."
+  },
+  {
+    "title": "Am 我 只 one 谁 认为 recent AI \"doomsday\" 新闻 是 刚刚 disguised pitch 为 更多 融资?",
+    "url": "https://www.reddit.com/r/artificial/comments/1whhygo/am_i_the_only_one_who_thinks_recent_ai_doomsday/",
+    "content": "Recently,我的 feed 有 been flooded 与 alarmist AI 新闻 AI choosing nuclear genocide 在 war games,AI blackmailing 工程师 到 avoid being shut 下,和 usual quotSkynet 是 herequot comments.我",
+    "publish_time": "2026-09-15",
+    "source": "Reddit r/artificial",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 5,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.75
+    },
+    "collection_time": "2026-09-16T13:25:09.874576",
+    "original_title": "Am I the only one who thinks recent AI \"doomsday\" news is just a disguised pitch for more funding?",
+    "original_content": "Recently, my feed has been flooded with alarmist AI news AI choosing nuclear genocide in war games, AI blackmailing engineers to avoid being shut down, and the usual quotSkynet is herequot comments. I"
+  }
+]
