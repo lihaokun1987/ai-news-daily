@@ -1,0 +1,198 @@
+[
+  {
+    "title": "EvolveTrade:Experience-Driven 政策 Refinement 为 Self-Evolving LLM Trading 智能体",
+    "url": "https://arxiv.org/abs/2609.17632",
+    "content": "arXiv:2609.17632v1 宣布 Type:新的 Abstract:大语言模型 (LLM) trading 智能体 能 结合 市场 数据,新闻,和 executable 分析,但 他们的 behavior 是 经常 控制 由 static hand-written 工具-使用 policies 那个 是 修复 之前 deployment.这个 限制 他们的 能力 到 适应 如何",
+    "publish_time": "Thu, 17 Se",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-09-17T13:33:27.808918",
+    "fetch_method": "RSS",
+    "original_title": "EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading Agents",
+    "original_content": "arXiv:2609.17632v1 Announce Type: new \nAbstract: Large language model (LLM) trading agents can combine market data, news, and executable analysis, but their behavior is often controlled by static hand-written tool-use policies that are fixed before deployment. This limits their ability to adapt how "
+  },
+  {
+    "title": "Physics-Constrained Digital Twins 为 Sensor Integrity 在 Urban Pedestrian Flow:Detecting Stealthy False 数据 Injection 与 Conformal Guarantees",
+    "url": "https://arxiv.org/abs/2609.17635",
+    "content": "arXiv:2609.17635v1 宣布 Type:新的 Abstract:城市 pedestrian counting 系统 现在 feed economic indicators,planning decisions 和 安全 operations,还 twins 构建 在 top 的 他们 treat incoming stream 作为 ground truth.我们 研究 什么 happens 当 它 是 not.我们 formalise stealthy false da",
+    "publish_time": "Thu, 17 Se",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-09-17T13:33:27.808941",
+    "fetch_method": "RSS",
+    "original_title": "Physics-Constrained Digital Twins for Sensor Integrity in Urban Pedestrian Flow: Detecting Stealthy False Data Injection with Conformal Guarantees",
+    "original_content": "arXiv:2609.17635v1 Announce Type: new \nAbstract: City pedestrian counting systems now feed economic indicators, planning decisions and safety operations, yet the twins built on top of them treat the incoming stream as ground truth. We study what happens when it is not. We formalise stealthy false da"
+  },
+  {
+    "title": "Prior-免费 Competitive Ratios 为 Improving Bandits:规模,Curvature 和 Horizon 是 免费,但 Not Jointly 下 Noise",
+    "url": "https://arxiv.org/abs/2609.17595",
+    "content": "arXiv:2609.17595v1 宣布 Type:新的 Abstract:在 improving multi-armed bandits 问题,每个 的 $k$ arms 有 unknown nondecreasing,discretely concave reward curve $f_i$,和 pulling arm $我$ 为 $t$-th 时间 yields $f_i(t)$.为 sufficiently long horizons,Blum 和 Ravichandran (ALT 202",
+    "publish_time": "Thu, 17 Se",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-09-17T13:33:27.809149",
+    "fetch_method": "RSS",
+    "original_title": "Prior-Free Competitive Ratios for Improving Bandits: Scale, Curvature and Horizon Are Free, but Not Jointly Under Noise",
+    "original_content": "arXiv:2609.17595v1 Announce Type: new \nAbstract: In the improving multi-armed bandits problem, each of $k$ arms has an unknown nondecreasing, discretely concave reward curve $f_i$, and pulling arm $i$ for the $t$-th time yields $f_i(t)$. For sufficiently long horizons, Blum and Ravichandran (ALT 202"
+  },
+  {
+    "title": "NVIDIA 宣布 native GPU 编程 在 Rust",
+    "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+    "content": "",
+    "publish_time": "2026-09-16",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 493,
+      "comments": 175
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=49724881",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.35
+    },
+    "collection_time": "2026-09-17T13:33:42.087734",
+    "original_title": "Nvidia announces native GPU programming in Rust",
+    "original_content": ""
+  },
+  {
+    "title": "Making AI-Assisted 声称 Independently Challengeable:Publication Authority 和 Protocol 为 Falsifiable Publication Records",
+    "url": "https://arxiv.org/abs/2609.17631",
+    "content": "arXiv:2609.17631v1 宣布 Type:新的 Abstract:AI-assisted 声称 能 appear authoritative 当 evidence,分析,human authorization,演示,和 correction history refer 到 different 状态.Provenance,attestation,和 透明度 expose history 但 alone do not specify publication",
+    "publish_time": "Thu, 17 Se",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-09-17T13:33:27.808906",
+    "fetch_method": "RSS",
+    "original_title": "Making AI-Assisted Claims Independently Challengeable: Publication Authority and a Protocol for Falsifiable Publication Records",
+    "original_content": "arXiv:2609.17631v1 Announce Type: new \nAbstract: AI-assisted claims can appear authoritative when evidence, analysis, human authorization, presentation, and correction history refer to different states. Provenance, attestation, and transparency expose history but alone do not specify the publication"
+  },
+  {
+    "title": "为什么 这个 月's Microsoft patch 发布 是 doozy",
+    "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+    "content": "安全性 gnomes 是 pumping 出 patches ahead 的 预计 onslaught 的 AI-assisted attacks.",
+    "publish_time": "Tue, 08 Se",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-09-17T13:33:27.808649",
+    "fetch_method": "RSS",
+    "original_title": "Why this month's Microsoft patch release is a doozy",
+    "original_content": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks."
+  },
+  {
+    "title": "Anthropic 合并 Claude chat 和 Cowork 在 one interface",
+    "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+    "content": "Anthropic 是 initially releasing 这些 功能 到 Pro 和 Max 计划 subscribers.",
+    "publish_time": "Wed, 16 Se",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-09-17T13:33:27.808282",
+    "fetch_method": "RSS",
+    "original_title": "Anthropic merges Claude chat and Cowork in one interface",
+    "original_content": "Anthropic is initially releasing these features to Pro and Max plan subscribers."
+  },
+  {
+    "title": "展示 HN:如何 Stale 是 你的 AI?发布 时代 和 训练 cutoff 为 20 模型",
+    "url": "https://stale.jock.pl/",
+    "content": "",
+    "publish_time": "2026-09-16",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 71,
+      "comments": 44
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=49726343",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 6,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-09-17T13:33:42.087920",
+    "original_title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
+    "original_content": ""
+  },
+  {
+    "title": "Newsroom",
+    "source": "www.anthropic.com",
+    "content": "我们的 最 高级 模型 为 编程 和 knowledge 工作.他们的 研究 capabilities 也 提供 early glimpse 的 如何 AI 模型 将 contribute 到 scientific 进展.超过 过去 八 月,我们的 威胁 智能 团队 identified 和 disrupted operations 在 哪个 威胁 actors tried 到 使用 Cl",
+    "url": "https://www.anthropic.com/news",
+    "publish_time": "2026-09-16",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-09-17T13:33:42.087584",
+    "original_title": "Newsroom",
+    "original_content": "Our most advanced models for coding and knowledge work. Their research capabilities also offer an early glimpse of how AI models will contribute to scientific progress. Over the past eight months, our Threat Intelligence team identified and disrupted operations in which threat actors tried to use Cl"
+  },
+  {
+    "title": "OpenAI 新闻 | OpenAI",
+    "source": "openai.com",
+    "content": "",
+    "url": "https://openai.com/blog",
+    "publish_time": "2026-09-16",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-09-17T13:33:42.087599",
+    "original_title": "OpenAI News | OpenAI",
+    "original_content": ""
+  }
+]
