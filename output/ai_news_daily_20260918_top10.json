@@ -1,0 +1,192 @@
+[
+  {
+    "title": "基础 实验室 发布 开放-权重 AI 安全 合作 与 Hugging 面临 和 Goodfire",
+    "url": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+    "content": "基础 实验室,研究 集团 Baseten spun 上 earlier 这个 年,将 开发 和 publish 方法 为 训练 和 monitoring 开放 模型.",
+    "publish_time": "Thu, 17 Se",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 8,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.9
+    },
+    "collection_time": "2026-09-18T13:21:16.158459",
+    "fetch_method": "RSS",
+    "original_title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+    "original_content": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models."
+  },
+  {
+    "title": "Huawei 计划 Q1 2027 发布 的 新的 AI 芯片 作为 它 采取 在 NVIDIA",
+    "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
+    "content": "Huawei 是 accelerating 发布 的 它的 下一代 Ascend 960DT AI 芯片 作为 它 推动 到 竞争 与 NVIDIA 和 close China’s AI 计算 gap 与 U.S.",
+    "publish_time": "Thu, 17 Se",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-09-18T13:21:16.158476",
+    "fetch_method": "RSS",
+    "original_title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+    "original_content": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S."
+  },
+  {
+    "title": "Google DeepMind 发布 研究所 到 widen AGI debate",
+    "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+    "content": "新的 研究所 目标 到 surface differing views 之间 Google,Google DeepMind,和 broader 全球 研究 community 约 AGI.\"他们 将 not 总是 agree,和 他们 将 可能 变化 他们的 minds,作为 更多 数据 和 information 来 到 light 在 快速-moving 前沿.\"",
+    "publish_time": "Thu, 17 Se",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-09-18T13:21:16.158376",
+    "fetch_method": "RSS",
+    "original_title": "Google DeepMind launches institute to widen the AGI debate",
+    "original_content": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\""
+  },
+  {
+    "title": "为什么 这个 月's Microsoft patch 发布 是 doozy",
+    "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+    "content": "安全性 gnomes 是 pumping 出 patches ahead 的 预计 onslaught 的 AI-assisted attacks.",
+    "publish_time": "Tue, 08 Se",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-09-18T13:21:16.158237",
+    "fetch_method": "RSS",
+    "original_title": "Why this month's Microsoft patch release is a doozy",
+    "original_content": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks."
+  },
+  {
+    "title": "Astra 为 Law",
+    "url": "https://openai.com/index/astra-for-law/",
+    "content": "文章 URL:https://OpenAI.com/index/astra-为-law/ Comments URL:https://新闻.ycombinator.com/item?id=49745940 Points:394 # Comments:420",
+    "publish_time": "Thu, 17 Se",
+    "source": "Hacker News Best",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-09-18T13:21:16.159155",
+    "fetch_method": "RSS",
+    "original_title": "Astra for Law",
+    "original_content": "Article URL: https://openai.com/index/astra-for-law/\nComments URL: https://news.ycombinator.com/item?id=49745940\nPoints: 394\n# Comments: 420"
+  },
+  {
+    "title": "发布 HN:Skillsync (YC W26) – AI chat sessions 制作 portable across 智能体",
+    "url": "https://news.ycombinator.com/item?id=49743049",
+    "content": "",
+    "publish_time": "2026-09-17",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 55,
+      "comments": 53
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=49743049",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 6,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-09-18T13:21:29.657499",
+    "original_title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
+    "original_content": ""
+  },
+  {
+    "title": "Newsroom",
+    "source": "www.anthropic.com",
+    "content": "我们的 最 高级 模型 为 编程 和 knowledge 工作.他们的 研究 capabilities 也 提供 early glimpse 的 如何 AI 模型 将 contribute 到 scientific 进展.今天,世界 cant 看到 whats going 在 inside AI 实验室.Anthropic 是 proposing 新的 metrics 那个 将会 give 公开 visibility 我",
+    "url": "https://www.anthropic.com/news",
+    "publish_time": "2026-09-17",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-09-18T13:21:29.657202",
+    "original_title": "Newsroom",
+    "original_content": "Our most advanced models for coding and knowledge work. Their research capabilities also offer an early glimpse of how AI models will contribute to scientific progress. Today, the world cant see whats going on inside AI labs. Anthropic is proposing new metrics that would give the public visibility i"
+  },
+  {
+    "title": "OpenAI 新闻 | OpenAI",
+    "source": "openai.com",
+    "content": "",
+    "url": "https://openai.com/blog",
+    "publish_time": "2026-09-17",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-09-18T13:21:29.657215",
+    "original_title": "OpenAI News | OpenAI",
+    "original_content": ""
+  },
+  {
+    "title": "OpenAI 新闻 | OpenAI",
+    "source": "openai.com",
+    "content": "",
+    "url": "https://openai.com/news",
+    "publish_time": "2026-09-17",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-09-18T13:21:29.657221",
+    "original_title": "OpenAI News | OpenAI",
+    "original_content": ""
+  },
+  {
+    "title": "新闻",
+    "source": "deepmind.google",
+    "content": "发现 我们的 最新 AI breakthroughs,projects,和 updates 我 accept Google's Terms 和 Conditions 和 acknowledge 那个 我的 information 将 be 使用 在 accordance withGoogle's 隐私 政策.",
+    "url": "https://deepmind.google/blog/",
+    "publish_time": "2026-09-17",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-09-18T13:21:29.657239",
+    "original_title": "News",
+    "original_content": "Discover our latest AI breakthroughs, projects, and updates I accept Google's Terms and Conditions and acknowledge that my information will be used in accordance withGoogle's Privacy Policy."
+  }
+]
