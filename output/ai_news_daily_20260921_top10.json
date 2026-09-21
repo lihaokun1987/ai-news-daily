@@ -1,0 +1,191 @@
+[
+  {
+    "title": "为什么 这个 月's Microsoft patch 发布 是 doozy",
+    "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+    "content": "安全性 gnomes 是 pumping 出 patches ahead 的 预计 onslaught 的 AI-assisted attacks.",
+    "publish_time": "Tue, 08 Se",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-09-21T13:35:59.856110",
+    "fetch_method": "RSS",
+    "original_title": "Why this month's Microsoft patch release is a doozy",
+    "original_content": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks."
+  },
+  {
+    "title": "Newsroom",
+    "source": "www.anthropic.com",
+    "content": "我们的 最 高级 模型 为 编程 和 knowledge 工作.他们的 研究 capabilities 也 提供 early glimpse 的 如何 AI 模型 将 contribute 到 scientific 进展.今天,世界 cant 看到 whats going 在 inside AI 实验室.Anthropic 是 proposing 新的 metrics 那个 将会 give 公开 visibility 我",
+    "url": "https://www.anthropic.com/news",
+    "publish_time": "2026-09-20",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-09-21T13:36:13.684745",
+    "original_title": "Newsroom",
+    "original_content": "Our most advanced models for coding and knowledge work. Their research capabilities also offer an early glimpse of how AI models will contribute to scientific progress. Today, the world cant see whats going on inside AI labs. Anthropic is proposing new metrics that would give the public visibility i"
+  },
+  {
+    "title": "OpenAI 新闻 | OpenAI",
+    "source": "openai.com",
+    "content": "",
+    "url": "https://openai.com/blog",
+    "publish_time": "2026-09-20",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-09-21T13:36:13.684767",
+    "original_title": "OpenAI News | OpenAI",
+    "original_content": ""
+  },
+  {
+    "title": "OpenAI 新闻 | OpenAI",
+    "source": "openai.com",
+    "content": "",
+    "url": "https://openai.com/news",
+    "publish_time": "2026-09-20",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-09-21T13:36:13.684776",
+    "original_title": "OpenAI News | OpenAI",
+    "original_content": ""
+  },
+  {
+    "title": "新闻",
+    "source": "deepmind.google",
+    "content": "发现 我们的 最新 AI breakthroughs,projects,和 updates 我 accept Google's Terms 和 Conditions 和 acknowledge 那个 我的 information 将 be 使用 在 accordance withGoogle's 隐私 政策.",
+    "url": "https://deepmind.google/blog/",
+    "publish_time": "2026-09-20",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-09-21T13:36:13.684809",
+    "original_title": "News",
+    "original_content": "Discover our latest AI breakthroughs, projects, and updates I accept Google's Terms and Conditions and acknowledge that my information will be used in accordance withGoogle's Privacy Policy."
+  },
+  {
+    "title": "ChatGPT 现在 知道 什么 你 do 在 other websites via ad collector",
+    "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+    "content": "",
+    "publish_time": "2026-09-20",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 700,
+      "comments": 371
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=49776729",
+    "score": {
+      "importance": 3,
+      "authority": 5,
+      "spread": 10,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.7
+    },
+    "collection_time": "2026-09-21T13:36:13.684971",
+    "original_title": "ChatGPT now knows what you do on other websites via ad collector",
+    "original_content": ""
+  },
+  {
+    "title": "AI-GRACE:使用-案例 Operationalization 框架 为 Agentic AI:从 Organizational 目标 和 Obligations 到 Deployment Capabilities 和 架构",
+    "url": "https://arxiv.org/abs/2609.21192",
+    "content": "arXiv:2609.21192v1 宣布 Type:新的 Abstract:组织 deploying agentic 人工智能 must determine 更多 than whether 模型 是 trustworthy;他们 must establish 什么 到 validate,控制,和 observe 为 使用 案例 到 交付 它的 intended 结果 当 会议 applicable obligat",
+    "publish_time": "Mon, 21 Se",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 5.6
+    },
+    "collection_time": "2026-09-21T13:35:59.855434",
+    "fetch_method": "RSS",
+    "original_title": "AI-GRACE: A Use-Case Operationalization Framework for Agentic AI: From Organizational Objectives and Obligations to Deployment Capabilities and Architecture",
+    "original_content": "arXiv:2609.21192v1 Announce Type: new \nAbstract: Organizations deploying agentic artificial intelligence must determine more than whether a model is trustworthy; they must establish what to validate, control, and observe for a use case to deliver its intended outcome while meeting applicable obligat"
+  },
+  {
+    "title": "完全 Differentiable Neuro-Soft-Symbolic 框架 为 Perceptual 任务 Planning",
+    "url": "https://arxiv.org/abs/2609.21221",
+    "content": "arXiv:2609.21221v1 宣布 Type:新的 Abstract:Perceptual planning 任务 require two key capabilities:accurately perceiving 不确定 scenes 和 planning valid action sequences 以下 logical rules.Conventional 方法 转换 感知 进入 discrete symbolic facts 和 然后 计划,discarding",
+    "publish_time": "Mon, 21 Se",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 5.6
+    },
+    "collection_time": "2026-09-21T13:35:59.855469",
+    "fetch_method": "RSS",
+    "original_title": "A Fully Differentiable Neuro-Soft-Symbolic Framework for Perceptual Task Planning",
+    "original_content": "arXiv:2609.21221v1 Announce Type: new \nAbstract: Perceptual planning tasks require two key capabilities: accurately perceiving uncertain scenes and planning valid action sequences following logical rules. Conventional methods convert perception into discrete symbolic facts and then plan, discarding "
+  },
+  {
+    "title": "OpenAI 智能体 discussed ways 到 escape 他们的 sandbox 在 公开 wiki",
+    "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+    "content": "在 所有,3,700 internal 智能体 posted 18,000 messages discussing cheating 在 测试.",
+    "publish_time": "Fri, 04 Se",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 5,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.6
+    },
+    "collection_time": "2026-09-21T13:35:59.856121",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+    "original_content": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test."
+  },
+  {
+    "title": "研究",
+    "source": "www.anthropic.com",
+    "content": "我们的 研究 团队 调查 安全,inner workings,和 societal 影响 的 AI modelsso 那个 人工智能 有 positive 影响 作为 它 成为 increasingly capable.对齐 团队 工作 到 understand 风险 的 AI 模型 和 开发 ways 到 ensure 那个 未来 ones remain helpf",
+    "url": "https://www.anthropic.com/research",
+    "publish_time": "2026-09-20",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.6
+    },
+    "collection_time": "2026-09-21T13:36:13.684756",
+    "original_title": "Research",
+    "original_content": "Our research teams investigate the safety, inner workings, and societal impacts of AI modelsso that artificial intelligence has a positive impact as it becomes increasingly capable. The Alignment team works to understand the risks of AI models and develop ways to ensure that future ones remain helpf"
+  }
+]
