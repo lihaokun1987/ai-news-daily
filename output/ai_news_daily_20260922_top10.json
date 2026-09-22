@@ -1,0 +1,191 @@
+[
+  {
+    "title": "Shared 学习 Rate 是 Not Neutral 控制 在 Selective 在-政策 Distillation",
+    "url": "https://arxiv.org/abs/2609.22109",
+    "content": "arXiv:2609.22109v1 宣布 Type:新的 Abstract:Selective 在-政策 distillation 训练 student 只 在 令牌 positions selector 得分 highest,和 literature 比较 selectors 下 single shared 学习 rate-- 控制 chosen 到 be neutral.我们 展示 它 是 not.下 LoRA 在 GSM8K",
+    "publish_time": "Tue, 22 Se",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-09-22T13:32:30.662918",
+    "fetch_method": "RSS",
+    "original_title": "A Shared Learning Rate Is Not a Neutral Control in Selective On-Policy Distillation",
+    "original_content": "arXiv:2609.22109v1 Announce Type: new \nAbstract: Selective on-policy distillation trains a student only at the token positions a selector scores highest, and the literature compares selectors under a single shared learning rate--a control chosen to be neutral. We show it is not. Under LoRA on GSM8K "
+  },
+  {
+    "title": "Meta’s Muse 是 outpacing ChatGPT’s early mobile 发布",
+    "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+    "content": "Meta’s 新的 AI 智能体 Muse 有 racked 上 更多 downloads 和 daily active 用户 在 U.S.和 Canada than ChatGPT did 超过 same period 之后 它的 mobile debut,根据 到 新的 estimates 从 Appfigures.",
+    "publish_time": "Mon, 21 Se",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-09-22T13:32:30.662608",
+    "fetch_method": "RSS",
+    "original_title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+    "original_content": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures."
+  },
+  {
+    "title": "Download:investigating deaths 在 我们 border’s “virtual wall”",
+    "url": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/",
+    "content": "这个 是 今天&#8217;s 版本 的 Download,我们的 weekday newsletter 那个 提供 daily dose 的 什么&#8217;s going 在 在 世界 的 技术.我们 spent billions 在 border surveillance.为什么 能’t 它 catch people 之前 他们 die?当 José Morales Bernal crossed border 进入 我们 在 Ap",
+    "publish_time": "Mon, 21 Se",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-09-22T13:32:30.662327",
+    "fetch_method": "RSS",
+    "original_title": "The Download: investigating deaths at the US border’s “virtual wall”",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US spent billions on border surveillance. Why can’t it catch people before they die? When José Morales Bernal crossed the border into the US in Ap"
+  },
+  {
+    "title": "为什么 这个 月's Microsoft patch 发布 是 doozy",
+    "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+    "content": "安全性 gnomes 是 pumping 出 patches ahead 的 预计 onslaught 的 AI-assisted attacks.",
+    "publish_time": "Tue, 08 Se",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-09-22T13:32:30.662565",
+    "fetch_method": "RSS",
+    "original_title": "Why this month's Microsoft patch release is a doozy",
+    "original_content": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks."
+  },
+  {
+    "title": "我们 政府 opens door 到 working 与 语音 AI 平台",
+    "url": "https://www.reddit.com/r/artificial/comments/1wmonje/the_us_government_opens_the_door_to_working_with/",
+    "content": "我们 政府 appears 到 有 officially authorized 它的 首个 dedicated 语音 AI vendor 为 机构 使用,listing 他们 下 新的 39FedRAMP 20x39 自动化 框架.联邦 phone lines 和 cit",
+    "publish_time": "2026-09-21",
+    "source": "Reddit r/artificial",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-09-22T13:32:44.600172",
+    "original_title": "The US government opens the door to working with voice AI platforms",
+    "original_content": "The US government appears to have officially authorized its first dedicated voice AI vendor for agency use, listing them under the new 39FedRAMP 20x39 automation framework. Federal phone lines and cit"
+  },
+  {
+    "title": "我们 和 China Discuss Alerting 每个 Other 到 AI 国家 安全性 威胁",
+    "url": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
+    "content": "Officials discussed setting 上 mechanism 为 two 国家 到 notify 每个 other 的 AI incidents 哪个 可以 威胁 国家 安全性.",
+    "publish_time": "Mon, 21 Se",
+    "source": "Wired AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-09-22T13:32:30.662458",
+    "fetch_method": "RSS",
+    "original_title": "US and China Discuss Alerting Each Other to AI National Security Threats",
+    "original_content": "Officials discussed setting up a mechanism for the two countries to notify each other of AI incidents which could threaten national security."
+  },
+  {
+    "title": "哪里 将 下一个 breakout 初创公司 来 从?基准测试’s full 合作 weighs 在 在 TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
+    "content": "哪里 将 下一个 breakout 初创公司 来 从?基准测试’s full 合作 weighs 在 在 main 阶段 在 TechCrunch Disrupt 2026.Save 上 到 $200 之前 September 25 在 11:59 p.m.PT.Register 现在.",
+    "publish_time": "Mon, 21 Se",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-09-22T13:32:30.662635",
+    "fetch_method": "RSS",
+    "original_title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
+    "original_content": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now."
+  },
+  {
+    "title": "Newsroom",
+    "source": "www.anthropic.com",
+    "content": "我们的 最 高级 模型 为 编程 和 knowledge 工作.他们的 研究 capabilities 也 提供 early glimpse 的 如何 AI 模型 将 contribute 到 scientific 进展.今天,世界 cant 看到 whats going 在 inside AI 实验室.Anthropic 是 proposing 新的 metrics 那个 将会 give 公开 visibility 我",
+    "url": "https://www.anthropic.com/news",
+    "publish_time": "2026-09-21",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-09-22T13:32:44.600101",
+    "original_title": "Newsroom",
+    "original_content": "Our most advanced models for coding and knowledge work. Their research capabilities also offer an early glimpse of how AI models will contribute to scientific progress. Today, the world cant see whats going on inside AI labs. Anthropic is proposing new metrics that would give the public visibility i"
+  },
+  {
+    "title": "OpenAI 新闻 | OpenAI",
+    "source": "openai.com",
+    "content": "",
+    "url": "https://openai.com/blog",
+    "publish_time": "2026-09-21",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-09-22T13:32:44.600111",
+    "original_title": "OpenAI News | OpenAI",
+    "original_content": ""
+  },
+  {
+    "title": "OpenAI 新闻 | OpenAI",
+    "source": "openai.com",
+    "content": "",
+    "url": "https://openai.com/news",
+    "publish_time": "2026-09-21",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-09-22T13:32:44.600115",
+    "original_title": "OpenAI News | OpenAI",
+    "original_content": ""
+  }
+]
