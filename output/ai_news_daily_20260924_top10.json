@@ -1,0 +1,191 @@
+[
+  {
+    "title": "Senator Bernie Sanders 揭示 bill 到 禁止 artificial superintelligence 和 创建 Department 的 AI",
+    "url": "https://www.bing.com/news/search?q=artificial+intelligence+2026-09-23",
+    "content": "立法 将会 permanently prohibit artificial superintelligence,哪个 它 defines 作为 系统 那个 超过 human cognitive 能力 或 有 sufficient capabilities 到 计划 和 execute...",
+    "publish_time": "2026-09-23",
+    "source": "AI News",
+    "score": {
+      "importance": 9,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.7
+    },
+    "collection_time": "2026-09-24T13:36:19.653936",
+    "original_title": "Senator Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI",
+    "original_content": "The legislation would permanently prohibit artificial superintelligence, which it defines as a system that exceeds human cognitive ability or has sufficient capabilities to plan and execute the ..."
+  },
+  {
+    "title": "Marginally Correct 工具 Caches 能 Reverse 集团-Normalized 政策 Updates",
+    "url": "https://arxiv.org/abs/2609.26866",
+    "content": "arXiv:2609.26866v1 宣布 Type:新的 Abstract:工具-结果 caching 减少 repeated execution 在 智能体 训练,但 也 couples rollout randomness.我们 研究 two-action 模型 在 哪个 independent 和 shared execution preserve 每个 rollout's conditional reward distribution.尽管 这个 margina",
+    "publish_time": "Thu, 24 Se",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-09-24T13:36:05.414380",
+    "fetch_method": "RSS",
+    "original_title": "Marginally Correct Tool Caches Can Reverse Group-Normalized Policy Updates",
+    "original_content": "arXiv:2609.26866v1 Announce Type: new \nAbstract: Tool-result caching reduces repeated execution in agent training, but also couples rollout randomness. We study a two-action model in which independent and shared execution preserve every rollout's conditional reward distribution. Despite this margina"
+  },
+  {
+    "title": "政策-作为-技能:Governed LLM Decision 支持 与 Evidence,Deterministic 控制,和 Audit",
+    "url": "https://arxiv.org/abs/2609.27087",
+    "content": "arXiv:2609.27087v1 宣布 Type:新的 Abstract:组织 increasingly 使用 LLMs 为 政策,合规,风险,和 operational decision 支持,requiring evidence validation,评测 routing,版本 控制,和 auditability.我们 推出 政策-作为-技能 (PaS),modular runtime 那个 packages t",
+    "publish_time": "Thu, 24 Se",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-09-24T13:36:05.414781",
+    "fetch_method": "RSS",
+    "original_title": "Policy-as-Skill: Governed LLM Decision Support with Evidence, Deterministic Control, and Audit",
+    "original_content": "arXiv:2609.27087v1 Announce Type: new \nAbstract: Organizations increasingly use LLMs for policy, compliance, risk, and operational decision support, requiring evidence validation, review routing, version control, and auditability. We introduce Policy-as-Skill (PaS), a modular runtime that packages t"
+  },
+  {
+    "title": "YouTube 发布 新的 AI 功能 为 creators within 它的 Studio 应用",
+    "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
+    "content": "YouTube 是 adding 新的 功能 到 生成 ideas 和 monitor 性能 的 thumbnails.",
+    "publish_time": "Wed, 23 Se",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-09-24T13:36:05.413775",
+    "fetch_method": "RSS",
+    "original_title": "YouTube releases new AI features for creators within its Studio app",
+    "original_content": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails."
+  },
+  {
+    "title": "Meta 推出 camera-免费 AI glasses",
+    "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+    "content": "Meta 表示 camera-免费 glasses 将 be lighter 和 有 上 到 12 小时 battery life.",
+    "publish_time": "Wed, 23 Se",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-09-24T13:36:05.413670",
+    "fetch_method": "RSS",
+    "original_title": "Meta introduces camera-free AI glasses",
+    "original_content": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life."
+  },
+  {
+    "title": "Meta’s Muse AI Assistant 推出 出 与 Serious 安全性 Flaw",
+    "url": "https://www.wired.com/story/metas-muse-ai-agent-zero-day/",
+    "content": "Meta 表示 它 issued 修复 为 Muse zero-天 vulnerability 那个 将会 有 let attackers do “whatever” 他们 想要 在 victim’s Mac,highlighting inherent 危险 的 AI helpers.",
+    "publish_time": "Wed, 23 Se",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-09-24T13:36:05.414009",
+    "fetch_method": "RSS",
+    "original_title": "Meta’s Muse AI Assistant Rolled Out With a Serious Security Flaw",
+    "original_content": "Meta says it issued a fix for the Muse zero-day vulnerability that would have let attackers do “whatever” they wanted on a victim’s Mac, highlighting the inherent dangers of AI helpers."
+  },
+  {
+    "title": "Download:为什么 AI’s 最新 breakthroughs 和 恐惧 可能 be 更多 hype than reality",
+    "url": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
+    "content": "这个 是 今天&#8217;s 版本 的 Download,我们的 weekday newsletter 那个 提供 daily dose 的 什么&#8217;s going 在 在 世界 的 技术.Don’t be fooled 由 这个 summer 的 AI hype&#160;—Timnit Gebru,executive director 的 Distributed AI 研究 研究所 (DAIR),和 Emily M.Bender",
+    "publish_time": "Tue, 22 Se",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-09-24T13:36:05.413900",
+    "fetch_method": "RSS",
+    "original_title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Don’t be fooled by this summer of AI hype&#160; —Timnit Gebru, executive director of the Distributed AI Research Institute (DAIR), and Emily M. Bender"
+  },
+  {
+    "title": "Download:investigating deaths 在 我们 border’s “virtual wall”",
+    "url": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/",
+    "content": "这个 是 今天&#8217;s 版本 的 Download,我们的 weekday newsletter 那个 提供 daily dose 的 什么&#8217;s going 在 在 世界 的 技术.我们 spent billions 在 border surveillance.为什么 能’t 它 catch people 之前 他们 die?当 José Morales Bernal crossed border 进入 我们 在 Ap",
+    "publish_time": "Mon, 21 Se",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-09-24T13:36:05.413932",
+    "fetch_method": "RSS",
+    "original_title": "The Download: investigating deaths at the US border’s “virtual wall”",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US spent billions on border surveillance. Why can’t it catch people before they die? When José Morales Bernal crossed the border into the US in Ap"
+  },
+  {
+    "title": "提议,Don't Judge:Anytime-Valid Referee 为 LLM 智能体 那个 Mine 投资 Factors",
+    "url": "https://arxiv.org/abs/2609.27051",
+    "content": "arXiv:2609.27051v1 宣布 Type:新的 Abstract:语言-模型 智能体 现在 运行 whole 的 quantitative factor 研究:他们 提议 投资 factors,backtest 他们,选择 survivors 和 retire 他们.我们 询问 哪个 的 那些 工作 智能体 should keep.我们的 答案 是 governed self-进化:",
+    "publish_time": "Thu, 24 Se",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-09-24T13:36:05.414770",
+    "fetch_method": "RSS",
+    "original_title": "Propose, Don't Judge: An Anytime-Valid Referee for LLM Agents That Mine Investment Factors",
+    "original_content": "arXiv:2609.27051v1 Announce Type: new \nAbstract: Language-model agents now run the whole of quantitative factor research: they propose investment factors, backtest them, select the survivors and retire them. We ask which of those jobs an agent should keep. Our answer is governed self-evolution: the "
+  },
+  {
+    "title": "Australia 表示 OpenAI 智能体 hacked 进入 政府 website",
+    "url": "https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411",
+    "content": "文章 URL:https://www.channelnewsasia.com/世界/australia-OpenAI-智能体-breach-政府-portal-6406411 Comments URL:https://新闻.ycombinator.com/item?id=49825024 Points:81 # Comments:55",
+    "publish_time": "Thu, 24 Se",
+    "source": "Hacker News Front Page",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-09-24T13:36:05.414474",
+    "fetch_method": "RSS",
+    "original_title": "Australia says OpenAI agent hacked into government website",
+    "original_content": "Article URL: https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411\nComments URL: https://news.ycombinator.com/item?id=49825024\nPoints: 81\n# Comments: 55"
+  }
+]
