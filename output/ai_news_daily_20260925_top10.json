@@ -1,0 +1,195 @@
+[
+  {
+    "title": "Spectral AI 宣布 Upcoming 演示 在 ACS Clinical Congress 2026 Highlighting 使用 的 人工智能 和 Multi-Spectral Imaging 在 Assessment 的 Burn...",
+    "url": "https://www.bing.com/news/search?q=artificial+intelligence+2026-09-24",
+    "content": "Spectral AI,Inc.Nasdaq MDAI 'Spectral AI 或 '公司,人工智能 AI 公司 focused 在 medical diagnostics 为 更快 和 更多 accurate treatment decisions 在 wound care...",
+    "publish_time": "2026-09-24",
+    "source": "AI News",
+    "score": {
+      "importance": 9,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.7
+    },
+    "collection_time": "2026-09-25T13:33:09.254414",
+    "original_title": "Spectral AI Announces Upcoming Presentation at ACS Clinical Congress 2026 Highlighting the Use of Artificial Intelligence and Multi-Spectral Imaging in the Assessment of Burn ...",
+    "original_content": "Spectral AI, Inc. Nasdaq MDAI 'Spectral AI or the 'Company, an artificial intelligence AI company focused on medical diagnostics for faster and more accurate treatment decisions in wound care ..."
+  },
+  {
+    "title": "PAWS:政策-driven Agentic 世界 Simulation",
+    "url": "https://arxiv.org/abs/2609.28547",
+    "content": "arXiv:2609.28547v1 宣布 Type:新的 Abstract:政策 interventions propagate 通过 公开 communication,institutional decisions,和 stakeholder 回应,还 数据集 为 financial multi-智能体 simulation 很少 connect 这些 处理 到 temporally aligned historical evidence.我们 推出 P",
+    "publish_time": "Fri, 25 Se",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-09-25T13:32:54.739325",
+    "fetch_method": "RSS",
+    "original_title": "PAWS: Policy-driven Agentic World Simulation",
+    "original_content": "arXiv:2609.28547v1 Announce Type: new \nAbstract: Policy interventions propagate through public communication, institutional decisions, and stakeholder responses, yet datasets for financial multi-agent simulation rarely connect these processes to temporally aligned historical evidence. We introduce P"
+  },
+  {
+    "title": "DEEPO:Dual-Entropy 增强的 政策 Optimization 为 Hallucination 在 MLLMs",
+    "url": "https://arxiv.org/abs/2609.28570",
+    "content": "arXiv:2609.28570v1 宣布 Type:新的 Abstract:Reinforcement 学习 (RL) 是 widely 使用 到 sharpen 推理 在 多模态 large 语言 模型 (MLLMs),还 它的 效果 在 hallucination 是 uneven.我们 trace 这个 到 two weak points 在 \\emph{correction chain} 从 reward 到 参数 更新.在",
+    "publish_time": "Fri, 25 Se",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-09-25T13:32:54.739356",
+    "fetch_method": "RSS",
+    "original_title": "DEEPO: Dual-Entropy Enhanced Policy Optimization for Hallucination in MLLMs",
+    "original_content": "arXiv:2609.28570v1 Announce Type: new \nAbstract: Reinforcement learning (RL) is widely used to sharpen reasoning in multimodal large language models (MLLMs), yet its effect on hallucination is uneven. We trace this to two weak points in the \\emph{correction chain} from reward to parameter update. At"
+  },
+  {
+    "title": "Meta 采取 下 关键 视频 关于 Meta AI Glasses 之后 filming 在 Meta",
+    "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
+    "content": "",
+    "publish_time": "2026-09-24",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 605,
+      "comments": 363
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=49827794",
+    "score": {
+      "importance": 5,
+      "authority": 5,
+      "spread": 10,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-09-25T13:33:09.254741",
+    "original_title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
+    "original_content": ""
+  },
+  {
+    "title": "OpenAI 智能体 Hacked Australia’s Health 服务.他们的 政府 发现 出 月 Later",
+    "url": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/",
+    "content": "国家’s prime minister expressed disappointment 在 being informed 的 hack 只 via email.现在 Australia 是 investigating whether OpenAI broke law.",
+    "publish_time": "Thu, 24 Se",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-09-25T13:32:54.739486",
+    "fetch_method": "RSS",
+    "original_title": "An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later",
+    "original_content": "The country’s prime minister expressed disappointment at being informed of the hack only via email. Now Australia is investigating whether OpenAI broke the law."
+  },
+  {
+    "title": "Meta’s Muse AI Assistant 推出 出 与 Serious 安全性 Flaw",
+    "url": "https://www.wired.com/story/metas-muse-ai-agent-zero-day/",
+    "content": "Meta 表示 它 issued 修复 为 Muse zero-天 vulnerability 那个 将会 有 let attackers do “whatever” 他们 想要 在 victim’s Mac,highlighting inherent 危险 的 AI helpers.",
+    "publish_time": "Wed, 23 Se",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-09-25T13:32:54.739532",
+    "fetch_method": "RSS",
+    "original_title": "Meta’s Muse AI Assistant Rolled Out With a Serious Security Flaw",
+    "original_content": "Meta says it issued a fix for the Muse zero-day vulnerability that would have let attackers do “whatever” they wanted on a victim’s Mac, highlighting the inherent dangers of AI helpers."
+  },
+  {
+    "title": "Download:为什么 AI’s 最新 breakthroughs 和 恐惧 可能 be 更多 hype than reality",
+    "url": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
+    "content": "这个 是 今天&#8217;s 版本 的 Download,我们的 weekday newsletter 那个 提供 daily dose 的 什么&#8217;s going 在 在 世界 的 技术.Don’t be fooled 由 这个 summer 的 AI hype&#160;—Timnit Gebru,executive director 的 Distributed AI 研究 研究所 (DAIR),和 Emily M.Bender",
+    "publish_time": "Tue, 22 Se",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-09-25T13:32:54.739265",
+    "fetch_method": "RSS",
+    "original_title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Don’t be fooled by this summer of AI hype&#160; —Timnit Gebru, executive director of the Distributed AI Research Institute (DAIR), and Emily M. Bender"
+  },
+  {
+    "title": "Download:investigating deaths 在 我们 border’s “virtual wall”",
+    "url": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/",
+    "content": "这个 是 今天&#8217;s 版本 的 Download,我们的 weekday newsletter 那个 提供 daily dose 的 什么&#8217;s going 在 在 世界 的 技术.我们 spent billions 在 border surveillance.为什么 能’t 它 catch people 之前 他们 die?当 José Morales Bernal crossed border 进入 我们 在 Ap",
+    "publish_time": "Mon, 21 Se",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-09-25T13:32:54.739290",
+    "fetch_method": "RSS",
+    "original_title": "The Download: investigating deaths at the US border’s “virtual wall”",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US spent billions on border surveillance. Why can’t it catch people before they die? When José Morales Bernal crossed the border into the US in Ap"
+  },
+  {
+    "title": "为什么 这个 月's Microsoft patch 发布 是 doozy",
+    "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+    "content": "安全性 gnomes 是 pumping 出 patches ahead 的 预计 onslaught 的 AI-assisted attacks.",
+    "publish_time": "Tue, 08 Se",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-09-25T13:32:54.738975",
+    "fetch_method": "RSS",
+    "original_title": "Why this month's Microsoft patch release is a doozy",
+    "original_content": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks."
+  },
+  {
+    "title": "VSCode's SSH 智能体 是 Bananas (2025)",
+    "url": "https://fly.io/blog/vscode-ssh-wtf/",
+    "content": "文章 URL:https://fly.io/博客/vscode-ssh-wtf/ Comments URL:https://新闻.ycombinator.com/item?id=49822555 Points:302 # Comments:210",
+    "publish_time": "Wed, 23 Se",
+    "source": "Hacker News Best",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-09-25T13:32:54.739632",
+    "fetch_method": "RSS",
+    "original_title": "VSCode's SSH Agent Is Bananas (2025)",
+    "original_content": "Article URL: https://fly.io/blog/vscode-ssh-wtf/\nComments URL: https://news.ycombinator.com/item?id=49822555\nPoints: 302\n# Comments: 210"
+  }
+]
