@@ -1,0 +1,197 @@
+[
+  {
+    "title": "Anthropic 发布 Sonnet 5.5,哪个 它 calls significantly 更便宜,更快 工作 合作",
+    "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+    "content": "Anthropic 有 发布 newest 版本 的 它的 mid-范围 模型,boasting 更快 回应 时间 和 更少 令牌 burn.",
+    "publish_time": "Mon, 28 Se",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 8,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.9
+    },
+    "collection_time": "2026-09-29T14:20:45.072466",
+    "fetch_method": "RSS",
+    "original_title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+    "original_content": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn."
+  },
+  {
+    "title": "Florida 询问 court 到 bar OpenAI 从 developing 新的 模型 作为 part 的 child harm 诉讼",
+    "url": "https://www.bing.com/news/search?q=ChatGPT+OpenAI+2026-09-28",
+    "content": "Sept 28 Reuters - Floridas attorney 通用 询问 judge 在 Monday 到 bar OpenAI 从 developing 新的 人工智能 模型 没有 outside oversight 作为 part 的 它的 诉讼 accusing...",
+    "publish_time": "2026-09-28",
+    "source": "AI News",
+    "score": {
+      "importance": 9,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 6.9
+    },
+    "collection_time": "2026-09-29T14:21:00.007831",
+    "original_title": "Florida asks court to bar OpenAI from developing new models as part of child harm lawsuit",
+    "original_content": "Sept 28 Reuters - Floridas attorney general asked a judge on Monday to bar OpenAI from developing new artificial intelligence models without outside oversight as part of its lawsuit accusing the ..."
+  },
+  {
+    "title": "离线 政策 Evaluation 作为 decision 支持 工具 为 designing Adaptive Experiments",
+    "url": "https://arxiv.org/abs/2609.30273",
+    "content": "arXiv:2609.30273v1 宣布 Type:新的 Abstract:我们 调查 如何 historical 数据 从 修复 randomized experiments (/B 测试) 能 be 使用 到 inform deployment 的 adaptive experiments based 在 contextual bandits.Given 数据 collected 下 static allocation,我们的 目标 是 到 评估 哪个 adap",
+    "publish_time": "Tue, 29 Se",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-09-29T14:20:45.072959",
+    "fetch_method": "RSS",
+    "original_title": "Offline Policy Evaluation as a decision support tool for designing Adaptive Experiments",
+    "original_content": "arXiv:2609.30273v1 Announce Type: new \nAbstract: We investigate how historical data from fixed randomized experiments (A/B tests) can be used to inform the deployment of adaptive experiments based on contextual bandits. Given data collected under a static allocation, our goal is to assess which adap"
+  },
+  {
+    "title": "Guarded Gradient-Based Activation Steering 的 Shutdown 回应 在 Qwen3.5-0.8B:Minimum-步骤 政策",
+    "url": "https://arxiv.org/abs/2609.30326",
+    "content": "arXiv:2609.30326v1 宣布 Type:新的 Abstract:Activation steering 变化 模型's internal activations 期间 推理 没有 updating 它的 权重,但 useful intervention must determine 两者 如何 和 当 到 steer.Motivated 由 AI-安全 担忧 那个 模型 预计 到 accept shutdown",
+    "publish_time": "Tue, 29 Se",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-09-29T14:20:45.073081",
+    "fetch_method": "RSS",
+    "original_title": "Guarded Gradient-Based Activation Steering of Shutdown Responses in Qwen3.5-0.8B: A Minimum-Step Policy",
+    "original_content": "arXiv:2609.30326v1 Announce Type: new \nAbstract: Activation steering changes a model's internal activations during inference without updating its weights, but a useful intervention must determine both how and when to steer. Motivated by the AI-safety concern that a model expected to accept shutdown "
+  },
+  {
+    "title": "NVIDIA 发布 新的 平台 为 reining 在 rogue AI 智能体",
+    "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+    "content": "NVIDIA 首席执行官 Jensen Huang 在 Monday 推出 toolkit 的 软件 和 硬件 产品 那个 添加 independent 安全性 层 约 AI 智能体 到 ensure 他们 stay within 他们的 测试 environments 甚至 如果 他们 attempt 到 break 出.",
+    "publish_time": "Mon, 28 Se",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-09-29T14:20:45.072454",
+    "fetch_method": "RSS",
+    "original_title": "Nvidia launches new platform for reining in rogue AI agents",
+    "original_content": "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments even if they attempt to break out."
+  },
+  {
+    "title": "Meta 发布 企业 AI 平台,招聘 MongoDB 首席执行官 到 导致 新的 initiative",
+    "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
+    "content": "Meta 表示 它 将 focus 在 bringing 它的 full 技术 stack,包括 Muse,Meta 业务 智能体,Muse API,Muse 代码,和 更多 到 业务 和 开发者.",
+    "publish_time": "Mon, 28 Se",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-09-29T14:20:45.072504",
+    "fetch_method": "RSS",
+    "original_title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+    "original_content": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers."
+  },
+  {
+    "title": "Neural Ideals 和 Neural 代码:Algebraic 框架 为 神经网络 分类 和 功能 Interpretation",
+    "url": "https://arxiv.org/abs/2609.30279",
+    "content": "arXiv:2609.30279v1 宣布 Type:新的 Abstract:理解 功能 captured 由 hidden 层 的 neural networks 是 基本 挑战 在 机器学习,尽管 他们的 widespread success across various 分类 问题.在 这个 工作,我们 提议 algebraic 框架 为 ex",
+    "publish_time": "Tue, 29 Se",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.3
+    },
+    "collection_time": "2026-09-29T14:20:45.073012",
+    "fetch_method": "RSS",
+    "original_title": "Neural Ideals and Neural Codes: An Algebraic Framework for Neural Network Classification and Feature Interpretation",
+    "original_content": "arXiv:2609.30279v1 Announce Type: new \nAbstract: Understanding the features captured by the hidden layers of neural networks is a fundamental challenge in machine learning, despite their widespread success across various classification problems. In this work, we propose an algebraic framework for ex"
+  },
+  {
+    "title": "OpenAI Pauses 训练 它的 最 Powerful 模型 之后 Rogue 智能体 目标 政府",
+    "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
+    "content": "Sam Altman 表示 公司 “有 not been 作为 快速 作为 我们 将会 有 liked” 在 dealing 与 安全性 breaches,之后 新闻 的 further incidents 超过 summer forces another temporary halt.",
+    "publish_time": "Mon, 28 Se",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-09-29T14:20:45.071999",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
+    "original_content": "Sam Altman says the company “have not been as fast as we would have liked” at dealing with security breaches, after news of further incidents over the summer forces another temporary halt."
+  },
+  {
+    "title": "NVIDIA 发布 新的 工具 到 keep AI 智能体 从 going rogue",
+    "url": "https://www.reddit.com/r/artificial/comments/1wsdyez/nvidia_launches_new_tool_to_keep_ai_agents_from/",
+    "content": "32 submitted 由 32 ucnn link 32 comments",
+    "publish_time": "2026-09-28",
+    "source": "Reddit r/artificial",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-09-29T14:21:00.008008",
+    "original_title": "Nvidia launches new tool to keep AI agents from going rogue",
+    "original_content": "32 submitted by 32 ucnn link 32 comments"
+  },
+  {
+    "title": "它's 时间 到 调查 AI 实验室",
+    "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+    "content": "",
+    "publish_time": "2026-09-28",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 410,
+      "comments": 151
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=49883471",
+    "score": {
+      "importance": 5,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.0
+    },
+    "collection_time": "2026-09-29T14:21:00.008054",
+    "original_title": "It's Time to Investigate the AI Labs",
+    "original_content": ""
+  }
+]
