@@ -1,0 +1,192 @@
+[
+  {
+    "title": "Beyond Keywords:Leveraging Generative LLMs 和 Label Aggregation 到 Classify Economic 政策 Uncertainty 在 新闻 文章",
+    "url": "https://arxiv.org/abs/2609.35856",
+    "content": "arXiv:2609.35856v1 宣布 Type:新的 Abstract:这个 研究 描述 adaptation 的 Large 语言 模型 (LLMs) 为 economic monitoring 在 公开 领域 到 automatically determine whether 文章 discusses Economic 政策 Uncertanity (EPU) 和 到 identify 它的 特定 type.上一个 s",
+    "publish_time": "Wed, 30 Se",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.65
+    },
+    "collection_time": "2026-09-30T14:05:16.066106",
+    "fetch_method": "RSS",
+    "original_title": "Beyond Keywords: Leveraging Generative LLMs and Label Aggregation to Classify Economic Policy Uncertainty in News Articles",
+    "original_content": "arXiv:2609.35856v1 Announce Type: new \nAbstract: This research describes the adaptation of Large Language Models (LLMs) for economic monitoring in the public sector to automatically determine whether an article discusses Economic Policy Uncertanity (EPU) and to identify its specific type. Previous s"
+  },
+  {
+    "title": "GeoWind2Plan:Mission-时间 3D Urban Wind 预测 为 Energy-Efficient UAV Planning",
+    "url": "https://arxiv.org/abs/2609.36056",
+    "content": "arXiv:2609.36056v1 宣布 Type:新的 Abstract:在 urban low-altitude flight,buildings reshape ambient wind 进入 spatially varying 3D flow,making unmanned aerial vehicle (UAV) energy depend 在 本地 wind exposure 作为 well 作为 path length.然而,building-resolved wind information 是 很少 availa",
+    "publish_time": "Wed, 30 Se",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-09-30T14:05:16.066519",
+    "fetch_method": "RSS",
+    "original_title": "GeoWind2Plan: Mission-Time 3D Urban Wind Prediction for Energy-Efficient UAV Planning",
+    "original_content": "arXiv:2609.36056v1 Announce Type: new \nAbstract: In urban low-altitude flight, buildings reshape ambient wind into spatially varying 3D flow, making unmanned aerial vehicle (UAV) energy depend on local wind exposure as well as path length. However, building-resolved wind information is rarely availa"
+  },
+  {
+    "title": "internet 是 convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ 发布",
+    "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+    "content": "之前 OpenAI 发布 它的 新的 AI 智能体,Dots,在 Tuesday,Elon Musk's xAI 有 已经 收购 领域 命名 \"dot.com,\" 哪个 现在 redirects 到 Grok 聊天机器人 download page.",
+    "publish_time": "Tue, 29 Se",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-09-30T14:05:16.065458",
+    "fetch_method": "RSS",
+    "original_title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+    "original_content": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page."
+  },
+  {
+    "title": "OpenAI 采取 在 Microsoft 与 发布 的 什么 feels whole lot 像 ChatGPT’s own office suite",
+    "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+    "content": "OpenAI's newly 宣布 suite 的 office 功能 puts 它 进入 更多 direct competition 与 更多 传统 软件 公司.",
+    "publish_time": "Tue, 29 Se",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-09-30T14:05:16.065531",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+    "original_content": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies."
+  },
+  {
+    "title": "OpenAI 发布 Dots,它的 bubbly agentic avatar",
+    "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+    "content": "Dots 是 meant 到 operate independent 的 任何 特定 硬件 或 interface,pursuing 用户-defined 目标 continuously 在 background 与 minimal oversight.",
+    "publish_time": "Tue, 29 Se",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-09-30T14:05:16.065555",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI launches Dots, its bubbly agentic avatar",
+    "original_content": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight."
+  },
+  {
+    "title": "OpenAI 发布 GPT-6.1 Sol,表示 它 几乎 匹配 GPT-6 Astra 和 成本 更少",
+    "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+    "content": "OpenAI 表示 GPT-6.1 Sol 交付 重大 improvements 超过 GPT-6 Sol across 复杂 专业 任务,包括 代码 writing 和 debugging,document 理解,和 executing multistep 业务 workflows.",
+    "publish_time": "Tue, 29 Se",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-09-30T14:05:16.065603",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+    "original_content": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multistep business workflows."
+  },
+  {
+    "title": "能 聊天机器人 修复 政府 maze?White House 是 关于 到 发现 出",
+    "url": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
+    "content": "America.gov 是 intended 到 simplify 处理 的 navigating 政府 bureaucracy,但 large 语言 模型 是 imperfect 和 remain prone 到 hallucinations,哪个 可以 导致 新的 问题.",
+    "publish_time": "Tue, 29 Se",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-09-30T14:05:16.065615",
+    "fetch_method": "RSS",
+    "original_title": "Can a chatbot fix the government maze? The White House is about to find out",
+    "original_content": "America.gov is intended to simplify the process of navigating government bureaucracy, but large language models are imperfect and remain prone to hallucinations, which could cause new issues."
+  },
+  {
+    "title": "OpenAI Delays 发布 的 最新 模型 超过 安全 担忧",
+    "url": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/",
+    "content": "公司 表示 它的 最新 Astra 模型 将会 undergo 更多 工作 到 meet 安全 standards,和 issued apology 为 way 它 处理 hacking 的 Australian 政府 website.",
+    "publish_time": "Tue, 29 Se",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-09-30T14:05:16.065904",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
+    "original_content": "The company said its latest Astra model would undergo more work to meet safety standards, and issued an apology for the way it handled the hacking of an Australian government website."
+  },
+  {
+    "title": "OpenAI Pauses 训练 它的 最 Powerful 模型 之后 Rogue 智能体 目标 政府",
+    "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
+    "content": "Sam Altman 表示 公司 “有 not been 作为 快速 作为 我们 将会 有 liked” 在 dealing 与 安全性 breaches,之后 新闻 的 further incidents 超过 summer forces another temporary halt.",
+    "publish_time": "Mon, 28 Se",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-09-30T14:05:16.065929",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
+    "original_content": "Sam Altman says the company “have not been as fast as we would have liked” at dealing with security breaches, after news of further incidents over the summer forces another temporary halt."
+  },
+  {
+    "title": "为什么 这个 月's Microsoft patch 发布 是 doozy",
+    "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+    "content": "安全性 gnomes 是 pumping 出 patches ahead 的 预计 onslaught 的 AI-assisted attacks.",
+    "publish_time": "Tue, 08 Se",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-09-30T14:05:16.065836",
+    "fetch_method": "RSS",
+    "original_title": "Why this month's Microsoft patch release is a doozy",
+    "original_content": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks."
+  }
+]
