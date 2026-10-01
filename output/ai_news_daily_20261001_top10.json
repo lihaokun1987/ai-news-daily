@@ -1,0 +1,194 @@
+[
+  {
+    "title": "Attackers 有 been exploiting 关键 Zimbra flaw 到 窃取 emails",
+    "url": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
+    "content": "简单 email gives attackers 能力 到 remotely inject OS commands.",
+    "publish_time": "Wed, 30 Se",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 8,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.65
+    },
+    "collection_time": "2026-10-01T14:38:53.427841",
+    "fetch_method": "RSS",
+    "original_title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
+    "original_content": "A simple email gives the attackers the ability to remotely inject OS commands."
+  },
+  {
+    "title": "Beyond Keywords:Leveraging Generative LLMs 和 Label Aggregation 到 Classify Economic 政策 Uncertainty 在 新闻 文章",
+    "url": "https://arxiv.org/abs/2609.35856",
+    "content": "arXiv:2609.35856v1 宣布 Type:新的 Abstract:这个 研究 描述 adaptation 的 Large 语言 模型 (LLMs) 为 economic monitoring 在 公开 领域 到 automatically determine whether 文章 discusses Economic 政策 Uncertanity (EPU) 和 到 identify 它的 特定 type.上一个 s",
+    "publish_time": "Thu, 01 Oc",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.65
+    },
+    "collection_time": "2026-10-01T14:38:53.428249",
+    "fetch_method": "RSS",
+    "original_title": "Beyond Keywords: Leveraging Generative LLMs and Label Aggregation to Classify Economic Policy Uncertainty in News Articles",
+    "original_content": "arXiv:2609.35856v1 Announce Type: new \nAbstract: This research describes the adaptation of Large Language Models (LLMs) for economic monitoring in the public sector to automatically determine whether an article discusses Economic Policy Uncertanity (EPU) and to identify its specific type. Previous s"
+  },
+  {
+    "title": "Improving OCR Faithfulness via Gated 和 Attenuated 在-政策 Distillation",
+    "url": "https://arxiv.org/abs/2609.38282",
+    "content": "arXiv:2609.38282v1 宣布 Type:新的 Abstract:视觉-语言 模型 可能 rewrite anomalous 文本 在 图像 进入 linguistically plausible expressions,compromising OCR transcription faithfulness.Sequence-级别 任务 rewards 和 本地 teacher guidance 是 complementary,但 guidance 从 same te",
+    "publish_time": "Thu, 01 Oc",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-10-01T14:38:53.428286",
+    "fetch_method": "RSS",
+    "original_title": "Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation",
+    "original_content": "arXiv:2609.38282v1 Announce Type: new \nAbstract: Vision-language models may rewrite anomalous text in images into linguistically plausible expressions, compromising OCR transcription faithfulness. Sequence-level task rewards and local teacher guidance are complementary, but guidance from the same te"
+  },
+  {
+    "title": "Google 发布 Gemini 4 Argon,called 它的 最 powerful 模型 还",
+    "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+    "content": "Google 有 发布 它的 最新 Gemini 模型,marketing 它 作为 workhorse 为 编程 和 cybersecurity 工作.",
+    "publish_time": "Wed, 30 Se",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-10-01T14:38:53.427716",
+    "fetch_method": "RSS",
+    "original_title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+    "original_content": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work."
+  },
+  {
+    "title": "DoorDash 发布 AI 智能体 你 能 文本 到 order food",
+    "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+    "content": "由 launching AI 智能体 为 food ordering,DoorDash 是 looking 到 收益 边缘 超过 rivals Uber Eats 和 Grubhub.",
+    "publish_time": "Wed, 30 Se",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-10-01T14:38:53.427796",
+    "fetch_method": "RSS",
+    "original_title": "DoorDash launches an AI agent you can text to order food",
+    "original_content": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub."
+  },
+  {
+    "title": "OpenAI Delays 发布 的 最新 模型 超过 安全 担忧",
+    "url": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/",
+    "content": "公司 表示 它的 最新 Astra 模型 将会 undergo 更多 工作 到 meet 安全 standards,和 issued apology 为 way 它 处理 hacking 的 Australian 政府 website.",
+    "publish_time": "Tue, 29 Se",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-10-01T14:38:53.427961",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
+    "original_content": "The company said its latest Astra model would undergo more work to meet safety standards, and issued an apology for the way it handled the hacking of an Australian government website."
+  },
+  {
+    "title": "OpenAI Pauses 训练 它的 最 Powerful 模型 之后 Rogue 智能体 目标 政府",
+    "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
+    "content": "Sam Altman 表示 公司 “有 not been 作为 快速 作为 我们 将会 有 liked” 在 dealing 与 安全性 breaches,之后 新闻 的 further incidents 超过 summer forces another temporary halt.",
+    "publish_time": "Mon, 28 Se",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-10-01T14:38:53.427977",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
+    "original_content": "Sam Altman says the company “have not been as fast as we would have liked” at dealing with security breaches, after news of further incidents over the summer forces another temporary halt."
+  },
+  {
+    "title": "为什么 这个 月's Microsoft patch 发布 是 doozy",
+    "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+    "content": "安全性 gnomes 是 pumping 出 patches ahead 的 预计 onslaught 的 AI-assisted attacks.",
+    "publish_time": "Tue, 08 Se",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-10-01T14:38:53.427894",
+    "fetch_method": "RSS",
+    "original_title": "Why this month's Microsoft patch release is a doozy",
+    "original_content": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks."
+  },
+  {
+    "title": "发布 HN:Magnitude (YC S25) – Self-optimizing 推理 engine 为 智能体",
+    "url": "https://github.com/magnitudedev/magnitude",
+    "content": "Hey HN,Anders 和 Tom 这里.我们're building Magnitude,推理 engine 为 智能体 那个 优化 itself 到 运行 作为 快速 作为 可能 在 你的 硬件.它 工作 在 Mac,Linux,和 Windows 在 任何 硬件 和 是 上 到 2x 更快 than Llama.cpp.我们're 两者 软件 工程师 和 previously 构建 ope",
+    "publish_time": "Wed, 30 Se",
+    "source": "Hacker News Front Page",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-10-01T14:38:53.428581",
+    "fetch_method": "RSS",
+    "original_title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+    "original_content": "Hey HN, Anders and Tom here. We're building Magnitude, an inference engine for agents that optimizes itself to run as fast as possible on your hardware. It works on Mac, Linux, and Windows on any hardware and is up to 2x faster than llama.cpp.We're both software engineers and previously built an ope"
+  },
+  {
+    "title": "Trump Reprograms 政府 AI 聊天机器人 到 停止 Fact-Checking 他的 Lies.Trump officials seem 到 有 realized 他们的 AI 聊天机器人 是 correcting president’s biggest lies.",
+    "url": "https://www.reddit.com/r/artificial/comments/1wueara/trump_reprograms_government_ai_chatbot_to_stop/",
+    "content": "32 submitted 由 32 uesporx link 32 comments",
+    "publish_time": "2026-09-30",
+    "source": "Reddit r/artificial",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-10-01T14:39:09.156974",
+    "original_title": "Trump Reprograms Government AI Chatbot to Stop Fact-Checking His Lies. Trump officials seem to have realized their AI chatbot was correcting the president’s biggest lies.",
+    "original_content": "32 submitted by 32 uesporx link 32 comments"
+  }
+]
