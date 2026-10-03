@@ -1,0 +1,191 @@
+[
+  {
+    "title": "PewDiePie 揭示 \"uncensored\" Ajax AI 模型 构建 到 运行 在 home PCs — creator 表示 OpenAI 禁止 他 twice 超过 模型 distillation 使用 到 构建 他的 产品",
+    "url": "https://www.reddit.com/r/artificial/comments/1wwccsz/pewdiepie_unveils_uncensored_ajax_ai_model_built/",
+    "content": "32 submitted 由 32 uControlCAD link 32 comments",
+    "publish_time": "2026-10-02",
+    "source": "Reddit r/artificial",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 9,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.95
+    },
+    "collection_time": "2026-10-03T13:52:17.593156",
+    "original_title": "PewDiePie unveils \"uncensored\" Ajax AI model built to run on home PCs — creator says OpenAI banned him twice over model distillation used to build his product",
+    "original_content": "32 submitted by 32 uControlCAD link 32 comments"
+  },
+  {
+    "title": "Attackers 有 been exploiting 关键 Zimbra flaw 到 窃取 emails",
+    "url": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
+    "content": "简单 email gives attackers 能力 到 remotely inject OS commands.",
+    "publish_time": "Wed, 30 Se",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 8,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.65
+    },
+    "collection_time": "2026-10-03T13:52:03.106816",
+    "fetch_method": "RSS",
+    "original_title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
+    "original_content": "A simple email gives the attackers the ability to remotely inject OS commands."
+  },
+  {
+    "title": "FourierQK:Filter Shape,Admissibility 和 Leakage-Coverage Law",
+    "url": "https://arxiv.org/abs/2610.00009",
+    "content": "arXiv:2610.00009v1 宣布 Type:新的 Abstract:Frequency-collapse 注意力 [Zeris,2026e] 实现 large 收益 超过 标准 dot-产品 注意力 由 replacing Q/K dot 产品 与 bandpass-filtered inner 产品 在 学习 frequency.natural 跟随-上 question 是:哪个 filter shape wo",
+    "publish_time": "Sat, 03 Oc",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-10-03T13:52:03.107005",
+    "fetch_method": "RSS",
+    "original_title": "FourierQK: Filter Shape, Admissibility and the Leakage-Coverage Law",
+    "original_content": "arXiv:2610.00009v1 Announce Type: new \nAbstract: Frequency-collapse attention [Zeris, 2026e] achieves large gains over standard dot-product attention by replacing the Q/K dot product with a bandpass-filtered inner product at a learned frequency. A natural follow-up question is: which filter shape wo"
+  },
+  {
+    "title": "Flaw 在 ChatGPT’s Mac 应用 可以 有 Let Hackers Grab Sensitive 数据",
+    "url": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
+    "content": "当 focus 有 been 在 AI 智能体’ hacking capabilities,recently patched vulnerability 在 ChatGPT 应用 展示 那个 AI 软件 是 itself inviting—和 vulnerable—目标.",
+    "publish_time": "Fri, 02 Oc",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-10-03T13:52:03.106381",
+    "fetch_method": "RSS",
+    "original_title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
+    "original_content": "While the focus has been on AI agents’ hacking capabilities, a recently patched vulnerability in a ChatGPT app shows that AI software is itself an inviting—and vulnerable—target."
+  },
+  {
+    "title": "如何 good 是 AI interviewers 在 knowing 当 到 abandon script?",
+    "url": "https://www.reddit.com/r/artificial/comments/1ww61xz/how_good_are_ai_interviewers_at_knowing_when_to/",
+    "content": "I39ve been looking 进入 AI moderated 研究 采访 和 基本 questionanswer part seems straightforward enough.什么 Im 更多 interested 是 什么 happens 当 someone gives 答案 nobody ant",
+    "publish_time": "2026-10-02",
+    "source": "Reddit r/artificial",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-10-03T13:52:17.593127",
+    "original_title": "How good are AI interviewers at knowing when to abandon the script?",
+    "original_content": "I39ve been looking into AI moderated research interviews and the basic questionanswer part seems straightforward enough. What Im more interested is what happens when someone gives an answer nobody ant"
+  },
+  {
+    "title": "Newsroom",
+    "source": "www.anthropic.com",
+    "content": "清楚 升级 超过 Sonnet 5 那个 运行 30 更快 和 成本 上 到 30 更少 为 最 工作.Opus 5.5 performs 在 级别 的 Claude Fable 5.1 在 最 工作 和 成本 40 更少 到 运行 than Opus 5.rare strain 的 Ebola,与 没有 确认 vaccine,是 spreading 通过 east 的 Democratic Republic o",
+    "url": "https://www.anthropic.com/news",
+    "publish_time": "2026-10-02",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-10-03T13:52:17.593040",
+    "original_title": "Newsroom",
+    "original_content": "A clear upgrade over Sonnet 5 that runs 30 faster and costs up to 30 less for most work. Opus 5.5 performs at the level of Claude Fable 5.1 on most work and costs 40 less to run than Opus 5. A rare strain of Ebola, with no confirmed vaccine, is spreading through the east of the Democratic Republic o"
+  },
+  {
+    "title": "OpenAI 新闻 | OpenAI",
+    "source": "openai.com",
+    "content": "",
+    "url": "https://openai.com/blog",
+    "publish_time": "2026-10-02",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-10-03T13:52:17.593056",
+    "original_title": "OpenAI News | OpenAI",
+    "original_content": ""
+  },
+  {
+    "title": "OpenAI 新闻 | OpenAI",
+    "source": "openai.com",
+    "content": "",
+    "url": "https://openai.com/news",
+    "publish_time": "2026-10-02",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-10-03T13:52:17.593062",
+    "original_title": "OpenAI News | OpenAI",
+    "original_content": ""
+  },
+  {
+    "title": "新闻",
+    "source": "deepmind.google",
+    "content": "发现 我们的 最新 AI breakthroughs,projects,和 updates 我 accept Google's Terms 和 Conditions 和 acknowledge 那个 我的 information 将 be 使用 在 accordance withGoogle's 隐私 政策.",
+    "url": "https://deepmind.google/blog/",
+    "publish_time": "2026-10-02",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-10-03T13:52:17.593075",
+    "original_title": "News",
+    "original_content": "Discover our latest AI breakthroughs, projects, and updates I accept Google's Terms and Conditions and acknowledge that my information will be used in accordance withGoogle's Privacy Policy."
+  },
+  {
+    "title": "SpaceX 发布 Google AI 芯片 进入 orbit 在 推动 toward 空间-based 数据中心",
+    "url": "https://www.cnbc.com/2026/10/01/spacex-to-launch-google-ai-chips-to-orbit-with-planet-labs-satellites.html",
+    "content": "",
+    "publish_time": "2026-10-02",
+    "source": "The Verge AI",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.65
+    },
+    "collection_time": "2026-10-03T13:52:17.592980",
+    "original_title": "SpaceX launches Google AI chips into orbit in push toward space-based data centers",
+    "original_content": ""
+  }
+]
