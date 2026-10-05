@@ -1,0 +1,187 @@
+[
+  {
+    "title": "Attackers 有 been exploiting 关键 Zimbra flaw 到 窃取 emails",
+    "url": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
+    "content": "简单 email gives attackers 能力 到 remotely inject OS commands.",
+    "publish_time": "Wed, 30 Se",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 8,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.65
+    },
+    "collection_time": "2026-10-05T14:21:52.911582",
+    "fetch_method": "RSS",
+    "original_title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
+    "original_content": "A simple email gives the attackers the ability to remotely inject OS commands."
+  },
+  {
+    "title": "Trump 揭示 他的 新的 Super 智能 Force",
+    "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+    "content": "这个 新的 任务 force 是 Trump's 最新 回应 到 debate 超过 AI 安全.",
+    "publish_time": "Sun, 04 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-10-05T14:21:52.910909",
+    "fetch_method": "RSS",
+    "original_title": "Trump unveils his new Super Intelligence Force",
+    "original_content": "This new task force is Trump's latest response to the debate over AI safety."
+  },
+  {
+    "title": "Flaw 在 ChatGPT’s Mac 应用 可以 有 Let Hackers Grab Sensitive 数据",
+    "url": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
+    "content": "当 focus 有 been 在 AI 智能体’ hacking capabilities,recently patched vulnerability 在 ChatGPT 应用 展示 那个 AI 软件 是 itself inviting—和 vulnerable—目标.",
+    "publish_time": "Fri, 02 Oc",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-10-05T14:21:52.911672",
+    "fetch_method": "RSS",
+    "original_title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
+    "original_content": "While the focus has been on AI agents’ hacking capabilities, a recently patched vulnerability in a ChatGPT app shows that AI software is itself an inviting—and vulnerable—target."
+  },
+  {
+    "title": "MACTS-EM:Multi-智能体 Collaborative 时间 系列 预测 与 Emergent 内存",
+    "url": "https://arxiv.org/abs/2610.02255",
+    "content": "arXiv:2610.02255v1 宣布 Type:新的 Abstract:时间 系列 预测 remains 关键 挑战 across numerous 领域.尽管 重大 进步,existing 方法 struggle 与 复杂 phenomena 如此 作为 regime 转变,cross-领域 knowledge transfer,和 多模态 数据 integration",
+    "publish_time": "Mon, 05 Oc",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-10-05T14:21:52.911356",
+    "fetch_method": "RSS",
+    "original_title": "MACTS-EM: Multi-Agent Collaborative Time Series Forecasting with Emergent Memory",
+    "original_content": "arXiv:2610.02255v1 Announce Type: new \nAbstract: Time series forecasting remains a critical challenge across numerous domains. Despite significant advancements, existing approaches struggle with complex phenomena such as regime shifts, cross-domain knowledge transfer, and multimodal data integration"
+  },
+  {
+    "title": "Google froze 它的 开源 bug bounty program due 到 ‘重大 上升’ 在 AI submissions",
+    "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+    "content": "AI slop seems 到 be overwhelming bug bounty programs.",
+    "publish_time": "Sun, 04 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.05
+    },
+    "collection_time": "2026-10-05T14:21:52.910877",
+    "fetch_method": "RSS",
+    "original_title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+    "original_content": "AI slop seems to be overwhelming bug bounty programs."
+  },
+  {
+    "title": "OpenAI 目标 Wall Street bankers 与 新的 版本 的 ChatGPT",
+    "url": "https://www.bing.com/news/search?q=ChatGPT+OpenAI+2026-10-04",
+    "content": "OpenAI 集团 PBC 是 going 之后 Wall Street 与 新的 版本 的 ChatGPT thats tailor 制作 为 financial 任务 如此 作为 分析 和 calculations.Predictably called ChatGPT 为 Financial 服务,...",
+    "publish_time": "2026-10-04",
+    "source": "AI News",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-10-05T14:22:12.165613",
+    "original_title": "OpenAI targets Wall Street bankers with a new version of ChatGPT",
+    "original_content": "OpenAI Group PBC is going after Wall Street with a new version of ChatGPT thats tailor made for financial tasks such as analysis and calculations. Predictably called ChatGPT for Financial Services, ..."
+  },
+  {
+    "title": "Newsroom",
+    "source": "www.anthropic.com",
+    "content": "清楚 升级 超过 Sonnet 5 那个 运行 30 更快 和 成本 上 到 30 更少 为 最 工作.Opus 5.5 performs 在 级别 的 Claude Fable 5.1 在 最 工作 和 成本 40 更少 到 运行 than Opus 5.rare strain 的 Ebola,与 没有 确认 vaccine,是 spreading 通过 east 的 Democratic Republic o",
+    "url": "https://www.anthropic.com/news",
+    "publish_time": "2026-10-04",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-10-05T14:22:12.165620",
+    "original_title": "Newsroom",
+    "original_content": "A clear upgrade over Sonnet 5 that runs 30 faster and costs up to 30 less for most work. Opus 5.5 performs at the level of Claude Fable 5.1 on most work and costs 40 less to run than Opus 5. A rare strain of Ebola, with no confirmed vaccine, is spreading through the east of the Democratic Republic o"
+  },
+  {
+    "title": "OpenAI 新闻 | OpenAI",
+    "source": "openai.com",
+    "content": "",
+    "url": "https://openai.com/blog",
+    "publish_time": "2026-10-04",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-10-05T14:22:12.165633",
+    "original_title": "OpenAI News | OpenAI",
+    "original_content": ""
+  },
+  {
+    "title": "OpenAI 新闻 | OpenAI",
+    "source": "openai.com",
+    "content": "",
+    "url": "https://openai.com/news",
+    "publish_time": "2026-10-04",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-10-05T14:22:12.165639",
+    "original_title": "OpenAI News | OpenAI",
+    "original_content": ""
+  },
+  {
+    "title": "新闻",
+    "source": "deepmind.google",
+    "content": "发现 我们的 最新 AI breakthroughs,projects,和 updates 我 accept Google's Terms 和 Conditions 和 acknowledge 那个 我的 information 将 be 使用 在 accordance withGoogle's 隐私 政策.",
+    "url": "https://deepmind.google/blog/",
+    "publish_time": "2026-10-04",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-10-05T14:22:12.165651",
+    "original_title": "News",
+    "original_content": "Discover our latest AI breakthroughs, projects, and updates I accept Google's Terms and Conditions and acknowledge that my information will be used in accordance withGoogle's Privacy Policy."
+  }
+]
