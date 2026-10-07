@@ -1,0 +1,194 @@
+[
+  {
+    "title": "Attackers 有 been exploiting 关键 Zimbra flaw 到 窃取 emails",
+    "url": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
+    "content": "简单 email gives attackers 能力 到 remotely inject OS commands.",
+    "publish_time": "Wed, 30 Se",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 8,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.65
+    },
+    "collection_time": "2026-10-07T14:38:57.372140",
+    "fetch_method": "RSS",
+    "original_title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
+    "original_content": "A simple email gives the attackers the ability to remotely inject OS commands."
+  },
+  {
+    "title": "Joint upper-bound coverage 和 route-choice utility:empirical evaluation 在 two urban proxy 任务",
+    "url": "https://arxiv.org/abs/2610.06995",
+    "content": "arXiv:2610.06995v1 宣布 Type:新的 Abstract:Whether 更多 accurate traffic 预测 或 higher uncertainty coverage 改进 route decisions 是 不清楚.我们 评估 这个 question 与 frozen protocol 那个 separates 速度 误差,joint candidate path upper bound coverage,route selection,和 rea",
+    "publish_time": "Wed, 07 Oc",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-10-07T14:38:57.372700",
+    "fetch_method": "RSS",
+    "original_title": "Joint upper-bound coverage and route-choice utility: an empirical evaluation on two urban proxy tasks",
+    "original_content": "arXiv:2610.06995v1 Announce Type: new \nAbstract: Whether more accurate traffic forecasts or higher uncertainty coverage improve route decisions is unclear. We evaluate this question with a frozen protocol that separates speed error, joint candidate path upper bound coverage, route selection, and rea"
+  },
+  {
+    "title": "世界 Bank 提高 Africa's 2026 增长 预测,urges AI investments",
+    "url": "https://www.bing.com/news/search?q=artificial+intelligence+2026-10-06",
+    "content": "由 Duncan Miriri NAIROBI,Oct 6 Reuters - 世界 Bank 有 提高 Africa's 2026 economic 增长 预测 到 4.3,citing stronger 性能 across 地区,和 urged 政府 到 embrace...",
+    "publish_time": "2026-10-06",
+    "source": "AI News",
+    "score": {
+      "importance": 8,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.35
+    },
+    "collection_time": "2026-10-07T14:39:10.851523",
+    "original_title": "World Bank raises Africa's 2026 growth forecast, urges AI investments",
+    "original_content": "By Duncan Miriri NAIROBI, Oct 6 Reuters - The World Bank has raised Africa's 2026 economic growth forecast to 4.3, citing stronger performance across the region, and urged governments to embrace ..."
+  },
+  {
+    "title": "Flaw 在 ChatGPT’s Mac 应用 可以 有 Let Hackers Grab Sensitive 数据",
+    "url": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
+    "content": "当 focus 有 been 在 AI 智能体’ hacking capabilities,recently patched vulnerability 在 ChatGPT 应用 展示 那个 AI 软件 是 itself inviting—和 vulnerable—目标.",
+    "publish_time": "Fri, 02 Oc",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-10-07T14:38:57.372078",
+    "fetch_method": "RSS",
+    "original_title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
+    "original_content": "While the focus has been on AI agents’ hacking capabilities, a recently patched vulnerability in a ChatGPT app shows that AI software is itself an inviting—and vulnerable—target."
+  },
+  {
+    "title": "Hark 发布 AI 个人 assistant 与 focus 在 隐私",
+    "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+    "content": "AI 实验室's 个人 assistant 是 operating 系统 从 未来 设计 到 竞争 与 Muse,Dots,和 Instinct.",
+    "publish_time": "Tue, 06 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-10-07T14:38:57.372238",
+    "fetch_method": "RSS",
+    "original_title": "Hark releases an AI personal assistant with a focus on privacy",
+    "original_content": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct."
+  },
+  {
+    "title": "Reflection debuts Beam,开放-权重 AI 模型 到 rival Chinese 模型 在 lower compute 成本",
+    "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+    "content": "Reflection 是 aiming Beam 和 未来 模型 在 enterprises 和 sovereign 国家.pitch 是 到 构建 “AI factories,” 产品 那个 将会 let 机构 构建 他们的 own 定制,本地 AI 系统 由 训练 Reflection’s AI 模型 在 他们的 own proprietary 数据.",
+    "publish_time": "Mon, 05 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-10-07T14:38:57.372329",
+    "fetch_method": "RSS",
+    "original_title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+    "original_content": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data."
+  },
+  {
+    "title": "‘Artificial’ Roasts AI’s Creators—和 Sends Dark 警告 关于 它的 危险",
+    "url": "https://www.wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers/",
+    "content": "从 他们的 dorky parties 到 他们的 weird walks,movie holds OpenAI 首席执行官 Sam Altman 和 other stakeholders 与 contempt,当 展示 他们的 recklessness.",
+    "publish_time": "Tue, 06 Oc",
+    "source": "Wired AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-10-07T14:38:57.371942",
+    "fetch_method": "RSS",
+    "original_title": "‘Artificial’ Roasts AI’s Creators—and Sends a Dark Warning About Its Dangers",
+    "original_content": "From their dorky parties to their weird walks, the movie holds OpenAI CEO Sam Altman and other stakeholders with contempt, while demonstrating their recklessness."
+  },
+  {
+    "title": "AI 计算 初创公司 Lambda 到 提高 $4B ahead 的 计划 上市",
+    "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+    "content": "NVIDIA-backed Lambda 是 raising 上 到 $4 十亿 在 $14.5 十亿 pre-资金 估值 ahead 的 计划 2027 上市,导致 由 Coatue 和 Blackstone.",
+    "publish_time": "Tue, 06 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-10-07T14:38:57.372216",
+    "fetch_method": "RSS",
+    "original_title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+    "original_content": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone."
+  },
+  {
+    "title": "South Korea 表示 AI 智能体 appear 到 有 been 使用 到 hack 国家's banks",
+    "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/",
+    "content": "",
+    "publish_time": "2026-10-06",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 66,
+      "comments": 13
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=49985861",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 6,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-10-07T14:39:10.851978",
+    "original_title": "South Korea says AI agents appear to have been used to hack the country's banks",
+    "original_content": ""
+  },
+  {
+    "title": "Newsroom",
+    "source": "www.anthropic.com",
+    "content": "清楚 升级 超过 Sonnet 5 那个 运行 30 更快 和 成本 上 到 30 更少 为 最 工作.Opus 5.5 performs 在 级别 的 Claude Fable 5.1 在 最 工作 和 成本 40 更少 到 运行 than Opus 5.rare strain 的 Ebola,与 没有 确认 vaccine,是 spreading 通过 east 的 Democratic Republic o",
+    "url": "https://www.anthropic.com/news",
+    "publish_time": "2026-10-06",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-10-07T14:39:10.851733",
+    "original_title": "Newsroom",
+    "original_content": "A clear upgrade over Sonnet 5 that runs 30 faster and costs up to 30 less for most work. Opus 5.5 performs at the level of Claude Fable 5.1 on most work and costs 40 less to run than Opus 5. A rare strain of Ebola, with no confirmed vaccine, is spreading through the east of the Democratic Republic o"
+  }
+]
