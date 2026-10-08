@@ -1,0 +1,192 @@
+[
+  {
+    "title": "Attackers 有 been exploiting 关键 Zimbra flaw 到 窃取 emails",
+    "url": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
+    "content": "简单 email gives attackers 能力 到 remotely inject OS commands.",
+    "publish_time": "Wed, 30 Se",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 8,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.65
+    },
+    "collection_time": "2026-10-08T14:45:28.239816",
+    "fetch_method": "RSS",
+    "original_title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
+    "original_content": "A simple email gives the attackers the ability to remotely inject OS commands."
+  },
+  {
+    "title": "Joint upper-bound coverage 和 route-choice utility:empirical evaluation 在 two urban proxy 任务",
+    "url": "https://arxiv.org/abs/2610.06995",
+    "content": "arXiv:2610.06995v1 宣布 Type:新的 Abstract:Whether 更多 accurate traffic 预测 或 higher uncertainty coverage 改进 route decisions 是 不清楚.我们 评估 这个 question 与 frozen protocol 那个 separates 速度 误差,joint candidate path upper bound coverage,route selection,和 rea",
+    "publish_time": "Thu, 08 Oc",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-10-08T14:45:28.240285",
+    "fetch_method": "RSS",
+    "original_title": "Joint upper-bound coverage and route-choice utility: an empirical evaluation on two urban proxy tasks",
+    "original_content": "arXiv:2610.06995v1 Announce Type: new \nAbstract: Whether more accurate traffic forecasts or higher uncertainty coverage improve route decisions is unclear. We evaluate this question with a frozen protocol that separates speed error, joint candidate path upper bound coverage, route selection, and rea"
+  },
+  {
+    "title": "GraphOPD:Graph-Augmented 在-政策 Distillation 为 LLM 智能体",
+    "url": "https://arxiv.org/abs/2610.08959",
+    "content": "arXiv:2610.08959v1 宣布 Type:新的 Abstract:在-政策 distillation 帖子-训练 大语言模型 智能体 由 supplying dense,步骤-级别 guidance 从 teacher 政策 当 reinforcement-学习 reward 是 sparse 和 arrives 只 once per trajectory.Existing instantiations allocate 这个 g",
+    "publish_time": "Thu, 08 Oc",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-10-08T14:45:28.240493",
+    "fetch_method": "RSS",
+    "original_title": "GraphOPD: Graph-Augmented On-Policy Distillation for LLM Agents",
+    "original_content": "arXiv:2610.08959v1 Announce Type: new \nAbstract: On-policy distillation post-trains large language model agents by supplying dense, step-level guidance from a teacher policy when the reinforcement-learning reward is sparse and arrives only once per trajectory. Existing instantiations allocate this g"
+  },
+  {
+    "title": "Microsoft 发布 新的 NVIDIA-芯片 AI PCs 与 revamped Windows 11",
+    "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+    "content": "Microsoft 揭示 specs 和 价格 为 它的 Surface Laptop Ultra,AI PCs 那个 运行 在 NVIDIA 芯片 那个 是 设计 到 运行 AI 模型 和 智能体.",
+    "publish_time": "Wed, 07 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-10-08T14:45:28.239554",
+    "fetch_method": "RSS",
+    "original_title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+    "original_content": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents."
+  },
+  {
+    "title": "ChatGPT 是 getting lot 更多 visual,与 发布 的 新的 interface",
+    "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+    "content": "OpenAI 是 launching 新的 用户 interface 那个 将 带来 interactive visuals 到 ChatGPT.",
+    "publish_time": "Wed, 07 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-10-08T14:45:28.239595",
+    "fetch_method": "RSS",
+    "original_title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+    "original_content": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT."
+  },
+  {
+    "title": "Bayesian Mirror 架构 为 Emergent Consciousness:Circular Hierarchies,Self-Manifolds,和 Hybrid 活动-Self Binding",
+    "url": "https://arxiv.org/abs/2610.08792",
+    "content": "arXiv:2610.08792v1 宣布 Type:新的 Abstract:我们 现在 foundational formulation 的 Bayesian Mirror 架构 (BMA),self-referential generative 框架 在 哪个 sensory abstractions,Meta-abstractions,和 self-latent interact 通过 circular recursion.defining constraint 我",
+    "publish_time": "Thu, 08 Oc",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.3
+    },
+    "collection_time": "2026-10-08T14:45:28.240344",
+    "fetch_method": "RSS",
+    "original_title": "A Bayesian Mirror Architecture for Emergent Consciousness: Circular Hierarchies, Self-Manifolds, and Hybrid Event-Self Binding",
+    "original_content": "arXiv:2610.08792v1 Announce Type: new \nAbstract: We present a foundational formulation of the Bayesian Mirror Architecture (BMA), a self-referential generative framework in which sensory abstractions, meta-abstractions, and a self-latent interact through circular recursion. The defining constraint i"
+  },
+  {
+    "title": "Nous 研究 确认 它 达到 $1.5B 估值,发布 AI 智能体 为 业务 用户",
+    "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+    "content": "开发者 的 Hermes 智能体 提高 $90 百万 系列 B.",
+    "publish_time": "Wed, 07 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-10-08T14:45:28.239535",
+    "fetch_method": "RSS",
+    "original_title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+    "original_content": "The developer of Hermes Agent raised a $90 million Series B."
+  },
+  {
+    "title": "Meta’s Muse 发布 在 iPad 刚刚 月 之后 它的 mobile debut",
+    "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+    "content": "Meta’s AI 智能体 Muse 是 现在 可用 在 iPad,刚刚 月 之后 它的 mobile debut,作为 公司 rapidly 扩大 assistant’s 达到 和 integrations.",
+    "publish_time": "Wed, 07 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-10-08T14:45:28.239571",
+    "fetch_method": "RSS",
+    "original_title": "Meta’s Muse launches on iPad just a month after its mobile debut",
+    "original_content": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations."
+  },
+  {
+    "title": "OpenAI’s Alexander Embiricos 是 coming 到 TechCrunch Disrupt 2026 — 天 之后 发布 的 Dots",
+    "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
+    "content": "OpenAI’s Alexander Embiricos 是 coming 到 AI 阶段 在 TechCrunch Disrupt 2026,刚刚 天 之后 发布 的 Dots.加入 这个 conversation 由 registering 为 你的 pass.获得 你 pass 现在 到 save 上 到 $100 和 获得 秒 在 50% off.",
+    "publish_time": "Wed, 07 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-10-08T14:45:28.239676",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
+    "original_content": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up to $100 and get a second at 50% off."
+  },
+  {
+    "title": "任务-Oriented Key-层 KV Communication 为 Efficient Latent Multi-智能体 Collaboration",
+    "url": "https://arxiv.org/abs/2610.08820",
+    "content": "arXiv:2610.08820v1 宣布 Type:新的 Abstract:大语言模型-based multi-智能体 系统 改进 复杂 问题 solving 通过 collaboration,当 latent communication directly transmits 模型 internal 状态 到 avoid high 推理 成本 的 natural 语言.然而,existing KV-based",
+    "publish_time": "Thu, 08 Oc",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-10-08T14:45:28.240448",
+    "fetch_method": "RSS",
+    "original_title": "Task-Oriented Key-Layer KV Communication for Efficient Latent Multi-Agent Collaboration",
+    "original_content": "arXiv:2610.08820v1 Announce Type: new \nAbstract: Large language model-based multi-agent systems improve complex problem solving through collaboration, while latent communication directly transmits model internal states to avoid the high inference costs of natural language. However, existing KV-based"
+  }
+]
