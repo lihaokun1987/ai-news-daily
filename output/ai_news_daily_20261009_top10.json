@@ -1,0 +1,197 @@
+[
+  {
+    "title": "Attackers 有 been exploiting 关键 Zimbra flaw 到 窃取 emails",
+    "url": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
+    "content": "简单 email gives attackers 能力 到 remotely inject OS commands.",
+    "publish_time": "Wed, 30 Se",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 8,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.65
+    },
+    "collection_time": "2026-10-09T14:53:15.560458",
+    "fetch_method": "RSS",
+    "original_title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
+    "original_content": "A simple email gives the attackers the ability to remotely inject OS commands."
+  },
+  {
+    "title": "Recurrent Self-Improvement:Dynamic Cross-Loop 在-政策 Distillation 为 Looped 语言 模型",
+    "url": "https://arxiv.org/abs/2610.10623",
+    "content": "arXiv:2610.10623v1 宣布 Type:新的 Abstract:Looped 语言 模型 (LoopLMs) 提供 参数 efficient 方法 到 scaling 推理 由 reusing shared 参数 across recurrent computation 步骤.尽管 他们的 promise,effective 帖子-训练 的 LoopLMs remains 具有挑战性.Existing approac",
+    "publish_time": "Fri, 09 Oc",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-10-09T14:53:15.560198",
+    "fetch_method": "RSS",
+    "original_title": "Recurrent Self-Improvement: Dynamic Cross-Loop On-Policy Distillation for Looped Language Models",
+    "original_content": "arXiv:2610.10623v1 Announce Type: new \nAbstract: Looped Language Models (LoopLMs) offer a parameter efficient approach to scaling reasoning by reusing shared parameters across recurrent computation steps. Despite their promise, effective post-training of LoopLMs remains challenging. Existing approac"
+  },
+  {
+    "title": "Google 发布 新的 本地-首个 Granola competitor",
+    "url": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
+    "content": "Google’s 新的 AI 边缘 Foresight 应用 采取 在 Granola 与 离线 会议 note-taker 那个 能 transcribe conversations,生成 notes,和 答案 questions 使用 在-设备 AI.",
+    "publish_time": "Thu, 08 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-10-09T14:53:15.559879",
+    "fetch_method": "RSS",
+    "original_title": "Google releases a new local-first Granola competitor",
+    "original_content": "Google’s new AI Edge Foresight app takes on Granola with an offline meeting note-taker that can transcribe conversations, generate notes, and answer questions using on-device AI."
+  },
+  {
+    "title": "Anthropic 变化 usage 政策 到 禁止 模型 abuse 和 election interference",
+    "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+    "content": "Anthropic's 更新的 usage 政策 explicitly prohibits 用户 从 repeatedly abusing Claude 在 extreme 案例,尽管 ordinary frustration 和 criticism 是 仍然 允许.新的 rules 也 解决 election interference,deceptive campaigns,weapons 软件,和 surveillance.",
+    "publish_time": "Thu, 08 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-10-09T14:53:15.559790",
+    "fetch_method": "RSS",
+    "original_title": "Anthropic changes usage policy to ban model abuse and election interference",
+    "original_content": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance."
+  },
+  {
+    "title": "AI breakthroughs 在 机器人技术 赢得’t 变化 你的 life 任何 时间 即将",
+    "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+    "content": "story 是 collaboration 之间 MIT 技术 评测 和 Aventine,non-利润 研究 基础 那个 创建 和 支持 content 关于 如何 技术 和 science 是 changing way 我们 实时.机器人 shaped 像 human—white 与 black head 和 torso—有 been popping 上 在 视频 feeds.",
+    "publish_time": "Thu, 08 Oc",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-10-09T14:53:15.560084",
+    "fetch_method": "RSS",
+    "original_title": "AI breakthroughs in robotics won’t change your life any time soon",
+    "original_content": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds."
+  },
+  {
+    "title": "China’s Manus 提高 超过 $500M 在 首个 融资 轮 自从 split 与 Meta",
+    "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+    "content": "Boyu 资本 和 IDG 资本 导致 融资 轮,和 existing shareholders Tencent,HSG (formerly known 作为 Sequoia China),ZhenFund,和 others 也 participated.",
+    "publish_time": "Thu, 08 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.05
+    },
+    "collection_time": "2026-10-09T14:53:15.559891",
+    "fetch_method": "RSS",
+    "original_title": "China’s Manus raises over $500M in first funding round since split with Meta",
+    "original_content": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated."
+  },
+  {
+    "title": "Anthropic 禁止 ‘abusive 或 cruel behavior’ toward Claude",
+    "url": "https://www.reddit.com/r/artificial/comments/1x0ydf8/anthropic_bans_abusive_or_cruel_behavior_toward/",
+    "content": "32 submitted 由 32 uesporx link 32 comments",
+    "publish_time": "2026-10-08",
+    "source": "Reddit r/artificial",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-10-09T14:53:33.025437",
+    "original_title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+    "original_content": "32 submitted by 32 uesporx link 32 comments"
+  },
+  {
+    "title": "‘Artificial’ Roasts AI’s Creators—和 Sends Dark 警告 关于 它的 危险",
+    "url": "https://www.wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers/",
+    "content": "从 他们的 dorky parties 到 他们的 weird walks,movie holds OpenAI 首席执行官 Sam Altman 和 other stakeholders 与 contempt,当 展示 他们的 recklessness.",
+    "publish_time": "Tue, 06 Oc",
+    "source": "Wired AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-10-09T14:53:15.560393",
+    "fetch_method": "RSS",
+    "original_title": "‘Artificial’ Roasts AI’s Creators—and Sends a Dark Warning About Its Dangers",
+    "original_content": "From their dorky parties to their weird walks, the movie holds OpenAI CEO Sam Altman and other stakeholders with contempt, while demonstrating their recklessness."
+  },
+  {
+    "title": "Anthropic 禁止 'abusive 或 cruel behavior' towards Claude",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+    "content": "",
+    "publish_time": "2026-10-08",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 68,
+      "comments": 164
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=50008565",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 6,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-10-09T14:53:33.025644",
+    "original_title": "Anthropic bans 'abusive or cruel behavior' towards Claude",
+    "original_content": ""
+  },
+  {
+    "title": "Newsroom",
+    "source": "www.anthropic.com",
+    "content": "我们的 fastest,cheapest,和 最 capable small 模型 还.它的 设计 为 high-volume,成本-sensitive 工作.清楚 升级 超过 Sonnet 5 那个 运行 30 更快 和 成本 上 到 30 更少 为 最 工作.Opus 5.5 performs 在 级别 的 Claude Fable 5.1 在 最 工作 和 成本 40 更少 到 运行 than Opus 5.W",
+    "url": "https://www.anthropic.com/news",
+    "publish_time": "2026-10-08",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-10-09T14:53:33.025351",
+    "original_title": "Newsroom",
+    "original_content": "Our fastest, cheapest, and most capable small model yet. Its designed for high-volume, cost-sensitive work. A clear upgrade over Sonnet 5 that runs 30 faster and costs up to 30 less for most work. Opus 5.5 performs at the level of Claude Fable 5.1 on most work and costs 40 less to run than Opus 5. W"
+  }
+]
