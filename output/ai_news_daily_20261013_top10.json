@@ -1,0 +1,194 @@
+[
+  {
+    "title": "Attackers 有 been exploiting 关键 Zimbra flaw 到 窃取 emails",
+    "url": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
+    "content": "简单 email gives attackers 能力 到 remotely inject OS commands.",
+    "publish_time": "Wed, 30 Se",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 8,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.65
+    },
+    "collection_time": "2026-10-13T15:11:01.725805",
+    "fetch_method": "RSS",
+    "original_title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
+    "original_content": "A simple email gives the attackers the ability to remotely inject OS commands."
+  },
+  {
+    "title": "Microsoft’s Satya Nadella 表示 AI 模型 need ‘emergency brake’",
+    "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+    "content": "在 Saturday morning 帖子,Microsoft's 首席执行官 写 那个 它’s 时间 “到 步骤 back 和 评估 信任 架构” 的 AI.",
+    "publish_time": "Sat, 10 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 7,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.55
+    },
+    "collection_time": "2026-10-13T15:11:01.726188",
+    "fetch_method": "RSS",
+    "original_title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+    "original_content": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI."
+  },
+  {
+    "title": "VEPA:Verified Evolving Formal 政策 为 Lifelong LLM 智能体 Guardrails",
+    "url": "https://arxiv.org/abs/2610.12813",
+    "content": "arXiv:2610.12813v1 宣布 Type:新的 Abstract:LLM 智能体 increasingly operate 超过 sensitive resources,如此 作为 私有 documents 和 mutable 系统 状态,哪个 能 创建 serious 安全 和 安全性 风险.Runtime guardrails should 因此 制作 inspectable,reproducible,和 deterministic al",
+    "publish_time": "Tue, 13 Oc",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-10-13T15:11:01.726469",
+    "fetch_method": "RSS",
+    "original_title": "VEPA: Verified Evolving Formal Policy for Lifelong LLM Agent Guardrails",
+    "original_content": "arXiv:2610.12813v1 Announce Type: new \nAbstract: LLM agents increasingly operate over sensitive resources, such as private documents and mutable system states, which can create serious safety and security risks. Runtime guardrails should therefore make inspectable, reproducible, and deterministic al"
+  },
+  {
+    "title": "Meta 发布 它的 首个 前沿 模型,Muse Wonder",
+    "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+    "content": "哪里 Muse 引发 旨在 到 be lightweight 模型 那个 可以 perform 在 low 延迟,Wonder 模型 是 larger 和 表示 到 be 更多 capable,与 higher 基准测试 得分 和 better 结果 在 复杂 任务 像 编程.",
+    "publish_time": "Mon, 12 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-10-13T15:11:01.726097",
+    "fetch_method": "RSS",
+    "original_title": "Meta releases its first frontier model, Muse Wonder",
+    "original_content": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding."
+  },
+  {
+    "title": "Microsoft president 表示 UK 是 best placed 到 驱动 AI 监管",
+    "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+    "content": "Microsoft president Brad Smith calls 为 urgent AI 监管,saying milk 和 washing machines 有 更多 oversight than AI 公司.",
+    "publish_time": "Mon, 12 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-10-13T15:11:01.726128",
+    "fetch_method": "RSS",
+    "original_title": "Microsoft president says UK is best placed to drive AI regulation",
+    "original_content": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies."
+  },
+  {
+    "title": "甚至 ‘Law & Order’ 是 Terrified 的 AI",
+    "url": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
+    "content": "在 它的 26th season premiere,procedural legal drama paints damning picture 的 驱动-mad AI CEOs.",
+    "publish_time": "Fri, 09 Oc",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-10-13T15:11:01.726286",
+    "fetch_method": "RSS",
+    "original_title": "Even ‘Law & Order’ Is Terrified of AI",
+    "original_content": "In its 26th season premiere, the procedural legal drama paints a damning picture of power-mad AI CEOs."
+  },
+  {
+    "title": "发布 HN:Agent37 (YC F26) – Low-成本 智能体 sandboxes 为 running 智能体",
+    "url": "https://news.ycombinator.com/item?id=50059096",
+    "content": "",
+    "publish_time": "2026-10-12",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 128,
+      "comments": 91
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=50059096",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 7,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.05
+    },
+    "collection_time": "2026-10-13T15:11:15.819273",
+    "original_title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+    "original_content": ""
+  },
+  {
+    "title": "Apple discloses 交易 到 招聘 团队 和 许可 科技 从 personalized podcast 初创公司 Huxe",
+    "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+    "content": "是 Apple hoping 到 获得 进入 AI-生成 podcast 业务?",
+    "publish_time": "Sat, 10 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-10-13T15:11:01.726200",
+    "fetch_method": "RSS",
+    "original_title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+    "original_content": "Is Apple hoping to get into the AI-generated podcast business?"
+  },
+  {
+    "title": "Newsroom",
+    "source": "www.anthropic.com",
+    "content": "是 launching 新的,扩展 版本 的 我们的 Cyber Verification Program,哪个 制作 高级 cyber capabilities 和 减少 blocking classifiers 可用 到 qualifying 安全性 professionals.我们的 fastest,cheapest,和 最 capable small 模型 还.它的 设计 为 high-volume,成本-sensitive wor",
+    "url": "https://www.anthropic.com/news",
+    "publish_time": "2026-10-12",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-10-13T15:11:15.819016",
+    "original_title": "Newsroom",
+    "original_content": "Were launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals. Our fastest, cheapest, and most capable small model yet. Its designed for high-volume, cost-sensitive wor"
+  },
+  {
+    "title": "OpenAI 新闻 | OpenAI",
+    "source": "openai.com",
+    "content": "",
+    "url": "https://openai.com/blog",
+    "publish_time": "2026-10-12",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-10-13T15:11:15.819033",
+    "original_title": "OpenAI News | OpenAI",
+    "original_content": ""
+  }
+]
