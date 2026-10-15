@@ -1,0 +1,196 @@
+[
+  {
+    "title": "Attackers 有 been exploiting 关键 Zimbra flaw 到 窃取 emails",
+    "url": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
+    "content": "简单 email gives attackers 能力 到 remotely inject OS commands.",
+    "publish_time": "Wed, 30 Se",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 8,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.65
+    },
+    "collection_time": "2026-10-15T13:21:42.827525",
+    "fetch_method": "RSS",
+    "original_title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
+    "original_content": "A simple email gives the attackers the ability to remotely inject OS commands."
+  },
+  {
+    "title": "令牌 Utility 为 在-政策 Distillation via 本地 信任-地区 Optimization",
+    "url": "https://arxiv.org/abs/2610.18883",
+    "content": "arXiv:2610.18883v1 宣布 Type:新的 Abstract:令牌-selection 方法 为 在-政策 distillation (OPD) prioritize student-visited positions 使用 diverse signals,包括 uncertainty,teacher-student disagreement,和 mismatch direction.我们 而是 derive 令牌 importance 从 distillation",
+    "publish_time": "Thu, 15 Oc",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-10-15T13:21:42.828209",
+    "fetch_method": "RSS",
+    "original_title": "Token Utility for On-Policy Distillation via Local Trust-Region Optimization",
+    "original_content": "arXiv:2610.18883v1 Announce Type: new \nAbstract: Token-selection methods for on-policy distillation (OPD) prioritize student-visited positions using diverse signals, including uncertainty, teacher-student disagreement, and mismatch direction. We instead derive token importance from the distillation "
+  },
+  {
+    "title": "数据 Density Scaling Laws 为 图像 Self-Distillation",
+    "url": "https://arxiv.org/abs/2610.19013",
+    "content": "arXiv:2610.19013v1 宣布 Type:新的 Abstract:当前 scaling law formulations 建议 那个 increasing number 的 独特 samples 在 数据集 改进 模型 性能,当 repeated exposure 到 same samples 提供 diminishing 价值.在 这个 工作,我们 examine 这个 assumption 为 图像 s",
+    "publish_time": "Thu, 15 Oc",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-10-15T13:21:42.828230",
+    "fetch_method": "RSS",
+    "original_title": "Data Density Scaling Laws for Image Self-Distillation",
+    "original_content": "arXiv:2610.19013v1 Announce Type: new \nAbstract: Current scaling law formulations suggest that increasing the number of unique samples in a dataset improves model performance, while repeated exposure to the same samples provides diminishing value. In this work, we examine this assumption for image s"
+  },
+  {
+    "title": "Lag:Mean-领域 Optimal 政策 为 在线 Assignment 与 Reusable Resources",
+    "url": "https://arxiv.org/abs/2610.19038",
+    "content": "arXiv:2610.19038v1 宣布 Type:新的 Abstract:我们 研究 在线 任务 assignment 与 reusable resources.这个 问题 arises 在 peer reviewer assignment,技能-based call routing,rideshare matching,emergency dispatch,和 crowdsourcing:任务 arrive 根据 到 geometric 处理 和 must be im",
+    "publish_time": "Thu, 15 Oc",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-10-15T13:21:42.828286",
+    "fetch_method": "RSS",
+    "original_title": "Lag: A Mean-Field Optimal Policy for Online Assignment with Reusable Resources",
+    "original_content": "arXiv:2610.19038v1 Announce Type: new \nAbstract: We study online task assignment with reusable resources. This problem arises in peer reviewer assignment, skill-based call routing, rideshare matching, emergency dispatch, and crowdsourcing: Tasks arrive according to a geometric process and must be im"
+  },
+  {
+    "title": "ClawLoop:Self-Improving 智能体 via Harness-Native 训练 Loop",
+    "url": "https://arxiv.org/abs/2610.14118",
+    "content": "arXiv:2610.14118v1 宣布 Type:新的 Abstract:快速 进步 的 Large 语言 模型 (LLMs) 有 driven 他们的 deployment toward 通用-purpose harness environments,哪里 LLM-based 智能体 operate 在 sandbox workspaces 和 interact directly 与 file 系统 和 shells.当 numerous 帖子",
+    "publish_time": "Thu, 15 Oc",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-10-15T13:21:42.828348",
+    "fetch_method": "RSS",
+    "original_title": "ClawLoop: Self-Improving Agents via Harness-Native Training Loop",
+    "original_content": "arXiv:2610.14118v1 Announce Type: new \nAbstract: The rapid advancement of Large Language Models (LLMs) has driven their deployment toward general-purpose harness environments, where LLM-based agents operate in sandbox workspaces and interact directly with file systems and shells. While numerous post"
+  },
+  {
+    "title": "Figma 宣布 新的 功能 到 define 如何 智能体 工作 在 它的 平台",
+    "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+    "content": "Figma 是 也 releasing 它的 代码 层 功能 在 开放 beta.",
+    "publish_time": "Thu, 15 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-10-15T13:21:42.827811",
+    "fetch_method": "RSS",
+    "original_title": "Figma announces new features to define how agents work on its platform",
+    "original_content": "Figma is also releasing its code layers feature in open beta."
+  },
+  {
+    "title": "YouTube Music 发布 新的 labels 作为 AI-生成 music floods streaming 平台",
+    "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+    "content": "label 将 appear 在 player page 和 include songs 完全 生成 由 AI 或 部分,如此 作为 AI involved 在 composition 和 vocals.",
+    "publish_time": "Wed, 14 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-10-15T13:21:42.827845",
+    "fetch_method": "RSS",
+    "original_title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+    "original_content": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals."
+  },
+  {
+    "title": "Banks 是 现在 trying 到 offload AI 数据中心 债务 他们 刚刚 underwrote",
+    "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+    "content": "",
+    "publish_time": "2026-10-14",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 351,
+      "comments": 243
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=50092664",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.35
+    },
+    "collection_time": "2026-10-15T13:21:56.904540",
+    "original_title": "Banks are now trying to offload the AI data center debt they just underwrote",
+    "original_content": ""
+  },
+  {
+    "title": "OpenAI 和 Anthropic 告诉 British Lawmakers:监管 我们",
+    "url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
+    "content": "AI 领导者 加入 whistleblowers 和 安全性 领导者 在 sweeping parliamentary session,当 很少 百 meters away Britain’s spy chief 警告 AI 可以 be 使用 到 创建 新的 bioweapons.",
+    "publish_time": "Tue, 13 Oc",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-10-15T13:21:42.828017",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
+    "original_content": "AI leaders joined whistleblowers and security leaders at a sweeping parliamentary session, while a few hundred meters away Britain’s spy chief warned AI could be used to create new bioweapons."
+  },
+  {
+    "title": "谁 Should 我们 Listen 到 更多?Welfare-Aware Preference 收购 为 Pluralistic 对齐",
+    "url": "https://arxiv.org/abs/2610.19035",
+    "content": "arXiv:2610.19035v1 宣布 Type:新的 Abstract:Pluralistic 对齐 需要 到 accommodate diverse preferences 下 限制 human 反馈.使用 AI simulators 到 label preference comparisons 减少 annotation 成本,但 variation 在 simulation 准确率 across individuals 能 离开 一些 people's",
+    "publish_time": "Thu, 15 Oc",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-10-15T13:21:42.828275",
+    "fetch_method": "RSS",
+    "original_title": "Who Should We Listen to More? Welfare-Aware Preference Acquisition for Pluralistic Alignment",
+    "original_content": "arXiv:2610.19035v1 Announce Type: new \nAbstract: Pluralistic alignment needs to accommodate diverse preferences under limited human feedback. Using AI simulators to label preference comparisons reduces annotation costs, but variation in simulation accuracy across individuals can leave some people's "
+  }
+]
