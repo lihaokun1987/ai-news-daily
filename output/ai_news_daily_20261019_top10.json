@@ -1,0 +1,194 @@
+[
+  {
+    "title": "Attackers 有 been exploiting 关键 Zimbra flaw 到 窃取 emails",
+    "url": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
+    "content": "简单 email gives attackers 能力 到 remotely inject OS commands.",
+    "publish_time": "Wed, 30 Se",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 8,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.65
+    },
+    "collection_time": "2026-10-19T13:25:43.838508",
+    "fetch_method": "RSS",
+    "original_title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
+    "original_content": "A simple email gives the attackers the ability to remotely inject OS commands."
+  },
+  {
+    "title": "Download:failed social media 禁止,和 extending pets’ lives",
+    "url": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
+    "content": "这个 是 今天&#8217;s 版本 的 Download,我们的 weekday newsletter 那个 提供 daily dose 的 什么&#8217;s going 在 在 世界 的 技术.Kids 是 outsmarting social media 禁止.那个’s not 问题 我们 need 到 解决.—Michal Luria,Aliya Bhatia,和 Danah Boyd Social media 禁止 是 sta",
+    "publish_time": "Fri, 16 Oc",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-10-19T13:25:43.838575",
+    "fetch_method": "RSS",
+    "original_title": "The Download: failed social media bans, and extending pets’ lives",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem we need to solve.   —Michal Luria, Aliya Bhatia, and Danah Boyd Social media bans are sta"
+  },
+  {
+    "title": "Kids 是 outsmarting social media 禁止.那个’s not 问题 我们 need 到 解决.",
+    "url": "https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/",
+    "content": "Social media 禁止 是 stacking 上.在 July,France 加入 Australia 在 restricting minors 从 accessing social media—barring children 下 15 从 重大 平台,之前 禁止 是 阻止 由 国家’s top court 在 human rights grounds.UK 目标 到 forbid kids 下 16 从 accessing 面临",
+    "publish_time": "Fri, 16 Oc",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-10-19T13:25:43.838614",
+    "fetch_method": "RSS",
+    "original_title": "Kids are outsmarting social media bans. That’s not a problem we need to solve.",
+    "original_content": "Social media bans are stacking up. In July, France joined Australia in restricting minors from accessing social media—barring children under 15 from major platforms, before the ban was blocked by the country’s top court on human rights grounds. The UK aims to forbid kids under 16 from accessing Face"
+  },
+  {
+    "title": "ECHOES:Seeing Beyond 当前 图像 via Recursive History Compression 和 Privileged 在-政策 Distillation",
+    "url": "https://arxiv.org/abs/2610.22408",
+    "content": "arXiv:2610.22408v1 宣布 Type:新的 Abstract:Long-horizon GUI 智能体 rely 在 visual history 到 maintain 任务 状态,但 retaining historical screenshots 增加 visual-令牌 usage 和 推理 成本,当 textual summaries 能 discard 关键 状态 information,undermining long-horizon rel",
+    "publish_time": "Mon, 19 Oc",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-10-19T13:25:43.838987",
+    "fetch_method": "RSS",
+    "original_title": "ECHOES: Seeing Beyond the Current Image via Recursive History Compression and Privileged On-Policy Distillation",
+    "original_content": "arXiv:2610.22408v1 Announce Type: new \nAbstract: Long-horizon GUI agents rely on visual history to maintain task states, but retaining historical screenshots increases visual-token usage and inference costs, while textual summaries can discard critical state information, undermining long-horizon rel"
+  },
+  {
+    "title": "Predicting Privileged Information 有效性 为 在-政策 Self-Distillation",
+    "url": "https://arxiv.org/abs/2610.22512",
+    "content": "arXiv:2610.22512v1 宣布 Type:新的 Abstract:在-政策 self-distillation (OPSD) 使能 large 语言 模型 (LLMs) 到 学习 从 privileged information (PI) 没有 separate teacher 模型.然而,prior 工作 大部分 treats PI 作为 修复 设计 choice,leaving 效果 的 它的 content 和",
+    "publish_time": "Mon, 19 Oc",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-10-19T13:25:43.839286",
+    "fetch_method": "RSS",
+    "original_title": "Predicting Privileged Information Effectiveness for On-Policy Self-Distillation",
+    "original_content": "arXiv:2610.22512v1 Announce Type: new \nAbstract: On-policy self-distillation (OPSD) enables large language models (LLMs) to learn from privileged information (PI) without a separate teacher model. However, prior work largely treats PI as a fixed design choice, leaving the effects of its content and "
+  },
+  {
+    "title": "Meta 发布 开放-权重 AI 模型 那个 运行 在 Macs",
+    "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+    "content": "Meta 和 Apple 有 teamed 上 为 发布 的 social media giant's newest 模型,Muse 引发 开放,哪个 将 运行 locally 在 Apple silicon.",
+    "publish_time": "Thu, 15 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-10-19T13:25:43.838843",
+    "fetch_method": "RSS",
+    "original_title": "Meta launches an open-weight AI model that runs on Macs",
+    "original_content": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon."
+  },
+  {
+    "title": "Progressive Misalignment 能 Emerge 从 Benign Recursive Self-Distillation",
+    "url": "https://arxiv.org/abs/2610.22467",
+    "content": "arXiv:2610.22467v1 宣布 Type:新的 Abstract:训练 模型 在 他们的 own 输出 有 attracted widespread 注意力 作为 可能 route 到 进展 AI capabilities.One prominent 方法 是 self-distillation,哪里 模型 是 训练 到 匹配 令牌-级别 预测 它 将会 有 产生 w",
+    "publish_time": "Mon, 19 Oc",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-10-19T13:25:43.839266",
+    "fetch_method": "RSS",
+    "original_title": "Progressive Misalignment Can Emerge from Benign Recursive Self-Distillation",
+    "original_content": "arXiv:2610.22467v1 Announce Type: new \nAbstract: Training models on their own outputs has attracted widespread attention as a possible route to advance AI capabilities. One prominent approach is self-distillation, where a model is trained to match the token-level predictions it would have produced w"
+  },
+  {
+    "title": "是 anyone 否则 feeling severe burnout 从 当前 pace 的 AI 发布?",
+    "url": "https://www.reddit.com/r/artificial/comments/1x98bit/is_anyone_else_feeling_severe_burnout_from_the/",
+    "content": "也许 it39s 刚刚 我,但 trying 到 keep 上 与 状态 的 art right 现在 feels 更少 像 以下 行业 和 更多 像 running 在 treadmill 那个 keeps speeding 上 为 没有 明显 reason.",
+    "publish_time": "2026-10-18",
+    "source": "Reddit r/artificial",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-10-19T13:25:58.660384",
+    "original_title": "Is anyone else feeling severe burnout from the current pace of AI releases?",
+    "original_content": "Maybe it39s just me, but trying to keep up with the state of the art right now feels less like following an industry and more like running on a treadmill that keeps speeding up for no apparent reason."
+  },
+  {
+    "title": "Anthropic 表示 它’s committing 5% 的 它的 股份 到 ‘公开 benefit 基金’",
+    "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+    "content": "Anthropic 表示 那个 它 将 commit 5% 的 它的 股份 到 基金.",
+    "publish_time": "Sun, 18 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-10-19T13:25:43.838668",
+    "fetch_method": "RSS",
+    "original_title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+    "original_content": "Anthropic said that it will commit 5% of its shares to the fund."
+  },
+  {
+    "title": "Disney agrees 到 招聘 majority 的 Character.AI’s workforce",
+    "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+    "content": "filing 也 表示 那个 “vast majority” 的 Character.AI employees 谁 是 提供 工作 在 Disney accepted 他们.然而,这个 是 stalking horse bid,如此 another 公司 可以 来 forward 与 higher 提供.",
+    "publish_time": "Sun, 18 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-10-19T13:25:43.838681",
+    "fetch_method": "RSS",
+    "original_title": "Disney agrees to hire the majority of Character.AI’s workforce",
+    "original_content": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer."
+  }
+]
