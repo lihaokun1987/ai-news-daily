@@ -1,0 +1,192 @@
+[
+  {
+    "title": "French 政府 Calls Emergency 会议 与 平台 超过 Protests",
+    "url": "https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/",
+    "content": "TikTok 和 other sites 是 告诉 到 curb protest footage 和 AI-altered 图像,当 在线 retailers 像 Vinted 和 eBay reportedly signed 协议 停止 looted goods 从 flooding resale sites.",
+    "publish_time": "Tue, 20 Oc",
+    "source": "Wired AI",
+    "score": {
+      "importance": 10,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 7.6
+    },
+    "collection_time": "2026-10-21T13:28:31.467126",
+    "fetch_method": "RSS",
+    "original_title": "French Government Calls Emergency Meetings With Platforms Over Protests",
+    "original_content": "TikTok and other sites were told to curb protest footage and AI-altered images, while online retailers like Vinted and eBay reportedly signed an agreement stop looted goods from flooding resale sites."
+  },
+  {
+    "title": "PHP 警告 它 计划 到 发布 2 emergency patches imminently",
+    "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+    "content": "Unconfirmed 报告 声称 PHP2Shell exploit remotely executes 代码 在 PHP sites.",
+    "publish_time": "Wed, 21 Oc",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 10,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 7.35
+    },
+    "collection_time": "2026-10-21T13:28:31.467038",
+    "fetch_method": "RSS",
+    "original_title": "PHP warns it plans to release 2 emergency patches imminently",
+    "original_content": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites."
+  },
+  {
+    "title": "Steerable Pluralistic 政策 对齐 从 Anonymized Crowd 反馈",
+    "url": "https://arxiv.org/abs/2610.26914",
+    "content": "arXiv:2610.26914v1 宣布 Type:新的 Abstract:Pluralistic 对齐 requires AI 系统 到 学习 从 diverse populations whose preferences 可能 reflect heterogeneous 或 甚至 conflicting 目标,和 到 personalize 他们的 behavior 到 个人 用户.Existing 方法 在 pluralistic 对齐",
+    "publish_time": "Wed, 21 Oc",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-10-21T13:28:31.467220",
+    "fetch_method": "RSS",
+    "original_title": "Steerable Pluralistic Policy Alignment from Anonymized Crowd Feedback",
+    "original_content": "arXiv:2610.26914v1 Announce Type: new \nAbstract: Pluralistic alignment requires AI systems to learn from diverse populations whose preferences may reflect heterogeneous or even conflicting objectives, and to personalize their behavior to individual users. Existing approaches in pluralistic alignment"
+  },
+  {
+    "title": "Beyond 政策 Discrepancy:能力-Aware Multi-Teacher 在-政策 Distillation",
+    "url": "https://arxiv.org/abs/2610.26950",
+    "content": "arXiv:2610.26950v1 宣布 Type:新的 Abstract:Multi-teacher 在-政策 distillation (MOPD) 整合 领域 specialists 进入 shared student,但 determining 如何 strongly 每个 teacher should supervise remains 具有挑战性.Existing discrepancy-based allocation 能 assign strong supervision 甚至 w",
+    "publish_time": "Wed, 21 Oc",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-10-21T13:28:31.467243",
+    "fetch_method": "RSS",
+    "original_title": "Beyond Policy Discrepancy: Capability-Aware Multi-Teacher On-Policy Distillation",
+    "original_content": "arXiv:2610.26950v1 Announce Type: new \nAbstract: Multi-teacher on-policy distillation (MOPD) integrates domain specialists into a shared student, but determining how strongly each teacher should supervise remains challenging. Existing discrepancy-based allocation can assign strong supervision even w"
+  },
+  {
+    "title": "ORBIT:Autoregressive 时间 系列 生成 via 下一个 Frequency-Band 预测",
+    "url": "https://arxiv.org/abs/2610.27000",
+    "content": "arXiv:2610.27000v1 宣布 Type:新的 Abstract:Deep generative 模型 提供 effective 现代 解决方案 到 alleviating 问题 的 数据 scarcity 由 synthesizing realistic 时间 系列.然而,尽管 considerable 进展 实现 由 existing deep 时间 系列 generators,two key challen",
+    "publish_time": "Wed, 21 Oc",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-10-21T13:28:31.467309",
+    "fetch_method": "RSS",
+    "original_title": "ORBIT: Autoregressive Time Series Generation via Next Frequency-Band Prediction",
+    "original_content": "arXiv:2610.27000v1 Announce Type: new \nAbstract: Deep generative models provide an effective modern solution to alleviating the problem of data scarcity by synthesizing realistic time series. However, despite the considerable progress achieved by existing deep time series generators, two key challen"
+  },
+  {
+    "title": "Apertus 1.5 发布 Notes",
+    "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+    "content": "",
+    "publish_time": "Thu, 15 Oc",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-10-21T13:28:31.466974",
+    "fetch_method": "RSS",
+    "original_title": "Apertus 1.5 Release Notes",
+    "original_content": ""
+  },
+  {
+    "title": "Disney 询问 Character.AI 到 去 Bankrupt 为 获得-出-的-诉讼 Card",
+    "url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+    "content": "entertainment giant 希望 到 获得 信任 和 安全 科技,among other IP,从 初创公司 whose 聊天机器人 dozens 的 状态 allege encouraged minors 到 self-harm 和 kill 他们的 parents.",
+    "publish_time": "Mon, 19 Oc",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-10-21T13:28:31.467159",
+    "fetch_method": "RSS",
+    "original_title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
+    "original_content": "The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to self-harm and kill their parents."
+  },
+  {
+    "title": "Does Multi-智能体 Collaboration 减少 Hallucination 在 Clinical 任务?",
+    "url": "https://arxiv.org/abs/2610.27027",
+    "content": "arXiv:2610.27027v1 宣布 Type:新的 Abstract:Multi-智能体 LLM 系统 改进 性能 在 clinical 任务,和 那个 improvement 是 经常 读 作为 evidence 的 更多 trustworthy 系统.然而,two 是 not same claim.clinician acts 在 stated 推理 和 not 只 在 conclusio",
+    "publish_time": "Wed, 21 Oc",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-10-21T13:28:31.467501",
+    "fetch_method": "RSS",
+    "original_title": "Does Multi-Agent Collaboration Reduce Hallucination in Clinical Tasks?",
+    "original_content": "arXiv:2610.27027v1 Announce Type: new \nAbstract: Multi-agent LLM systems improve performance on clinical tasks, and that improvement is often read as evidence of a more trustworthy system. However, the two are not the same claim. A clinician acts on the stated reasoning and not only on the conclusio"
+  },
+  {
+    "title": "Anthropic’s 云 partnerships 是 getting messy",
+    "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+    "content": "Anthropic 是 reportedly struggling 到 secure enough compute 从 云 providers 那个 increasingly view 它 作为 competitor,甚至 作为 它的 infrastructure spending balloons ahead 的 计划 November 上市.",
+    "publish_time": "Tue, 20 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-10-21T13:28:31.466620",
+    "fetch_method": "RSS",
+    "original_title": "Anthropic’s cloud partnerships are getting messy",
+    "original_content": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO."
+  },
+  {
+    "title": "OpenAI 收购 初创公司 Orchestra Bio⁠ 到 beef 上 它的 biotech 业务",
+    "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+    "content": "OpenAI 表示 它's adding Orchestra's 团队 和 技术 到 工作 在 Rosalind,它的 AI 模型 为 life sciences 研究,和 到 它的 related Rosalind Workbench 工具,harness 那个 目标 到 帮助 研究人员 计划 experiments 和 分析 结果.",
+    "publish_time": "Tue, 20 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-10-21T13:28:31.466652",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+    "original_content": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results."
+  }
+]
