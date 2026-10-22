@@ -1,0 +1,204 @@
+[
+  {
+    "title": "French 政府 Calls Emergency 会议 与 平台 超过 Protests",
+    "url": "https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/",
+    "content": "TikTok 和 other sites 是 告诉 到 curb protest footage 和 AI-altered 图像,当 在线 retailers 像 Vinted 和 eBay reportedly signed 协议 停止 looted goods 从 flooding resale sites.",
+    "publish_time": "Tue, 20 Oc",
+    "source": "Wired AI",
+    "score": {
+      "importance": 10,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 7.6
+    },
+    "collection_time": "2026-10-22T13:32:48.128215",
+    "fetch_method": "RSS",
+    "original_title": "French Government Calls Emergency Meetings With Platforms Over Protests",
+    "original_content": "TikTok and other sites were told to curb protest footage and AI-altered images, while online retailers like Vinted and eBay reportedly signed an agreement stop looted goods from flooding resale sites."
+  },
+  {
+    "title": "PHP 警告 它 计划 到 发布 2 emergency patches imminently",
+    "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+    "content": "Unconfirmed 报告 声称 PHP2Shell exploit remotely executes 代码 在 PHP sites.",
+    "publish_time": "Wed, 21 Oc",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 10,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 7.35
+    },
+    "collection_time": "2026-10-22T13:32:48.128457",
+    "fetch_method": "RSS",
+    "original_title": "PHP warns it plans to release 2 emergency patches imminently",
+    "original_content": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites."
+  },
+  {
+    "title": "GitLab 关键 patch 发布",
+    "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+    "content": "",
+    "publish_time": "2026-10-21",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 293,
+      "comments": 71
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=50185869",
+    "score": {
+      "importance": 8,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 7.05
+    },
+    "collection_time": "2026-10-22T13:33:01.230295",
+    "original_title": "GitLab critical patch release",
+    "original_content": ""
+  },
+  {
+    "title": "ReAPO:Retry-Aware 政策 Optimization 为 Efficient Exploration 在 LLM 推理",
+    "url": "https://arxiv.org/abs/2610.28770",
+    "content": "arXiv:2610.28770v1 宣布 Type:新的 Abstract:RLVR 改进 语言-模型 推理,但 commonly relies 在 independent stochastic rollouts 为 exploration,哪个 能 repeatedly sample similar failed 战略.Prior 工作 有 seen success 与 方法 那个 guide exploration 由 introducing de",
+    "publish_time": "Thu, 22 Oc",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-10-22T13:32:48.129008",
+    "fetch_method": "RSS",
+    "original_title": "ReAPO: Retry-Aware Policy Optimization for Efficient Exploration in LLM Reasoning",
+    "original_content": "arXiv:2610.28770v1 Announce Type: new \nAbstract: RLVR improves language-model reasoning, but commonly relies on independent stochastic rollouts for exploration, which can repeatedly sample similar failed strategies. Prior work has seen success with approaches that guide exploration by introducing de"
+  },
+  {
+    "title": "设计 Flaw 在 股份 Links Exposes 用户’ 个人 Conversations 与 Meta’s Muse",
+    "url": "https://www.wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse/",
+    "content": "公司 是 suspending 功能 之后 安全性 研究人员 发现 如何 简单 它 是 到 access sensitive information shared 与 AI assistant.",
+    "publish_time": "Wed, 21 Oc",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-10-22T13:32:48.128171",
+    "fetch_method": "RSS",
+    "original_title": "A Design Flaw in Share Links Exposes Users’ Personal Conversations With Meta’s Muse",
+    "original_content": "The company is suspending the feature after security researchers discovered how easy it was to access sensitive information shared with the AI assistant."
+  },
+  {
+    "title": "Recursive 发布 Flint,laptop 编程 模型 它 表示 是 大部分 构建 由 AI",
+    "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+    "content": "初创公司 Recursive 有 发布 Flint,免费,laptop-sized 编程 模型 构建 大部分 由 它的 own AI 研究 系统,作为 early 测试 的 AI 那个 改进 itself.",
+    "publish_time": "Wed, 21 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-10-22T13:32:48.128263",
+    "fetch_method": "RSS",
+    "original_title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+    "original_content": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself."
+  },
+  {
+    "title": "Apertus 1.5 发布 Notes",
+    "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+    "content": "",
+    "publish_time": "Thu, 15 Oc",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-10-22T13:32:48.128699",
+    "fetch_method": "RSS",
+    "original_title": "Apertus 1.5 Release Notes",
+    "original_content": ""
+  },
+  {
+    "title": "Does Multi-智能体 Collaboration 减少 Hallucination 在 Clinical 任务?",
+    "url": "https://arxiv.org/abs/2610.27027",
+    "content": "arXiv:2610.27027v1 宣布 Type:新的 Abstract:Multi-智能体 LLM 系统 改进 性能 在 clinical 任务,和 那个 improvement 是 经常 读 作为 evidence 的 更多 trustworthy 系统.然而,two 是 not same claim.clinician acts 在 stated 推理 和 not 只 在 conclusio",
+    "publish_time": "Thu, 22 Oc",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-10-22T13:32:48.128868",
+    "fetch_method": "RSS",
+    "original_title": "Does Multi-Agent Collaboration Reduce Hallucination in Clinical Tasks?",
+    "original_content": "arXiv:2610.27027v1 Announce Type: new \nAbstract: Multi-agent LLM systems improve performance on clinical tasks, and that improvement is often read as evidence of a more trustworthy system. However, the two are not the same claim. A clinician acts on the stated reasoning and not only on the conclusio"
+  },
+  {
+    "title": "Airbnb 禁止 making guests do dishes 和 采取 出 trash",
+    "url": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
+    "content": "",
+    "publish_time": "2026-10-21",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 153,
+      "comments": 138
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=50189150",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 7,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.05
+    },
+    "collection_time": "2026-10-22T13:33:01.230316",
+    "original_title": "Airbnb bans making guests do dishes and take out the trash",
+    "original_content": ""
+  },
+  {
+    "title": "PHP2Shell:AI uncovers 关键 RCE 在 PHP",
+    "url": "https://www.wiz.io/blog/php2shell-php-rce",
+    "content": "",
+    "publish_time": "2026-10-21",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 439,
+      "comments": 173
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=50180836",
+    "score": {
+      "importance": 5,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.0
+    },
+    "collection_time": "2026-10-22T13:33:01.230284",
+    "original_title": "PHP2Shell: AI uncovers critical RCE in PHP",
+    "original_content": ""
+  }
+]
