@@ -1,0 +1,195 @@
+[
+  {
+    "title": "PHP 警告 它 计划 到 发布 2 emergency patches imminently",
+    "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+    "content": "Unconfirmed 报告 声称 PHP2Shell exploit remotely executes 代码 在 PHP sites.",
+    "publish_time": "Wed, 21 Oc",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 10,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 7.35
+    },
+    "collection_time": "2026-10-24T13:09:47.305123",
+    "fetch_method": "RSS",
+    "original_title": "PHP warns it plans to release 2 emergency patches imminently",
+    "original_content": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites."
+  },
+  {
+    "title": "Canva 发布 它的 首个 图像 生成 模型",
+    "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+    "content": "Canva 是 making 它的 新的 图像 模型 可用 到 所有 用户,promising better,更多 customizable 性能 在 lower 成本.",
+    "publish_time": "Thu, 22 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-10-24T13:09:47.305016",
+    "fetch_method": "RSS",
+    "original_title": "Canva releases its first image generation model",
+    "original_content": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
+  },
+  {
+    "title": "Swedish 政府 offices 到 禁止 ChatGPT 和 Claude",
+    "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
+    "content": "",
+    "publish_time": "2026-10-23",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 316,
+      "comments": 118
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=50207405",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.35
+    },
+    "collection_time": "2026-10-24T13:10:02.698588",
+    "original_title": "Swedish government offices to ban ChatGPT and Claude",
+    "original_content": ""
+  },
+  {
+    "title": "Apertus 1.5 发布 Notes",
+    "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+    "content": "",
+    "publish_time": "Thu, 15 Oc",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-10-24T13:09:47.304671",
+    "fetch_method": "RSS",
+    "original_title": "Apertus 1.5 Release Notes",
+    "original_content": ""
+  },
+  {
+    "title": "设计 Flaw 在 股份 Links Exposes 用户’ 个人 Conversations 与 Meta’s Muse",
+    "url": "https://www.wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse/",
+    "content": "公司 是 suspending 功能 之后 安全性 研究人员 发现 如何 简单 它 是 到 access sensitive information shared 与 AI assistant.",
+    "publish_time": "Wed, 21 Oc",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-10-24T13:09:47.304882",
+    "fetch_method": "RSS",
+    "original_title": "A Design Flaw in Share Links Exposes Users’ Personal Conversations With Meta’s Muse",
+    "original_content": "The company is suspending the feature after security researchers discovered how easy it was to access sensitive information shared with the AI assistant."
+  },
+  {
+    "title": "1Password 发布 way 为 AI 智能体 到 log 在 在 你的 behalf 没有 seeing 你的 password",
+    "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+    "content": "新的 功能 允许 智能体 到 log 进入 客户's 个人 accounts 当 仍然 protecting 私有 credentials 那个 secure 那些 accounts.",
+    "publish_time": "Thu, 22 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-10-24T13:09:47.304995",
+    "fetch_method": "RSS",
+    "original_title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+    "original_content": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts."
+  },
+  {
+    "title": "OpenAI working 在 新的 $30B 提高 在 $1.25T 估值 ahead 的 上市",
+    "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+    "content": "Should OpenAI command 超过 $1 trillion 估值 与 这个 轮,它 将会 break records 作为 最 highly valued 私有 公司 ever.",
+    "publish_time": "Thu, 22 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.05
+    },
+    "collection_time": "2026-10-24T13:09:47.304980",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+    "original_content": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever."
+  },
+  {
+    "title": "‘这个 是 Not Drill’:关键 PHP Vulnerabilities 是 Setting Internet 在 解雇",
+    "url": "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/",
+    "content": "PHP 基础 有 揭示 two serious vulnerabilities 那个 可以 影响 millions 的 websites.安全性 专家 警告 那个 failure 到 quickly patch flaws 可以 有 dire consequences.",
+    "publish_time": "Wed, 21 Oc",
+    "source": "Wired AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-10-24T13:09:47.304857",
+    "fetch_method": "RSS",
+    "original_title": "‘This Is Not a Drill’: Critical PHP Vulnerabilities Are Setting the Internet on Fire",
+    "original_content": "The PHP Foundation has revealed two serious vulnerabilities that could impact millions of websites. Security experts warn that failure to quickly patch the flaws could have dire consequences."
+  },
+  {
+    "title": "OpenAI 表示 它 将 没有 longer 训练 它的 AI 模型 在 实时 internet,citing “重大 风险”",
+    "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+    "content": "OpenAI 将 削减 前沿 模型 off 从 internet 周 之后 one 的 它的 工程师 表示 那个 解决方案 wouldn't 工作.",
+    "publish_time": "Fri, 23 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-10-24T13:09:47.304898",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+    "original_content": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work."
+  },
+  {
+    "title": "新闻",
+    "source": "www.anthropic.com",
+    "content": "Claude Opus 5.5 导致 在 agentic 编程 和 knowledge 工作,和 成本 40 更少 到 运行 than Opus 5 在 typical workloads.是 committing portion 的 Anthropics 股份 到 Anthropic 公开 Benefit 基金,新的 entity 与 structure 那个 增加 stake 作为 公司 增长.是 launching ne",
+    "url": "https://www.anthropic.com/news",
+    "publish_time": "2026-10-23",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-10-24T13:10:02.698380",
+    "original_title": "News",
+    "original_content": "Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40 less to run than Opus 5 on typical workloads. Were committing a portion of Anthropics shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows. Were launching a ne"
+  }
+]
