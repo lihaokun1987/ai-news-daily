@@ -1,0 +1,196 @@
+[
+  {
+    "title": "PHP 警告 它 计划 到 发布 2 emergency patches imminently",
+    "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+    "content": "Unconfirmed 报告 声称 PHP2Shell exploit remotely executes 代码 在 PHP sites.",
+    "publish_time": "Wed, 21 Oc",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 10,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 7.35
+    },
+    "collection_time": "2026-10-26T13:31:14.139580",
+    "fetch_method": "RSS",
+    "original_title": "PHP warns it plans to release 2 emergency patches imminently",
+    "original_content": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites."
+  },
+  {
+    "title": "Beyond 在-政策 对抗.Off-政策:在 什么 级别 Should LLM 智能体 Distillation 跟随 Student?",
+    "url": "https://arxiv.org/abs/2610.31918",
+    "content": "arXiv:2610.31918v1 宣布 Type:新的 Abstract:Distilling interactive LLM 智能体 requires choosing 之间 teacher-生成 demonstrations 和 student-生成 experience,corresponding broadly 到 off-政策 和 在-政策 distillation.当 两者 有 proven effective,我们 争论 那个 这个 distinc",
+    "publish_time": "Mon, 26 Oc",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-10-26T13:31:14.139720",
+    "fetch_method": "RSS",
+    "original_title": "Beyond On-Policy vs. Off-Policy: At What Level Should LLM Agent Distillation Follow the Student?",
+    "original_content": "arXiv:2610.31918v1 Announce Type: new \nAbstract: Distilling interactive LLM agents requires choosing between teacher-generated demonstrations and student-generated experience, corresponding broadly to off-policy and on-policy distillation. While both have proven effective, we argue that this distinc"
+  },
+  {
+    "title": "Grok 发布 首个 seven 分钟 的 它的 AI-生成 ‘Odyssey’",
+    "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+    "content": "footage looks okay,作为 long 作为 你're not seeking artistry,inspiration,或 human interest.",
+    "publish_time": "Sun, 25 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-10-26T13:31:14.139250",
+    "fetch_method": "RSS",
+    "original_title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+    "original_content": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest."
+  },
+  {
+    "title": "Canva 发布 它的 首个 图像 生成 模型",
+    "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+    "content": "Canva 是 making 它的 新的 图像 模型 可用 到 所有 用户,promising better,更多 customizable 性能 在 lower 成本.",
+    "publish_time": "Thu, 22 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-10-26T13:31:14.139440",
+    "fetch_method": "RSS",
+    "original_title": "Canva releases its first image generation model",
+    "original_content": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
+  },
+  {
+    "title": "Apertus 1.5 发布 Notes",
+    "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+    "content": "",
+    "publish_time": "Thu, 15 Oc",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-10-26T13:31:14.139226",
+    "fetch_method": "RSS",
+    "original_title": "Apertus 1.5 Release Notes",
+    "original_content": ""
+  },
+  {
+    "title": "1Password 发布 way 为 AI 智能体 到 log 在 在 你的 behalf 没有 seeing 你的 password",
+    "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+    "content": "新的 功能 允许 智能体 到 log 进入 客户's 个人 accounts 当 仍然 protecting 私有 credentials 那个 secure 那些 accounts.",
+    "publish_time": "Thu, 22 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-10-26T13:31:14.139431",
+    "fetch_method": "RSS",
+    "original_title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+    "original_content": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts."
+  },
+  {
+    "title": "Helpful 智能体 问题:当 Emergent Cooperation Among LLM 智能体 Bypasses Intended Workflows",
+    "url": "https://arxiv.org/abs/2610.31985",
+    "content": "arXiv:2610.31985v1 宣布 Type:新的 Abstract:LLM 智能体 是 increasingly deployed 在 collaborative settings 哪里 他们 pursue separate 任务 当 sharing resources 和 operating 下 评测 或 oversight 处理.如此 settings 创建 安全 风险 not 只 当 智能体 是 malicious,但 也 w",
+    "publish_time": "Mon, 26 Oc",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-10-26T13:31:14.139767",
+    "fetch_method": "RSS",
+    "original_title": "The Helpful Agent Problem: When Emergent Cooperation Among LLM Agents Bypasses Intended Workflows",
+    "original_content": "arXiv:2610.31985v1 Announce Type: new \nAbstract: LLM agents are increasingly deployed in collaborative settings where they pursue separate tasks while sharing resources and operating under review or oversight processes. Such settings create safety risks not only when agents are malicious, but also w"
+  },
+  {
+    "title": "OpenAI working 在 新的 $30B 提高 在 $1.25T 估值 ahead 的 上市",
+    "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+    "content": "Should OpenAI command 超过 $1 trillion 估值 与 这个 轮,它 将会 break records 作为 最 highly valued 私有 公司 ever.",
+    "publish_time": "Thu, 22 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.05
+    },
+    "collection_time": "2026-10-26T13:31:14.139420",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+    "original_content": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever."
+  },
+  {
+    "title": "R/开源 禁止 所有 solo projects 和 projects 使用 LLMs",
+    "url": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
+    "content": "",
+    "publish_time": "2026-10-25",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 85,
+      "comments": 110
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=50231722",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 6,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 6.05
+    },
+    "collection_time": "2026-10-26T13:31:28.721497",
+    "original_title": "R/open source bans all solo projects and projects using LLMs",
+    "original_content": ""
+  },
+  {
+    "title": "Microsoft Decision-1:9B Qwen 模型 发布 解释",
+    "url": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
+    "content": "文章 URL:https://shattered.io/Microsoft-decision-1-qwen3-5-9b-模型-2026/ Comments URL:https://新闻.ycombinator.com/item?id=50238620 Points:16 # Comments:4",
+    "publish_time": "Mon, 26 Oc",
+    "source": "Hacker News Front Page",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-10-26T13:31:14.139959",
+    "fetch_method": "RSS",
+    "original_title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
+    "original_content": "Article URL: https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/\nComments URL: https://news.ycombinator.com/item?id=50238620\nPoints: 16\n# Comments: 4"
+  }
+]
