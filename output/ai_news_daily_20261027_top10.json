@@ -1,0 +1,202 @@
+[
+  {
+    "title": "PHP 警告 它 计划 到 发布 2 emergency patches imminently",
+    "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+    "content": "Unconfirmed 报告 声称 PHP2Shell exploit remotely executes 代码 在 PHP sites.",
+    "publish_time": "Wed, 21 Oc",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 10,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 7.35
+    },
+    "collection_time": "2026-10-27T13:45:54.565095",
+    "fetch_method": "RSS",
+    "original_title": "PHP warns it plans to release 2 emergency patches imminently",
+    "original_content": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites."
+  },
+  {
+    "title": "Anthropic officially files 为 它的 公开 debut",
+    "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+    "content": "Anthropic 有 officially filed 为 上市,revealing soaring 收入,mounting 损失,重大 企业 adoption,和 unusual governance structure 设计 到 preserve 创始人 控制 和 它的 AI 安全 mission.",
+    "publish_time": "Mon, 26 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 8,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.9
+    },
+    "collection_time": "2026-10-27T13:45:54.564970",
+    "fetch_method": "RSS",
+    "original_title": "Anthropic officially files for its public debut",
+    "original_content": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission."
+  },
+  {
+    "title": "Conformance 作为 Distribution:Delegation 合同,误差 Budgets,和 Allocation 的 Evaluation Authority 在 使用-Based AI 监管",
+    "url": "https://arxiv.org/abs/2610.33112",
+    "content": "arXiv:2610.33112v1 宣布 Type:新的 Abstract:使用-based AI 监管 assigns obligations 由 deployment 风险 但 lacks evidentiary object 到 carry 他们.基准测试 得分 是 property 的 模型;conformance 的 deployment 是 failure rate 下 declared distribution 的 contexts,bounded",
+    "publish_time": "Tue, 27 Oc",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-10-27T13:45:54.565579",
+    "fetch_method": "RSS",
+    "original_title": "Conformance as a Distribution: Delegation Contracts, Error Budgets, and the Allocation of Evaluation Authority in Use-Based AI Regulation",
+    "original_content": "arXiv:2610.33112v1 Announce Type: new \nAbstract: Use-based AI regulation assigns obligations by deployment risk but lacks an evidentiary object to carry them. A benchmark score is a property of a model; conformance of a deployment is a failure rate under a declared distribution of contexts, bounded "
+  },
+  {
+    "title": "Grok 发布 首个 seven 分钟 的 它的 AI-生成 ‘Odyssey’",
+    "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+    "content": "footage looks okay,作为 long 作为 你're not seeking artistry,inspiration,或 human interest.",
+    "publish_time": "Sun, 25 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-10-27T13:45:54.564980",
+    "fetch_method": "RSS",
+    "original_title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+    "original_content": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest."
+  },
+  {
+    "title": "Apertus 1.5 发布 Notes",
+    "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+    "content": "",
+    "publish_time": "Thu, 15 Oc",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-10-27T13:45:54.565394",
+    "fetch_method": "RSS",
+    "original_title": "Apertus 1.5 Release Notes",
+    "original_content": ""
+  },
+  {
+    "title": "Blaise Pascal invented 修复 route 公开 transport (2024)",
+    "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
+    "content": "",
+    "publish_time": "2026-10-26",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 276,
+      "comments": 145
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=50200152",
+    "score": {
+      "importance": 5,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.0
+    },
+    "collection_time": "2026-10-27T13:46:10.260033",
+    "original_title": "Blaise Pascal invented fixed route public transport (2024)",
+    "original_content": ""
+  },
+  {
+    "title": "Dutch 政府 计划 到 削减 25,000 工作 (16%) 在 AI-导致 Overhaul",
+    "url": "https://www.reddit.com/r/artificial/comments/1xg12na/dutch_government_plans_to_cut_25000_jobs_16_in/",
+    "content": "32 submitted 由 32 ufuchsiarush link 32 comments",
+    "publish_time": "2026-10-26",
+    "source": "Reddit r/artificial",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-10-27T13:46:10.259991",
+    "original_title": "Dutch Government Plans to Cut 25,000 Jobs (16%) in AI-Led Overhaul",
+    "original_content": "32 submitted by 32 ufuchsiarush link 32 comments"
+  },
+  {
+    "title": "Anthropic S-1",
+    "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+    "content": "",
+    "publish_time": "2026-10-26",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 1554,
+      "comments": 1496
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=50242939",
+    "score": {
+      "importance": 3,
+      "authority": 5,
+      "spread": 10,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-10-27T13:46:10.260008",
+    "original_title": "Anthropic S-1",
+    "original_content": ""
+  },
+  {
+    "title": "Anthropic’s 上市 filing 揭示 它的 战略 为 keeping 企业 客户 hooked",
+    "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+    "content": "Anthropic’s S-1 展示 更多 than half 的 它的 $100,000-plus 客户 现在 使用 两者 Claude 平台 和 首个-party 应用,cross-selling playbook reminiscent 的 Amazon 那个’s making 企业 客户 stickier.",
+    "publish_time": "Mon, 26 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-10-27T13:45:54.564954",
+    "fetch_method": "RSS",
+    "original_title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+    "original_content": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier."
+  },
+  {
+    "title": "SpaceX locks 在 $40B GPU financing 交易 与 Apollo",
+    "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+    "content": "financing gives SpaceX another way 到 基金 它的 rapidly expanding AI 雄心 没有 relying solely 在 传统 债务 市场.",
+    "publish_time": "Mon, 26 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-10-27T13:45:54.564963",
+    "fetch_method": "RSS",
+    "original_title": "SpaceX locks in $40B GPU financing deal with Apollo",
+    "original_content": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets."
+  }
+]
