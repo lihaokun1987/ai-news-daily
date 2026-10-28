@@ -1,0 +1,200 @@
+[
+  {
+    "title": "PHP 警告 它 计划 到 发布 2 emergency patches imminently",
+    "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+    "content": "Unconfirmed 报告 声称 PHP2Shell exploit remotely executes 代码 在 PHP sites.",
+    "publish_time": "Wed, 21 Oc",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 10,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 7.35
+    },
+    "collection_time": "2026-10-28T14:24:33.720909",
+    "fetch_method": "RSS",
+    "original_title": "PHP warns it plans to release 2 emergency patches imminently",
+    "original_content": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites."
+  },
+  {
+    "title": "Survival LLM:AI assistant 和 emergency library 那个 运行 在 你的 own 计算机",
+    "url": "https://www.brangus.io/survival-llm",
+    "content": "",
+    "publish_time": "2026-10-27",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 280,
+      "comments": 123
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=50264853",
+    "score": {
+      "importance": 7,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.7
+    },
+    "collection_time": "2026-10-28T14:24:47.684027",
+    "original_title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+    "original_content": ""
+  },
+  {
+    "title": "Counting Bandages:在 measuring 时间 那个 AI saves",
+    "url": "https://arxiv.org/abs/2610.35942",
+    "content": "arXiv:2610.35942v1 宣布 Type:新的 Abstract:我 考虑 什么 它 means 为 AI assistance 到 save 时间.我 contrast stopwatch view,在 哪个 时间 saved 是 whatever clock records,与 ledger view,在 哪个 它 是 counterfactual 那个 有 到 be 读 下一个 到 误差 工作 lets 通过,",
+    "publish_time": "Wed, 28 Oc",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-10-28T14:24:33.721276",
+    "fetch_method": "RSS",
+    "original_title": "Counting the Bandages: On measuring the time that AI saves",
+    "original_content": "arXiv:2610.35942v1 Announce Type: new \nAbstract: I consider what it means for AI assistance to save time. I contrast a stopwatch view, on which time saved is whatever the clock records, with a ledger view, on which it is a counterfactual that has to be read next to the errors the work lets through, "
+  },
+  {
+    "title": "Opera 推出 新的 web 标准 到 let 用户 部署 AI locally 在 他们的 browser",
+    "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+    "content": "新的 标准,WebAI,是 设计 到 工作 与 variety 的 AI 模型.",
+    "publish_time": "Tue, 27 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-10-28T14:24:33.721039",
+    "fetch_method": "RSS",
+    "original_title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+    "original_content": "The new standard, WebAI, is designed to work with a variety of AI models."
+  },
+  {
+    "title": "Bank 的 America kindly 询问 那个 你 don’t 股份 你的 banking password 与 你的 AI assistant",
+    "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+    "content": "banking giant reminds 客户 那个 \"你're responsible 为 activity\" resulting 从 你的 AI 智能体' access.",
+    "publish_time": "Tue, 27 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-10-28T14:24:33.720984",
+    "fetch_method": "RSS",
+    "original_title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+    "original_content": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access."
+  },
+  {
+    "title": "Apertus 1.5 发布 Notes",
+    "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+    "content": "",
+    "publish_time": "Thu, 15 Oc",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-10-28T14:24:33.721268",
+    "fetch_method": "RSS",
+    "original_title": "Apertus 1.5 Release Notes",
+    "original_content": ""
+  },
+  {
+    "title": "Download:Anthropic’s 上市,smarter 驱动 grids,和 exercise pills",
+    "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
+    "content": "这个 是 今天&#8217;s 版本 的 Download,我们的 weekday newsletter 那个 提供 daily dose 的 什么&#8217;s going 在 在 世界 的 技术.将 真实 Anthropic please stand 上?之后 周 的 frenzied speculation,Anthropic 有 filed 它的 上市 prospectus.335-page document (100 pages",
+    "publish_time": "Tue, 27 Oc",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-10-28T14:24:33.720779",
+    "fetch_method": "RSS",
+    "original_title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages"
+  },
+  {
+    "title": "Tailscale SSH:Investigation 和 remediation 更新",
+    "url": "https://tailscale.com/ssh-investigation-update",
+    "content": "",
+    "publish_time": "2026-10-27",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 254,
+      "comments": 126
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=50264857",
+    "score": {
+      "importance": 5,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.0
+    },
+    "collection_time": "2026-10-28T14:24:47.684041",
+    "original_title": "Tailscale SSH: Investigation and remediation update",
+    "original_content": ""
+  },
+  {
+    "title": "VCs 将 制作 billions 在 Anthropic’s 上市,但 Amazon 是 set 到 制作 很多 (很多) 更多",
+    "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+    "content": "Massive note conversions reveal true extent 的 Amazon's ownership 在 Anthropic.",
+    "publish_time": "Wed, 28 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-10-28T14:24:33.720955",
+    "fetch_method": "RSS",
+    "original_title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+    "original_content": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic."
+  },
+  {
+    "title": "谁’s 真的 在 charge 在 Anthropic 之后 上市?",
+    "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+    "content": "这里's 清楚 explanation 的 Anthropic's incredibly 复杂 governance structure.",
+    "publish_time": "Tue, 27 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-10-28T14:24:33.720992",
+    "fetch_method": "RSS",
+    "original_title": "Who’s really in charge at Anthropic after the IPO?",
+    "original_content": "Here's a clear explanation of Anthropic's incredibly complex governance structure."
+  }
+]
