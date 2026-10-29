@@ -1,0 +1,198 @@
+[
+  {
+    "title": "PHP 警告 它 计划 到 发布 2 emergency patches imminently",
+    "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+    "content": "Unconfirmed 报告 声称 PHP2Shell exploit remotely executes 代码 在 PHP sites.",
+    "publish_time": "Wed, 21 Oc",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 10,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 7.35
+    },
+    "collection_time": "2026-10-29T14:34:51.924362",
+    "fetch_method": "RSS",
+    "original_title": "PHP warns it plans to release 2 emergency patches imminently",
+    "original_content": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites."
+  },
+  {
+    "title": "GitHub 刚刚 宣布 重大 overhaul 的 Copilot,'evolving' 到 focus 在 agentic 未来",
+    "url": "https://www.reddit.com/r/artificial/comments/1xi0dcg/github_just_announced_a_major_overhaul_of_copilot/",
+    "content": "32 submitted 由 32 uLinkedInNews link 32 comments",
+    "publish_time": "2026-10-28",
+    "source": "Reddit r/artificial",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 8,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.6
+    },
+    "collection_time": "2026-10-29T14:35:06.214920",
+    "original_title": "GitHub just announced a major overhaul of Copilot, 'evolving' to focus on an agentic future",
+    "original_content": "32 submitted by 32 uLinkedInNews link 32 comments"
+  },
+  {
+    "title": "AI Emergency Alerts 是 Coming.Humans 可能 Not Be Ready",
+    "url": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
+    "content": "Human beings struggle 与 emergency communication.聊天机器人 能 帮助—如果 people 采取 他们 seriously.",
+    "publish_time": "Wed, 28 Oc",
+    "source": "Wired AI",
+    "score": {
+      "importance": 7,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.55
+    },
+    "collection_time": "2026-10-29T14:34:51.924603",
+    "fetch_method": "RSS",
+    "original_title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
+    "original_content": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously."
+  },
+  {
+    "title": "语音 AI 在 vogue:NVIDIA 发布 新的 开放 transcription 模型",
+    "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+    "content": "NVIDIA 刚刚 发布 免费 语音-到-文本 模型 那个 能 transcribe 上 到 40 语言,但 它 只 工作 在 recordings,not 实时 音频,如此 它’s big 步骤 为 会议 和 medical transcription 工具 当 仍然 leaving 实时 使用 到 rivals 像 ElevenLabs.",
+    "publish_time": "Wed, 28 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-10-29T14:34:51.924301",
+    "fetch_method": "RSS",
+    "original_title": "Voice AI in vogue: Nvidia releases new open transcription model",
+    "original_content": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs."
+  },
+  {
+    "title": "Survival LLM:AI assistant 和 emergency library 那个 运行 在 你的 own 计算机",
+    "url": "https://www.brangus.io/survival-llm",
+    "content": "文章 URL:https://www.brangus.io/survival-LLM Comments URL:https://新闻.ycombinator.com/item?id=50264853 Points:525 # Comments:194",
+    "publish_time": "Tue, 27 Oc",
+    "source": "Hacker News Best",
+    "score": {
+      "importance": 7,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.3
+    },
+    "collection_time": "2026-10-29T14:34:51.924993",
+    "fetch_method": "RSS",
+    "original_title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+    "original_content": "Article URL: https://www.brangus.io/survival-llm\nComments URL: https://news.ycombinator.com/item?id=50264853\nPoints: 525\n# Comments: 194"
+  },
+  {
+    "title": "Anthropic 刚刚 发布 工具 到 展示 公司 什么 他们的 AI spending 是 buying",
+    "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+    "content": "前沿 实验室 是 lifting curtain 在 如何 用户 spend 资金 在 它的 模型 ahead 的 计划 上市.",
+    "publish_time": "Wed, 28 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-10-29T14:34:51.924241",
+    "fetch_method": "RSS",
+    "original_title": "Anthropic just launched tools to show companies what their AI spending is buying",
+    "original_content": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO."
+  },
+  {
+    "title": "Apertus 1.5 发布 Notes",
+    "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+    "content": "",
+    "publish_time": "Thu, 15 Oc",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-10-29T14:34:51.924565",
+    "fetch_method": "RSS",
+    "original_title": "Apertus 1.5 Release Notes",
+    "original_content": ""
+  },
+  {
+    "title": "Download:Anthropic’s 上市,smarter 驱动 grids,和 exercise pills",
+    "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
+    "content": "这个 是 今天&#8217;s 版本 的 Download,我们的 weekday newsletter 那个 提供 daily dose 的 什么&#8217;s going 在 在 世界 的 技术.将 真实 Anthropic please stand 上?之后 周 的 frenzied speculation,Anthropic 有 filed 它的 上市 prospectus.335-page document (100 pages",
+    "publish_time": "Tue, 27 Oc",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-10-29T14:34:51.924126",
+    "fetch_method": "RSS",
+    "original_title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages"
+  },
+  {
+    "title": "Apple's git 仍然 trusts compromised eMudhra certificates",
+    "url": "https://emudhra.we-have-a-problem.com/apple.html",
+    "content": "",
+    "publish_time": "2026-10-28",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 1095,
+      "comments": 385
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=50271640",
+    "score": {
+      "importance": 3,
+      "authority": 5,
+      "spread": 10,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-10-29T14:35:06.214972",
+    "original_title": "Apple's git still trusts the compromised eMudhra certificates",
+    "original_content": ""
+  },
+  {
+    "title": "AI execs 可能 be 太 出 的 touch 到 构建 为 通用 公开",
+    "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+    "content": "科技 领导者 是 flaunting 如何 出 的 touch 他们 是 当 他们 brag 关于 使用 AI 到 connect 与 他们的 families.",
+    "publish_time": "Wed, 28 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-10-29T14:34:51.924278",
+    "fetch_method": "RSS",
+    "original_title": "AI execs may be too out of touch to build for the general public",
+    "original_content": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families."
+  }
+]
