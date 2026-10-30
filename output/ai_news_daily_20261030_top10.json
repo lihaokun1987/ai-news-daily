@@ -1,0 +1,192 @@
+[
+  {
+    "title": "PHP 警告 它 计划 到 发布 2 emergency patches imminently",
+    "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+    "content": "Unconfirmed 报告 声称 PHP2Shell exploit remotely executes 代码 在 PHP sites.",
+    "publish_time": "Wed, 21 Oc",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 10,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 7.35
+    },
+    "collection_time": "2026-10-30T14:34:27.402583",
+    "fetch_method": "RSS",
+    "original_title": "PHP warns it plans to release 2 emergency patches imminently",
+    "original_content": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites."
+  },
+  {
+    "title": "AI Emergency Alerts 是 Coming.Humans 可能 Not Be Ready",
+    "url": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
+    "content": "Human beings struggle 与 emergency communication.聊天机器人 能 帮助—如果 people 采取 他们 seriously.",
+    "publish_time": "Wed, 28 Oc",
+    "source": "Wired AI",
+    "score": {
+      "importance": 7,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.55
+    },
+    "collection_time": "2026-10-30T14:34:27.402943",
+    "fetch_method": "RSS",
+    "original_title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
+    "original_content": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously."
+  },
+  {
+    "title": "作为 search traffic dries 上,Reddit 宣布 它’s shifting 到 logged-在 experience",
+    "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+    "content": "作为 AI 转换 如何 people 发现 information 在线,Reddit 是 rethinking 它的 开放-web roots 到 protect 它的 audience 和 业务.",
+    "publish_time": "Thu, 29 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-10-30T14:34:27.402667",
+    "fetch_method": "RSS",
+    "original_title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+    "original_content": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business."
+  },
+  {
+    "title": "Meta quietly 发布 AI fashion 应用 called Style Sketch",
+    "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+    "content": "应用 connects 到 Instagram 到 构建 virtual closet 从 photos 你’ve 已经 shared,或 lets 你 添加 items manually 由 snapping photo,recording 快速 视频,或 uploading 图像 从 你的 camera 推出.",
+    "publish_time": "Thu, 29 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-10-30T14:34:27.402693",
+    "fetch_method": "RSS",
+    "original_title": "Meta quietly launches an AI fashion app called Style Sketch",
+    "original_content": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll."
+  },
+  {
+    "title": "Mistral 发布 权重 为 它的 trillion-参数 AI 模型,targeting cybersecurity",
+    "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+    "content": "Mistral 表示 它的 新的 模型 能 afford 组织 kind 的 控制 超过 它的 cyber defenses 那个 封闭 模型 能't.",
+    "publish_time": "Thu, 29 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-10-30T14:34:27.402712",
+    "fetch_method": "RSS",
+    "original_title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+    "original_content": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't."
+  },
+  {
+    "title": "Ex-Palantir execs 发布 梦想 与 $17M 从 a16z 到 构建 AI 世界 模型 为 construction",
+    "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+    "content": "梦想 是 grounded 在 真实 physics 和 construction standards.刚刚 作为 LLMs 学习 从 文本,梦想's 世界 模型 是 训练 在 更多 than 100 百万 square feet 的 building 数据 gathered 从 permit archives across United 状态.",
+    "publish_time": "Thu, 29 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-10-30T14:34:27.402756",
+    "fetch_method": "RSS",
+    "original_title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+    "original_content": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States."
+  },
+  {
+    "title": "Download:Anthropic’s 上市,smarter 驱动 grids,和 exercise pills",
+    "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
+    "content": "这个 是 今天&#8217;s 版本 的 Download,我们的 weekday newsletter 那个 提供 daily dose 的 什么&#8217;s going 在 在 世界 的 技术.将 真实 Anthropic please stand 上?之后 周 的 frenzied speculation,Anthropic 有 filed 它的 上市 prospectus.335-page document (100 pages",
+    "publish_time": "Tue, 27 Oc",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-10-30T14:34:27.402853",
+    "fetch_method": "RSS",
+    "original_title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages"
+  },
+  {
+    "title": "Chained PHP2Shell exploit roots 25 服务器,包括 我们 政府 服务器",
+    "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
+    "content": "文章 URL:https://dreamgroup.com/博客/chained-php2shell-exploit-roots-25-服务器 Comments URL:https://新闻.ycombinator.com/item?id=50286987 Points:309 # Comments:153",
+    "publish_time": "Thu, 29 Oc",
+    "source": "Hacker News Best",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-10-30T14:34:27.403133",
+    "fetch_method": "RSS",
+    "original_title": "Chained PHP2Shell exploit roots 25 servers, including US Government servers",
+    "original_content": "Article URL: https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers\nComments URL: https://news.ycombinator.com/item?id=50286987\nPoints: 309\n# Comments: 153"
+  },
+  {
+    "title": "OpenAI-backed Thrive Holdings 收购 ADT",
+    "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+    "content": "OpenAI-backed Thrive Holdings 是 buying ADT 在 $15.3 十亿 交易,与 计划 到 带来 AI 到 home 安全性 业务.",
+    "publish_time": "Thu, 29 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-10-30T14:34:27.402685",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI-backed Thrive Holdings acquires ADT",
+    "original_content": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business."
+  },
+  {
+    "title": "我们 调查 Chinese spy plot 旨在 在 NVIDIA 首席执行官",
+    "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+    "content": "top executive 的 Singapore AI 云 公司 那个 是 accused 的 illegally selling NVIDIA 芯片 到 China 可以 也 有 been Chinese spy,sources 有 告诉 新的 York 时间.",
+    "publish_time": "Thu, 29 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-10-30T14:34:27.402745",
+    "fetch_method": "RSS",
+    "original_title": "US investigated Chinese spy plot aimed at Nvidia CEO",
+    "original_content": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times."
+  }
+]
