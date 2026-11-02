@@ -1,0 +1,190 @@
+[
+  {
+    "title": "PHP 警告 它 计划 到 发布 2 emergency patches imminently",
+    "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+    "content": "Unconfirmed 报告 声称 PHP2Shell exploit remotely executes 代码 在 PHP sites.",
+    "publish_time": "Wed, 21 Oc",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 10,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 7.35
+    },
+    "collection_time": "2026-11-02T14:56:53.524058",
+    "fetch_method": "RSS",
+    "original_title": "PHP warns it plans to release 2 emergency patches imminently",
+    "original_content": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites."
+  },
+  {
+    "title": "Near-Optimal 首个-Order Regret 为 Bandits 与 反馈 Graphs",
+    "url": "https://arxiv.org/abs/2610.40861",
+    "content": "arXiv:2610.40861v1 宣布 Type:新的 Abstract:我们 研究 首个-order regret guarantees 为 adversarial bandits 与 修复,known directed 反馈 graph.为 strongly observable graphs,[ACBDK15] establishes minimax regret 的 $\\widetilde{\\Theta}(\\sqrt{\\alpha T})$,哪里 $\\alpha$ denotes ind",
+    "publish_time": "Mon, 02 No",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.65
+    },
+    "collection_time": "2026-11-02T14:56:53.524612",
+    "fetch_method": "RSS",
+    "original_title": "Near-Optimal First-Order Regret for Bandits with Feedback Graphs",
+    "original_content": "arXiv:2610.40861v1 Announce Type: new \nAbstract: We study first-order regret guarantees for adversarial bandits with a fixed, known directed feedback graph. For strongly observable graphs, [ACBDK15] establishes a minimax regret of $\\widetilde{\\Theta}(\\sqrt{\\alpha T})$, where $\\alpha$ denotes the ind"
+  },
+  {
+    "title": "Judge 允许 NAACP 诉讼 超过 xAI 数据中心 pollution 到 move forward",
+    "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+    "content": "NAACP 诉讼 accuses SpaceX-owned AI 公司 的 violating Clean Air Act.",
+    "publish_time": "Sat, 31 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-11-02T14:56:53.524188",
+    "fetch_method": "RSS",
+    "original_title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+    "original_content": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act."
+  },
+  {
+    "title": "Intel’s 股票 崩溃,knocking $12B 从 政府’s stake",
+    "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+    "content": "Intel 是 being hurt 由 PC 销售 作为 AI 行业 gobbles 内存 和 other components causing PC 价格 到 上升.",
+    "publish_time": "Fri, 30 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-11-02T14:56:53.524233",
+    "fetch_method": "RSS",
+    "original_title": "Intel’s stock crashes, knocking $12B from government’s stake",
+    "original_content": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise."
+  },
+  {
+    "title": "Download:Anthropic’s 上市,smarter 驱动 grids,和 exercise pills",
+    "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
+    "content": "这个 是 今天&#8217;s 版本 的 Download,我们的 weekday newsletter 那个 提供 daily dose 的 什么&#8217;s going 在 在 世界 的 技术.将 真实 Anthropic please stand 上?之后 周 的 frenzied speculation,Anthropic 有 filed 它的 上市 prospectus.335-page document (100 pages",
+    "publish_time": "Tue, 27 Oc",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-11-02T14:56:53.524012",
+    "fetch_method": "RSS",
+    "original_title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages"
+  },
+  {
+    "title": "OpenAI reportedly lowers 融资 目标 为 新的 轮",
+    "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+    "content": "OpenAI’s 最新 融资 轮 doesn't seem 到 be living 上 到 expectations.",
+    "publish_time": "Sat, 31 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.05
+    },
+    "collection_time": "2026-11-02T14:56:53.524197",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI reportedly lowers funding target for new round",
+    "original_content": "OpenAI’s latest funding round doesn't seem to be living up to expectations."
+  },
+  {
+    "title": "Announcing Project ProtoStar:Making Publicly 资助 Science AI-Ready",
+    "url": "https://huggingface.co/blog/announcing-project-protostar",
+    "content": "",
+    "publish_time": "Thu, 29 Oc",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-11-02T14:56:53.523746",
+    "fetch_method": "RSS",
+    "original_title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+    "original_content": ""
+  },
+  {
+    "title": "Anthropic 预计 到 receive high ‘junk’ 评分 从 credit 机构 以下 上市,FT 报告 表示",
+    "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+    "content": "Blackstone's 预测 是 刚刚 预测,但 naturally,high junk 评分 将会 制作 它 更多 困难 和 costlier 为 Anthropic 到 提高 资金 到 keep 融资 它的 massive spending 那个 有 undergirded 它的 业务.",
+    "publish_time": "Fri, 30 Oc",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-11-02T14:56:53.524249",
+    "fetch_method": "RSS",
+    "original_title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+    "original_content": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business."
+  },
+  {
+    "title": "新闻",
+    "source": "www.anthropic.com",
+    "content": "Claude Opus 5.5 导致 在 agentic 编程 和 knowledge 工作,和 成本 40 更少 到 运行 than Opus 5 在 typical workloads.是 committing portion 的 Anthropics 股份 到 Anthropic 公开 Benefit 基金,新的 entity 与 structure 那个 增加 stake 作为 公司 增长.今天,Anthropic,P",
+    "url": "https://www.anthropic.com/news",
+    "publish_time": "2026-11-01",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-11-02T14:57:08.221520",
+    "original_title": "News",
+    "original_content": "Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40 less to run than Opus 5 on typical workloads. Were committing a portion of Anthropics shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows. Today, Anthropic, P"
+  },
+  {
+    "title": "OpenAI 新闻 | OpenAI",
+    "source": "openai.com",
+    "content": "",
+    "url": "https://openai.com/blog",
+    "publish_time": "2026-11-01",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-11-02T14:57:08.221541",
+    "original_title": "OpenAI News | OpenAI",
+    "original_content": ""
+  }
+]
