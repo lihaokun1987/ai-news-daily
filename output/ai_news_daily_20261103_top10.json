@@ -1,0 +1,200 @@
+[
+  {
+    "title": "PHP 警告 它 计划 到 发布 2 emergency patches imminently",
+    "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+    "content": "Unconfirmed 报告 声称 PHP2Shell exploit remotely executes 代码 在 PHP sites.",
+    "publish_time": "Wed, 21 Oc",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 10,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 7.35
+    },
+    "collection_time": "2026-11-03T15:19:50.995842",
+    "fetch_method": "RSS",
+    "original_title": "PHP warns it plans to release 2 emergency patches imminently",
+    "original_content": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites."
+  },
+  {
+    "title": "China's 首个 前沿 AI Export 控制:Mofcom 公告 没有.48",
+    "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
+    "content": "",
+    "publish_time": "2026-11-02",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 154,
+      "comments": 87
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=50334038",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 7,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 6.25
+    },
+    "collection_time": "2026-11-03T15:20:05.168684",
+    "original_title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+    "original_content": ""
+  },
+  {
+    "title": "SEC Should 阻止 Anthropic's 上市 到 Protect 公开",
+    "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+    "content": "",
+    "publish_time": "2026-11-02",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 304,
+      "comments": 232
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=50344919",
+    "score": {
+      "importance": 5,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.0
+    },
+    "collection_time": "2026-11-03T15:20:05.168640",
+    "original_title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+    "original_content": ""
+  },
+  {
+    "title": "Omen AI 添加 liquid 知道-如何 在 $16 百万 Aquatic 实验室 收购",
+    "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+    "content": "Two 初创公司 tackling 数据中心 water 问题 是 joining forces 在 $16 百万 交易.",
+    "publish_time": "Mon, 02 No",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-11-03T15:19:50.995743",
+    "fetch_method": "RSS",
+    "original_title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+    "original_content": "Two startups tackling the data center water problem are joining forces in a $16 million deal."
+  },
+  {
+    "title": "Announcing Project ProtoStar:Making Publicly 资助 Science AI-Ready",
+    "url": "https://huggingface.co/blog/announcing-project-protostar",
+    "content": "",
+    "publish_time": "Thu, 29 Oc",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-11-03T15:19:50.996370",
+    "fetch_method": "RSS",
+    "original_title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+    "original_content": ""
+  },
+  {
+    "title": "新闻",
+    "source": "www.anthropic.com",
+    "content": "Claude Opus 5.5 导致 在 agentic 编程 和 knowledge 工作,和 成本 40 更少 到 运行 than Opus 5 在 typical workloads.是 committing portion 的 Anthropics 股份 到 Anthropic 公开 Benefit 基金,新的 entity 与 structure 那个 增加 stake 作为 公司 增长.今天,Anthropic,P",
+    "url": "https://www.anthropic.com/news",
+    "publish_time": "2026-11-02",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-11-03T15:20:05.168425",
+    "original_title": "News",
+    "original_content": "Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40 less to run than Opus 5 on typical workloads. Were committing a portion of Anthropics shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows. Today, Anthropic, P"
+  },
+  {
+    "title": "OpenAI 新闻 | OpenAI",
+    "source": "openai.com",
+    "content": "",
+    "url": "https://openai.com/blog",
+    "publish_time": "2026-11-02",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-11-03T15:20:05.168461",
+    "original_title": "OpenAI News | OpenAI",
+    "original_content": ""
+  },
+  {
+    "title": "OpenAI 新闻 | OpenAI",
+    "source": "openai.com",
+    "content": "",
+    "url": "https://openai.com/news",
+    "publish_time": "2026-11-02",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-11-03T15:20:05.168474",
+    "original_title": "OpenAI News | OpenAI",
+    "original_content": ""
+  },
+  {
+    "title": "新闻",
+    "source": "deepmind.google",
+    "content": "发现 我们的 最新 AI breakthroughs,projects,和 updates 我 accept Google's Terms 和 Conditions 和 acknowledge 那个 我的 information 将 be 使用 在 accordance withGoogle's 隐私 政策.",
+    "url": "https://deepmind.google/blog/",
+    "publish_time": "2026-11-02",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-11-03T15:20:05.168500",
+    "original_title": "News",
+    "original_content": "Discover our latest AI breakthroughs, projects, and updates I accept Google's Terms and Conditions and acknowledge that my information will be used in accordance withGoogle's Privacy Policy."
+  },
+  {
+    "title": "Goldman 限制 Traders 和 Bankers 从 使用 一些 AI 工具",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-02/goldman-restricts-traders-and-bankers-from-using-some-ai-tools",
+    "content": "",
+    "publish_time": "2026-11-02",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 26,
+      "comments": 4
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=50341065",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.65
+    },
+    "collection_time": "2026-11-03T15:20:05.168775",
+    "original_title": "Goldman Restricts Traders and Bankers from Using Some AI Tools",
+    "original_content": ""
+  }
+]
