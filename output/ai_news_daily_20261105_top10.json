@@ -1,0 +1,200 @@
+[
+  {
+    "title": "PHP 警告 它 计划 到 发布 2 emergency patches imminently",
+    "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+    "content": "Unconfirmed 报告 声称 PHP2Shell exploit remotely executes 代码 在 PHP sites.",
+    "publish_time": "Wed, 21 Oc",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 10,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 7.35
+    },
+    "collection_time": "2026-11-05T15:28:41.881802",
+    "fetch_method": "RSS",
+    "original_title": "PHP warns it plans to release 2 emergency patches imminently",
+    "original_content": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites."
+  },
+  {
+    "title": "C-GRPO:Conformal 集团 Relative 政策 Optimization",
+    "url": "https://arxiv.org/abs/2611.05591",
+    "content": "arXiv:2611.05591v1 宣布 Type:新的 Abstract:推理-oriented 语言 模型 训练 increasingly relies 在 multiple 在-政策 rollouts,但 标准 集团 Relative 政策 Optimization (GRPO) 使用 修复 集团 大小,wasting compute 在 简单 提示词 和 下-exploring 困难 ones.Existing adap",
+    "publish_time": "Thu, 05 No",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-11-05T15:28:41.882275",
+    "fetch_method": "RSS",
+    "original_title": "C-GRPO: Conformal Group Relative Policy Optimization",
+    "original_content": "arXiv:2611.05591v1 Announce Type: new \nAbstract: Reasoning-oriented language model training increasingly relies on multiple on-policy rollouts, but standard Group Relative Policy Optimization (GRPO) uses a fixed group size, wasting compute on easy prompts and under-exploring hard ones. Existing adap"
+  },
+  {
+    "title": "Building 在 开源 AI?Hugging 面临’s 政策 chief 在 成本,风险,和 trade-offs",
+    "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
+    "content": "开源 模型 是 becoming 更多 mainstream 作为 enterprises,政府 和 初创公司 alike rely 在 promise 的 lower 成本,更多 控制,和 更多 flexibility.但 作为 increasingly capable 模型 成为 更多 freely 可用,如何 do 公司 capture 价值?和 与 Chinese 开放 模型 gaining",
+    "publish_time": "Wed, 04 No",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-11-05T15:28:41.881690",
+    "fetch_method": "RSS",
+    "original_title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+    "original_content": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining"
+  },
+  {
+    "title": "AI PACs spent millions trying 到 shape Congress — 这里’s 如何 他们 fared",
+    "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+    "content": "AI 行业 PACs spent millions influencing 2026 midterms,与 mixed 结果.Political 集团 是 已经 looking toward 下一个 election 周期.",
+    "publish_time": "Wed, 04 No",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-11-05T15:28:41.881593",
+    "fetch_method": "RSS",
+    "original_title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+    "original_content": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle."
+  },
+  {
+    "title": "DuckDuckGo pitches itself 到 schools amid backlash 超过 Google’s AI 政策",
+    "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+    "content": "DuckDuckGo 是 courting schools frustrated 由 Google's AI restrictions,pointing educators 到 它的 search engine 和 options 到 disable AI 功能.",
+    "publish_time": "Wed, 04 No",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-11-05T15:28:41.881675",
+    "fetch_method": "RSS",
+    "original_title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+    "original_content": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features."
+  },
+  {
+    "title": "OpenAI 到 收购 Pierre 计算机 公司",
+    "url": "https://openai.com/index/openai-to-acquire-pierre/",
+    "content": "",
+    "publish_time": "2026-11-04",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 227,
+      "comments": 69
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=50366863",
+    "score": {
+      "importance": 5,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.0
+    },
+    "collection_time": "2026-11-05T15:28:56.288862",
+    "original_title": "OpenAI to acquire Pierre Computer Company",
+    "original_content": ""
+  },
+  {
+    "title": "发布 HN:Kino AI (YC S23) – AI media manager 和 视频 editor",
+    "url": "https://news.ycombinator.com/item?id=50368804",
+    "content": "Hi HN!我'm Luke 从 Kino (https://kino.AI).Kino lets 你 制作 great 视频 与 你的 智能体 和 你的 teammates.存储 的 footage 和 资产,rich 视频 editor,和 评测 links 为 teammates 是 所有 bundled 进入 one.你的 colleagues 和 Codex / Claude 代码 能 工作 在 same timeline 与 re",
+    "publish_time": "Wed, 04 No",
+    "source": "Hacker News Front Page",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-11-05T15:28:41.882682",
+    "fetch_method": "RSS",
+    "original_title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+    "original_content": "Hi HN! I'm Luke from Kino (https://kino.ai). Kino lets you make great videos with your agents and your teammates. Storage of footage and assets, a rich video editor, and review links for teammates are all bundled into one. Your colleagues and Codex / Claude Code can work on the same timeline with re"
+  },
+  {
+    "title": "AI 是 forcing 我们 到 pay off 40 年 的 technical 债务",
+    "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+    "content": "",
+    "publish_time": "2026-11-04",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 1157,
+      "comments": 668
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=50364336",
+    "score": {
+      "importance": 3,
+      "authority": 5,
+      "spread": 10,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-11-05T15:28:56.288755",
+    "original_title": "AI is forcing us to pay off 40 years of technical debt",
+    "original_content": ""
+  },
+  {
+    "title": "Meta 收购 AI 编程 初创公司 Conductor",
+    "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+    "content": "初创公司 允许 软件 工程师 到 部署 团队 的 智能体 到 工作 在 various aspects 的 project simultaneously.",
+    "publish_time": "Wed, 04 No",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-11-05T15:28:41.881640",
+    "fetch_method": "RSS",
+    "original_title": "Meta acquires AI coding startup Conductor",
+    "original_content": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously."
+  },
+  {
+    "title": "Announcing Project ProtoStar:Making Publicly 资助 Science AI-Ready",
+    "url": "https://huggingface.co/blog/announcing-project-protostar",
+    "content": "",
+    "publish_time": "Thu, 29 Oc",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-11-05T15:28:41.882002",
+    "fetch_method": "RSS",
+    "original_title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+    "original_content": ""
+  }
+]
