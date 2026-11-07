@@ -1,0 +1,196 @@
+[
+  {
+    "title": "PHP 警告 它 计划 到 发布 2 emergency patches imminently",
+    "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+    "content": "Unconfirmed 报告 声称 PHP2Shell exploit remotely executes 代码 在 PHP sites.",
+    "publish_time": "Wed, 21 Oc",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 10,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 7.35
+    },
+    "collection_time": "2026-11-07T14:40:43.549608",
+    "fetch_method": "RSS",
+    "original_title": "PHP warns it plans to release 2 emergency patches imminently",
+    "original_content": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites."
+  },
+  {
+    "title": "Download:Texas’s fragile AI boom 和 energy 政策 转变",
+    "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+    "content": "这个 是 今天&#8217;s 版本 的 Download,我们的 weekday newsletter 那个 提供 daily dose 的 什么&#8217;s going 在 在 世界 的 技术.Texas 是 新的 epicenter 的 AI 数据中心 buildout.那个 可能 be kaput.Texas 是 fastest-growing 数据中心 市场 在 我们 和 ground",
+    "publish_time": "Thu, 05 No",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-11-07T14:40:43.549058",
+    "fetch_method": "RSS",
+    "original_title": "The Download: Texas’s fragile AI boom and energy policy shifts",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is the fastest-growing data center market in the US and ground "
+  },
+  {
+    "title": "Meta 推出 空间,新的 way 到 协作 与 你的 Muse 智能体",
+    "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+    "content": "Meta's Muse 智能体 继续 到 获得 新的 功能 和 integrations.空间 promises 到 be 新的 way 到 interact 与 AI helpers.",
+    "publish_time": "Fri, 06 No",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-11-07T14:40:43.549315",
+    "fetch_method": "RSS",
+    "original_title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+    "original_content": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers."
+  },
+  {
+    "title": "Airbnb 表示 它’s launching AI travel 智能体 在 首个 half 的 2027",
+    "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+    "content": "Airbnb 表示 它的 upcoming AI 智能体 将 帮助 travelers 计划 trips,比较 options,管理 bookings,和 获得 assistance throughout 他们的 stay.",
+    "publish_time": "Thu, 05 No",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-11-07T14:40:43.549387",
+    "fetch_method": "RSS",
+    "original_title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+    "original_content": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay."
+  },
+  {
+    "title": "OpenAI 发布 新的 cybersecurity 模型.是 那个 enough?",
+    "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+    "content": "OpenAI's newest cybersecurity 模型 来 出 作为 AI 实验室 面临 scrutiny 的 他们的 工作 到 protect digital infrastructure.",
+    "publish_time": "Thu, 05 No",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-11-07T14:40:43.549412",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI released a new cybersecurity model. Is that enough?",
+    "original_content": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure."
+  },
+  {
+    "title": "Closer Look 在 Phonon TTS.Launching High-质量 在-设备 语音 那个 Tops Benchmarks.",
+    "url": "https://huggingface.co/blog/phonon-tts",
+    "content": "",
+    "publish_time": "Thu, 05 No",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-11-07T14:40:43.549159",
+    "fetch_method": "RSS",
+    "original_title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+    "original_content": ""
+  },
+  {
+    "title": "Cuban:Facebook knowingly 运行 AI deepfake scam ads;docs 表示 $16B fraud 收入",
+    "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+    "content": "文章 URL:https://finance.yahoo.com/技术/AI/文章/mark-cuban-表示-facebook-knowingly-213000020.html Comments URL:https://新闻.ycombinator.com/item?id=50385870 Points:500 # Comments:224",
+    "publish_time": "Thu, 05 No",
+    "source": "Hacker News Best",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-11-07T14:40:43.549662",
+    "fetch_method": "RSS",
+    "original_title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+    "original_content": "Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html\nComments URL: https://news.ycombinator.com/item?id=50385870\nPoints: 500\n# Comments: 224"
+  },
+  {
+    "title": "Turkey 使用 AI 和 Other 科技 到 Claw Back 100 Looted Antiquities 从 我们",
+    "url": "https://www.reddit.com/r/artificial/comments/1xpk0wl/turkey_uses_ai_and_other_tech_to_claw_back_100/",
+    "content": "这个 是 刚刚 cool!去 到 展示 你 那个 AI 是 not inherently bad.Great 新闻!32 submitted 由 32 uZealousidealOwl2026 link 32 comments",
+    "publish_time": "2026-11-06",
+    "source": "Reddit r/artificial",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-11-07T14:40:57.981423",
+    "original_title": "Turkey Uses AI and Other Tech to Claw Back 100 Looted Antiquities from the US",
+    "original_content": "This is just cool! Goes to show you that AI is not inherently bad. Great news! 32 submitted by 32 uZealousidealOwl2026 link 32 comments"
+  },
+  {
+    "title": "UK 政府 询问 14,000 Children 关于 AI.它 Ignored 他们的 答案.",
+    "url": "https://www.reddit.com/r/artificial/comments/1xpcsds/the_uk_government_asked_14000_children_about_ai/",
+    "content": "32 submitted 由 32 ucalliope_kekule link 32 comments",
+    "publish_time": "2026-11-06",
+    "source": "Reddit r/artificial",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-11-07T14:40:57.981435",
+    "original_title": "The UK Government Asked 14,000 Children About AI. It Ignored Their Answer.",
+    "original_content": "32 submitted by 32 ucalliope_kekule link 32 comments"
+  },
+  {
+    "title": "Announcing Project ProtoStar:Making Publicly 资助 Science AI-Ready",
+    "url": "https://huggingface.co/blog/announcing-project-protostar",
+    "content": "",
+    "publish_time": "Thu, 29 Oc",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-11-07T14:40:43.549213",
+    "fetch_method": "RSS",
+    "original_title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+    "original_content": ""
+  }
+]
