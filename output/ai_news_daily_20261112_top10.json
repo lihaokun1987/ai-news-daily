@@ -1,0 +1,199 @@
+[
+  {
+    "title": "PHP 警告 它 计划 到 发布 2 emergency patches imminently",
+    "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+    "content": "Unconfirmed 报告 声称 PHP2Shell exploit remotely executes 代码 在 PHP sites.",
+    "publish_time": "Wed, 21 Oc",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 10,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 7.35
+    },
+    "collection_time": "2026-11-12T15:49:22.076865",
+    "fetch_method": "RSS",
+    "original_title": "PHP warns it plans to release 2 emergency patches imminently",
+    "original_content": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites."
+  },
+  {
+    "title": "United Airlines 禁止 AI 智能体 从 booking flights 在 behalf 的 travelers",
+    "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+    "content": "",
+    "publish_time": "2026-11-11",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 520,
+      "comments": 512
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=50458900",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 10,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.75
+    },
+    "collection_time": "2026-11-12T15:49:36.699657",
+    "original_title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+    "original_content": ""
+  },
+  {
+    "title": "Congress 到 call Jensen Huang 在 到 答案 为 alleged Chinese spy affair",
+    "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+    "content": "NVIDIA 首席执行官 Jensen Huang 有 直到 结束 的 天 Wednesday 到 答案 call 从 House Republicans 为 封闭-door briefing 在 他的 affair 与 alleged Chinese spy.",
+    "publish_time": "Wed, 11 No",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-11-12T15:49:22.076580",
+    "fetch_method": "RSS",
+    "original_title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+    "original_content": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy."
+  },
+  {
+    "title": "安全性 Flaws Across UK 政府 Sites Exposed ‘God-层’ Information",
+    "url": "https://www.wired.com/story/security-flaws-across-uk-government-sites-exposed-god-tier-information/",
+    "content": "研究人员’s trawl 通过 publicly 可用 代码 发现 私有 information 是 在 风险 across multiple departments.",
+    "publish_time": "Tue, 10 No",
+    "source": "Wired AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-11-12T15:49:22.076799",
+    "fetch_method": "RSS",
+    "original_title": "Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information",
+    "original_content": "A researcher’s trawl through publicly available code found private information was at risk across multiple departments."
+  },
+  {
+    "title": "Closer Look 在 Phonon TTS.Launching High-质量 在-设备 语音 那个 Tops Benchmarks.",
+    "url": "https://huggingface.co/blog/phonon-tts",
+    "content": "",
+    "publish_time": "Thu, 05 No",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-11-12T15:49:22.076938",
+    "fetch_method": "RSS",
+    "original_title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+    "original_content": ""
+  },
+  {
+    "title": "Download:empty AI climate 声称,和 NVIDIA investigation",
+    "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
+    "content": "这个 是 今天&#8217;s 版本 的 Download,我们的 weekday newsletter 那个 提供 daily dose 的 什么&#8217;s going 在 在 世界 的 技术.Opinion:climate 案例 为 AI 有 not been 制作 —由 Mary Nichols,distinguished counsel 在 UCLA School 的 Law 和 前 chair 的 Cali",
+    "publish_time": "Mon, 09 No",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-11-12T15:49:22.076691",
+    "fetch_method": "RSS",
+    "original_title": "The Download: empty AI climate claims, and an Nvidia investigation",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The climate case for AI has not been made  —By Mary Nichols, distinguished counsel at the UCLA School of Law and the former chair of the Cali"
+  },
+  {
+    "title": "Huawei 发布 MACaQ,它的 internal quantizer 为 本地 推理",
+    "url": "https://github.com/huawei-csl/MACaQ",
+    "content": "文章 URL:https://github.com/huawei-csl/MACaQ Comments URL:https://新闻.ycombinator.com/item?id=50458166 Points:91 # Comments:23",
+    "publish_time": "Wed, 11 No",
+    "source": "Hacker News Front Page",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-11-12T15:49:22.077133",
+    "fetch_method": "RSS",
+    "original_title": "Huawei releases MACaQ, its internal quantizer for local inference",
+    "original_content": "Article URL: https://github.com/huawei-csl/MACaQ\nComments URL: https://news.ycombinator.com/item?id=50458166\nPoints: 91\n# Comments: 23"
+  },
+  {
+    "title": "Announcing Project ProtoStar:Making Publicly 资助 Science AI-Ready",
+    "url": "https://huggingface.co/blog/announcing-project-protostar",
+    "content": "",
+    "publish_time": "Thu, 29 Oc",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-11-12T15:49:22.076983",
+    "fetch_method": "RSS",
+    "original_title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+    "original_content": ""
+  },
+  {
+    "title": "OSS projects banning AI-生成 contributions",
+    "url": "https://osssaysno.com",
+    "content": "",
+    "publish_time": "2026-11-11",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 62,
+      "comments": 107
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=50451102",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 6,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-11-12T15:49:36.699769",
+    "original_title": "OSS projects banning AI-generated contributions",
+    "original_content": ""
+  },
+  {
+    "title": "新闻",
+    "source": "www.anthropic.com",
+    "content": "我们的 最 capable 模型 为 daunting technical 工作,Claude Fable 5.2 和 Claude Mythos 5.2 set 新的 bar 在 编程,finance,和 sciences.是 committing portion 的 Anthropics 股份 到 Anthropic 公开 Benefit 基金,新的 entity 与 structure 那个 增加 stake 作为 公司 g",
+    "url": "https://www.anthropic.com/news",
+    "publish_time": "2026-11-11",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-11-12T15:49:36.699495",
+    "original_title": "News",
+    "original_content": "Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. Were committing a portion of Anthropics shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company g"
+  }
+]
