@@ -1,0 +1,195 @@
+[
+  {
+    "title": "PHP 警告 它 计划 到 发布 2 emergency patches imminently",
+    "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+    "content": "Unconfirmed 报告 声称 PHP2Shell exploit remotely executes 代码 在 PHP sites.",
+    "publish_time": "Wed, 21 Oc",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 10,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 7.35
+    },
+    "collection_time": "2026-11-13T15:26:32.088513",
+    "fetch_method": "RSS",
+    "original_title": "PHP warns it plans to release 2 emergency patches imminently",
+    "original_content": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites."
+  },
+  {
+    "title": "Democrats 发布 NVIDIA investigation,写 scathing letter 在 Huang’s ‘scheme’ 与 Trump",
+    "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+    "content": "这个 Congressional investigation 进入 NVIDIA's China 销售 和 它的 dealings 与 Trump 是 秒 one,如此 far,自从 新闻 的 alleged spy affair broke.",
+    "publish_time": "Thu, 12 No",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 8,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.9
+    },
+    "collection_time": "2026-11-13T15:26:32.088255",
+    "fetch_method": "RSS",
+    "original_title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+    "original_content": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke."
+  },
+  {
+    "title": "Anthropic 上市",
+    "url": "https://ipo.anthropic.com/us/",
+    "content": "",
+    "publish_time": "2026-11-12",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 900,
+      "comments": 852
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=50465829",
+    "score": {
+      "importance": 5,
+      "authority": 5,
+      "spread": 10,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-11-13T15:26:49.978345",
+    "original_title": "Anthropic IPO",
+    "original_content": ""
+  },
+  {
+    "title": "Closer Look 在 Phonon TTS.Launching High-质量 在-设备 语音 那个 Tops Benchmarks.",
+    "url": "https://huggingface.co/blog/phonon-tts",
+    "content": "",
+    "publish_time": "Thu, 05 No",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-11-13T15:26:32.088207",
+    "fetch_method": "RSS",
+    "original_title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+    "original_content": ""
+  },
+  {
+    "title": "Nectar 发布 AI 智能体 到 automate creator discovery 和 outreach 为 brands",
+    "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+    "content": "Nectar's 新的 AI 智能体 automates influencer marketing,helping brands 发现 creators,管理 outreach 和 partnerships,和 track campaign 结果.",
+    "publish_time": "Thu, 12 No",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-11-13T15:26:32.088314",
+    "fetch_method": "RSS",
+    "original_title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+    "original_content": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results."
+  },
+  {
+    "title": "SoftBank’s 十亿-美元 损失 可能 有 put cap 在 AI’s natural gas 雄心",
+    "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+    "content": "SoftBank 失去 超过 $3 十亿 preordering natural gas turbines 到 驱动 AI 数据中心.这里's 什么 损失 means 到 驱动 市场.",
+    "publish_time": "Thu, 12 No",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-11-13T15:26:32.088356",
+    "fetch_method": "RSS",
+    "original_title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+    "original_content": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets."
+  },
+  {
+    "title": "Jensen Huang agrees 到 testify 之前 Congress",
+    "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
+    "content": "Huang,谁 是 ousted 作为 首席执行官 以下 报告 的 alleged affair 与 woman suspected 的 spying 为 China,agreed 到 testify Wednesday 之后 several senior lawmakers 威胁 到 subpoena 他.",
+    "publish_time": "Thu, 12 No",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-11-13T15:26:32.088373",
+    "fetch_method": "RSS",
+    "original_title": "Jensen Huang agrees to testify before Congress",
+    "original_content": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him."
+  },
+  {
+    "title": "NVIDIA privately 确认 它 可以 track 芯片 到 fight smuggling,甚至 作为 行业 publicly questioned feasibility",
+    "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+    "content": "Representatives 从 NVIDIA 告诉 Illinois representative Bill Foster 那个 它 将会 be technically 可能 到 implement anti-smuggling 测量 called 为 在 芯片 安全性 Act,Foster 告诉 MIT 技术 评测 在 采访 在 Thursday,甚至 当 行业 集团 声称 他们 是 “pote",
+    "publish_time": "Thu, 12 No",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-11-13T15:26:32.087995",
+    "fetch_method": "RSS",
+    "original_title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+    "original_content": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “pote"
+  },
+  {
+    "title": "Download:empty AI climate 声称,和 NVIDIA investigation",
+    "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
+    "content": "这个 是 今天&#8217;s 版本 的 Download,我们的 weekday newsletter 那个 提供 daily dose 的 什么&#8217;s going 在 在 世界 的 技术.Opinion:climate 案例 为 AI 有 not been 制作 —由 Mary Nichols,distinguished counsel 在 UCLA School 的 Law 和 前 chair 的 Cali",
+    "publish_time": "Mon, 09 No",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-11-13T15:26:32.088095",
+    "fetch_method": "RSS",
+    "original_title": "The Download: empty AI climate claims, and an Nvidia investigation",
+    "original_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The climate case for AI has not been made  —By Mary Nichols, distinguished counsel at the UCLA School of Law and the former chair of the Cali"
+  },
+  {
+    "title": "新闻",
+    "source": "www.anthropic.com",
+    "content": "我们的 最 capable 模型 为 daunting technical 工作,Claude Fable 5.2 和 Claude Mythos 5.2 set 新的 bar 在 编程,finance,和 sciences.是 committing portion 的 Anthropics 股份 到 Anthropic 公开 Benefit 基金,新的 entity 与 structure 那个 增加 stake 作为 公司 g",
+    "url": "https://www.anthropic.com/news",
+    "publish_time": "2026-11-12",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-11-13T15:26:49.978184",
+    "original_title": "News",
+    "original_content": "Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. Were committing a portion of Anthropics shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company g"
+  }
+]
