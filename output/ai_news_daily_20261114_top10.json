@@ -1,0 +1,202 @@
+[
+  {
+    "title": "PHP 警告 它 计划 到 发布 2 emergency patches imminently",
+    "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+    "content": "Unconfirmed 报告 声称 PHP2Shell exploit remotely executes 代码 在 PHP sites.",
+    "publish_time": "Wed, 21 Oc",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 10,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 7.35
+    },
+    "collection_time": "2026-11-14T15:07:17.942698",
+    "fetch_method": "RSS",
+    "original_title": "PHP warns it plans to release 2 emergency patches imminently",
+    "original_content": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites."
+  },
+  {
+    "title": "Democrats 发布 NVIDIA investigation,写 scathing letter 在 Huang’s ‘scheme’ 与 Trump",
+    "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+    "content": "这个 Congressional investigation 进入 NVIDIA's China 销售 和 它的 dealings 与 Trump 是 秒 one,如此 far,自从 新闻 的 alleged spy affair broke.",
+    "publish_time": "Thu, 12 No",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 8,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.9
+    },
+    "collection_time": "2026-11-14T15:07:17.942542",
+    "fetch_method": "RSS",
+    "original_title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+    "original_content": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke."
+  },
+  {
+    "title": "实时 airband 在 所有 frequencies 从 KORS.Victoria,CA 也 ground 停止",
+    "url": "https://orcasairband.com/",
+    "content": "",
+    "publish_time": "2026-11-13",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 253,
+      "comments": 59
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=50490593",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.35
+    },
+    "collection_time": "2026-11-14T15:07:31.395414",
+    "original_title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+    "original_content": ""
+  },
+  {
+    "title": "Export-禁止 NVIDIA 芯片 是 behind China’s 最 powerful AI 模型 — uh-oh,Jensen!",
+    "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+    "content": "新的 研究 展示 最 高级 AI 模型 从 China 是 训练 在 禁止 NVIDIA 芯片.",
+    "publish_time": "Fri, 13 No",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-11-14T15:07:17.942482",
+    "fetch_method": "RSS",
+    "original_title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+    "original_content": "New research shows the most advanced AI models from China were trained on banned Nvidia chips."
+  },
+  {
+    "title": "Nectar 发布 AI 智能体 到 automate creator discovery 和 outreach 为 brands",
+    "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+    "content": "Nectar's 新的 AI 智能体 automates influencer marketing,helping brands 发现 creators,管理 outreach 和 partnerships,和 track campaign 结果.",
+    "publish_time": "Thu, 12 No",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-11-14T15:07:17.942592",
+    "fetch_method": "RSS",
+    "original_title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+    "original_content": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results."
+  },
+  {
+    "title": "Closer Look 在 Phonon TTS.Launching High-质量 在-设备 语音 那个 Tops Benchmarks.",
+    "url": "https://huggingface.co/blog/phonon-tts",
+    "content": "",
+    "publish_time": "Thu, 05 No",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-11-14T15:07:17.942934",
+    "fetch_method": "RSS",
+    "original_title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+    "original_content": ""
+  },
+  {
+    "title": "NVIDIA privately 确认 它 可以 track 芯片 到 fight smuggling,甚至 作为 行业 publicly questioned feasibility",
+    "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+    "content": "Representatives 从 NVIDIA 告诉 Illinois representative Bill Foster 那个 它 将会 be technically 可能 到 implement anti-smuggling 测量 called 为 在 芯片 安全性 Act,Foster 告诉 MIT 技术 评测 在 采访 在 Thursday,甚至 当 行业 集团 声称 他们 是 “pote",
+    "publish_time": "Thu, 12 No",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-11-14T15:07:17.942739",
+    "fetch_method": "RSS",
+    "original_title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+    "original_content": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “pote"
+  },
+  {
+    "title": "NVIDIA Allegedly Engineered Scarcity 由 融资 AI 初创公司 到 购买 它的 GPU",
+    "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+    "content": "",
+    "publish_time": "2026-11-13",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 358,
+      "comments": 184
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=50493251",
+    "score": {
+      "importance": 5,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.0
+    },
+    "collection_time": "2026-11-14T15:07:31.395382",
+    "original_title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+    "original_content": ""
+  },
+  {
+    "title": "OpenAI 是 如此 convinced 那个 LLMs 将 成为 brains 为 机器人 那个 它 有 disbanded 它的 机器人技术 团队",
+    "url": "https://www.reddit.com/r/artificial/comments/1xvivdy/openai_is_so_convinced_that_llms_will_become/",
+    "content": "httpsfortune.com20261113openai-disbands-机器人技术-团队-作为-它的-通用-模型-开始-running-机器人 32 submitted 由 32 uEliv_nurotic link 32 comments",
+    "publish_time": "2026-11-13",
+    "source": "Reddit r/artificial",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-11-14T15:07:31.395292",
+    "original_title": "OpenAI is so convinced that LLMs will become brains for robots that it has disbanded its robotics team",
+    "original_content": "httpsfortune.com20261113openai-disbands-robotics-team-as-its-general-models-start-running-robots 32 submitted by 32 uEliv_nurotic link 32 comments"
+  },
+  {
+    "title": "Jensen Huang’s departure blasts big hole 在 AI 初创公司 融资,VCs 和 创始人 表示",
+    "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+    "content": "NVIDIA poured tens 的 billions 进入 AI 初创公司 下 Huang.没有 他 在 helm,创始人 和 VCs 是 bracing 为 smaller checks 和 lower valuations.",
+    "publish_time": "Fri, 13 No",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-11-14T15:07:17.942453",
+    "fetch_method": "RSS",
+    "original_title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+    "original_content": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations."
+  }
+]
