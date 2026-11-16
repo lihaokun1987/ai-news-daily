@@ -1,0 +1,198 @@
+[
+  {
+    "title": "PHP 警告 它 计划 到 发布 2 emergency patches imminently",
+    "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+    "content": "Unconfirmed 报告 声称 PHP2Shell exploit remotely executes 代码 在 PHP sites.",
+    "publish_time": "Wed, 21 Oc",
+    "source": "Ars Technica",
+    "score": {
+      "importance": 10,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 7.35
+    },
+    "collection_time": "2026-11-16T15:25:47.397184",
+    "fetch_method": "RSS",
+    "original_title": "PHP warns it plans to release 2 emergency patches imminently",
+    "original_content": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites."
+  },
+  {
+    "title": "改进的 Regret via Variance-Aware 政策 Optimization 在 Adversarial MDPs",
+    "url": "https://arxiv.org/abs/2611.17469",
+    "content": "arXiv:2611.17469v1 宣布 Type:新的 Abstract:我们 研究 episodic adversarial MDPs 与 unknown dynamics 和 full-information rewards 和 实现 regret 与 leading term $\\widetilde O(\\sqrt{H^3SAK})$.这里 $H$ 是 horizon,$S$ total number 的 状态 across decision 层,$$ number 的",
+    "publish_time": "Mon, 16 No",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-11-16T15:25:47.397342",
+    "fetch_method": "RSS",
+    "original_title": "Improved Regret via Variance-Aware Policy Optimization in Adversarial MDPs",
+    "original_content": "arXiv:2611.17469v1 Announce Type: new \nAbstract: We study episodic adversarial MDPs with unknown dynamics and full-information rewards and achieve regret with leading term $\\widetilde O(\\sqrt{H^3SAK})$. Here $H$ is the horizon, $S$ the total number of states across decision layers, $A$ the number of"
+  },
+  {
+    "title": "Apple 发布 新的 应用 到 研究 如何 people 使用 AI 为 health",
+    "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+    "content": "Apple's 新的 应用 为 研究 将 答案 everyday medical questions",
+    "publish_time": "Mon, 16 No",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-11-16T15:25:47.396845",
+    "fetch_method": "RSS",
+    "original_title": "Apple launches new app to study how people use AI for health",
+    "original_content": "Apple's new app for a study will answer everyday medical questions"
+  },
+  {
+    "title": "Export-禁止 NVIDIA 芯片 是 behind China’s 最 powerful AI 模型 — uh-oh,Jensen!",
+    "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+    "content": "新的 研究 展示 最 高级 AI 模型 从 China 是 训练 在 禁止 NVIDIA 芯片.",
+    "publish_time": "Fri, 13 No",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-11-16T15:25:47.396912",
+    "fetch_method": "RSS",
+    "original_title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+    "original_content": "New research shows the most advanced AI models from China were trained on banned Nvidia chips."
+  },
+  {
+    "title": "Closer Look 在 Phonon TTS.Launching High-质量 在-设备 语音 那个 Tops Benchmarks.",
+    "url": "https://huggingface.co/blog/phonon-tts",
+    "content": "",
+    "publish_time": "Thu, 05 No",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-11-16T15:25:47.397266",
+    "fetch_method": "RSS",
+    "original_title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+    "original_content": ""
+  },
+  {
+    "title": "NVIDIA privately 确认 它 可以 track 芯片 到 fight smuggling,甚至 作为 行业 publicly questioned feasibility",
+    "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+    "content": "Representatives 从 NVIDIA 告诉 Illinois representative Bill Foster 那个 它 将会 be technically 可能 到 implement anti-smuggling 测量 called 为 在 芯片 安全性 Act,Foster 告诉 MIT 技术 评测 在 采访 在 Thursday,甚至 当 行业 集团 声称 他们 是 “pote",
+    "publish_time": "Thu, 12 No",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-11-16T15:25:47.397080",
+    "fetch_method": "RSS",
+    "original_title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+    "original_content": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “pote"
+  },
+  {
+    "title": "当 Should LLM 智能体 Forget?内存 Filtering 下 Query-关键 Resolver 误差",
+    "url": "https://arxiv.org/abs/2611.17338",
+    "content": "arXiv:2611.17338v1 宣布 Type:新的 Abstract:LLM 内存 系统 经常 delete facts classified 作为 stale.我们 展示 那个 这个 困难-filtering 步骤 能 减少 downstream 准确率 当 resolver 误差 delete query-关键 facts.Across three 模型,控制 sensitivity intervention moves 困难-dro",
+    "publish_time": "Mon, 16 No",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-11-16T15:25:47.397410",
+    "fetch_method": "RSS",
+    "original_title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
+    "original_content": "arXiv:2611.17338v1 Announce Type: new \nAbstract: LLM memory systems often delete facts classified as stale. We show that this hard-filtering step can reduce downstream accuracy when resolver errors delete query-critical facts. Across three models, a controlled sensitivity intervention moves hard-dro"
+  },
+  {
+    "title": "AI-Voyager:公开-Interest 系统 为 Human-AI Civic 推理 到 Contest 和 Shape Rules 那个 Govern AI",
+    "url": "https://arxiv.org/abs/2611.17564",
+    "content": "arXiv:2611.17564v1 宣布 Type:新的 Abstract:政府 是 writing rules 为 人工智能 那个 decide 什么 counts 作为 automated decision 或 harm,经常 之前 people 他们 affect 有 chance 到 question 他们.我们 推出 AI-Voyager,公开-interest 系统 为 human-AI ci",
+    "publish_time": "Mon, 16 No",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-11-16T15:25:47.397485",
+    "fetch_method": "RSS",
+    "original_title": "AI-Voyager: A Public-Interest System for Human-AI Civic Reasoning to Contest and Shape the Rules That Govern AI",
+    "original_content": "arXiv:2611.17564v1 Announce Type: new \nAbstract: Governments are writing rules for artificial intelligence that decide what counts as an automated decision or a harm, often before the people they affect have a chance to question them. We introduce AI-Voyager, a public-interest system for human-AI ci"
+  },
+  {
+    "title": "所有 AI-生成 代码 should be 开源",
+    "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+    "content": "",
+    "publish_time": "2026-11-15",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 1139,
+      "comments": 611
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=50507303",
+    "score": {
+      "importance": 3,
+      "authority": 5,
+      "spread": 10,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-11-16T15:26:01.436632",
+    "original_title": "All AI-generated code should be Open Source",
+    "original_content": ""
+  },
+  {
+    "title": "Export-禁止 NVIDIA 芯片 是 behind China's 最 powerful AI 模型 — uh-oh,Jensen!| TechCrunch",
+    "url": "https://www.reddit.com/r/artificial/comments/1xx4t46/exportbanned_nvidia_chips_are_behind_chinas_most/",
+    "content": "32 submitted 由 32 uIndependentCoast3974 link 32 comments",
+    "publish_time": "2026-11-15",
+    "source": "Reddit r/artificial",
+    "engagement": {
+      "likes": 0
+    },
+    "score": {
+      "importance": 6,
+      "authority": 6,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-11-16T15:26:01.436584",
+    "original_title": "Export-banned Nvidia chips are behind China's most powerful AI models — uh-oh, Jensen! | TechCrunch",
+    "original_content": "32 submitted by 32 uIndependentCoast3974 link 32 comments"
+  }
+]
