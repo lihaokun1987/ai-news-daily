@@ -1,0 +1,193 @@
+[
+  {
+    "title": "OpenAI 发布 新的 图像 classifier 和 ChatGPT warnings 到 combat CSAM",
+    "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+    "content": "ChatGPT 将 禁止 account trying 到 access CSAM content 为 24 小时 作为 警告.",
+    "publish_time": "Mon, 16 No",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 8,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 7.1
+    },
+    "collection_time": "2026-11-17T16:37:56.851342",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+    "original_content": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning."
+  },
+  {
+    "title": "Apple 发布 新的 应用 到 研究 如何 people 使用 AI 为 health",
+    "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+    "content": "Apple's 新的 应用 为 研究 将 答案 everyday medical questions.",
+    "publish_time": "Mon, 16 No",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 6,
+      "total_score": 6.4
+    },
+    "collection_time": "2026-11-17T16:37:56.851386",
+    "fetch_method": "RSS",
+    "original_title": "Apple launches new app to study how people use AI for health",
+    "original_content": "Apple's new app for a study will answer everyday medical questions."
+  },
+  {
+    "title": "Microsoft blames monster email outage 在 软件 defect 推出 在 July 修复",
+    "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
+    "content": "",
+    "publish_time": "2026-11-16",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 308,
+      "comments": 216
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=50517321",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 8,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.35
+    },
+    "collection_time": "2026-11-17T16:38:11.774159",
+    "original_title": "Microsoft blames monster email outage on software defect introduced in July fix",
+    "original_content": ""
+  },
+  {
+    "title": "Closer Look 在 Phonon TTS.Launching High-质量 在-设备 语音 那个 Tops Benchmarks.",
+    "url": "https://huggingface.co/blog/phonon-tts",
+    "content": "",
+    "publish_time": "Thu, 05 No",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-11-17T16:37:56.851508",
+    "fetch_method": "RSS",
+    "original_title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+    "original_content": ""
+  },
+  {
+    "title": "NVIDIA privately 确认 它 可以 track 芯片 到 fight smuggling,甚至 作为 行业 publicly questioned feasibility",
+    "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+    "content": "Representatives 从 NVIDIA 告诉 Illinois representative Bill Foster 那个 它 将会 be technically 可能 到 implement anti-smuggling 测量 called 为 在 芯片 安全性 Act,Foster 告诉 MIT 技术 评测 在 采访 在 Thursday,甚至 当 行业 集团 声称 他们 是 “pote",
+    "publish_time": "Thu, 12 No",
+    "source": "MIT Technology Review",
+    "score": {
+      "importance": 5,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.1
+    },
+    "collection_time": "2026-11-17T16:37:56.851674",
+    "fetch_method": "RSS",
+    "original_title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+    "original_content": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “pote"
+  },
+  {
+    "title": "发布 HN:Axonnic (YC F26) – Sleeves 那个 track fingers 和 estimate force",
+    "url": "https://news.ycombinator.com/item?id=50522776",
+    "content": "Hi HN!我们’re Arsh 和 Max,创始人 的 Axonnic (https://axonnic.com).我们’ve 开发 forearm sleeve 那个 读 muscle activity 到 decode finger movements 和 estimate fingertip force,当 leaving hands bare.它’s 使用 到 record human movement 和 生成 训练 数据 为 dextrous 机器人.H",
+    "publish_time": "Mon, 16 No",
+    "source": "Hacker News Front Page",
+    "score": {
+      "importance": 6,
+      "authority": 7,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.95
+    },
+    "collection_time": "2026-11-17T16:37:56.851885",
+    "fetch_method": "RSS",
+    "original_title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
+    "original_content": "Hi HN! We’re Arsh and Max, founders of Axonnic (https://axonnic.com). We’ve developed a forearm sleeve that reads muscle activity to decode finger movements and estimate fingertip force, while leaving the hands bare. It’s used to record human movement and generate training data for dextrous robots.H"
+  },
+  {
+    "title": "OpenAI 将 embed 安全 研究人员 到 调查 AI subversion",
+    "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+    "content": "OpenAI 将 embed six Apollo 研究 evaluators 到 调查 whether 它的 AI 模型 engage 在 subversive behavior,但 restrictions 在 access 和 disclosure 提高 questions 关于 他们的 independence.",
+    "publish_time": "Mon, 16 No",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-11-17T16:37:56.851335",
+    "fetch_method": "RSS",
+    "original_title": "OpenAI will embed safety researchers to investigate AI subversion",
+    "original_content": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence."
+  },
+  {
+    "title": "新闻",
+    "source": "www.anthropic.com",
+    "content": "我们的 最 capable 模型 为 daunting technical 工作,Claude Fable 5.2 和 Claude Mythos 5.2 set 新的 bar 在 编程,finance,和 sciences.是 committing portion 的 Anthropics 股份 到 Anthropic 公开 Benefit 基金,新的 entity 与 structure 那个 增加 stake 作为 公司 g",
+    "url": "https://www.anthropic.com/news",
+    "publish_time": "2026-11-16",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-11-17T16:38:11.773991",
+    "original_title": "News",
+    "original_content": "Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. Were committing a portion of Anthropics shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company g"
+  },
+  {
+    "title": "新闻",
+    "source": "deepmind.google",
+    "content": "发现 我们的 最新 AI breakthroughs,projects,和 updates 我 accept Google's Terms 和 Conditions 和 acknowledge 那个 我的 information 将 be 使用 在 accordance withGoogle's 隐私 政策.",
+    "url": "https://deepmind.google/blog/",
+    "publish_time": "2026-11-16",
+    "score": {
+      "importance": 3,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.8
+    },
+    "collection_time": "2026-11-17T16:38:11.774032",
+    "original_title": "News",
+    "original_content": "Discover our latest AI breakthroughs, projects, and updates I accept Google's Terms and Conditions and acknowledge that my information will be used in accordance withGoogle's Privacy Policy."
+  },
+  {
+    "title": "机器学习 Curve:2026 国家 AI Employment Law Updates",
+    "url": "https://www.bing.com/news/search?q=AI+machine+learning+2026-11-16",
+    "content": "首个 half 的 2026 带来 重大 发展 regulating 使用 的 AI 在 workplace.我们 有 previously 解决 一些 的...",
+    "publish_time": "2026-11-16",
+    "source": "AI News",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.65
+    },
+    "collection_time": "2026-11-17T16:38:11.773872",
+    "original_title": "The Machine Learning Curve: 2026 National AI Employment Law Updates",
+    "original_content": "The first half of 2026 brought significant developments regulating the use of AI in the workplace. We have previously addressed some of ..."
+  }
+]
