@@ -1,0 +1,194 @@
+[
+  {
+    "title": "Honest Brokers 在 AI 监管:如何 公开 Comments 推出 Evidence 到 Regulators",
+    "url": "https://arxiv.org/abs/2611.21948",
+    "content": "arXiv:2611.21948v1 宣布 Type:新的 Abstract:监管 的 人工智能 是 susceptible 到 various forms 的 capture 由 行业 actors 那个 hold undue 影响 超过 policymaking 处理,due 在 part 到 他们的 information advantage 在 developing 这些 技术.在 跟随",
+    "publish_time": "Wed, 18 No",
+    "source": "arXiv AI",
+    "score": {
+      "importance": 10,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 7.85
+    },
+    "collection_time": "2026-11-18T16:00:37.485618",
+    "fetch_method": "RSS",
+    "original_title": "Honest Brokers in AI Regulation: How Public Comments Introduce Evidence to Regulators",
+    "original_content": "arXiv:2611.21948v1 Announce Type: new \nAbstract: The regulation of Artificial Intelligence is susceptible to various forms of capture by industry actors that hold undue influence over the policymaking process, due in part to their information advantage in developing these technologies. In the follow"
+  },
+  {
+    "title": "模型 ML 提高 $250M 到 automate 投资 banking grunt 工作",
+    "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+    "content": "初创公司 表示 它的 智能体 understand full context 的 交易 那个 bankers 和 consultants 是 working 在 和 能 automatically 更新 financial 模型 和 演示 当 新的 发展 affect 他们的 分析.",
+    "publish_time": "Tue, 17 No",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 8,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.9
+    },
+    "collection_time": "2026-11-18T16:00:37.485300",
+    "fetch_method": "RSS",
+    "original_title": "Model ML raises $250M to automate investment banking grunt work",
+    "original_content": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis."
+  },
+  {
+    "title": "TIBECG:Temporal Information Bottleneck 为 导致-特定 Demographic 隐私 在 ECG Waveform 发布",
+    "url": "https://arxiv.org/abs/2611.21694",
+    "content": "arXiv:2611.21694v1 宣布 Type:新的 Abstract:Transmitting electrocardiogram (ECG) waveform 能 expose demographic information beyond intended diagnostic 任务.我们 评估 TIBECG,architectural temporal information bottleneck,在 个人 导致 extracted 从 hospital twelve-导致 recor",
+    "publish_time": "Wed, 18 No",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-11-18T16:00:37.485450",
+    "fetch_method": "RSS",
+    "original_title": "TIBECG: Temporal Information Bottleneck for Lead-Specific Demographic Privacy in ECG Waveform Release",
+    "original_content": "arXiv:2611.21694v1 Announce Type: new \nAbstract: Transmitting an electrocardiogram (ECG) waveform can expose demographic information beyond an intended diagnostic task. We evaluate TIBECG, an architectural temporal information bottleneck, on individual leads extracted from hospital twelve-lead recor"
+  },
+  {
+    "title": "Urban Representation 学习 为 Identifying Potential Disparities 在 Crime Reporting",
+    "url": "https://arxiv.org/abs/2611.21825",
+    "content": "arXiv:2611.21825v1 宣布 Type:新的 Abstract:开放 crime 数据 支持 urban 安全 分析 但 reflect 报道 incidents 宁愿 than 完成 distribution 的 criminal activity,potentially introducing spatial distortions 在 downstream 分析.我们 提议 self-supervised urban representat",
+    "publish_time": "Wed, 18 No",
+    "source": "arXiv Machine Learning",
+    "score": {
+      "importance": 6,
+      "authority": 9,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.45
+    },
+    "collection_time": "2026-11-18T16:00:37.485508",
+    "fetch_method": "RSS",
+    "original_title": "Urban Representation Learning for Identifying Potential Disparities in Crime Reporting",
+    "original_content": "arXiv:2611.21825v1 Announce Type: new \nAbstract: Open crime data support urban safety analysis but reflect reported incidents rather than the complete distribution of criminal activity, potentially introducing spatial distortions in downstream analysis. We propose a self-supervised urban representat"
+  },
+  {
+    "title": "OpenAI 发布 ChatGPT 为 销售 Across 交易 周期",
+    "url": "https://www.bing.com/news/search?q=ChatGPT+OpenAI+2026-11-17",
+    "content": "OpenAI 推出 ChatGPT 为 销售 在 November 17,2026,pairing 新的 OpenAI-构建 销售 plugin 与 更多 than 30 新的 和 增强的 合作 plugins.产品 带来 客户 records,call notes...",
+    "publish_time": "2026-11-17",
+    "source": "AI News",
+    "score": {
+      "importance": 8,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 6.35
+    },
+    "collection_time": "2026-11-18T16:01:40.137993",
+    "original_title": "OpenAI Launches ChatGPT for Sales Across the Deal Cycle",
+    "original_content": "OpenAI introduced ChatGPT for Sales on November 17, 2026, pairing a new OpenAI-built Sales plugin with more than 30 new and enhanced partner plugins. The product brings customer records, call notes ..."
+  },
+  {
+    "title": "Closer Look 在 Phonon TTS.Launching High-质量 在-设备 语音 那个 Tops Benchmarks.",
+    "url": "https://huggingface.co/blog/phonon-tts",
+    "content": "",
+    "publish_time": "Thu, 05 No",
+    "source": "Hugging Face Blog",
+    "score": {
+      "importance": 6,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 6.2
+    },
+    "collection_time": "2026-11-18T16:00:37.485183",
+    "fetch_method": "RSS",
+    "original_title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+    "original_content": ""
+  },
+  {
+    "title": "GPT‑6.2 Astra 和 Sol",
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+    "content": "",
+    "publish_time": "2026-11-17",
+    "source": "Hacker News",
+    "engagement": {
+      "likes": 1236,
+      "comments": 769
+    },
+    "hn_discussion": "https://news.ycombinator.com/item?id=50535230",
+    "score": {
+      "importance": 3,
+      "authority": 5,
+      "spread": 10,
+      "innovation": 5,
+      "timeliness": 8,
+      "total_score": 5.9
+    },
+    "collection_time": "2026-11-18T16:01:40.138067",
+    "original_title": "GPT‑6.2 Astra and Sol",
+    "original_content": ""
+  },
+  {
+    "title": "Amazon 和 Google 将 together own 几乎 30% 的 Anthropic 之后 它的 上市",
+    "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+    "content": "Amazon 将 own 刚刚 下 15% 的 Anthropic 之后 上市,与 option 到 去 很多 higher.Google 是 close 秒 与 holdings 的 几乎 14%.",
+    "publish_time": "Tue, 17 No",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-11-18T16:00:37.485276",
+    "fetch_method": "RSS",
+    "original_title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+    "original_content": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%."
+  },
+  {
+    "title": "SEC reportedly investigating NVIDIA amid Huang exit",
+    "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+    "content": "SEC 是 opening probe 进入 NVIDIA 以下 departure 的 首席执行官 Jensen Huang,谁 admitted 到 affair 与 alleged Chinese spy,报告 Wall Street Journal.",
+    "publish_time": "Tue, 17 No",
+    "source": "TechCrunch AI",
+    "score": {
+      "importance": 5,
+      "authority": 8,
+      "spread": 5,
+      "innovation": 5,
+      "timeliness": 6,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-11-18T16:00:37.485283",
+    "fetch_method": "RSS",
+    "original_title": "SEC reportedly investigating Nvidia amid Huang exit",
+    "original_content": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal."
+  },
+  {
+    "title": "新的 模型",
+    "url": "https://www.axios.com/2026/11/17/microsoft-ai-models-openai-anthropic-ignite",
+    "content": "",
+    "publish_time": "2026-11-17",
+    "source": "The Verge AI",
+    "score": {
+      "importance": 6,
+      "authority": 5,
+      "spread": 5,
+      "innovation": 7,
+      "timeliness": 8,
+      "total_score": 5.85
+    },
+    "collection_time": "2026-11-18T16:01:40.137823",
+    "original_title": "new models",
+    "original_content": ""
+  }
+]
